@@ -5,25 +5,35 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Promo Ninja — As melhores ofertas</title>
 <style>
-  :root{--orange:#FF6B35;--yellow:#FFD23F;--red:#e53935;--green:#2ECC71;--ink:#1a1f2b;--muted:#7a8499;}
+  :root{--orange:#FF6B35;--yellow:#FFD23F;--red:#e53935;--green:#2ECC71;--tg:#229ED9;--ink:#1a1f2b;--muted:#7a8499;}
   *{box-sizing:border-box;margin:0;padding:0;}
   body{font-family:system-ui,Arial,sans-serif;background:#f2f4f8;color:var(--ink);}
-  .top{background:#0a0a0a;color:#fff;padding:16px;display:flex;align-items:center;justify-content:space-between;gap:16px;flex-wrap:wrap;}
-  .brand{display:flex;align-items:center;gap:14px;}
-  .logo{height:86px;width:auto;}
-  .logotxt{font-weight:900;font-size:26px;color:var(--orange);line-height:1.1;}
-  .logotxt small{display:block;color:var(--yellow);font-size:12px;}
-  .cta{display:flex;align-items:center;gap:14px;}
-  .qr{width:86px;height:86px;border-radius:8px;background:#fff;padding:4px;}
-  .tg{background:#229ED9;color:#fff;text-decoration:none;font-weight:800;padding:12px 18px;border-radius:10px;white-space:nowrap;}
+  /* header */
+  .top{background:#0a0a0a;color:#fff;padding:14px 18px;display:flex;align-items:center;justify-content:space-between;gap:16px;flex-wrap:wrap;}
+  .brand{display:flex;align-items:center;gap:12px;}
+  .ninja{width:58px;height:58px;flex-shrink:0;}
+  .wm{font-weight:900;font-size:24px;color:#fff;line-height:1;letter-spacing:.5px;}
+  .wm span{color:var(--orange);}
+  .wm small{display:block;color:var(--yellow);font-size:11px;font-weight:700;margin-top:4px;letter-spacing:0;}
+  .tg{display:flex;align-items:center;gap:8px;background:var(--tg);color:#fff;text-decoration:none;font-weight:800;padding:11px 18px;border-radius:10px;white-space:nowrap;}
+  /* search */
+  .searchbar{background:#0a0a0a;padding:0 18px 16px;display:flex;justify-content:center;}
+  .searchbox{display:flex;align-items:center;gap:10px;background:#fff;border-radius:999px;padding:10px 18px;width:100%;max-width:620px;}
+  .searchbox svg{color:var(--muted);flex-shrink:0;}
+  .searchbox input{border:none;outline:none;font-size:15px;width:100%;background:transparent;color:var(--ink);}
+  /* tabs */
   .tabs{background:#fff;display:flex;gap:6px;padding:10px 14px;overflow-x:auto;position:sticky;top:0;box-shadow:0 2px 8px rgba(0,0,0,.06);z-index:5;}
-  .tab{border:none;background:#eef1f6;color:var(--ink);font-weight:700;padding:9px 16px;border-radius:999px;cursor:pointer;white-space:nowrap;}
+  .tab{display:flex;align-items:center;gap:7px;border:none;background:#eef1f6;color:var(--ink);font-weight:700;font-size:14px;padding:9px 16px;border-radius:999px;cursor:pointer;white-space:nowrap;}
+  .tab svg{width:17px;height:17px;}
   .tab.ativo{background:var(--orange);color:#fff;}
-  .chips{display:flex;gap:6px;padding:8px 14px;flex-wrap:wrap;}
+  .chips{display:flex;gap:6px;padding:8px 14px;flex-wrap:wrap;max-width:1180px;margin:0 auto;}
   .chip{border:1px solid #d7dce6;background:#fff;font-size:13px;padding:6px 12px;border-radius:999px;cursor:pointer;}
   .chip.ativo{background:var(--ink);color:#fff;border-color:var(--ink);}
   .chips:empty{display:none;}
-  .grid{max-width:1100px;margin:14px auto;padding:0 12px;display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:14px;}
+  /* layout */
+  .content{max-width:1180px;margin:14px auto;padding:0 12px;display:flex;gap:18px;align-items:flex-start;}
+  .grid{flex:1;display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:14px;}
+  /* card */
   .card{background:#fff;border-radius:14px;overflow:hidden;box-shadow:0 2px 10px rgba(0,0,0,.07);display:flex;flex-direction:column;}
   .topo{display:flex;justify-content:space-between;padding:10px 12px 6px;font-size:12px;color:var(--muted);}
   .loja{font-weight:700;color:var(--ink);}
@@ -32,7 +42,7 @@
   .img.noimg{background:#eef1f6;}
   .img.noimg::after{content:"🥷";font-size:46px;opacity:.3;position:absolute;}
   .selo{position:absolute;top:8px;left:8px;background:var(--red);color:#fff;font-weight:800;font-size:12px;padding:4px 8px;border-radius:6px;}
-  .body{padding:10px 12px 12px;display:flex;flex-direction:column;gap:8px;flex:1;}
+  .cbody{padding:10px 12px 12px;display:flex;flex-direction:column;gap:8px;flex:1;}
   .titulo{font-size:13px;line-height:1.3;color:#333;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;min-height:34px;}
   .cupom{align-self:flex-start;background:#fff4e0;border:1px dashed var(--orange);color:#b15300;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;}
   .preco{font-weight:900;font-size:22px;color:#111;}
@@ -41,29 +51,74 @@
   .card.fim{opacity:.6;}
   .card.fim .img::after{content:"ENCERRADO";position:absolute;inset:0;background:rgba(20,20,20,.55);color:#fff;font-weight:900;display:flex;align-items:center;justify-content:center;letter-spacing:1px;}
   .card.fim .btn{background:#b0b6c2;pointer-events:none;}
+  /* aside telegram */
+  .tgcard{width:280px;flex-shrink:0;position:sticky;top:74px;background:#fff;border-radius:16px;box-shadow:0 2px 12px rgba(0,0,0,.08);padding:20px;text-align:center;}
+  .tgcard h3{font-size:18px;margin-bottom:6px;}
+  .tgcard p{color:var(--muted);font-size:13px;margin-bottom:14px;}
+  .passos{list-style:none;text-align:left;display:flex;flex-direction:column;gap:10px;margin-bottom:14px;}
+  .passos li{display:flex;align-items:center;gap:10px;font-size:13px;font-weight:600;}
+  .passos b{background:#e8f6ee;color:var(--green);width:24px;height:24px;border-radius:50%;display:flex;align-items:center;justify-content:center;flex-shrink:0;}
+  .qrbig{width:170px;height:170px;margin:0 auto 14px;display:block;}
+  .entrar{display:flex;align-items:center;justify-content:center;gap:8px;background:var(--tg);color:#fff;text-decoration:none;font-weight:800;padding:13px;border-radius:12px;}
   footer{text-align:center;color:var(--muted);padding:26px 16px;font-size:13px;}
   .vazio{grid-column:1/-1;text-align:center;color:var(--muted);padding:50px 16px;}
+  @media(max-width:860px){.content{flex-direction:column;}.tgcard{width:100%;position:static;order:-1;}}
 </style>
 </head>
 <body>
   <header class="top">
     <div class="brand">
-      <img class="logo" src="logo.png" alt="Promo Ninja" onerror="this.style.display='none';document.getElementById('lt').style.display='block'">
-      <div class="logotxt" id="lt" style="display:none">🥷 PROMO NINJA<small>As melhores ofertas com os melhores preços</small></div>
+      <svg class="ninja" viewBox="0 0 64 64">
+        <circle cx="32" cy="32" r="30" fill="#111" stroke="#FFD23F" stroke-width="2.5"/>
+        <path d="M32 13 C21 13 17 24 18.5 35 C19.5 43 25 51 32 51 C39 51 44.5 43 45.5 35 C47 24 43 13 32 13 Z" fill="#000"/>
+        <rect x="17" y="29" width="30" height="8.5" rx="4" fill="#FFD23F"/>
+        <path d="M21 34 l9 -2.2 l-1 4.2 l-8 0 Z" fill="#000"/>
+        <path d="M43 34 l-9 -2.2 l1 4.2 l8 0 Z" fill="#000"/>
+        <path d="M45 15 l9 -4 l-3.5 9 Z" fill="#e53935"/>
+        <text x="49.5" y="20.5" font-size="7" font-weight="900" fill="#fff" text-anchor="middle">%</text>
+      </svg>
+      <div class="wm">PROMO <span>NINJA</span><small>As melhores ofertas com os melhores preços</small></div>
     </div>
-    <div class="cta">
-      <img class="qr" src="https://api.qrserver.com/v1/create-qr-code/?size=160x160&data=https%3A%2F%2Ft.me%2Fpromoninjaofertas" alt="QR Telegram">
-      <a class="tg" href="https://t.me/promoninjaofertas" target="_blank" rel="noopener">📲 Entrar no Telegram</a>
-    </div>
+    <a class="tg" href="https://t.me/promoninjaofertas" target="_blank" rel="noopener">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M21.5 4.3 2.9 11.5c-1 .4-1 1.8.1 2.1l4.7 1.5 1.8 5.6c.3.8 1.3 1 1.9.4l2.6-2.4 4.8 3.5c.7.5 1.7.1 1.9-.7L23.9 5.6c.2-1-.8-1.8-1.7-1.4z"/></svg>
+      Telegram
+    </a>
   </header>
+  <div class="searchbar">
+    <div class="searchbox">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg>
+      <input id="busca" type="search" placeholder="Buscar produto... (ex: fone, smartwatch, ssd)" oninput="render()">
+    </div>
+  </div>
   <nav class="tabs" id="tabs"></nav>
   <div class="chips" id="chips"></div>
-  <main class="grid" id="grid"><div class="vazio">Carregando ofertas...</div></main>
+  <div class="content">
+    <main class="grid" id="grid"><div class="vazio">Carregando ofertas...</div></main>
+    <aside class="tgcard">
+      <h3>📲 Receba no Telegram</h3>
+      <p>Não fique de fora! Entre no canal Promo Ninja e receba os achadinhos na hora.</p>
+      <ol class="passos">
+        <li><b>1</b> Escaneie o QR Code</li>
+        <li><b>2</b> Pronto! Já está no canal 🥷</li>
+      </ol>
+      <img class="qrbig" src="https://api.qrserver.com/v1/create-qr-code/?size=220x220&data=https%3A%2F%2Ft.me%2Fpromoninjaofertas" alt="QR Telegram">
+      <a class="entrar" href="https://t.me/promoninjaofertas" target="_blank" rel="noopener">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M21.5 4.3 2.9 11.5c-1 .4-1 1.8.1 2.1l4.7 1.5 1.8 5.6c.3.8 1.3 1 1.9.4l2.6-2.4 4.8 3.5c.7.5 1.7.1 1.9-.7L23.9 5.6c.2-1-.8-1.8-1.7-1.4z"/></svg>
+        Entrar agora
+      </a>
+    </aside>
+  </div>
   <footer>🥷 Promo Ninja · ofertas atualizadas automaticamente · <a href="https://t.me/promoninjaofertas">@promoninjaofertas</a><br>🔗 Links de afiliado · preço sujeito a alteração</footer>
 <script>
   const fmt=(v)=>'R$ '+Number(v||0).toFixed(2).replace('.',',');
   const proxy=(u)=>u?'https://images.weserv.nl/?url='+encodeURIComponent('ssl:'+u.replace(/^https?:\/\//,''))+'&w=400':'';
   const lojaNome=(s)=>({aliexpress:'AliExpress',shopee:'Shopee',amazon:'Amazon',mercadolivre:'Mercado Livre',manual:'Oferta'}[s]||s||'Oferta');
+  const ICON={
+    Todas:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="7" height="7" rx="1"/><rect x="14" y="3" width="7" height="7" rx="1"/><rect x="3" y="14" width="7" height="7" rx="1"/><rect x="14" y="14" width="7" height="7" rx="1"/></svg>',
+    Categorias:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20.6 13.4 13.4 20.6a2 2 0 0 1-2.8 0L3 13V3h10z"/><circle cx="7.5" cy="7.5" r="1.3"/></svg>',
+    Lojas:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 9 4.5 4h15L21 9"/><path d="M4 9v11h16V9"/><path d="M9.5 20v-6h5v6"/></svg>',
+    Cupons:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 8a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2 2 2 0 0 0 0 4 2 2 0 0 1-2 2H5a2 2 0 0 1-2-2 2 2 0 0 0 0-4Z"/><path d="M9 6v12"/></svg>'
+  };
   function categoria(t){t=(t||'').toLowerCase();
     if(/fone|caixa de som|bluetooth|tws|headset|microfone/.test(t))return'Áudio';
     if(/smartwatch|smart watch|rel[óo]gio/.test(t))return'Relógios';
@@ -83,7 +138,7 @@
     montarTabs();render();
   }).catch(()=>{document.getElementById('grid').innerHTML='<div class="vazio">Não consegui carregar.</div>';});
   function montarTabs(){const tabs=['Todas','Categorias','Lojas','Cupons'];
-    document.getElementById('tabs').innerHTML=tabs.map(t=>`<button class="tab ${t===estado.tab?'ativo':''}" onclick="setTab('${t}')">${t}</button>`).join('');montarChips();}
+    document.getElementById('tabs').innerHTML=tabs.map(t=>`<button class="tab ${t===estado.tab?'ativo':''}" onclick="setTab('${t}')">${ICON[t]||''}${t}</button>`).join('');montarChips();}
   window.setTab=(t)=>{estado.tab=t;estado.filtro=null;montarTabs();render();};
   window.setFiltro=(f)=>{estado.filtro=estado.filtro===f?null:f;montarTabs();render();};
   function montarChips(){let c=[];
@@ -91,17 +146,19 @@
     if(estado.tab==='Lojas')c=[...new Set(TODAS.map(o=>o.lojaN))].sort();
     document.getElementById('chips').innerHTML=c.map(x=>`<button class="chip ${estado.filtro===x?'ativo':''}" onclick="setFiltro('${x}')">${x}</button>`).join('');}
   function render(){let l=TODAS;
+    const q=(document.getElementById('busca').value||'').toLowerCase().trim();
+    if(q)l=l.filter(o=>(o.titulo||'').toLowerCase().includes(q));
     if(estado.tab==='Cupons')l=l.filter(o=>o.cupom);
     if(estado.tab==='Categorias'&&estado.filtro)l=l.filter(o=>o.cat===estado.filtro);
     if(estado.tab==='Lojas'&&estado.filtro)l=l.filter(o=>o.lojaN===estado.filtro);
     const g=document.getElementById('grid');
-    if(!l.length){g.innerHTML='<div class="vazio">Sem ofertas aqui no momento.</div>';return;}
+    if(!l.length){g.innerHTML='<div class="vazio">Nenhuma oferta encontrada.</div>';return;}
     g.innerHTML=l.map(o=>{
       const selo=o.desconto?`<span class="selo">-${o.desconto}%</span>`:'';
       const de=(o.de&&o.de>o.por)?`<span class="de">de ${fmt(o.de)}</span>`:'';
       const cupom=o.cupom?`<span class="cupom">🎟️ ${o.cupom}</span>`:'';
       const btn=o.fim?'<span class="btn">Indisponível</span>':`<a class="btn" href="${o.link}" target="_blank" rel="noopener">🛒 Garantir agora</a>`;
-      return `<div class="card ${o.fim?'fim':''}"><div class="topo"><span class="loja">${o.lojaN}</span><span>${tempo(o.data)}</span></div><div class="img">${selo}<img src="${proxy(o.imagem)}" alt="" loading="lazy" onerror="this.style.display='none';this.parentElement.classList.add('noimg')"></div><div class="body"><div class="titulo">${o.titulo}</div>${cupom}<div class="preco">${de}${fmt(o.por)}</div>${btn}</div></div>`;
+      return `<div class="card ${o.fim?'fim':''}"><div class="topo"><span class="loja">${o.lojaN}</span><span>${tempo(o.data)}</span></div><div class="img">${selo}<img src="${proxy(o.imagem)}" alt="" loading="lazy" onerror="this.style.display='none';this.parentElement.classList.add('noimg')"></div><div class="cbody"><div class="titulo">${o.titulo}</div>${cupom}<div class="preco">${de}${fmt(o.por)}</div>${btn}</div></div>`;
     }).join('');}
 </script>
 </body>
