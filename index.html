@@ -3,59 +3,103 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Promo Ninja — Achadinhos do dia</title>
+<title>Promo Ninja — As melhores ofertas</title>
 <style>
-  :root{--navy:#1E2A4A;--orange:#FF6B35;--yellow:#FFD23F;--green:#2ECC71;}
+  :root{--orange:#FF6B35;--yellow:#FFD23F;--red:#e53935;--green:#2ECC71;--ink:#1a1f2b;--muted:#7a8499;}
   *{box-sizing:border-box;margin:0;padding:0;}
-  body{font-family:system-ui,Arial,sans-serif;background:#0f1320;color:#fff;}
-  header{background:var(--navy);text-align:center;padding:28px 16px;}
-  header h1{font-size:30px;color:var(--orange);}
-  header p{color:#c6cde0;margin-top:6px;}
-  header a{display:inline-block;margin-top:14px;background:var(--green);color:#06301b;font-weight:800;text-decoration:none;padding:10px 22px;border-radius:999px;}
-  .grid{max-width:1100px;margin:24px auto;padding:0 14px;display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:16px;}
-  .card{background:#1a2030;border-radius:14px;overflow:hidden;display:flex;flex-direction:column;border:1px solid #2a3350;}
-  .card .img{position:relative;background:#fff;aspect-ratio:1;display:flex;align-items:center;justify-content:center;}
-  .card .img img{width:100%;height:100%;object-fit:contain;}
-  .badge{position:absolute;top:8px;right:8px;background:var(--orange);color:#fff;font-weight:800;padding:5px 10px;border-radius:8px;font-size:14px;}
-  .loja{position:absolute;top:8px;left:8px;background:rgba(0,0,0,.55);color:#fff;padding:4px 8px;border-radius:6px;font-size:11px;text-transform:uppercase;}
-  .card .body{padding:12px;display:flex;flex-direction:column;gap:6px;flex:1;}
-  .titulo{font-size:14px;line-height:1.3;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;min-height:36px;}
-  .de{color:#8b95ad;text-decoration:line-through;font-size:13px;}
-  .por{color:var(--yellow);font-weight:800;font-size:22px;}
-  .cupom{background:rgba(255,210,63,.15);border:1px dashed var(--yellow);color:var(--yellow);font-size:12px;padding:4px 8px;border-radius:6px;align-self:flex-start;}
-  .btn{margin-top:auto;display:block;text-align:center;background:var(--orange);color:#fff;font-weight:800;text-decoration:none;padding:10px;border-radius:8px;}
-  footer{text-align:center;color:#8b95ad;padding:30px 16px;font-size:13px;}
-  footer a{color:var(--orange);}
-  .vazio{text-align:center;color:#8b95ad;padding:60px 16px;}
+  body{font-family:system-ui,Arial,sans-serif;background:#f2f4f8;color:var(--ink);}
+  .top{background:#0a0a0a;color:#fff;padding:16px;display:flex;align-items:center;justify-content:space-between;gap:16px;flex-wrap:wrap;}
+  .brand{display:flex;align-items:center;gap:14px;}
+  .logo{height:86px;width:auto;}
+  .logotxt{font-weight:900;font-size:26px;color:var(--orange);line-height:1.1;}
+  .logotxt small{display:block;color:var(--yellow);font-size:12px;}
+  .cta{display:flex;align-items:center;gap:14px;}
+  .qr{width:86px;height:86px;border-radius:8px;background:#fff;padding:4px;}
+  .tg{background:#229ED9;color:#fff;text-decoration:none;font-weight:800;padding:12px 18px;border-radius:10px;white-space:nowrap;}
+  .tabs{background:#fff;display:flex;gap:6px;padding:10px 14px;overflow-x:auto;position:sticky;top:0;box-shadow:0 2px 8px rgba(0,0,0,.06);z-index:5;}
+  .tab{border:none;background:#eef1f6;color:var(--ink);font-weight:700;padding:9px 16px;border-radius:999px;cursor:pointer;white-space:nowrap;}
+  .tab.ativo{background:var(--orange);color:#fff;}
+  .chips{display:flex;gap:6px;padding:8px 14px;flex-wrap:wrap;}
+  .chip{border:1px solid #d7dce6;background:#fff;font-size:13px;padding:6px 12px;border-radius:999px;cursor:pointer;}
+  .chip.ativo{background:var(--ink);color:#fff;border-color:var(--ink);}
+  .chips:empty{display:none;}
+  .grid{max-width:1100px;margin:14px auto;padding:0 12px;display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:14px;}
+  .card{background:#fff;border-radius:14px;overflow:hidden;box-shadow:0 2px 10px rgba(0,0,0,.07);display:flex;flex-direction:column;}
+  .topo{display:flex;justify-content:space-between;padding:10px 12px 6px;font-size:12px;color:var(--muted);}
+  .loja{font-weight:700;color:var(--ink);}
+  .img{position:relative;aspect-ratio:1;display:flex;align-items:center;justify-content:center;padding:8px;}
+  .img img{max-width:100%;max-height:100%;object-fit:contain;}
+  .selo{position:absolute;top:8px;left:8px;background:var(--red);color:#fff;font-weight:800;font-size:12px;padding:4px 8px;border-radius:6px;}
+  .body{padding:10px 12px 12px;display:flex;flex-direction:column;gap:8px;flex:1;}
+  .titulo{font-size:13px;line-height:1.3;color:#333;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;min-height:34px;}
+  .cupom{align-self:flex-start;background:#fff4e0;border:1px dashed var(--orange);color:#b15300;font-size:12px;font-weight:700;padding:4px 8px;border-radius:6px;}
+  .preco{font-weight:900;font-size:22px;color:#111;}
+  .preco .de{display:block;font-size:12px;color:var(--muted);text-decoration:line-through;font-weight:600;}
+  .btn{margin-top:auto;text-align:center;background:var(--orange);color:#fff;font-weight:800;text-decoration:none;padding:10px;border-radius:10px;}
+  .card.fim{opacity:.6;}
+  .card.fim .img::after{content:"ENCERRADO";position:absolute;inset:0;background:rgba(20,20,20,.55);color:#fff;font-weight:900;display:flex;align-items:center;justify-content:center;letter-spacing:1px;}
+  .card.fim .btn{background:#b0b6c2;pointer-events:none;}
+  footer{text-align:center;color:var(--muted);padding:26px 16px;font-size:13px;}
+  .vazio{grid-column:1/-1;text-align:center;color:var(--muted);padding:50px 16px;}
 </style>
 </head>
 <body>
-  <header>
-    <h1>🥷 Promo Ninja</h1>
-    <p>Achadinhos verificados, todo dia. Preço garimpado nas sombras.</p>
-    <a href="https://t.me/promoninjaofertas" target="_blank" rel="noopener">📲 Entrar no canal do Telegram</a>
+  <header class="top">
+    <div class="brand">
+      <img class="logo" src="logo.png" alt="Promo Ninja" onerror="this.style.display='none';document.getElementById('lt').style.display='block'">
+      <div class="logotxt" id="lt" style="display:none">🥷 PROMO NINJA<small>As melhores ofertas com os melhores preços</small></div>
+    </div>
+    <div class="cta">
+      <img class="qr" src="https://api.qrserver.com/v1/create-qr-code/?size=160x160&data=https%3A%2F%2Ft.me%2Fpromoninjaofertas" alt="QR Telegram">
+      <a class="tg" href="https://t.me/promoninjaofertas" target="_blank" rel="noopener">📲 Entrar no Telegram</a>
+    </div>
   </header>
+  <nav class="tabs" id="tabs"></nav>
+  <div class="chips" id="chips"></div>
   <main class="grid" id="grid"><div class="vazio">Carregando ofertas...</div></main>
-  <footer>
-    Atualizado automaticamente · <a href="https://t.me/promoninjaofertas" target="_blank" rel="noopener">@promoninjaofertas</a><br>
-    🔗 Links de afiliado · preço sujeito a alteração
-  </footer>
+  <footer>🥷 Promo Ninja · ofertas atualizadas automaticamente · <a href="https://t.me/promoninjaofertas">@promoninjaofertas</a><br>🔗 Links de afiliado · preço sujeito a alteração</footer>
 <script>
-  const fmt = (v) => 'R$ ' + Number(v||0).toFixed(2).replace('.', ',');
-  fetch('catalog.json?t=' + Date.now())
-    .then(r => r.json())
-    .then(d => {
-      const grid = document.getElementById('grid');
-      const ofertas = (d.ofertas || []);
-      if (!ofertas.length) { grid.innerHTML = '<div class="vazio">Sem ofertas no momento. Volte logo!</div>'; return; }
-      grid.innerHTML = ofertas.map(o => {
-        const desc = o.desconto ? `<span class="badge">-${o.desconto}%</span>` : '';
-        const de = (o.de && o.de > o.por) ? `<span class="de">${fmt(o.de)}</span>` : '';
-        const cupom = o.cupom ? `<span class="cupom">🎟️ ${o.cupom}</span>` : '';
-        return `<div class="card"><div class="img">${desc}<span class="loja">${o.loja||''}</span><img src="${o.imagem}" alt="" loading="lazy"></div><div class="body"><div class="titulo">${o.titulo}</div>${de}<span class="por">${fmt(o.por)}</span>${cupom}<a class="btn" href="${o.link}" target="_blank" rel="noopener">🛒 Garantir agora</a></div></div>`;
-      }).join('');
-    })
-    .catch(() => { document.getElementById('grid').innerHTML = '<div class="vazio">Não consegui carregar as ofertas.</div>'; });
+  const fmt=(v)=>'R$ '+Number(v||0).toFixed(2).replace('.',',');
+  const lojaNome=(s)=>({aliexpress:'AliExpress',shopee:'Shopee',amazon:'Amazon',mercadolivre:'Mercado Livre',manual:'Oferta'}[s]||s||'Oferta');
+  function categoria(t){t=(t||'').toLowerCase();
+    if(/fone|caixa de som|bluetooth|tws|headset|microfone/.test(t))return'Áudio';
+    if(/smartwatch|smart watch|rel[óo]gio/.test(t))return'Relógios';
+    if(/ssd|mem[óo]ria|ram|placa|processador|gabinete|cooler|fonte|pen drive|cart[ãa]o|hub|adaptador|cabo|ventoinha|webcam|mousepad|teclado|mouse|monitor/.test(t))return'Hardware';
+    if(/controle|videogame|console|gamer/.test(t))return'Games';
+    if(/air fryer|rob[ôo]|liquidificador|cafeteira|panela|ventilador|aspirador|umidificador|cozinha/.test(t))return'Casa';
+    if(/secador|escova|maquiagem|perfume|beleza/.test(t))return'Beleza';
+    if(/t[êe]nis|mochila|mala|[óo]culos/.test(t))return'Moda';
+    if(/projetor|drone|c[âa]mera|tv box/.test(t))return'Eletrônicos';
+    if(/parafusadeira|ferramenta|furadeira/.test(t))return'Ferramentas';
+    return'Outros';}
+  function tempo(d){if(!d)return'';const h=Math.floor((Date.now()-new Date(d+'Z').getTime())/3600000);if(h<1)return'agora';if(h<24)return'há '+h+'h';return'há '+Math.floor(h/24)+'d';}
+  function encerrada(d){return d?(Date.now()-new Date(d+'Z').getTime())>2*86400000:false;}
+  let TODAS=[],estado={tab:'Todas',filtro:null};
+  fetch('catalog.json?t='+Date.now()).then(r=>r.json()).then(d=>{
+    TODAS=(d.ofertas||[]).map(o=>({...o,cat:categoria(o.titulo),lojaN:lojaNome(o.loja),fim:encerrada(o.data)}));
+    montarTabs();render();
+  }).catch(()=>{document.getElementById('grid').innerHTML='<div class="vazio">Não consegui carregar.</div>';});
+  function montarTabs(){const tabs=['Todas','Categorias','Lojas','Cupons'];
+    document.getElementById('tabs').innerHTML=tabs.map(t=>`<button class="tab ${t===estado.tab?'ativo':''}" onclick="setTab('${t}')">${t}</button>`).join('');montarChips();}
+  window.setTab=(t)=>{estado.tab=t;estado.filtro=null;montarTabs();render();};
+  window.setFiltro=(f)=>{estado.filtro=estado.filtro===f?null:f;montarTabs();render();};
+  function montarChips(){let c=[];
+    if(estado.tab==='Categorias')c=[...new Set(TODAS.map(o=>o.cat))].sort();
+    if(estado.tab==='Lojas')c=[...new Set(TODAS.map(o=>o.lojaN))].sort();
+    document.getElementById('chips').innerHTML=c.map(x=>`<button class="chip ${estado.filtro===x?'ativo':''}" onclick="setFiltro('${x}')">${x}</button>`).join('');}
+  function render(){let l=TODAS;
+    if(estado.tab==='Cupons')l=l.filter(o=>o.cupom);
+    if(estado.tab==='Categorias'&&estado.filtro)l=l.filter(o=>o.cat===estado.filtro);
+    if(estado.tab==='Lojas'&&estado.filtro)l=l.filter(o=>o.lojaN===estado.filtro);
+    const g=document.getElementById('grid');
+    if(!l.length){g.innerHTML='<div class="vazio">Sem ofertas aqui no momento.</div>';return;}
+    g.innerHTML=l.map(o=>{
+      const selo=o.desconto?`<span class="selo">-${o.desconto}%</span>`:'';
+      const de=(o.de&&o.de>o.por)?`<span class="de">de ${fmt(o.de)}</span>`:'';
+      const cupom=o.cupom?`<span class="cupom">🎟️ ${o.cupom}</span>`:'';
+      const btn=o.fim?'<span class="btn">Indisponível</span>':`<a class="btn" href="${o.link}" target="_blank" rel="noopener">🛒 Garantir agora</a>`;
+      return `<div class="card ${o.fim?'fim':''}"><div class="topo"><span class="loja">${o.lojaN}</span><span>${tempo(o.data)}</span></div><div class="img">${selo}<img src="${o.imagem}" alt="" loading="lazy"></div><div class="body"><div class="titulo">${o.titulo}</div>${cupom}<div class="preco">${de}${fmt(o.por)}</div>${btn}</div></div>`;
+    }).join('');}
 </script>
 </body>
 </html>
