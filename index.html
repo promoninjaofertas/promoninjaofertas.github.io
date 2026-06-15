@@ -41,9 +41,8 @@
   .preco{font-weight:900;font-size:22px;color:#111;}
   .preco .de{display:block;font-size:12px;color:var(--muted);text-decoration:line-through;font-weight:600;}
   .btn{margin-top:auto;display:flex;align-items:center;justify-content:center;gap:8px;background:var(--orange);color:#fff;font-weight:800;text-decoration:none;padding:10px;border-radius:10px;}
-  .card.fim{opacity:.6;}
-  .card.fim .img::after{content:"ENCERRADO";position:absolute;inset:0;background:rgba(20,20,20,.55);color:#fff;font-weight:900;display:flex;align-items:center;justify-content:center;letter-spacing:1px;}
-  .card.fim .btn{background:#b0b6c2;pointer-events:none;}
+  footer{text-align:center;color:var(--muted);padding:26px 16px;font-size:13px;}
+  .vazio{grid-column:1/-1;text-align:center;color:var(--muted);padding:50px 16px;}
   .tgcard{width:280px;flex-shrink:0;position:sticky;top:74px;background:#fff;border-radius:16px;box-shadow:0 2px 12px rgba(0,0,0,.08);padding:20px;text-align:center;}
   .tgcard h3{font-size:18px;margin-bottom:6px;}
   .tgcard p{color:var(--muted);font-size:13px;margin-bottom:14px;}
@@ -52,8 +51,6 @@
   .passos b{background:#e8f6ee;color:var(--green);width:24px;height:24px;border-radius:50%;display:flex;align-items:center;justify-content:center;flex-shrink:0;}
   .qrbig{width:170px;height:170px;margin:0 auto 14px;display:block;}
   .entrar{display:flex;align-items:center;justify-content:center;gap:8px;background:var(--tg);color:#fff;text-decoration:none;font-weight:800;padding:13px;border-radius:12px;}
-  footer{text-align:center;color:var(--muted);padding:26px 16px;font-size:13px;}
-  .vazio{grid-column:1/-1;text-align:center;color:var(--muted);padding:50px 16px;}
   @media(max-width:860px){.content{flex-direction:column;}.tgcard{width:100%;position:static;order:-1;}}
 </style>
 </head>
@@ -71,7 +68,7 @@
     </a>
     <div class="searchbox">
       <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg>
-      <input id="busca" type="search" placeholder="Buscar produto... (ex: fone, smartwatch, ssd)" oninput="render()">
+      <input id="busca" type="search" placeholder="Buscar produto... (ex: ssd, teclado, gabinete)" oninput="render()">
     </div>
   </header>
   <nav class="tabs" id="tabs"></nav>
@@ -94,6 +91,7 @@
   </div>
   <footer>Promo Ninja · ofertas atualizadas automaticamente · <a href="https://t.me/promoninjaofertas">@promoninjaofertas</a><br>Links de afiliado · preço sujeito a alteração</footer>
 <script>
+  const LIMITE_HORAS = 36; // produtos somem do site depois disso (e os que já encerraram)
   const fmt=(v)=>'R$ '+Number(v||0).toFixed(2).replace('.',',');
   const proxy=(u)=>u?'https://images.weserv.nl/?url='+encodeURIComponent('ssl:'+u.replace(/^https?:\/\//,''))+'&w=400':'';
   const lojaNome=(s)=>({aliexpress:'AliExpress',shopee:'Shopee',amazon:'Amazon',mercadolivre:'Mercado Livre',manual:'Oferta'}[s]||s||'Oferta');
@@ -116,11 +114,12 @@
     if(/projetor|drone|c[âa]mera|tv ?box|smart tv/.test(t))return'Eletrônicos';
     if(/parafusadeira|ferramenta|furadeira|chave de fenda|broca|alicate/.test(t))return'Ferramentas';
     return'Outros';}
-  function tempo(d){if(!d)return'';const h=Math.floor((Date.now()-new Date(d+'Z').getTime())/3600000);if(h<1)return'agora';if(h<24)return'há '+h+'h';return'há '+Math.floor(h/24)+'d';}
-  function encerrada(d){return d?(Date.now()-new Date(d+'Z').getTime())>2*86400000:false;}
+  function horas(d){return d?(Date.now()-new Date(d+'Z').getTime())/3600000:9999;}
+  function tempo(d){const h=Math.floor(horas(d));if(h<1)return'agora';if(h<24)return'há '+h+'h';return'há '+Math.floor(h/24)+'d';}
+  function expirada(d){return horas(d)>LIMITE_HORAS;}
   let TODAS=[],estado={tab:'Todas',filtro:null};
   fetch('catalog.json?t='+Date.now()).then(r=>r.json()).then(d=>{
-    TODAS=(d.ofertas||[]).map(o=>({...o,cat:categoria(o.titulo),lojaN:lojaNome(o.loja),fim:encerrada(o.data)}));
+    TODAS=(d.ofertas||[]).filter(o=>!expirada(o.data)).map(o=>({...o,cat:categoria(o.titulo),lojaN:lojaNome(o.loja)}));
     montarTabs();render();
   }).catch(()=>{document.getElementById('grid').innerHTML='<div class="vazio">Não consegui carregar.</div>';});
   function montarTabs(){const tabs=['Todas','Categorias','Lojas','Cupons'];
@@ -138,15 +137,13 @@
     if(estado.tab==='Categorias'&&estado.filtro)l=l.filter(o=>o.cat===estado.filtro);
     if(estado.tab==='Lojas'&&estado.filtro)l=l.filter(o=>o.lojaN===estado.filtro);
     const g=document.getElementById('grid');
-    if(!l.length){g.innerHTML='<div class="vazio">Nenhuma oferta encontrada.</div>';return;}
+    if(!l.length){g.innerHTML='<div class="vazio">Nenhuma oferta ativa no momento. Volte já já! 🥷</div>';return;}
     g.innerHTML=l.map(o=>{
       const selo=o.desconto?`<span class="selo">-${o.desconto}%</span>`:'';
       const de=(o.de&&o.de>o.por)?`<span class="de">de ${fmt(o.de)}</span>`:'';
       const cupom=o.cupom?`<span class="cupom">🎟️ ${o.cupom}</span>`:'';
       const imgInner=`${selo}<img src="${proxy(o.imagem)}" alt="" loading="lazy" onerror="this.style.display='none';this.parentElement.classList.add('noimg')">`;
-      const imgBlock=o.fim?`<div class="img">${imgInner}</div>`:`<a class="img" href="${o.link}" target="_blank" rel="noopener">${imgInner}</a>`;
-      const btn=o.fim?'<span class="btn">Indisponível</span>':`<a class="btn" href="${o.link}" target="_blank" rel="noopener">${ICONCART} Garantir agora</a>`;
-      return `<div class="card ${o.fim?'fim':''}"><div class="topo"><span class="loja">${o.lojaN}</span><span>${tempo(o.data)}</span></div>${imgBlock}<div class="cbody"><div class="titulo">${o.titulo}</div>${cupom}<div class="preco">${de}${fmt(o.por)}</div>${btn}</div></div>`;
+      return `<div class="card"><div class="topo"><span class="loja">${o.lojaN}</span><span>${tempo(o.data)}</span></div><a class="img" href="${o.link}" target="_blank" rel="noopener">${imgInner}</a><div class="cbody"><div class="titulo">${o.titulo}</div>${cupom}<div class="preco">${de}${fmt(o.por)}</div><a class="btn" href="${o.link}" target="_blank" rel="noopener">${ICONCART} Garantir agora</a></div></div>`;
     }).join('');}
 </script>
 </body>
