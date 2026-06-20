@@ -46,13 +46,14 @@
     const targetName = target === 'whatsapp' ? 'WhatsApp' : 'X';
     const text = params.get('text') || 'Oferta encontrada pelo Promo Ninja';
     const targetUrl = params.get('url') || '';
+    const footer = params.get('footer') || '';
     const imageUrl = params.get('image') || '';
-    const fullText = [text, targetUrl].filter(Boolean).join('\n\n');
+    const fullText = [text, targetUrl, footer].filter(Boolean).join('\n\n');
     const proxyUrl = imageUrl
       ? 'https://images.weserv.nl/?url=' + encodeURIComponent('ssl:' + imageUrl.replace(/^https?:\/\//, '')) + '&w=1200&output=jpg'
       : '';
 
-    document.querySelector('#copy').textContent = text;
+    document.querySelector('#copy').textContent = [text, footer].filter(Boolean).join('\n\n');
     const link = document.querySelector('#link');
     link.textContent = targetUrl;
     link.href = targetUrl || '#';
