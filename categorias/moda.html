@@ -408,7 +408,7 @@
     return Number.isNaN(parsed.getTime())?null:parsed;
   }
   function ageHours(value){const date=dateValue(value);return date?(Date.now()-date.getTime())/3600000:9999;}
-  function relativeTime(value){const hours=Math.max(0,Math.floor(ageHours(value)));if(hours<1)return'agora';if(hours<24)return'ha '+hours+'h';return'ha '+Math.floor(hours/24)+'d';}
+  function relativeTime(value){const date=dateValue(value);if(!date)return'horario indisponivel';const now=new Date(),sameDay=date.toDateString()===now.toDateString(),yesterday=new Date(now);yesterday.setDate(now.getDate()-1);const prefix=sameDay?'hoje':date.toDateString()===yesterday.toDateString()?'ontem':date.toLocaleDateString('pt-BR',{day:'2-digit',month:'2-digit'});return prefix+' '+date.toLocaleTimeString('pt-BR',{hour:'2-digit',minute:'2-digit'});}
 
   function categoryGroup(offer){
     const text=((offer.categoria||'')+' '+(offer.titulo||'')).toLowerCase();
