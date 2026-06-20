@@ -91,7 +91,7 @@
   </div>
   <footer>Promo Ninja · ofertas atualizadas automaticamente · <a href="https://t.me/promoninjaofertas">@promoninjaofertas</a><br>Links de afiliado · preço sujeito a alteração</footer>
 <script>
-  const LIMITE_HORAS = 36; // produtos somem do site depois disso (e os que já encerraram)
+  const LIMITE_HORAS = 24;
   const fmt=(v)=>'R$ '+Number(v||0).toFixed(2).replace('.',',');
   const proxy=(u)=>u?'https://images.weserv.nl/?url='+encodeURIComponent('ssl:'+u.replace(/^https?:\/\//,''))+'&w=400':'';
   const lojaNome=(s)=>({aliexpress:'AliExpress',shopee:'Shopee',amazon:'Amazon',mercadolivre:'Mercado Livre',manual:'Oferta'}[s]||s||'Oferta');
@@ -114,12 +114,13 @@
     if(/projetor|drone|c[âa]mera|tv ?box|smart tv/.test(t))return'Eletrônicos';
     if(/parafusadeira|ferramenta|furadeira|chave de fenda|broca|alicate/.test(t))return'Ferramentas';
     return'Outros';}
-  function horas(d){return d?(Date.now()-new Date(d+'Z').getTime())/3600000:9999;}
+  function dataUtc(d){if(!d)return null;const s=String(d).trim();return new Date(/(?:Z|[+-]\d\d:\d\d)$/.test(s)?s:s.replace(' ','T')+'Z');}
+  function horas(d){const parsed=dataUtc(d);return parsed&&!Number.isNaN(parsed.getTime())?(Date.now()-parsed.getTime())/3600000:9999;}
   function tempo(d){const h=Math.floor(horas(d));if(h<1)return'agora';if(h<24)return'há '+h+'h';return'há '+Math.floor(h/24)+'d';}
   function expirada(d){return horas(d)>LIMITE_HORAS;}
   let TODAS=[],estado={tab:'Todas',filtro:null};
   fetch('catalog.json?t='+Date.now()).then(r=>r.json()).then(d=>{
-    TODAS=(d.ofertas||[]).filter(o=>!expirada(o.data)).map(o=>({...o,cat:categoria(o.titulo),lojaN:lojaNome(o.loja)}));
+    TODAS=(d.ofertas||[]).filter(o=>!expirada(o.data)).map(o=>({...o,cat:o.categoria||categoria(o.titulo),lojaN:lojaNome(o.loja)}));
     montarTabs();render();
   }).catch(()=>{document.getElementById('grid').innerHTML='<div class="vazio">Não consegui carregar.</div>';});
   function montarTabs(){const tabs=['Todas','Categorias','Lojas','Cupons'];
