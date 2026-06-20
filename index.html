@@ -43,17 +43,19 @@
   .btn{margin-top:auto;display:flex;align-items:center;justify-content:center;gap:8px;background:var(--orange);color:#fff;font-weight:800;text-decoration:none;padding:10px;border-radius:10px;}
   footer{text-align:center;color:var(--muted);padding:26px 16px;font-size:13px;}
   .vazio{grid-column:1/-1;text-align:center;color:var(--muted);padding:50px 16px;}
-  .social-column{width:280px;flex-shrink:0;position:sticky;top:74px;align-self:flex-start;display:flex;flex-direction:column;gap:16px;}
-  .tgcard{width:100%;background:#fff;border-radius:16px;box-shadow:0 2px 12px rgba(0,0,0,.08);padding:20px;text-align:center;}
-  .tgcard h3{font-size:18px;margin-bottom:6px;}
-  .tgcard p{color:var(--muted);font-size:13px;margin-bottom:14px;}
-  .passos{list-style:none;text-align:left;display:flex;flex-direction:column;gap:10px;margin-bottom:14px;}
-  .passos li{display:flex;align-items:center;gap:10px;font-size:13px;font-weight:600;}
-  .passos b{background:#e8f6ee;color:var(--green);width:24px;height:24px;border-radius:50%;display:flex;align-items:center;justify-content:center;flex-shrink:0;}
-  .qrbig{width:170px;height:170px;margin:0 auto 14px;display:block;}
-  .entrar{display:flex;align-items:center;justify-content:center;gap:8px;background:var(--tg);color:#fff;text-decoration:none;font-weight:800;padding:13px;border-radius:12px;}
+  .social-column{width:260px;flex-shrink:0;position:sticky;top:74px;align-self:flex-start;display:flex;flex-direction:column;gap:12px;}
+  .tgcard{width:100%;background:#fff;border-radius:14px;box-shadow:0 2px 12px rgba(0,0,0,.08);padding:16px;text-align:center;}
+  .tgcard h3{font-size:16px;margin-bottom:4px;}
+  .tgcard p{color:var(--muted);font-size:12px;line-height:1.35;margin-bottom:10px;}
+  .passos{list-style:none;text-align:left;display:flex;flex-direction:column;gap:7px;margin-bottom:10px;}
+  .passos li{display:flex;align-items:center;gap:8px;font-size:12px;font-weight:600;}
+  .passos b{background:#e8f6ee;color:var(--green);width:22px;height:22px;border-radius:50%;display:flex;align-items:center;justify-content:center;flex-shrink:0;}
+  .qrbig{width:145px;height:145px;margin:0 auto 10px;display:block;}
+  .entrar{display:flex;align-items:center;justify-content:center;gap:7px;background:var(--tg);color:#fff;text-decoration:none;font-size:14px;font-weight:800;padding:11px;border-radius:11px;}
   .entrar.whatsapp{background:#20b85a;}
   .entrar.whatsapp:hover{background:#179c4a;}
+  .entrar.x{background:#111;}
+  .entrar.x:hover{background:#333;}
   @media(max-width:860px){.content{flex-direction:column;}.social-column{width:100%;position:static;order:-1;}}
 </style>
 </head>
@@ -103,6 +105,19 @@
         <a class="entrar whatsapp" href="https://whatsapp.com/channel/0029VbD7uNf2P59ginhj7x3K" target="_blank" rel="noopener">
           <svg width="19" height="19" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2a9.8 9.8 0 0 0-8.5 14.7L2 22l5.4-1.4A10 10 0 1 0 12 2Zm0 18.2a8.2 8.2 0 0 1-4.2-1.1l-.3-.2-3.2.8.9-3.1-.2-.3A8.2 8.2 0 1 1 12 20.2Zm4.5-6.1c-.2-.1-1.5-.7-1.7-.8-.2-.1-.4-.1-.6.1l-.8 1c-.1.2-.3.2-.5.1a6.7 6.7 0 0 1-2-1.2 7.4 7.4 0 0 1-1.4-1.8c-.1-.2 0-.4.1-.5l.4-.5.3-.5c.1-.2 0-.4 0-.5l-.8-1.9c-.2-.5-.4-.4-.6-.4h-.5c-.2 0-.5.1-.7.3-.3.3-1 1-1 2.4s1 2.8 1.2 3c.1.2 2 3.1 4.9 4.3.7.3 1.2.5 1.6.6.7.2 1.3.2 1.8.1.6-.1 1.5-.6 1.7-1.2.2-.6.2-1.1.1-1.2-.1-.2-.3-.2-.5-.3Z"/></svg>
           Entrar no canal
+        </a>
+      </section>
+      <section class="tgcard">
+        <h3>Siga o Promo Ninja no X</h3>
+        <p>Acompanhe ofertas e novidades pelo perfil oficial <strong>@PromoNinja_ofi</strong>.</p>
+        <ol class="passos">
+          <li><b>1</b> Escaneie o QR Code</li>
+          <li><b>2</b> Siga o perfil no X</li>
+        </ol>
+        <img class="qrbig" src="https://api.qrserver.com/v1/create-qr-code/?size=220x220&data=https%3A%2F%2Fx.com%2FPromoNinja_ofi" alt="QR Code do perfil Promo Ninja no X">
+        <a class="entrar x" href="https://x.com/PromoNinja_ofi" target="_blank" rel="noopener">
+          <svg width="17" height="17" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M18.244 2H21.5l-7.116 8.133L22.75 22h-6.55l-5.13-6.708L5.2 22H1.94l7.594-8.68L1.5 2h6.716l4.638 6.13L18.244 2Zm-1.143 17.91h1.804L7.235 3.98H5.3l11.8 15.93Z"/></svg>
+          Seguir no X
         </a>
       </section>
     </aside>
