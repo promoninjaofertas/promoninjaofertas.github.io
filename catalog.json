@@ -1,6 +1,36 @@
 {
-  "atualizado": "2026-06-22T20:21:15.106022+00:00",
+  "atualizado": "2026-06-22T20:31:22.709762+00:00",
   "ofertas": [
+    {
+      "source_id": "2882161",
+      "titulo": "JBL, Fone de Ouvido Bluetooth Over-Ear, Tune 530BT, Sem Fio",
+      "de": 299.0,
+      "por": 183.44,
+      "desconto": 39,
+      "imagem": "https://m.media-amazon.com/images/I/61q9MOnS+2L._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/JBL-Ouvido-Bluetooth-Over-Ear-Bateria/dp/B0GM1LSHQF?tag=promoninja0c3-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Audio",
+      "data": "2026-06-22T17:31:22.709762-03:00",
+      "slug": "jbl-fone-de-ouvido-bluetooth-over-ear-tune-530bt-sem-fio",
+      "page_url": "https://promoninjaofertas.github.io/produto/jbl-fone-de-ouvido-bluetooth-over-ear-tune-530bt-sem-fio.html"
+    },
+    {
+      "source_id": "2882177",
+      "titulo": "Pequena Biblioteca da Bluey - Box com 4 livrinhos",
+      "de": 49.9,
+      "por": 23.58,
+      "desconto": 53,
+      "imagem": "https://m.media-amazon.com/images/I/614Bmynt4LL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/Bluey-Pequena-Biblioteca-Box-livrinhos/dp/6561263022?tag=promoninja0c3-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Livros, eBooks e eReaders",
+      "data": "2026-06-22T17:31:22.709762-03:00",
+      "slug": "pequena-biblioteca-da-bluey-box-com-4-livrinhos",
+      "page_url": "https://promoninjaofertas.github.io/produto/pequena-biblioteca-da-bluey-box-com-4-livrinhos.html"
+    },
     {
       "source_id": "2882152",
       "titulo": "Kit Refeição Com Compartimento E Talher Buba",
@@ -15,36 +45,6 @@
       "data": "2026-06-22T17:21:15.106022-03:00",
       "slug": "kit-refeicao-com-compartimento-e-talher-buba",
       "page_url": "https://promoninjaofertas.github.io/produto/kit-refeicao-com-compartimento-e-talher-buba.html"
-    },
-    {
-      "source_id": "2882150",
-      "titulo": "Duracell Pilhas Alcalinas AA Pequena Pack 24 Unidades",
-      "de": 124.9,
-      "por": 99.65,
-      "desconto": 20,
-      "imagem": "https://m.media-amazon.com/images/I/81k5RxCXI5L._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/Pilha-AA-Pequena-24-Unidades/dp/B0C9RVFRZD?tag=promoninja0c3-20",
-      "cupom": null,
-      "loja": "amazon",
-      "categoria": "Papelaria e Material de escritório",
-      "data": "2026-06-22T17:21:15.106022-03:00",
-      "slug": "duracell-pilhas-alcalinas-aa-pequena-pack-24-unidades",
-      "page_url": "https://promoninjaofertas.github.io/produto/duracell-pilhas-alcalinas-aa-pequena-pack-24-unidades.html"
-    },
-    {
-      "source_id": "2882148",
-      "titulo": "FiltroRefil Original de Água",
-      "de": 80.99,
-      "por": 64.9,
-      "desconto": 20,
-      "imagem": "https://m.media-amazon.com/images/I/61Wa-avvnwL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/Filtro-Refil-Original-Purificador-Electrolux/dp/B0F256HPZJ?pd_rd_w=2sBay&content-id=amzn1.sym.550666bb-9d24-483d-bc9e-4a297db376ce&pd_rd_wg=CzfFy&pd_rd_r=fb816daa-6cd9-47cb-83e6-e7aaa74fc37e&pd_rd_i=B0F256HPZJ&tag=promoninja0c3-20",
-      "cupom": null,
-      "loja": "amazon",
-      "categoria": "Eletroportáteis",
-      "data": "2026-06-22T17:21:15.106022-03:00",
-      "slug": "filtrorefil-original-de-agua",
-      "page_url": "https://promoninjaofertas.github.io/produto/filtrorefil-original-de-agua.html"
     },
     {
       "source_id": "1005009784497103",
@@ -122,21 +122,6 @@
       "page_url": "https://promoninjaofertas.github.io/produto/escova-alisadora-capilar-aquecida-recarregavel-mini-portatil-rapida-para-viagens-e-uso.html"
     },
     {
-      "source_id": "1005006014370814",
-      "titulo": "sapato masculino tênis masculino Homens Sapatos Sapatilhas homem casual Sapatos masculinos tenis Sapatos de luxo Trainer Race Respirável Sapatos moda running Shoes para as mulheres",
-      "de": 328.66,
-      "por": 61.82,
-      "desconto": 81,
-      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S702f725963004fbd8741e0489ba0c878a.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4ok1PQ8iCzpyDub1chegAMyykonAS6ZsQHICoAD8CAE6J9CZCeooFx0DZwBVL3XZQBhJKfTDMibwcrwktFeMeBN9OFgitOLcGHKTfRT8rHjexTjUgEvREHxFdDMjYGkvtAhV5OeAXjVotaSkQCpZi9aFoatdvgrAOonWOchcaOZoVxOqGICYE5n2OC8xOlCgCsC9zJS2BOYezVcHmCuXGKr3bCX2Lt4iKMGdqDpNFwCOA6GcJP0bB0zPPLugdXeSZzuziCKziK8tzY0MLU3Wrujgk9YbqtXFMJGYgII64BJAGjzoJQ3UR3YL1ETgfc1MU7k5rqhbSnzMKz0uKYBpJ9xMjJmSNVgwXt10NF6OSV5I43WDuCrck5P9oloasEdCJnHReYlSZtdQl7yHbVG1QyNcAN9EY05ICthaOpst3VLSGGsJvG0xZo6vTMREAFOULLxGUWAipYBlXKYtw7r124NDQOU8nCJSwYWzsHN35okQEewzyQTOPLUXYoK7hclWKSSsjYunLpH3hE0TvRlEobTHAoPSQLjF3RZ4b6z2QVlcnQRGOZgX2ChEMUWhqNoS5lU8kVT4tmqxSObPhdVS3pRuNGBcFws1QYfDjo0ffm3FvbJ7TZzbOkqKZPU1dQEgqX0xPhhmzmSuipzLgNc89ELLq8NgiFeIIvpG5uVZTgw2RGibElkSeCwgAPxmJSWkiTuQsek0xg2utM",
-      "cupom": null,
-      "loja": "aliexpress",
-      "categoria": "Moda",
-      "data": "2026-06-22T01:09:15.197775-03:00",
-      "slug": "sapato-masculino-tenis-masculino-homens-sapatos-sapatilhas-homem-casual-sapatos-mascul",
-      "page_url": "https://promoninjaofertas.github.io/produto/sapato-masculino-tenis-masculino-homens-sapatos-sapatilhas-homem-casual-sapatos-mascul.html"
-    },
-    {
       "source_id": "1005010629132988",
       "titulo": "Botas de neve masculinas inverno quente casal tênis casuais moda couro esporte ao ar livre correndo tenis masculino antiderrapante tamanho grande 48 treinador",
       "de": 105.65,
@@ -150,6 +135,21 @@
       "data": "2026-06-22T01:09:15.197775-03:00",
       "slug": "botas-de-neve-masculinas-inverno-quente-casal-tenis-casuais-moda-couro-esporte-ao-ar",
       "page_url": "https://promoninjaofertas.github.io/produto/botas-de-neve-masculinas-inverno-quente-casal-tenis-casuais-moda-couro-esporte-ao-ar.html"
+    },
+    {
+      "source_id": "1005006014370814",
+      "titulo": "sapato masculino tênis masculino Homens Sapatos Sapatilhas homem casual Sapatos masculinos tenis Sapatos de luxo Trainer Race Respirável Sapatos moda running Shoes para as mulheres",
+      "de": 328.66,
+      "por": 61.82,
+      "desconto": 81,
+      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S702f725963004fbd8741e0489ba0c878a.jpg",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4ok1PQ8iCzpyDub1chegAMyykonAS6ZsQHICoAD8CAE6J9CZCeooFx0DZwBVL3XZQBhJKfTDMibwcrwktFeMeBN9OFgitOLcGHKTfRT8rHjexTjUgEvREHxFdDMjYGkvtAhV5OeAXjVotaSkQCpZi9aFoatdvgrAOonWOchcaOZoVxOqGICYE5n2OC8xOlCgCsC9zJS2BOYezVcHmCuXGKr3bCX2Lt4iKMGdqDpNFwCOA6GcJP0bB0zPPLugdXeSZzuziCKziK8tzY0MLU3Wrujgk9YbqtXFMJGYgII64BJAGjzoJQ3UR3YL1ETgfc1MU7k5rqhbSnzMKz0uKYBpJ9xMjJmSNVgwXt10NF6OSV5I43WDuCrck5P9oloasEdCJnHReYlSZtdQl7yHbVG1QyNcAN9EY05ICthaOpst3VLSGGsJvG0xZo6vTMREAFOULLxGUWAipYBlXKYtw7r124NDQOU8nCJSwYWzsHN35okQEewzyQTOPLUXYoK7hclWKSSsjYunLpH3hE0TvRlEobTHAoPSQLjF3RZ4b6z2QVlcnQRGOZgX2ChEMUWhqNoS5lU8kVT4tmqxSObPhdVS3pRuNGBcFws1QYfDjo0ffm3FvbJ7TZzbOkqKZPU1dQEgqX0xPhhmzmSuipzLgNc89ELLq8NgiFeIIvpG5uVZTgw2RGibElkSeCwgAPxmJSWkiTuQsek0xg2utM",
+      "cupom": null,
+      "loja": "aliexpress",
+      "categoria": "Moda",
+      "data": "2026-06-22T01:09:15.197775-03:00",
+      "slug": "sapato-masculino-tenis-masculino-homens-sapatos-sapatilhas-homem-casual-sapatos-mascul",
+      "page_url": "https://promoninjaofertas.github.io/produto/sapato-masculino-tenis-masculino-homens-sapatos-sapatilhas-homem-casual-sapatos-mascul.html"
     },
     {
       "source_id": "1005007166352176",
