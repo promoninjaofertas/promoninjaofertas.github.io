@@ -1,13 +1,32 @@
 {
-  "atualizado": "2026-06-29T19:58:41.075639+00:00",
+  "atualizado": "2026-06-29T20:03:53.079382+00:00",
   "ofertas": [
+    {
+      "source_id": "pechinchou-146585",
+      "titulo": "Smart TV Samsung 32\" HD Tizen HDR Wi-Fi HDMI Bivolt Preta",
+      "de": 959.0,
+      "por": 756.63,
+      "desconto": 21,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/61tCoc7NunL._AC_SX355_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0FF6FZF9Y?tag=promoninja0c3-20",
+      "cupom": "BOLANAREDE10",
+      "loja": "amazon",
+      "categoria": "TV e Eletronicos",
+      "data": "2026-06-29T20:03:53.079382+00:00",
+      "slug": "smart-tv-samsung-32-hd-tizen-hdr-wi-fi-hdmi-bivolt-preta",
+      "page_url": "https://promoninjaofertas.github.io/produto/smart-tv-samsung-32-hd-tizen-hdr-wi-fi-hdmi-bivolt-preta.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": null,
+      "nota_qualidade": 8
+    },
     {
       "source_id": "pechinchou-40176",
       "titulo": "Máquina de Lavar Electrolux 11kg Branca Essential Care Easy Clean Filtro Fiapos 220v LES11",
       "de": 2479.9,
       "por": 1448.0,
       "desconto": 42,
-      "imagem": "https://m.media-amazon.com/images/I/41+50Z4TgEL._SL1500_.jpg",
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/4150Z4TgEL._AC_SX679_.jpg",
       "link": "https://www.amazon.com.br/exec/obidos/ASIN/B084RCXNJX/?tag=promoninja0c3-20",
       "cupom": "BOLANAREDE10",
       "loja": "amazon",
@@ -26,7 +45,7 @@
       "de": 879.0,
       "por": 679.2,
       "desconto": 23,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/61V9d30QZKL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "imagem": "https://m.media-amazon.com/images/I/81zLY1z0j4L._SL1500_.jpg",
       "link": "https://www.amazon.com.br/dp/B0GH34KFLR?tag=promoninja0c3-20",
       "cupom": "BOLANAREDE10",
       "loja": "amazon",
@@ -36,8 +55,8 @@
       "page_url": "https://promoninjaofertas.github.io/produto/smart-tv-32-philco-roku-tv-dolby-audio-hdr10-p32crb.html",
       "avaliacao": null,
       "avaliacoes": 7,
-      "vendas": null,
-      "nota_qualidade": 8
+      "vendas": 99,
+      "nota_qualidade": 7
     },
     {
       "source_id": "pechinchou-147172",
@@ -55,7 +74,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/bola-epp-club-adidas.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 4,
+      "vendas": 27,
       "nota_qualidade": 8
     },
     {
@@ -74,7 +93,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/jbl-soundbar-bluetooth-cinema-sb180-2-1-canais-subwoofer-de-6-5-sem-fio.html",
       "avaliacao": null,
       "avaliacoes": 2,
-      "vendas": 34,
+      "vendas": 74,
       "nota_qualidade": 8
     },
     {
@@ -834,7 +853,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/cafe-melitta-sabor-da-fazenda-vacuo-500g.html",
       "avaliacao": null,
       "avaliacoes": 4,
-      "vendas": 2021,
+      "vendas": 2024,
       "nota_qualidade": 7
     },
     {
@@ -929,7 +948,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/colgate-caneta-clareadora-dental-luminous-white-gloss-2-5ml.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 2187,
+      "vendas": 2192,
       "nota_qualidade": 7
     },
     {
@@ -1482,25 +1501,6 @@
       "avaliacoes": null,
       "vendas": 219,
       "nota_qualidade": 9
-    },
-    {
-      "source_id": "pechinchou-135217",
-      "titulo": "O Boticário The Blend Bourbon Eau De Parfum 100ml",
-      "de": 359.9,
-      "por": 259.13,
-      "desconto": 28,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/D_NQ_NP_693022-MLA107407032828_032026-O.webp",
-      "link": "https://meli.la/2tE5G2M",
-      "cupom": "LOUCOFUT",
-      "loja": "mercadolivre",
-      "categoria": "Beleza",
-      "data": "2026-06-28T20:00:59.703891+00:00",
-      "slug": "o-boticario-the-blend-bourbon-eau-de-parfum-100ml",
-      "page_url": "https://promoninjaofertas.github.io/produto/o-boticario-the-blend-bourbon-eau-de-parfum-100ml.html",
-      "avaliacao": null,
-      "avaliacoes": 2,
-      "vendas": 60,
-      "nota_qualidade": 7
     }
   ]
 }
