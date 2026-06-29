@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-06-29T23:06:55.807020+00:00",
+  "atualizado": "2026-06-29T23:12:01.713578+00:00",
   "ofertas": [
     {
       "source_id": "2893447",
@@ -55,8 +55,8 @@
       "page_url": "https://promoninjaofertas.github.io/produto/fogao-cooktop-de-inducao-philco-4-bocas-pct40a-preto-220v.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": null,
-      "nota_qualidade": 8
+      "vendas": 6,
+      "nota_qualidade": 7
     },
     {
       "source_id": "pechinchou-116131",
@@ -1413,7 +1413,7 @@
       "de": 49.9,
       "por": 23.31,
       "desconto": 53,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/61ULmBvv4bS._AC_SL1000_.jpg",
+      "imagem": "https://m.media-amazon.com/images/I/616UuoWJ72L._SL1500_.jpg",
       "link": "https://www.amazon.com.br/dp/B07YCQ64HM?tag=promoninja0c3-20",
       "cupom": "PRIME10",
       "loja": "amazon",
@@ -1508,7 +1508,7 @@
       "de": 122.9,
       "por": 49.9,
       "desconto": 59,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/external-image_ygwjlJd.jpg",
+      "imagem": "https://m.media-amazon.com/images/I/51k9hj+RYjL._SL1500_.jpg",
       "link": "https://www.amazon.com.br/dp/B0G8XBXNK8?tag=promoninja0c3-20",
       "cupom": null,
       "loja": "amazon",
@@ -1634,25 +1634,6 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 7
-    },
-    {
-      "source_id": "58206367658",
-      "titulo": "Smartphone Xiaomi POCO C85 4G Tela 6.9\" 120Hz Bateria 6000mAh Carga Rápida Dual SIM Celular Original Versão Global",
-      "de": 1999.0,
-      "por": 988.9,
-      "desconto": 51,
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820m8-mos2bdssqk1sf4",
-      "link": "https://s.shopee.com.br/6ffHHYUA20",
-      "cupom": null,
-      "loja": "shopee",
-      "categoria": "Smartphones",
-      "data": "2026-06-28T23:10:22.584651+00:00",
-      "slug": "smartphone-xiaomi-poco-c85-4g-tela-6-9-120hz-bateria-6000mah-carga-rapida-dual",
-      "page_url": "https://promoninjaofertas.github.io/produto/smartphone-xiaomi-poco-c85-4g-tela-6-9-120hz-bateria-6000mah-carga-rapida-dual.html",
-      "avaliacao": 4.7,
-      "avaliacoes": null,
-      "vendas": 1508,
-      "nota_qualidade": 10
     }
   ]
 }
