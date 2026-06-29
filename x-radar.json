@@ -1,0 +1,832 @@
+{
+  "updated_at": "2026-06-29T22:56:13.701Z",
+  "page": "https://promoninjaofertas.github.io/x-radar.html",
+  "auto_follow": {
+    "enabled": false,
+    "daily_limit": 4,
+    "min_score": 18,
+    "followed_today_before": 0,
+    "followed_this_run": 0
+  },
+  "notes": [
+    "Radar operacional do Promo Ninja. Perfis sao sugestoes baseadas em posts publicos do X.",
+    "Auto-follow limitado para reduzir risco de bloqueio em conta nova."
+  ],
+  "profiles": [
+    {
+      "username": "hashtag",
+      "display_name": "Bαú dα ηαηα",
+      "url": "https://x.com/hashtag",
+      "score": 32,
+      "discovered_at": "2026-06-29T22:54:01.495Z",
+      "last_seen_at": "2026-06-29T22:56:11.274Z",
+      "query": "\"fone bluetooth\" (comprei OR chegou OR promoção)",
+      "reasons": [
+        "fala sobre compra ou produto recebido",
+        "interage com ofertas, cupons ou descontos",
+        "menciona marketplaces usados pelo Promo Ninja",
+        "tem interesse em tecnologia ou consumo"
+      ],
+      "sample_text": "Bαú dα ηαηα @MapaDaPromoo · May 19 Fone Bluetooth 5.4 por menos de R$50! Sem fio, com estojo de carregamento, touch inteligente, anti-ruído e ainda à prova d’água. Tá saindo de R$78,90 por R$49,72 https:// meli.la/2SoKuC4 #Achadinhos #Promoção #FoneBluetooth #",
+      "suggested_replies": [
+        "Boa! Esse tipo de achado costuma sumir rapido. Valeu por compartilhar a experiencia.",
+        "Chegou certinho? Quando o produto entrega bem, eu ja salvo para ficar de olho em novas quedas.",
+        "Cupom bom + preco baixo e a combinacao que a gente gosta.",
+        "Boa dica. Vou ficar de olho se aparecer algo parecido com desconto melhor."
+      ],
+      "followed_at": null,
+      "follow_status": "candidate"
+    },
+    {
+      "username": "achados_vip",
+      "display_name": "Achados VIP",
+      "url": "https://x.com/achados_vip",
+      "score": 30,
+      "discovered_at": "2026-06-29T22:55:30.084Z",
+      "last_seen_at": "2026-06-29T22:56:11.272Z",
+      "query": "\"fone bluetooth\" (comprei OR chegou OR promoção)",
+      "reasons": [
+        "fala sobre compra ou produto recebido",
+        "interage com ofertas, cupons ou descontos",
+        "menciona marketplaces usados pelo Promo Ninja",
+        "tem interesse em tecnologia ou consumo"
+      ],
+      "sample_text": "Achados VIP @achados_vip · May 29 Smartphone Motorola Moto g86 5G Grafite + Fone Bluetooth Buds - 256GB, 24GB RAM, Tela 1.5K pOLED, 50MP Sony câmera OIS Moto AI, videos em 4K, IP68 + IP69 em promoção na Amazon! - Em até 12x sem juros Moto g86: https:// amzn.to",
+      "suggested_replies": [
+        "Esse encaixa bem em setup. Se aparecer com cupom bom, vale muito ficar de olho.",
+        "Para setup, desconto real e avaliacao boa fazem muita diferenca. Bom achado."
+      ],
+      "followed_at": null,
+      "follow_status": "candidate"
+    },
+    {
+      "username": "garimpoonline10",
+      "display_name": "GarimpoOnline",
+      "url": "https://x.com/garimpoonline10",
+      "score": 27,
+      "discovered_at": "2026-06-29T22:54:01.495Z",
+      "last_seen_at": "2026-06-29T22:54:01.495Z",
+      "query": "\"chegou\" (amazon OR shopee OR \"mercado livre\")",
+      "reasons": [
+        "fala sobre compra ou produto recebido",
+        "interage com ofertas, cupons ou descontos",
+        "menciona marketplaces usados pelo Promo Ninja"
+      ],
+      "sample_text": "GarimpoOnline @GarimpoOnline10 · 7h O inverno chegou e você precisa desse pijama de flanela! Super quentinhos e com estampas de anime para adultos e crianças. Apenas R$ 55,00! Garanta o seu antes que acabe! Confira no link abaixo. #shopee #achadinhos #ofertas ",
+      "suggested_replies": [
+        "Boa! Esse tipo de achado costuma sumir rapido. Valeu por compartilhar a experiencia.",
+        "Chegou certinho? Quando o produto entrega bem, eu ja salvo para ficar de olho em novas quedas."
+      ],
+      "followed_at": null,
+      "follow_status": "candidate"
+    },
+    {
+      "username": "descontostopcom",
+      "display_name": "Descontos Top",
+      "url": "https://x.com/descontostopcom",
+      "score": 26,
+      "discovered_at": "2026-06-29T22:54:01.495Z",
+      "last_seen_at": "2026-06-29T22:54:01.495Z",
+      "query": "\"chegou\" (amazon OR shopee OR \"mercado livre\")",
+      "reasons": [
+        "fala sobre compra ou produto recebido",
+        "interage com ofertas, cupons ou descontos",
+        "menciona marketplaces usados pelo Promo Ninja"
+      ],
+      "sample_text": "Descontos Top @descontostopcom · 5h Chegou novo cupom da Amazon! Cupom de 10% OFF acima de R$250 Confira aqui: https:// desc.vc/wbgGcy Link para entrar no grupo: https:// desc.vc/DTWhatsTel 30",
+      "suggested_replies": [
+        "Boa! Esse tipo de achado costuma sumir rapido. Valeu por compartilhar a experiencia.",
+        "Chegou certinho? Quando o produto entrega bem, eu ja salvo para ficar de olho em novas quedas."
+      ],
+      "followed_at": null,
+      "follow_status": "candidate"
+    },
+    {
+      "username": "geektrendcombr",
+      "display_name": "geek.trend",
+      "url": "https://x.com/geektrendcombr",
+      "score": 26,
+      "discovered_at": "2026-06-29T22:55:30.078Z",
+      "last_seen_at": "2026-06-29T22:55:30.078Z",
+      "query": "\"setup gamer\" (comprei OR promoção OR desconto)",
+      "reasons": [
+        "fala sobre compra ou produto recebido",
+        "interage com ofertas, cupons ou descontos",
+        "menciona marketplaces usados pelo Promo Ninja",
+        "tem interesse em tecnologia ou consumo"
+      ],
+      "sample_text": "geek.trend @geektrendcombr · Jun 16 Hora de subir o nível do setup gamer. Console PlayStation® 5 Slim Edição Digital 825 GB, por R$ 3.879,00 no Mercado Livre: https:// meli.la/1T6qkPL De R$ 4.945,00 por R$ 3.879,00 R$ 1.066,00 de economia 22% off! #oferta #pro",
+      "suggested_replies": [
+        "Esse encaixa bem em setup. Se aparecer com cupom bom, vale muito ficar de olho.",
+        "Para setup, desconto real e avaliacao boa fazem muita diferenca. Bom achado."
+      ],
+      "followed_at": null,
+      "follow_status": "candidate"
+    },
+    {
+      "username": "cuponizze",
+      "display_name": "Cuponizze - Ofertas e Cupons",
+      "url": "https://x.com/cuponizze",
+      "score": 22,
+      "discovered_at": "2026-06-29T22:53:07.986Z",
+      "last_seen_at": "2026-06-29T22:53:07.987Z",
+      "query": "\"comprei\" (amazon OR shopee OR \"mercado livre\")",
+      "reasons": [
+        "fala sobre compra ou produto recebido",
+        "interage com ofertas, cupons ou descontos",
+        "menciona marketplaces usados pelo Promo Ninja"
+      ],
+      "sample_text": "Cuponizze - Ofertas e Cupons @cuponizze · 3h Kit 4 Blusas Feminina Ribana Canelado Estilosa Casual por R$ 81,99 Eu já comprei esse kit e estou muito satisfeita, as blusas são confortáveis e versáteis, perfeitas para o dia a dia. Vocês preferem investir em peça",
+      "suggested_replies": [
+        "Boa! Esse tipo de achado costuma sumir rapido. Valeu por compartilhar a experiencia.",
+        "Chegou certinho? Quando o produto entrega bem, eu ja salvo para ficar de olho em novas quedas."
+      ],
+      "followed_at": null,
+      "follow_status": "candidate"
+    },
+    {
+      "username": "niasguts",
+      "display_name": "nana",
+      "url": "https://x.com/niasguts",
+      "score": 22,
+      "discovered_at": "2026-06-29T22:53:07.987Z",
+      "last_seen_at": "2026-06-29T22:53:07.987Z",
+      "query": "\"comprei\" (amazon OR shopee OR \"mercado livre\")",
+      "reasons": [
+        "fala sobre compra ou produto recebido",
+        "menciona marketplaces usados pelo Promo Ninja"
+      ],
+      "sample_text": "nana @niasguts · 4h Replying to @irImizi eu tinha comprado do enjoei, o ari eu comprei um pouquinho usado e paguei mais barato mas devem ter lojinhas na shopee ou importadoras que vendam também!! 1 33",
+      "suggested_replies": [
+        "Boa! Esse tipo de achado costuma sumir rapido. Valeu por compartilhar a experiencia.",
+        "Chegou certinho? Quando o produto entrega bem, eu ja salvo para ficar de olho em novas quedas."
+      ],
+      "followed_at": null,
+      "follow_status": "candidate"
+    },
+    {
+      "username": "irimizi",
+      "display_name": "nana",
+      "url": "https://x.com/irimizi",
+      "score": 22,
+      "discovered_at": "2026-06-29T22:53:07.987Z",
+      "last_seen_at": "2026-06-29T22:53:07.987Z",
+      "query": "\"comprei\" (amazon OR shopee OR \"mercado livre\")",
+      "reasons": [
+        "fala sobre compra ou produto recebido",
+        "menciona marketplaces usados pelo Promo Ninja"
+      ],
+      "sample_text": "nana @niasguts · 4h Replying to @irImizi eu tinha comprado do enjoei, o ari eu comprei um pouquinho usado e paguei mais barato mas devem ter lojinhas na shopee ou importadoras que vendam também!! 1 33",
+      "suggested_replies": [
+        "Boa! Esse tipo de achado costuma sumir rapido. Valeu por compartilhar a experiencia.",
+        "Chegou certinho? Quando o produto entrega bem, eu ja salvo para ficar de olho em novas quedas."
+      ],
+      "followed_at": null,
+      "follow_status": "candidate"
+    },
+    {
+      "username": "tiorapadura",
+      "display_name": "Tio Rapadura",
+      "url": "https://x.com/tiorapadura",
+      "score": 22,
+      "discovered_at": "2026-06-29T22:55:30.078Z",
+      "last_seen_at": "2026-06-29T22:55:30.079Z",
+      "query": "\"setup gamer\" (comprei OR promoção OR desconto)",
+      "reasons": [
+        "fala sobre compra ou produto recebido",
+        "interage com ofertas, cupons ou descontos",
+        "tem interesse em tecnologia ou consumo"
+      ],
+      "sample_text": "Tio Rapadura @TioRapadura · May 18 Comprei esse teclado personalizado e precisava compartilhar com vcs Além de lindo, tem até o meu nome gravado nele! Muito diferente e com uma pegada única pra setup gamer. Pra quem curte deixar o setup com personalidade, reco",
+      "suggested_replies": [
+        "Boa! Esse tipo de achado costuma sumir rapido. Valeu por compartilhar a experiencia.",
+        "Chegou certinho? Quando o produto entrega bem, eu ja salvo para ficar de olho em novas quedas."
+      ],
+      "followed_at": null,
+      "follow_status": "candidate"
+    },
+    {
+      "username": "warnerplaybr",
+      "display_name": "Warner Play",
+      "url": "https://x.com/warnerplaybr",
+      "score": 22,
+      "discovered_at": "2026-06-29T22:55:30.084Z",
+      "last_seen_at": "2026-06-29T22:55:30.084Z",
+      "query": "\"setup gamer\" (comprei OR promoção OR desconto)",
+      "reasons": [
+        "fala sobre compra ou produto recebido",
+        "interage com ofertas, cupons ou descontos",
+        "tem interesse em tecnologia ou consumo"
+      ],
+      "sample_text": "Warner Play @WarnerPlayBR · May 1 O ribas.arthur jogou #LEGOBatmanGame e adorou! O que ele também curtiu foram os equipamentos da #Alienware! E com o cupom especial GAMESCOM você tem desconto de até 10% no site da Dell! Garanta o seu setup gamer e jogue LEGO B",
+      "suggested_replies": [
+        "Esse encaixa bem em setup. Se aparecer com cupom bom, vale muito ficar de olho.",
+        "Para setup, desconto real e avaliacao boa fazem muita diferenca. Bom achado."
+      ],
+      "followed_at": null,
+      "follow_status": "candidate"
+    },
+    {
+      "username": "mangolocoholic",
+      "display_name": "𝖇𝖎𝖇𝖎𝖆",
+      "url": "https://x.com/mangolocoholic",
+      "score": 22,
+      "discovered_at": "2026-06-29T22:56:11.278Z",
+      "last_seen_at": "2026-06-29T22:56:11.278Z",
+      "query": "\"fone bluetooth\" (comprei OR chegou OR promoção)",
+      "reasons": [
+        "fala sobre compra ou produto recebido",
+        "interage com ofertas, cupons ou descontos"
+      ],
+      "sample_text": "𝖇𝖎𝖇𝖎𝖆 @mangolocoholic · May 18 isso nunca aconteceria com meu fone d fio.. (eu, sendo a maior hater d fone bluetooth, comprei um e estou extremamente decepcionada 3 66",
+      "suggested_replies": [
+        "Boa! Esse tipo de achado costuma sumir rapido. Valeu por compartilhar a experiencia.",
+        "Chegou certinho? Quando o produto entrega bem, eu ja salvo para ficar de olho em novas quedas."
+      ],
+      "followed_at": null,
+      "follow_status": "candidate"
+    },
+    {
+      "username": "ninetrindade",
+      "display_name": "Shopping da Nine",
+      "url": "https://x.com/ninetrindade",
+      "score": 21,
+      "discovered_at": "2026-06-29T22:54:01.495Z",
+      "last_seen_at": "2026-06-29T22:54:01.495Z",
+      "query": "\"chegou\" (amazon OR shopee OR \"mercado livre\")",
+      "reasons": [
+        "fala sobre compra ou produto recebido",
+        "interage com ofertas, cupons ou descontos",
+        "menciona marketplaces usados pelo Promo Ninja"
+      ],
+      "sample_text": "Shopping da Nine @ninetrindade · 6h CUPOM SHOPEE PRA VOCÊ ECONOMIZAR DIVA! Se você estava esperando aquele empurrãozinho para finalizar o carrinho, chegou a hora! 3C0N0M1Z4R - 10/60 C0M3M0R4R - 5/20 Cupom valida para compras no link abaixo, estoque limitado! P",
+      "suggested_replies": [
+        "Boa! Esse tipo de achado costuma sumir rapido. Valeu por compartilhar a experiencia.",
+        "Chegou certinho? Quando o produto entrega bem, eu ja salvo para ficar de olho em novas quedas."
+      ],
+      "followed_at": null,
+      "follow_status": "candidate"
+    },
+    {
+      "username": "innarik1",
+      "display_name": "Innarik",
+      "url": "https://x.com/innarik1",
+      "score": 21,
+      "discovered_at": "2026-06-29T22:55:30.078Z",
+      "last_seen_at": "2026-06-29T22:55:30.078Z",
+      "query": "\"setup gamer\" (comprei OR promoção OR desconto)",
+      "reasons": [
+        "fala sobre compra ou produto recebido",
+        "interage com ofertas, cupons ou descontos",
+        "tem interesse em tecnologia ou consumo"
+      ],
+      "sample_text": "Innarik @Innarik1 · Jun 2 A lagartixa onírica agora é afiliada da Blacklyte, só usar meu código e já recebe 15% de desconto nas compras pro setup gamer Confere aqui: https:// blacklyte.com/INNACREDITAVEL 4 5 149",
+      "suggested_replies": [
+        "Esse encaixa bem em setup. Se aparecer com cupom bom, vale muito ficar de olho.",
+        "Para setup, desconto real e avaliacao boa fazem muita diferenca. Bom achado."
+      ],
+      "followed_at": null,
+      "follow_status": "candidate"
+    },
+    {
+      "username": "geekbrecho",
+      "display_name": "Geek Brechó: Achados Achadinhos Cupom e Desconto",
+      "url": "https://x.com/geekbrecho",
+      "score": 18,
+      "discovered_at": "2026-06-29T22:54:45.571Z",
+      "last_seen_at": "2026-06-29T22:54:45.571Z",
+      "query": "\"promoção\" (\"cupom\" OR \"desconto\" OR \"oferta\")",
+      "reasons": [
+        "interage com ofertas, cupons ou descontos",
+        "menciona marketplaces usados pelo Promo Ninja"
+      ],
+      "sample_text": "Geek Brechó: Achados Achadinhos Cupom e Desconto @GeekBrecho · 25m OFERTA SHOPEE Kit com 3 Óleos de Tratamento Coco, Super Óleos e Multibenefícios De R$ 55,00 Por R$ 42,99 Compre aqui https:// s.shopee.com.br/1gGdGaYNVy Promoção sujeita à alteração de preço e ",
+      "suggested_replies": [
+        "Cupom bom + preco baixo e a combinacao que a gente gosta.",
+        "Boa dica. Vou ficar de olho se aparecer algo parecido com desconto melhor."
+      ],
+      "followed_at": null,
+      "follow_status": "candidate"
+    },
+    {
+      "username": "jealouslingorm",
+      "display_name": "Alessandra",
+      "url": "https://x.com/jealouslingorm",
+      "score": 17,
+      "discovered_at": "2026-06-29T22:56:11.274Z",
+      "last_seen_at": "2026-06-29T22:56:11.274Z",
+      "query": "\"fone bluetooth\" (comprei OR chegou OR promoção)",
+      "reasons": [
+        "fala sobre compra ou produto recebido",
+        "interage com ofertas, cupons ou descontos"
+      ],
+      "sample_text": "Alessandra @jealouslingorm · May 20 Fan account Meu fone novo chegou, agora só falta o headset. NÃO AGUENTAVA MAIS FICAR USANDO FONE BLUETOOTH NO CELULAR. 1 1 78",
+      "suggested_replies": [
+        "Boa! Esse tipo de achado costuma sumir rapido. Valeu por compartilhar a experiencia.",
+        "Chegou certinho? Quando o produto entrega bem, eu ja salvo para ficar de olho em novas quedas."
+      ],
+      "followed_at": null,
+      "follow_status": "candidate"
+    },
+    {
+      "username": "jiggukye",
+      "display_name": "An’♱",
+      "url": "https://x.com/jiggukye",
+      "score": 15,
+      "discovered_at": "2026-06-29T22:53:07.393Z",
+      "last_seen_at": "2026-06-29T22:53:07.976Z",
+      "query": "\"comprei\" (amazon OR shopee OR \"mercado livre\")",
+      "reasons": [
+        "fala sobre compra ou produto recebido",
+        "menciona marketplaces usados pelo Promo Ninja"
+      ],
+      "sample_text": "An’♱ @jiggukye · 1h Replying to @Jikooka97 comprei na aliko amor, uma loja lá da shopee 8",
+      "suggested_replies": [
+        "Boa! Esse tipo de achado costuma sumir rapido. Valeu por compartilhar a experiencia.",
+        "Chegou certinho? Quando o produto entrega bem, eu ja salvo para ficar de olho em novas quedas."
+      ],
+      "followed_at": null,
+      "follow_status": "candidate"
+    },
+    {
+      "username": "jikooka97",
+      "display_name": "An’♱",
+      "url": "https://x.com/jikooka97",
+      "score": 15,
+      "discovered_at": "2026-06-29T22:53:07.977Z",
+      "last_seen_at": "2026-06-29T22:53:07.977Z",
+      "query": "\"comprei\" (amazon OR shopee OR \"mercado livre\")",
+      "reasons": [
+        "fala sobre compra ou produto recebido",
+        "menciona marketplaces usados pelo Promo Ninja"
+      ],
+      "sample_text": "An’♱ @jiggukye · 1h Replying to @Jikooka97 comprei na aliko amor, uma loja lá da shopee 8",
+      "suggested_replies": [
+        "Boa! Esse tipo de achado costuma sumir rapido. Valeu por compartilhar a experiencia.",
+        "Chegou certinho? Quando o produto entrega bem, eu ja salvo para ficar de olho em novas quedas."
+      ],
+      "followed_at": null,
+      "follow_status": "candidate"
+    },
+    {
+      "username": "biascards",
+      "display_name": "Bia | cartomancia",
+      "url": "https://x.com/biascards",
+      "score": 15,
+      "discovered_at": "2026-06-29T22:53:07.978Z",
+      "last_seen_at": "2026-06-29T22:53:07.978Z",
+      "query": "\"comprei\" (amazon OR shopee OR \"mercado livre\")",
+      "reasons": [
+        "fala sobre compra ou produto recebido",
+        "menciona marketplaces usados pelo Promo Ninja"
+      ],
+      "sample_text": "Bia | cartomancia @biascards · 2h Replying to @Ohannymelk eu comprei uma versao falsa ba shopee, mas morro pelo original. se eu puder, no futuro, pode ter certeza w eu vou comprar ele 1 1 17",
+      "suggested_replies": [
+        "Boa! Esse tipo de achado costuma sumir rapido. Valeu por compartilhar a experiencia.",
+        "Chegou certinho? Quando o produto entrega bem, eu ja salvo para ficar de olho em novas quedas."
+      ],
+      "followed_at": null,
+      "follow_status": "candidate"
+    },
+    {
+      "username": "ohannymelk",
+      "display_name": "Bia | cartomancia",
+      "url": "https://x.com/ohannymelk",
+      "score": 15,
+      "discovered_at": "2026-06-29T22:53:07.978Z",
+      "last_seen_at": "2026-06-29T22:53:07.978Z",
+      "query": "\"comprei\" (amazon OR shopee OR \"mercado livre\")",
+      "reasons": [
+        "fala sobre compra ou produto recebido",
+        "menciona marketplaces usados pelo Promo Ninja"
+      ],
+      "sample_text": "Bia | cartomancia @biascards · 2h Replying to @Ohannymelk eu comprei uma versao falsa ba shopee, mas morro pelo original. se eu puder, no futuro, pode ter certeza w eu vou comprar ele 1 1 17",
+      "suggested_replies": [
+        "Boa! Esse tipo de achado costuma sumir rapido. Valeu por compartilhar a experiencia.",
+        "Chegou certinho? Quando o produto entrega bem, eu ja salvo para ficar de olho em novas quedas."
+      ],
+      "followed_at": null,
+      "follow_status": "candidate"
+    },
+    {
+      "username": "eutorhugo",
+      "display_name": "cowboy Vitu",
+      "url": "https://x.com/eutorhugo",
+      "score": 15,
+      "discovered_at": "2026-06-29T22:53:07.986Z",
+      "last_seen_at": "2026-06-29T22:53:07.986Z",
+      "query": "\"comprei\" (amazon OR shopee OR \"mercado livre\")",
+      "reasons": [
+        "fala sobre compra ou produto recebido",
+        "menciona marketplaces usados pelo Promo Ninja"
+      ],
+      "sample_text": "cowboy Vitu @eutorhugo · 2h Já tava com vergonha de usar minha baby tea do Brasil que comprei no tiktok Shopee 36",
+      "suggested_replies": [
+        "Boa! Esse tipo de achado costuma sumir rapido. Valeu por compartilhar a experiencia.",
+        "Chegou certinho? Quando o produto entrega bem, eu ja salvo para ficar de olho em novas quedas."
+      ],
+      "followed_at": null,
+      "follow_status": "candidate"
+    },
+    {
+      "username": "funlenaa_",
+      "display_name": "Islenaaz☆•Apoie ARKANIS!",
+      "url": "https://x.com/funlenaa_",
+      "score": 15,
+      "discovered_at": "2026-06-29T22:53:07.986Z",
+      "last_seen_at": "2026-06-29T22:53:07.986Z",
+      "query": "\"comprei\" (amazon OR shopee OR \"mercado livre\")",
+      "reasons": [
+        "fala sobre compra ou produto recebido",
+        "menciona marketplaces usados pelo Promo Ninja"
+      ],
+      "sample_text": "Islenaaz☆•Apoie ARKANIS! @Funlenaa_ · 2h Replying to @LaviniaLim21655 and @funBABE Comprei na shopee tem vários personagens de arkanis ,mas se você pesquisar no tik Tok (cabecudinhos Arkanis ) vai ter uma conta só de biscuit 3 lá vai tá a conta dela na shoppe ",
+      "suggested_replies": [
+        "Boa! Esse tipo de achado costuma sumir rapido. Valeu por compartilhar a experiencia.",
+        "Chegou certinho? Quando o produto entrega bem, eu ja salvo para ficar de olho em novas quedas."
+      ],
+      "followed_at": null,
+      "follow_status": "candidate"
+    },
+    {
+      "username": "lavinialim21655",
+      "display_name": "Islenaaz☆•Apoie ARKANIS!",
+      "url": "https://x.com/lavinialim21655",
+      "score": 15,
+      "discovered_at": "2026-06-29T22:53:07.986Z",
+      "last_seen_at": "2026-06-29T22:53:07.986Z",
+      "query": "\"comprei\" (amazon OR shopee OR \"mercado livre\")",
+      "reasons": [
+        "fala sobre compra ou produto recebido",
+        "menciona marketplaces usados pelo Promo Ninja"
+      ],
+      "sample_text": "Islenaaz☆•Apoie ARKANIS! @Funlenaa_ · 2h Replying to @LaviniaLim21655 and @funBABE Comprei na shopee tem vários personagens de arkanis ,mas se você pesquisar no tik Tok (cabecudinhos Arkanis ) vai ter uma conta só de biscuit 3 lá vai tá a conta dela na shoppe ",
+      "suggested_replies": [
+        "Boa! Esse tipo de achado costuma sumir rapido. Valeu por compartilhar a experiencia.",
+        "Chegou certinho? Quando o produto entrega bem, eu ja salvo para ficar de olho em novas quedas."
+      ],
+      "followed_at": null,
+      "follow_status": "candidate"
+    },
+    {
+      "username": "funbabe",
+      "display_name": "Islenaaz☆•Apoie ARKANIS!",
+      "url": "https://x.com/funbabe",
+      "score": 15,
+      "discovered_at": "2026-06-29T22:53:07.986Z",
+      "last_seen_at": "2026-06-29T22:53:07.986Z",
+      "query": "\"comprei\" (amazon OR shopee OR \"mercado livre\")",
+      "reasons": [
+        "fala sobre compra ou produto recebido",
+        "menciona marketplaces usados pelo Promo Ninja"
+      ],
+      "sample_text": "Islenaaz☆•Apoie ARKANIS! @Funlenaa_ · 2h Replying to @LaviniaLim21655 and @funBABE Comprei na shopee tem vários personagens de arkanis ,mas se você pesquisar no tik Tok (cabecudinhos Arkanis ) vai ter uma conta só de biscuit 3 lá vai tá a conta dela na shoppe ",
+      "suggested_replies": [
+        "Boa! Esse tipo de achado costuma sumir rapido. Valeu por compartilhar a experiencia.",
+        "Chegou certinho? Quando o produto entrega bem, eu ja salvo para ficar de olho em novas quedas."
+      ],
+      "followed_at": null,
+      "follow_status": "candidate"
+    },
+    {
+      "username": "010101k7",
+      "display_name": "𝐌𝐀𝐑𝐘",
+      "url": "https://x.com/010101k7",
+      "score": 15,
+      "discovered_at": "2026-06-29T22:53:07.987Z",
+      "last_seen_at": "2026-06-29T22:53:07.987Z",
+      "query": "\"comprei\" (amazon OR shopee OR \"mercado livre\")",
+      "reasons": [
+        "fala sobre compra ou produto recebido",
+        "menciona marketplaces usados pelo Promo Ninja"
+      ],
+      "sample_text": "𝐌𝐀𝐑𝐘 @010101k7 · 3h Replying to @conect7122 comprei hoje na shopee, quando chegar mostro aqui 1 1 19",
+      "suggested_replies": [
+        "Boa! Esse tipo de achado costuma sumir rapido. Valeu por compartilhar a experiencia.",
+        "Chegou certinho? Quando o produto entrega bem, eu ja salvo para ficar de olho em novas quedas."
+      ],
+      "followed_at": null,
+      "follow_status": "candidate"
+    },
+    {
+      "username": "conect7122",
+      "display_name": "𝐌𝐀𝐑𝐘",
+      "url": "https://x.com/conect7122",
+      "score": 15,
+      "discovered_at": "2026-06-29T22:53:07.987Z",
+      "last_seen_at": "2026-06-29T22:53:07.987Z",
+      "query": "\"comprei\" (amazon OR shopee OR \"mercado livre\")",
+      "reasons": [
+        "fala sobre compra ou produto recebido",
+        "menciona marketplaces usados pelo Promo Ninja"
+      ],
+      "sample_text": "𝐌𝐀𝐑𝐘 @010101k7 · 3h Replying to @conect7122 comprei hoje na shopee, quando chegar mostro aqui 1 1 19",
+      "suggested_replies": [
+        "Boa! Esse tipo de achado costuma sumir rapido. Valeu por compartilhar a experiencia.",
+        "Chegou certinho? Quando o produto entrega bem, eu ja salvo para ficar de olho em novas quedas."
+      ],
+      "followed_at": null,
+      "follow_status": "candidate"
+    },
+    {
+      "username": "keonversa",
+      "display_name": "¡! lau #𝗰𝗼𝘁𝗹 ✶",
+      "url": "https://x.com/keonversa",
+      "score": 15,
+      "discovered_at": "2026-06-29T22:53:07.987Z",
+      "last_seen_at": "2026-06-29T22:53:07.987Z",
+      "query": "\"comprei\" (amazon OR shopee OR \"mercado livre\")",
+      "reasons": [
+        "fala sobre compra ou produto recebido",
+        "menciona marketplaces usados pelo Promo Ninja"
+      ],
+      "sample_text": "¡! lau #𝗰𝗼𝘁𝗹 ✶ @keonversa · 3h Fan account Replying to @Moontinbel comprei na aliko pela shopee amorrr 1 26",
+      "suggested_replies": [
+        "Boa! Esse tipo de achado costuma sumir rapido. Valeu por compartilhar a experiencia.",
+        "Chegou certinho? Quando o produto entrega bem, eu ja salvo para ficar de olho em novas quedas."
+      ],
+      "followed_at": null,
+      "follow_status": "candidate"
+    },
+    {
+      "username": "moontinbel",
+      "display_name": "¡! lau #𝗰𝗼𝘁𝗹 ✶",
+      "url": "https://x.com/moontinbel",
+      "score": 15,
+      "discovered_at": "2026-06-29T22:53:07.987Z",
+      "last_seen_at": "2026-06-29T22:53:07.987Z",
+      "query": "\"comprei\" (amazon OR shopee OR \"mercado livre\")",
+      "reasons": [
+        "fala sobre compra ou produto recebido",
+        "menciona marketplaces usados pelo Promo Ninja"
+      ],
+      "sample_text": "¡! lau #𝗰𝗼𝘁𝗹 ✶ @keonversa · 3h Fan account Replying to @Moontinbel comprei na aliko pela shopee amorrr 1 26",
+      "suggested_replies": [
+        "Boa! Esse tipo de achado costuma sumir rapido. Valeu por compartilhar a experiencia.",
+        "Chegou certinho? Quando o produto entrega bem, eu ja salvo para ficar de olho em novas quedas."
+      ],
+      "followed_at": null,
+      "follow_status": "candidate"
+    },
+    {
+      "username": "chuuxinhas",
+      "display_name": "ninha ૮₍｡´ᴖ ˔ ᴖ`｡₎ა",
+      "url": "https://x.com/chuuxinhas",
+      "score": 15,
+      "discovered_at": "2026-06-29T22:53:07.987Z",
+      "last_seen_at": "2026-06-29T22:53:07.987Z",
+      "query": "\"comprei\" (amazon OR shopee OR \"mercado livre\")",
+      "reasons": [
+        "fala sobre compra ou produto recebido",
+        "menciona marketplaces usados pelo Promo Ninja"
+      ],
+      "sample_text": "ninha ૮₍｡´ᴖ ˔ ᴖ`｡₎ა @chuuxinhas · 3h Automated by @Luna_the_cookie Replying to @startinayu como assim tem na shopee mds comprei no mercari piki tu hitou 16",
+      "suggested_replies": [
+        "Boa! Esse tipo de achado costuma sumir rapido. Valeu por compartilhar a experiencia.",
+        "Chegou certinho? Quando o produto entrega bem, eu ja salvo para ficar de olho em novas quedas."
+      ],
+      "followed_at": null,
+      "follow_status": "candidate"
+    },
+    {
+      "username": "luna_the_cookie",
+      "display_name": "ninha ૮₍｡´ᴖ ˔ ᴖ`｡₎ა",
+      "url": "https://x.com/luna_the_cookie",
+      "score": 15,
+      "discovered_at": "2026-06-29T22:53:07.987Z",
+      "last_seen_at": "2026-06-29T22:53:07.987Z",
+      "query": "\"comprei\" (amazon OR shopee OR \"mercado livre\")",
+      "reasons": [
+        "fala sobre compra ou produto recebido",
+        "menciona marketplaces usados pelo Promo Ninja"
+      ],
+      "sample_text": "ninha ૮₍｡´ᴖ ˔ ᴖ`｡₎ა @chuuxinhas · 3h Automated by @Luna_the_cookie Replying to @startinayu como assim tem na shopee mds comprei no mercari piki tu hitou 16",
+      "suggested_replies": [
+        "Boa! Esse tipo de achado costuma sumir rapido. Valeu por compartilhar a experiencia.",
+        "Chegou certinho? Quando o produto entrega bem, eu ja salvo para ficar de olho em novas quedas."
+      ],
+      "followed_at": null,
+      "follow_status": "candidate"
+    },
+    {
+      "username": "startinayu",
+      "display_name": "ninha ૮₍｡´ᴖ ˔ ᴖ`｡₎ა",
+      "url": "https://x.com/startinayu",
+      "score": 15,
+      "discovered_at": "2026-06-29T22:53:07.987Z",
+      "last_seen_at": "2026-06-29T22:53:07.987Z",
+      "query": "\"comprei\" (amazon OR shopee OR \"mercado livre\")",
+      "reasons": [
+        "fala sobre compra ou produto recebido",
+        "menciona marketplaces usados pelo Promo Ninja"
+      ],
+      "sample_text": "ninha ૮₍｡´ᴖ ˔ ᴖ`｡₎ა @chuuxinhas · 3h Automated by @Luna_the_cookie Replying to @startinayu como assim tem na shopee mds comprei no mercari piki tu hitou 16",
+      "suggested_replies": [
+        "Boa! Esse tipo de achado costuma sumir rapido. Valeu por compartilhar a experiencia.",
+        "Chegou certinho? Quando o produto entrega bem, eu ja salvo para ficar de olho em novas quedas."
+      ],
+      "followed_at": null,
+      "follow_status": "candidate"
+    },
+    {
+      "username": "dominiquesozo",
+      "display_name": "Dominique ☆ Sozo",
+      "url": "https://x.com/dominiquesozo",
+      "score": 15,
+      "discovered_at": "2026-06-29T22:53:07.987Z",
+      "last_seen_at": "2026-06-29T22:53:07.987Z",
+      "query": "\"comprei\" (amazon OR shopee OR \"mercado livre\")",
+      "reasons": [
+        "fala sobre compra ou produto recebido",
+        "menciona marketplaces usados pelo Promo Ninja"
+      ],
+      "sample_text": "Dominique ☆ Sozo @DominiqueSozo · 4h Replying to @fi_sword Eram duas versões, 200 reais de SW1 e 250 SW2, peguei a de SW2 mas me enviaram errado e não tinham mais a versão que comprei, me devolveram 50 reais por isso. Foi uma pré-venda pela shopee. 1 1 30",
+      "suggested_replies": [
+        "Boa! Esse tipo de achado costuma sumir rapido. Valeu por compartilhar a experiencia.",
+        "Chegou certinho? Quando o produto entrega bem, eu ja salvo para ficar de olho em novas quedas."
+      ],
+      "followed_at": null,
+      "follow_status": "candidate"
+    },
+    {
+      "username": "fi_sword",
+      "display_name": "Dominique ☆ Sozo",
+      "url": "https://x.com/fi_sword",
+      "score": 15,
+      "discovered_at": "2026-06-29T22:53:07.987Z",
+      "last_seen_at": "2026-06-29T22:53:07.987Z",
+      "query": "\"comprei\" (amazon OR shopee OR \"mercado livre\")",
+      "reasons": [
+        "fala sobre compra ou produto recebido",
+        "menciona marketplaces usados pelo Promo Ninja"
+      ],
+      "sample_text": "Dominique ☆ Sozo @DominiqueSozo · 4h Replying to @fi_sword Eram duas versões, 200 reais de SW1 e 250 SW2, peguei a de SW2 mas me enviaram errado e não tinham mais a versão que comprei, me devolveram 50 reais por isso. Foi uma pré-venda pela shopee. 1 1 30",
+      "suggested_replies": [
+        "Boa! Esse tipo de achado costuma sumir rapido. Valeu por compartilhar a experiencia.",
+        "Chegou certinho? Quando o produto entrega bem, eu ja salvo para ficar de olho em novas quedas."
+      ],
+      "followed_at": null,
+      "follow_status": "candidate"
+    },
+    {
+      "username": "bellecoments",
+      "display_name": "Belle -",
+      "url": "https://x.com/bellecoments",
+      "score": 15,
+      "discovered_at": "2026-06-29T22:53:07.987Z",
+      "last_seen_at": "2026-06-29T22:53:07.987Z",
+      "query": "\"comprei\" (amazon OR shopee OR \"mercado livre\")",
+      "reasons": [
+        "fala sobre compra ou produto recebido",
+        "menciona marketplaces usados pelo Promo Ninja"
+      ],
+      "sample_text": "Belle - @bellecoments · 4h Replying to @vaidesmaiar Mas vai deixar o Brasil fazer mais gols e ganhar essa partida pq eu não comprei a camiseta na shopee a toa! 5 413",
+      "suggested_replies": [
+        "Boa! Esse tipo de achado costuma sumir rapido. Valeu por compartilhar a experiencia.",
+        "Chegou certinho? Quando o produto entrega bem, eu ja salvo para ficar de olho em novas quedas."
+      ],
+      "followed_at": null,
+      "follow_status": "candidate"
+    },
+    {
+      "username": "vaidesmaiar",
+      "display_name": "Belle -",
+      "url": "https://x.com/vaidesmaiar",
+      "score": 15,
+      "discovered_at": "2026-06-29T22:53:07.987Z",
+      "last_seen_at": "2026-06-29T22:53:07.987Z",
+      "query": "\"comprei\" (amazon OR shopee OR \"mercado livre\")",
+      "reasons": [
+        "fala sobre compra ou produto recebido",
+        "menciona marketplaces usados pelo Promo Ninja"
+      ],
+      "sample_text": "Belle - @bellecoments · 4h Replying to @vaidesmaiar Mas vai deixar o Brasil fazer mais gols e ganhar essa partida pq eu não comprei a camiseta na shopee a toa! 5 413",
+      "suggested_replies": [
+        "Boa! Esse tipo de achado costuma sumir rapido. Valeu por compartilhar a experiencia.",
+        "Chegou certinho? Quando o produto entrega bem, eu ja salvo para ficar de olho em novas quedas."
+      ],
+      "followed_at": null,
+      "follow_status": "candidate"
+    },
+    {
+      "username": "yelenaeuteamo",
+      "display_name": "Malice trevosa⊗",
+      "url": "https://x.com/yelenaeuteamo",
+      "score": 15,
+      "discovered_at": "2026-06-29T22:54:01.476Z",
+      "last_seen_at": "2026-06-29T22:54:01.476Z",
+      "query": "\"chegou\" (amazon OR shopee OR \"mercado livre\")",
+      "reasons": [
+        "fala sobre compra ou produto recebido",
+        "menciona marketplaces usados pelo Promo Ninja"
+      ],
+      "sample_text": "Malice trevosa⊗ @yelenaeuteamo · 34m Meu irmão comprou um celular pela amazon e chegou um bodysplash 6",
+      "suggested_replies": [
+        "Boa! Esse tipo de achado costuma sumir rapido. Valeu por compartilhar a experiencia.",
+        "Chegou certinho? Quando o produto entrega bem, eu ja salvo para ficar de olho em novas quedas."
+      ],
+      "followed_at": null,
+      "follow_status": "candidate"
+    },
+    {
+      "username": "clavaitnac",
+      "display_name": "´-´",
+      "url": "https://x.com/clavaitnac",
+      "score": 15,
+      "discovered_at": "2026-06-29T22:54:01.494Z",
+      "last_seen_at": "2026-06-29T22:54:01.494Z",
+      "query": "\"chegou\" (amazon OR shopee OR \"mercado livre\")",
+      "reasons": [
+        "fala sobre compra ou produto recebido",
+        "menciona marketplaces usados pelo Promo Ninja"
+      ],
+      "sample_text": "´-´ @clavaitnac · 38m Replying to @mikusabbath_ wow... pior q aliexpress demora msm, mas as coisas q eu peço na amazon q tem distribuidora em pernambuco é muito foda, pedi um hidratante sabado e chegou hoje já 1 9",
+      "suggested_replies": [
+        "Boa! Esse tipo de achado costuma sumir rapido. Valeu por compartilhar a experiencia.",
+        "Chegou certinho? Quando o produto entrega bem, eu ja salvo para ficar de olho em novas quedas."
+      ],
+      "followed_at": null,
+      "follow_status": "candidate"
+    },
+    {
+      "username": "mikusabbath_",
+      "display_name": "´-´",
+      "url": "https://x.com/mikusabbath_",
+      "score": 15,
+      "discovered_at": "2026-06-29T22:54:01.494Z",
+      "last_seen_at": "2026-06-29T22:54:01.494Z",
+      "query": "\"chegou\" (amazon OR shopee OR \"mercado livre\")",
+      "reasons": [
+        "fala sobre compra ou produto recebido",
+        "menciona marketplaces usados pelo Promo Ninja"
+      ],
+      "sample_text": "´-´ @clavaitnac · 38m Replying to @mikusabbath_ wow... pior q aliexpress demora msm, mas as coisas q eu peço na amazon q tem distribuidora em pernambuco é muito foda, pedi um hidratante sabado e chegou hoje já 1 9",
+      "suggested_replies": [
+        "Boa! Esse tipo de achado costuma sumir rapido. Valeu por compartilhar a experiencia.",
+        "Chegou certinho? Quando o produto entrega bem, eu ja salvo para ficar de olho em novas quedas."
+      ],
+      "followed_at": null,
+      "follow_status": "candidate"
+    },
+    {
+      "username": "itspedrito",
+      "display_name": "PEDRÃO",
+      "url": "https://x.com/itspedrito",
+      "score": 15,
+      "discovered_at": "2026-06-29T22:54:01.494Z",
+      "last_seen_at": "2026-06-29T22:54:01.494Z",
+      "query": "\"chegou\" (amazon OR shopee OR \"mercado livre\")",
+      "reasons": [
+        "fala sobre compra ou produto recebido",
+        "menciona marketplaces usados pelo Promo Ninja"
+      ],
+      "sample_text": "PEDRÃO @Itspedrito · 5h A camisa da seleção que eu comprei na Shopee nem chegou BRASIL TRATE DE VIRAR ESSE JOGO 2 19 294 8.7K",
+      "suggested_replies": [
+        "Boa! Esse tipo de achado costuma sumir rapido. Valeu por compartilhar a experiencia.",
+        "Chegou certinho? Quando o produto entrega bem, eu ja salvo para ficar de olho em novas quedas."
+      ],
+      "followed_at": null,
+      "follow_status": "candidate"
+    },
+    {
+      "username": "moongguktae",
+      "display_name": "Shimo 𐤀NO LABELS 2 VAI VER O BTS,ZM,HS,EN-, LT",
+      "url": "https://x.com/moongguktae",
+      "score": 15,
+      "discovered_at": "2026-06-29T22:54:01.494Z",
+      "last_seen_at": "2026-06-29T22:54:01.494Z",
+      "query": "\"chegou\" (amazon OR shopee OR \"mercado livre\")",
+      "reasons": [
+        "fala sobre compra ou produto recebido",
+        "menciona marketplaces usados pelo Promo Ninja"
+      ],
+      "sample_text": "Shimo 𐤀NO LABELS 2 VAI VER O BTS,ZM,HS,EN-, LT @moongguktae · 5h Parody account Nossa eu comprei o cradle pela shopee e ate hoje nao chegou 7",
+      "suggested_replies": [
+        "Boa! Esse tipo de achado costuma sumir rapido. Valeu por compartilhar a experiencia.",
+        "Chegou certinho? Quando o produto entrega bem, eu ja salvo para ficar de olho em novas quedas."
+      ],
+      "followed_at": null,
+      "follow_status": "candidate"
+    },
+    {
+      "username": "th_0896",
+      "display_name": "thiago ap",
+      "url": "https://x.com/th_0896",
+      "score": 15,
+      "discovered_at": "2026-06-29T22:54:01.495Z",
+      "last_seen_at": "2026-06-29T22:54:01.495Z",
+      "query": "\"chegou\" (amazon OR shopee OR \"mercado livre\")",
+      "reasons": [
+        "fala sobre compra ou produto recebido",
+        "menciona marketplaces usados pelo Promo Ninja"
+      ],
+      "sample_text": "thiago ap @th_0896 · 6h Fan account Sou um entusiasta de mídia física e sabendo que provavelmente jamais teremos algo assim no Brasil, adquiri alguns dos volumes em Blu-Ray de Kamen Rider que foram lançados nos Estados Unidos pela Discotek Media. Chegou recent",
+      "suggested_replies": [
+        "Boa! Esse tipo de achado costuma sumir rapido. Valeu por compartilhar a experiencia.",
+        "Chegou certinho? Quando o produto entrega bem, eu ja salvo para ficar de olho em novas quedas."
+      ],
+      "followed_at": null,
+      "follow_status": "candidate"
+    }
+  ]
+}

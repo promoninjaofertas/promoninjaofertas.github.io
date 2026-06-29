@@ -1,0 +1,358 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex,nofollow">
+  <meta name="referrer" content="strict-origin-when-cross-origin">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; base-uri 'self'; object-src 'none'; img-src 'self' https: data:; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline'; connect-src 'self'; upgrade-insecure-requests">
+  <title>Radar X | Promo Ninja</title>
+  <style>
+    :root {
+      --black:#050608;
+      --panel:#11141a;
+      --panel2:#171b23;
+      --line:#2b303b;
+      --yellow:#ffc400;
+      --orange:#ff6a00;
+      --green:#25d366;
+      --blue:#1d9bf0;
+      --muted:#9aa3b5;
+      --white:#fff;
+    }
+    * { box-sizing:border-box; }
+    body {
+      margin:0;
+      font-family:"Trebuchet MS","Avenir Next",sans-serif;
+      background:radial-gradient(circle at top left,rgba(255,196,0,.13),transparent 30%),var(--black);
+      color:var(--white);
+      min-width:320px;
+    }
+    a { color:inherit; }
+    .wrap { width:min(1160px,100%); margin:0 auto; padding:26px 18px 44px; }
+    header {
+      display:flex;
+      align-items:center;
+      justify-content:space-between;
+      gap:18px;
+      padding:18px;
+      border:1px solid var(--line);
+      border-radius:22px;
+      background:linear-gradient(120deg,#101319,#050608 62%,#312300);
+      box-shadow:0 20px 60px rgba(0,0,0,.28);
+    }
+    .brand { display:flex; align-items:center; gap:13px; }
+    .logo {
+      width:54px;
+      height:54px;
+      border-radius:16px;
+      background:#000 url("promo-ninja-logo.png") center/cover no-repeat;
+      box-shadow:0 0 22px rgba(255,196,0,.18);
+    }
+    h1 { margin:0; font-size:28px; line-height:1; }
+    .subtitle { margin:7px 0 0; color:var(--muted); font-size:14px; }
+    .back {
+      text-decoration:none;
+      background:var(--yellow);
+      color:#111;
+      border-radius:999px;
+      padding:11px 16px;
+      font-weight:900;
+      white-space:nowrap;
+    }
+    .stats {
+      display:grid;
+      grid-template-columns:repeat(4,minmax(0,1fr));
+      gap:12px;
+      margin:18px 0;
+    }
+    .stat {
+      border:1px solid var(--line);
+      border-radius:18px;
+      background:rgba(17,20,26,.92);
+      padding:15px;
+    }
+    .stat strong { display:block; font-size:24px; color:var(--yellow); }
+    .stat span { display:block; margin-top:5px; color:var(--muted); font-size:12px; }
+    .toolbar {
+      display:flex;
+      gap:10px;
+      align-items:center;
+      justify-content:space-between;
+      margin-bottom:14px;
+      padding:12px;
+      border:1px solid var(--line);
+      border-radius:18px;
+      background:var(--panel);
+    }
+    .toolbar input {
+      flex:1;
+      min-width:0;
+      border:1px solid var(--line);
+      border-radius:999px;
+      background:#080a0e;
+      color:#fff;
+      outline:0;
+      padding:12px 14px;
+    }
+    .toolbar select {
+      border:1px solid var(--line);
+      border-radius:999px;
+      background:#080a0e;
+      color:#fff;
+      outline:0;
+      padding:12px 14px;
+    }
+    .grid {
+      display:grid;
+      grid-template-columns:repeat(3,minmax(0,1fr));
+      gap:14px;
+    }
+    .card {
+      border:1px solid var(--line);
+      border-radius:20px;
+      background:linear-gradient(180deg,var(--panel),var(--panel2));
+      overflow:hidden;
+      min-width:0;
+      box-shadow:0 12px 30px rgba(0,0,0,.18);
+    }
+    .card-head {
+      display:flex;
+      align-items:center;
+      justify-content:space-between;
+      gap:10px;
+      padding:15px;
+      border-bottom:1px solid var(--line);
+    }
+    .user { min-width:0; }
+    .user strong { display:block; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+    .user a { display:block; color:var(--blue); text-decoration:none; margin-top:4px; font-size:13px; }
+    .score {
+      flex-shrink:0;
+      display:grid;
+      place-items:center;
+      min-width:46px;
+      height:46px;
+      border-radius:14px;
+      background:rgba(255,196,0,.14);
+      border:1px solid rgba(255,196,0,.5);
+      color:var(--yellow);
+      font-weight:900;
+    }
+    .body { padding:15px; }
+    .pill-row { display:flex; flex-wrap:wrap; gap:6px; margin-bottom:12px; }
+    .pill {
+      border:1px solid rgba(255,255,255,.12);
+      border-radius:999px;
+      padding:6px 8px;
+      color:#dfe4ef;
+      background:rgba(255,255,255,.04);
+      font-size:11px;
+    }
+    .sample {
+      color:#d8deea;
+      font-size:13px;
+      line-height:1.45;
+      min-height:72px;
+      word-break:break-word;
+    }
+    .suggestions {
+      margin-top:13px;
+      display:grid;
+      gap:8px;
+    }
+    .reply {
+      border-left:3px solid var(--yellow);
+      background:#0b0d12;
+      border-radius:11px;
+      padding:10px;
+      color:#f1f4f8;
+      font-size:12px;
+      line-height:1.4;
+    }
+    .status {
+      display:inline-flex;
+      align-items:center;
+      gap:6px;
+      margin-top:13px;
+      padding:7px 9px;
+      border-radius:999px;
+      color:#111;
+      background:#e6e8ee;
+      font-size:11px;
+      font-weight:900;
+    }
+    .status.followed { background:var(--green); color:#052611; }
+    .status.candidate { background:var(--yellow); }
+    .empty {
+      padding:28px;
+      border:1px dashed var(--line);
+      border-radius:18px;
+      text-align:center;
+      color:var(--muted);
+      background:rgba(255,255,255,.03);
+    }
+    footer { margin-top:24px; color:var(--muted); font-size:12px; line-height:1.5; }
+    @media (max-width:900px) {
+      .grid { grid-template-columns:repeat(2,minmax(0,1fr)); }
+      .stats { grid-template-columns:repeat(2,minmax(0,1fr)); }
+    }
+    @media (max-width:640px) {
+      header { align-items:flex-start; flex-direction:column; }
+      .grid { grid-template-columns:1fr; }
+      .toolbar { flex-direction:column; align-items:stretch; }
+      h1 { font-size:24px; }
+    }
+  </style>
+</head>
+<body>
+  <main class="wrap">
+    <header>
+      <div class="brand">
+        <div class="logo" aria-hidden="true"></div>
+        <div>
+          <h1>Radar X</h1>
+          <p class="subtitle">Perfis com potencial interesse em ofertas, cupons e achadinhos.</p>
+        </div>
+      </div>
+      <a class="back" href="/">Voltar ao site</a>
+    </header>
+
+    <section class="stats" aria-label="Resumo do radar">
+      <div class="stat"><strong id="total">0</strong><span>perfis no radar</span></div>
+      <div class="stat"><strong id="followedToday">0</strong><span>seguidos hoje</span></div>
+      <div class="stat"><strong id="autoFollow">-</strong><span>auto-follow</span></div>
+      <div class="stat"><strong id="updated">-</strong><span>última atualização</span></div>
+    </section>
+
+    <section class="toolbar">
+      <input id="search" type="search" placeholder="Buscar perfil, motivo ou termo...">
+      <select id="statusFilter" aria-label="Filtrar status">
+        <option value="all">Todos os perfis</option>
+        <option value="candidate">Candidatos</option>
+        <option value="followed">Já seguidos</option>
+      </select>
+    </section>
+
+    <section id="grid" class="grid" aria-live="polite"></section>
+    <footer>
+      <strong>Como usar:</strong> o radar encontra perfis públicos que falam sobre compras, cupons, marketplaces e produtos.
+      As respostas abaixo são sugestões humanas para quando fizer sentido conversar, sem copiar e colar em massa.
+    </footer>
+  </main>
+
+  <script>
+    const state = { profiles: [], search: '', status: 'all' };
+    const grid = document.querySelector('#grid');
+    const search = document.querySelector('#search');
+    const statusFilter = document.querySelector('#statusFilter');
+
+    fetch('x-radar.json?ts=' + Date.now())
+      .then((response) => response.ok ? response.json() : Promise.reject(new Error('Radar indisponível')))
+      .then((payload) => {
+        state.profiles = Array.isArray(payload.profiles) ? payload.profiles : [];
+        renderStats(payload);
+        render();
+      })
+      .catch((error) => {
+        grid.innerHTML = `<div class="empty">Ainda não foi possível carregar o radar: ${escapeHtml(error.message)}</div>`;
+      });
+
+    search.addEventListener('input', () => {
+      state.search = search.value.trim().toLowerCase();
+      render();
+    });
+    statusFilter.addEventListener('change', () => {
+      state.status = statusFilter.value;
+      render();
+    });
+
+    function renderStats(payload) {
+      const profiles = Array.isArray(payload.profiles) ? payload.profiles : [];
+      const today = new Date().toISOString().slice(0, 10);
+      const followed = profiles.filter((profile) => String(profile.followed_at || '').slice(0, 10) === today).length;
+      document.querySelector('#total').textContent = profiles.length;
+      document.querySelector('#followedToday').textContent = followed;
+      document.querySelector('#autoFollow').textContent = payload.auto_follow?.enabled ? 'Ligado' : 'Manual';
+      document.querySelector('#updated').textContent = payload.updated_at ? formatDate(payload.updated_at) : '-';
+    }
+
+    function render() {
+      const term = state.search;
+      const profiles = state.profiles
+        .filter((profile) => state.status === 'all' || profile.follow_status === state.status)
+        .filter((profile) => {
+          if (!term) return true;
+          const haystack = [
+            profile.username,
+            profile.display_name,
+            profile.sample_text,
+            ...(profile.reasons || []),
+            ...(profile.suggested_replies || []),
+          ].join(' ').toLowerCase();
+          return haystack.includes(term);
+        });
+
+      if (!profiles.length) {
+        grid.innerHTML = '<div class="empty">Nenhum perfil encontrado com esse filtro.</div>';
+        return;
+      }
+
+      grid.innerHTML = profiles.map(cardHtml).join('');
+    }
+
+    function cardHtml(profile) {
+      const status = profile.follow_status || 'candidate';
+      const reasons = (profile.reasons || []).map((reason) => `<span class="pill">${escapeHtml(reason)}</span>`).join('');
+      const replies = (profile.suggested_replies || [])
+        .slice(0, 3)
+        .map((reply) => `<div class="reply">${escapeHtml(reply)}</div>`)
+        .join('');
+      return `
+        <article class="card">
+          <div class="card-head">
+            <div class="user">
+              <strong>${escapeHtml(profile.display_name || profile.username)}</strong>
+              <a href="${escapeAttr(profile.url)}" target="_blank" rel="noopener noreferrer">@${escapeHtml(profile.username)}</a>
+            </div>
+            <div class="score">${Number(profile.score || 0)}</div>
+          </div>
+          <div class="body">
+            <div class="pill-row">${reasons}</div>
+            <p class="sample">${escapeHtml(profile.sample_text || 'Sem amostra de texto.')}</p>
+            <div class="suggestions">${replies}</div>
+            <span class="status ${escapeAttr(status)}">${status === 'followed' ? 'Seguido' : 'Candidato'}</span>
+          </div>
+        </article>
+      `;
+    }
+
+    function formatDate(value) {
+      try {
+        return new Intl.DateTimeFormat('pt-BR', {
+          day: '2-digit',
+          month: '2-digit',
+          hour: '2-digit',
+          minute: '2-digit',
+        }).format(new Date(value));
+      } catch {
+        return '-';
+      }
+    }
+
+    function escapeHtml(value) {
+      return String(value ?? '').replace(/[&<>"']/g, (char) => ({
+        '&': '&amp;',
+        '<': '&lt;',
+        '>': '&gt;',
+        '"': '&quot;',
+        "'": '&#39;',
+      })[char]);
+    }
+
+    function escapeAttr(value) {
+      return escapeHtml(value).replace(/`/g, '&#96;');
+    }
+  </script>
+</body>
+</html>
