@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T23:06:49.986Z",
+  "updated_at": "2026-06-29T23:14:25.901Z",
   "page": "https://promoninjaofertas.github.io/x-radar.html",
   "auto_follow": {
     "enabled": false,
@@ -10,7 +10,7 @@
   },
   "notes": [
     "Radar operacional do Promo Ninja. Perfis sao sugestoes baseadas em posts publicos do X.",
-    "Auto-follow limitado para reduzir risco de bloqueio em conta nova."
+    "Lista limpa offline com filtros de seguranca; nenhuma conta foi seguida nesta rodada."
   ],
   "profiles": [
     {
@@ -112,48 +112,6 @@
       "suggested_replies": [
         "Boa! Esse tipo de achado costuma sumir rapido. Valeu por compartilhar a experiencia.",
         "Chegou certinho? Quando o produto entrega bem, eu ja salvo para ficar de olho em novas quedas."
-      ],
-      "followed_at": null,
-      "follow_status": "candidate"
-    },
-    {
-      "username": "ninetrindade",
-      "display_name": "Shopping da Nine",
-      "url": "https://x.com/ninetrindade",
-      "score": 21,
-      "discovered_at": "2026-06-29T22:54:01.495Z",
-      "last_seen_at": "2026-06-29T22:54:01.495Z",
-      "query": "\"chegou\" (amazon OR shopee OR \"mercado livre\")",
-      "reasons": [
-        "fala sobre compra ou produto recebido",
-        "interage com ofertas, cupons ou descontos",
-        "menciona marketplaces usados pelo Promo Ninja"
-      ],
-      "sample_text": "Shopping da Nine @ninetrindade · 6h CUPOM SHOPEE PRA VOCÊ ECONOMIZAR DIVA! Se você estava esperando aquele empurrãozinho para finalizar o carrinho, chegou a hora! 3C0N0M1Z4R - 10/60 C0M3M0R4R - 5/20 Cupom valida para compras no link abaixo, estoque limitado! P",
-      "suggested_replies": [
-        "Boa! Esse tipo de achado costuma sumir rapido. Valeu por compartilhar a experiencia.",
-        "Chegou certinho? Quando o produto entrega bem, eu ja salvo para ficar de olho em novas quedas."
-      ],
-      "followed_at": null,
-      "follow_status": "candidate"
-    },
-    {
-      "username": "innarik1",
-      "display_name": "Innarik",
-      "url": "https://x.com/innarik1",
-      "score": 21,
-      "discovered_at": "2026-06-29T22:55:30.078Z",
-      "last_seen_at": "2026-06-29T23:06:14.983Z",
-      "query": "\"setup gamer\" (comprei OR promoção OR desconto)",
-      "reasons": [
-        "fala sobre compra ou produto recebido",
-        "interage com ofertas, cupons ou descontos",
-        "tem interesse em tecnologia ou consumo"
-      ],
-      "sample_text": "Innarik @Innarik1 · Jun 2 A lagartixa onírica agora é afiliada da Blacklyte, só usar meu código e já recebe 15% de desconto nas compras pro setup gamer Confere aqui: https:// blacklyte.com/INNACREDITAVEL 4 5 150",
-      "suggested_replies": [
-        "Esse encaixa bem em setup. Se aparecer com cupom bom, vale muito ficar de olho.",
-        "Para setup, desconto real e avaliacao boa fazem muita diferenca. Bom achado."
       ],
       "followed_at": null,
       "follow_status": "candidate"
