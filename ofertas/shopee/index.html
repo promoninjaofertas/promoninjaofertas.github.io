@@ -186,7 +186,10 @@
   .social-qr{width:112px;height:112px;background:#fff;border-radius:10px;padding:7px;display:block;}
   .social-card.compact .social-content{grid-template-columns:1fr 76px;margin-top:10px;}
   .social-card.compact .social-qr{width:76px;height:76px;padding:5px;border-radius:8px;}
+  .social-actions{display:grid;gap:7px;margin-top:11px;position:relative;z-index:1;}
   .social-button{margin-top:11px;display:flex;align-items:center;justify-content:center;gap:7px;background:var(--accent);color:#111;text-decoration:none;border-radius:9px;padding:10px;font-size:12px;font-weight:900;position:relative;z-index:1;transition:transform .18s,filter .18s;}
+  .social-actions .social-button{margin-top:0;}
+  .social-button.secondary{background:transparent!important;color:#fff;border:1px solid rgba(255,255,255,.24);}
   .social-button:hover{transform:translateY(-1px);filter:brightness(1.06);}
   .social-card.whatsapp .social-button{color:#fff;}
   .social-card.twitter .social-button{background:#fff;}
@@ -232,6 +235,8 @@
     .social-copy h3{font-size:12px;}.social-copy p{font-size:10px;}
     .social-content{display:none!important;}
     .social-button{margin-top:auto;padding:9px 7px;font-size:11px;}
+    .social-actions{margin-top:auto;}
+    .social-actions .social-button{margin-top:0;}
     .catalog-panel{width:100%;}
     .floating-telegram{display:grid;}
   }
@@ -350,8 +355,11 @@
           <span class="social-icon"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2H21.5l-7.116 8.133L22.75 22h-6.55l-5.13-6.708L5.2 22H1.94l7.594-8.68L1.5 2h6.716l4.638 6.13L18.244 2Zm-1.143 17.91h1.804L7.235 3.98H5.3l11.8 15.93Z"/></svg></span>
           <div class="social-copy"><h3>Promo Ninja no X</h3><p>Siga @PromoNinja_ofi.</p></div>
         </div>
-        <div class="social-content"><ul class="benefits"><li><b>&#10003;</b>Novas ofertas</li><li><b>&#10003;</b>Perfil oficial</li></ul><img class="social-qr" src="https://api.qrserver.com/v1/create-qr-code/?size=220x220&amp;data=https%3A%2F%2Fx.com%2FPromoNinja_ofi" alt="QR Code do perfil no X"></div>
-        <a class="social-button" href="https://x.com/PromoNinja_ofi" target="_blank" rel="noopener">Seguir no X</a>
+        <div class="social-content"><ul class="benefits"><li><b>&#10003;</b>Novas ofertas</li><li><b>&#10003;</b>Radar de perfis</li></ul><img class="social-qr" src="https://api.qrserver.com/v1/create-qr-code/?size=220x220&amp;data=https%3A%2F%2Fx.com%2FPromoNinja_ofi" alt="QR Code do perfil no X"></div>
+        <div class="social-actions">
+          <a class="social-button" href="https://x.com/PromoNinja_ofi" target="_blank" rel="noopener">Seguir no X</a>
+          <a class="social-button secondary" href="/x-radar.html">Ver radar de perfis</a>
+        </div>
       </section>
     </aside>
   </div>

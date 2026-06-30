@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-30T13:25:14.989Z",
+  "updated_at": "2026-06-30T23:24:28.883Z",
   "page": "https://promoninjaofertas.github.io/x-radar.html",
   "auto_follow": {
-    "enabled": true,
+    "enabled": false,
     "daily_limit": 4,
     "big_profile_daily_limit": 1,
     "min_score": 18,
@@ -11,7 +11,7 @@
   },
   "notes": [
     "Radar operacional do Promo Ninja. Perfis sao sugestoes baseadas em posts publicos do X.",
-    "Auto-follow limitado para reduzir risco de bloqueio em conta nova."
+    "Lista limpa offline com filtros de seguranca; nenhuma conta foi seguida nesta rodada."
   ],
   "profiles": [
     {
