@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-30T23:37:03.777Z",
+  "updated_at": "2026-06-30T23:47:28.788Z",
   "page": "https://promoninjaofertas.github.io/x-radar.html",
   "auto_follow": {
     "enabled": true,
-    "daily_limit": 1,
+    "daily_limit": 4,
     "big_profile_daily_limit": 1,
     "min_score": 18,
-    "followed_today_before": 0,
-    "followed_this_run": 1,
-    "attempts_this_run": 1
+    "followed_today_before": 1,
+    "followed_this_run": 3,
+    "attempts_this_run": 3
   },
   "notes": [
     "Radar operacional do Promo Ninja. Perfis sao sugestoes baseadas em posts publicos do X.",
@@ -78,8 +78,10 @@
         "Boa! Esse tipo de achado costuma sumir rapido. Valeu por compartilhar a experiencia.",
         "Chegou certinho? Quando o produto entrega bem, eu ja salvo para ficar de olho em novas quedas."
       ],
-      "followed_at": null,
-      "follow_status": "skipped_or_unavailable"
+      "followed_at": "2026-06-30T23:46:01.588Z",
+      "follow_status": "followed",
+      "follow_last_result": "clicked_unverified",
+      "follow_last_attempt_at": "2026-06-30T23:46:01.588Z"
     },
     {
       "username": "tiorapadura",
@@ -99,8 +101,10 @@
         "Boa! Esse tipo de achado costuma sumir rapido. Valeu por compartilhar a experiencia.",
         "Chegou certinho? Quando o produto entrega bem, eu ja salvo para ficar de olho em novas quedas."
       ],
-      "followed_at": null,
-      "follow_status": "skipped_or_unavailable"
+      "followed_at": "2026-06-30T23:46:45.980Z",
+      "follow_status": "followed",
+      "follow_last_result": "followed_verified",
+      "follow_last_attempt_at": "2026-06-30T23:46:45.980Z"
     },
     {
       "username": "mangolocoholic",
@@ -119,8 +123,10 @@
         "Boa! Esse tipo de achado costuma sumir rapido. Valeu por compartilhar a experiencia.",
         "Chegou certinho? Quando o produto entrega bem, eu ja salvo para ficar de olho em novas quedas."
       ],
-      "followed_at": null,
-      "follow_status": "candidate"
+      "followed_at": "2026-06-30T23:47:20.988Z",
+      "follow_status": "followed",
+      "follow_last_result": "clicked_unverified",
+      "follow_last_attempt_at": "2026-06-30T23:47:20.987Z"
     },
     {
       "username": "jessdopoder",
@@ -372,13 +378,13 @@
       "url": "https://x.com/singularityboyy",
       "score": 19,
       "discovered_at": "2026-06-30T23:34:32.374Z",
-      "last_seen_at": "2026-06-30T23:34:32.776Z",
+      "last_seen_at": "2026-06-30T23:43:55.877Z",
       "query": "\"comprei\" (amazon OR shopee OR \"mercado livre\")",
       "reasons": [
         "fala sobre compra ou produto recebido",
         "menciona marketplaces usados pelo Promo Ninja"
       ],
-      "sample_text": "ERIRANG no DEADLINE @singularityboyy · 12m Replying to @kiwistones and @sailorduda eu comprei os meus na shopee, só q são um pouco maiores q esse, paguei baratinho https:// s.shopee.com.br/9fIwbUN5CD 8",
+      "sample_text": "ERIRANG no DEADLINE @singularityboyy · 22m Replying to @kiwistones and @sailorduda eu comprei os meus na shopee, só q são um pouco maiores q esse, paguei baratinho https:// s.shopee.com.br/9fIwbUN5CD 10",
       "suggested_replies": [
         "Boa! Esse tipo de achado costuma sumir rapido. Valeu por compartilhar a experiencia.",
         "Chegou certinho? Quando o produto entrega bem, eu ja salvo para ficar de olho em novas quedas."
@@ -392,13 +398,13 @@
       "url": "https://x.com/kiribakugo",
       "score": 19,
       "discovered_at": "2026-06-30T23:34:32.776Z",
-      "last_seen_at": "2026-06-30T23:34:32.776Z",
+      "last_seen_at": "2026-06-30T23:43:55.876Z",
       "query": "\"comprei\" (amazon OR shopee OR \"mercado livre\")",
       "reasons": [
         "fala sobre compra ou produto recebido",
         "menciona marketplaces usados pelo Promo Ninja"
       ],
-      "sample_text": "ERIRANG no DEADLINE @singularityboyy · 9m Replying to @kiribakugo visshhh, comprei três tiple na shopee e foi mais barato q isso 6",
+      "sample_text": "ERIRANG no DEADLINE @singularityboyy · 19m Replying to @kiribakugo visshhh, comprei três tiple na shopee e foi mais barato q isso 12",
       "suggested_replies": [
         "Boa! Esse tipo de achado costuma sumir rapido. Valeu por compartilhar a experiencia.",
         "Chegou certinho? Quando o produto entrega bem, eu ja salvo para ficar de olho em novas quedas."
