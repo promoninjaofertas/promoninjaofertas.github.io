@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T23:29:19.692Z",
+  "updated_at": "2026-06-30T23:37:03.777Z",
   "page": "https://promoninjaofertas.github.io/x-radar.html",
   "auto_follow": {
     "enabled": true,
@@ -7,7 +7,7 @@
     "big_profile_daily_limit": 1,
     "min_score": 18,
     "followed_today_before": 0,
-    "followed_this_run": 0,
+    "followed_this_run": 1,
     "attempts_this_run": 1
   },
   "notes": [
@@ -56,8 +56,10 @@
         "Boa! Esse tipo de achado costuma sumir rapido. Valeu por compartilhar a experiencia.",
         "Chegou certinho? Quando o produto entrega bem, eu ja salvo para ficar de olho em novas quedas."
       ],
-      "followed_at": null,
-      "follow_status": "skipped_or_unavailable"
+      "followed_at": "2026-06-30T23:36:57.875Z",
+      "follow_status": "followed",
+      "follow_last_result": "followed_verified",
+      "follow_last_attempt_at": "2026-06-30T23:36:57.875Z"
     },
     {
       "username": "irimizi",
@@ -365,6 +367,67 @@
       "follow_status": "candidate"
     },
     {
+      "username": "singularityboyy",
+      "display_name": "ERIRANG no DEADLINE",
+      "url": "https://x.com/singularityboyy",
+      "score": 19,
+      "discovered_at": "2026-06-30T23:34:32.374Z",
+      "last_seen_at": "2026-06-30T23:34:32.776Z",
+      "query": "\"comprei\" (amazon OR shopee OR \"mercado livre\")",
+      "reasons": [
+        "fala sobre compra ou produto recebido",
+        "menciona marketplaces usados pelo Promo Ninja"
+      ],
+      "sample_text": "ERIRANG no DEADLINE @singularityboyy · 12m Replying to @kiwistones and @sailorduda eu comprei os meus na shopee, só q são um pouco maiores q esse, paguei baratinho https:// s.shopee.com.br/9fIwbUN5CD 8",
+      "suggested_replies": [
+        "Boa! Esse tipo de achado costuma sumir rapido. Valeu por compartilhar a experiencia.",
+        "Chegou certinho? Quando o produto entrega bem, eu ja salvo para ficar de olho em novas quedas."
+      ],
+      "followed_at": null,
+      "follow_status": "candidate"
+    },
+    {
+      "username": "kiribakugo",
+      "display_name": "ERIRANG no DEADLINE",
+      "url": "https://x.com/kiribakugo",
+      "score": 19,
+      "discovered_at": "2026-06-30T23:34:32.776Z",
+      "last_seen_at": "2026-06-30T23:34:32.776Z",
+      "query": "\"comprei\" (amazon OR shopee OR \"mercado livre\")",
+      "reasons": [
+        "fala sobre compra ou produto recebido",
+        "menciona marketplaces usados pelo Promo Ninja"
+      ],
+      "sample_text": "ERIRANG no DEADLINE @singularityboyy · 9m Replying to @kiribakugo visshhh, comprei três tiple na shopee e foi mais barato q isso 6",
+      "suggested_replies": [
+        "Boa! Esse tipo de achado costuma sumir rapido. Valeu por compartilhar a experiencia.",
+        "Chegou certinho? Quando o produto entrega bem, eu ja salvo para ficar de olho em novas quedas."
+      ],
+      "followed_at": null,
+      "follow_status": "candidate"
+    },
+    {
+      "username": "lusoutomenor",
+      "display_name": "marylumenor fragmentada",
+      "url": "https://x.com/lusoutomenor",
+      "score": 19,
+      "discovered_at": "2026-06-30T23:34:32.781Z",
+      "last_seen_at": "2026-06-30T23:34:32.781Z",
+      "query": "\"comprei\" (amazon OR shopee OR \"mercado livre\")",
+      "reasons": [
+        "fala sobre compra ou produto recebido",
+        "interage com ofertas, cupons ou descontos",
+        "menciona marketplaces usados pelo Promo Ninja"
+      ],
+      "sample_text": "marylumenor fragmentada @lusoutomenor · 51m Comprei o produto que mudou meu cabelo graças a promoção do mercado livre!! Davines beautyfing mask obg por tudo de 340 por 170 6",
+      "suggested_replies": [
+        "Boa! Esse tipo de achado costuma sumir rapido. Valeu por compartilhar a experiencia.",
+        "Chegou certinho? Quando o produto entrega bem, eu ja salvo para ficar de olho em novas quedas."
+      ],
+      "followed_at": null,
+      "follow_status": "candidate"
+    },
+    {
       "username": "capitaoodeo",
       "display_name": "Capitão Odeo",
       "url": "https://x.com/capitaoodeo",
@@ -567,68 +630,6 @@
         "tem interesse em tecnologia ou consumo"
       ],
       "sample_text": "cici @thvfangs · Jun 27 Replying to @mychemicalcloti amor comprei um da xiaomi que vi uma galera recomendando, to rezando pra ele ser bom 1 13",
-      "suggested_replies": [
-        "Boa! Esse tipo de achado costuma sumir rapido. Valeu por compartilhar a experiencia.",
-        "Chegou certinho? Quando o produto entrega bem, eu ja salvo para ficar de olho em novas quedas."
-      ],
-      "followed_at": null,
-      "follow_status": "candidate"
-    },
-    {
-      "username": "carolina_ama_",
-      "display_name": "Carolina⁷",
-      "url": "https://x.com/carolina_ama_",
-      "score": 18,
-      "discovered_at": "2026-06-30T13:24:14.188Z",
-      "last_seen_at": "2026-06-30T13:24:14.188Z",
-      "query": "\"xiaomi\" (comprei OR chegou OR promoção)",
-      "reasons": [
-        "fala sobre compra ou produto recebido",
-        "interage com ofertas, cupons ou descontos",
-        "tem interesse em tecnologia ou consumo"
-      ],
-      "sample_text": "Carolina⁷ @Carolina_AMA_ · Jun 26 Fan account A powerbank que comprei da xiaomi é a melhor para o meu telemóvel. Porque se levar a antiga que tenho não vai dar para carregar o telemóvel todo 109",
-      "suggested_replies": [
-        "Boa! Esse tipo de achado costuma sumir rapido. Valeu por compartilhar a experiencia.",
-        "Chegou certinho? Quando o produto entrega bem, eu ja salvo para ficar de olho em novas quedas."
-      ],
-      "followed_at": null,
-      "follow_status": "candidate"
-    },
-    {
-      "username": "v1n1111111",
-      "display_name": "vini.",
-      "url": "https://x.com/v1n1111111",
-      "score": 18,
-      "discovered_at": "2026-06-30T13:24:14.188Z",
-      "last_seen_at": "2026-06-30T13:24:14.188Z",
-      "query": "\"xiaomi\" (comprei OR chegou OR promoção)",
-      "reasons": [
-        "fala sobre compra ou produto recebido",
-        "interage com ofertas, cupons ou descontos",
-        "tem interesse em tecnologia ou consumo"
-      ],
-      "sample_text": "vini. @v1n1111111 · Jun 25 Parody account xiaomi OBRIGADO de coração pelo aspirador robô (que comprei, não ganhei kkkk) 29",
-      "suggested_replies": [
-        "Boa! Esse tipo de achado costuma sumir rapido. Valeu por compartilhar a experiencia.",
-        "Chegou certinho? Quando o produto entrega bem, eu ja salvo para ficar de olho em novas quedas."
-      ],
-      "followed_at": null,
-      "follow_status": "candidate"
-    },
-    {
-      "username": "jealouslingorm",
-      "display_name": "Alessandra",
-      "url": "https://x.com/jealouslingorm",
-      "score": 17,
-      "discovered_at": "2026-06-29T22:56:11.274Z",
-      "last_seen_at": "2026-06-29T22:56:11.274Z",
-      "query": "\"fone bluetooth\" (comprei OR chegou OR promoção)",
-      "reasons": [
-        "fala sobre compra ou produto recebido",
-        "interage com ofertas, cupons ou descontos"
-      ],
-      "sample_text": "Alessandra @jealouslingorm · May 20 Fan account Meu fone novo chegou, agora só falta o headset. NÃO AGUENTAVA MAIS FICAR USANDO FONE BLUETOOTH NO CELULAR. 1 1 78",
       "suggested_replies": [
         "Boa! Esse tipo de achado costuma sumir rapido. Valeu por compartilhar a experiencia.",
         "Chegou certinho? Quando o produto entrega bem, eu ja salvo para ficar de olho em novas quedas."
