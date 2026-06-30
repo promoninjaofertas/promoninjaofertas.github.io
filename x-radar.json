@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-29T23:27:07.292Z",
+  "updated_at": "2026-06-30T13:25:14.989Z",
   "page": "https://promoninjaofertas.github.io/x-radar.html",
   "auto_follow": {
-    "enabled": false,
+    "enabled": true,
     "daily_limit": 4,
     "big_profile_daily_limit": 1,
     "min_score": 18,
@@ -11,7 +11,7 @@
   },
   "notes": [
     "Radar operacional do Promo Ninja. Perfis sao sugestoes baseadas em posts publicos do X.",
-    "Lista limpa offline com filtros de seguranca; nenhuma conta foi seguida nesta rodada."
+    "Auto-follow limitado para reduzir risco de bloqueio em conta nova."
   ],
   "profiles": [
     {
@@ -20,7 +20,7 @@
       "url": "https://x.com/geektrendcombr",
       "score": 26,
       "discovered_at": "2026-06-29T22:55:30.078Z",
-      "last_seen_at": "2026-06-29T23:06:14.888Z",
+      "last_seen_at": "2026-06-30T13:23:00.279Z",
       "query": "\"setup gamer\" (comprei OR promoção OR desconto)",
       "reasons": [
         "fala sobre compra ou produto recebido",
@@ -34,7 +34,7 @@
         "Para setup, desconto real e avaliacao boa fazem muita diferenca. Bom achado."
       ],
       "followed_at": null,
-      "follow_status": "candidate"
+      "follow_status": "skipped_or_unavailable"
     },
     {
       "username": "niasguts",
@@ -54,7 +54,7 @@
         "Chegou certinho? Quando o produto entrega bem, eu ja salvo para ficar de olho em novas quedas."
       ],
       "followed_at": null,
-      "follow_status": "candidate"
+      "follow_status": "skipped_or_unavailable"
     },
     {
       "username": "irimizi",
@@ -74,7 +74,7 @@
         "Chegou certinho? Quando o produto entrega bem, eu ja salvo para ficar de olho em novas quedas."
       ],
       "followed_at": null,
-      "follow_status": "candidate"
+      "follow_status": "skipped_or_unavailable"
     },
     {
       "username": "tiorapadura",
@@ -82,7 +82,7 @@
       "url": "https://x.com/tiorapadura",
       "score": 22,
       "discovered_at": "2026-06-29T22:55:30.078Z",
-      "last_seen_at": "2026-06-29T23:06:14.997Z",
+      "last_seen_at": "2026-06-30T13:23:00.280Z",
       "query": "\"setup gamer\" (comprei OR promoção OR desconto)",
       "reasons": [
         "fala sobre compra ou produto recebido",
@@ -95,7 +95,7 @@
         "Chegou certinho? Quando o produto entrega bem, eu ja salvo para ficar de olho em novas quedas."
       ],
       "followed_at": null,
-      "follow_status": "candidate"
+      "follow_status": "skipped_or_unavailable"
     },
     {
       "username": "mangolocoholic",
@@ -110,6 +110,67 @@
         "interage com ofertas, cupons ou descontos"
       ],
       "sample_text": "𝖇𝖎𝖇𝖎𝖆 @mangolocoholic · May 18 isso nunca aconteceria com meu fone d fio.. (eu, sendo a maior hater d fone bluetooth, comprei um e estou extremamente decepcionada 3 66",
+      "suggested_replies": [
+        "Boa! Esse tipo de achado costuma sumir rapido. Valeu por compartilhar a experiencia.",
+        "Chegou certinho? Quando o produto entrega bem, eu ja salvo para ficar de olho em novas quedas."
+      ],
+      "followed_at": null,
+      "follow_status": "candidate"
+    },
+    {
+      "username": "jessdopoder",
+      "display_name": "JESS VAI VER O BTS DE NOVO",
+      "url": "https://x.com/jessdopoder",
+      "score": 20,
+      "discovered_at": "2026-06-30T13:20:52.198Z",
+      "last_seen_at": "2026-06-30T13:20:52.677Z",
+      "query": "\"comprei\" (amazon OR shopee OR \"mercado livre\")",
+      "reasons": [
+        "fala sobre compra ou produto recebido",
+        "menciona marketplaces usados pelo Promo Ninja",
+        "tem interesse em tecnologia ou consumo"
+      ],
+      "sample_text": "JESS VAI VER O BTS DE NOVO @jessdopoder · 2h comprei camisa do Brasil na shopee de 30 reais, bom dia 1 20",
+      "suggested_replies": [
+        "Boa! Esse tipo de achado costuma sumir rapido. Valeu por compartilhar a experiencia.",
+        "Chegou certinho? Quando o produto entrega bem, eu ja salvo para ficar de olho em novas quedas."
+      ],
+      "followed_at": null,
+      "follow_status": "candidate"
+    },
+    {
+      "username": "fernandotmello",
+      "display_name": "Fernando",
+      "url": "https://x.com/fernandotmello",
+      "score": 20,
+      "discovered_at": "2026-06-30T13:20:52.680Z",
+      "last_seen_at": "2026-06-30T13:20:52.680Z",
+      "query": "\"comprei\" (amazon OR shopee OR \"mercado livre\")",
+      "reasons": [
+        "fala sobre compra ou produto recebido",
+        "menciona marketplaces usados pelo Promo Ninja"
+      ],
+      "sample_text": "Fernando @FernandoTMello · 10h Replying to @guibsondantas Já comprei muito livros na @amazon . Inclusive, antes de existir o site no Brasil, comprava no seu site americano. No entanto, estou decepcionado com o atendimento ao cliente. Ainda comprarei lá, mas o ",
+      "suggested_replies": [
+        "Boa! Esse tipo de achado costuma sumir rapido. Valeu por compartilhar a experiencia.",
+        "Chegou certinho? Quando o produto entrega bem, eu ja salvo para ficar de olho em novas quedas."
+      ],
+      "followed_at": null,
+      "follow_status": "candidate"
+    },
+    {
+      "username": "guibsondantas",
+      "display_name": "Fernando",
+      "url": "https://x.com/guibsondantas",
+      "score": 20,
+      "discovered_at": "2026-06-30T13:20:52.680Z",
+      "last_seen_at": "2026-06-30T13:20:52.680Z",
+      "query": "\"comprei\" (amazon OR shopee OR \"mercado livre\")",
+      "reasons": [
+        "fala sobre compra ou produto recebido",
+        "menciona marketplaces usados pelo Promo Ninja"
+      ],
+      "sample_text": "Fernando @FernandoTMello · 10h Replying to @guibsondantas Já comprei muito livros na @amazon . Inclusive, antes de existir o site no Brasil, comprava no seu site americano. No entanto, estou decepcionado com o atendimento ao cliente. Ainda comprarei lá, mas o ",
       "suggested_replies": [
         "Boa! Esse tipo de achado costuma sumir rapido. Valeu por compartilhar a experiencia.",
         "Chegou certinho? Quando o produto entrega bem, eu ja salvo para ficar de olho em novas quedas."
@@ -221,6 +282,338 @@
       "follow_status": "candidate"
     },
     {
+      "username": "jinridofx",
+      "display_name": "Lou ⁵ do f(x) ⚢",
+      "url": "https://x.com/jinridofx",
+      "score": 19,
+      "discovered_at": "2026-06-30T13:20:52.679Z",
+      "last_seen_at": "2026-06-30T13:20:52.679Z",
+      "query": "\"comprei\" (amazon OR shopee OR \"mercado livre\")",
+      "reasons": [
+        "fala sobre compra ou produto recebido",
+        "menciona marketplaces usados pelo Promo Ninja"
+      ],
+      "sample_text": "Lou ⁵ do f(x) ⚢ @Jinridofx · 2h Parody account Replying to @rude1uv Então amgg, O the reve festival e o the red eu comprei na shopee, numa loja chamada musicnshop que tem vários álbuns antigos e da 3 gen também, dependendo do álbum dá pra achar por um preço bo",
+      "suggested_replies": [
+        "Boa! Esse tipo de achado costuma sumir rapido. Valeu por compartilhar a experiencia.",
+        "Chegou certinho? Quando o produto entrega bem, eu ja salvo para ficar de olho em novas quedas."
+      ],
+      "followed_at": null,
+      "follow_status": "candidate"
+    },
+    {
+      "username": "rude1uv",
+      "display_name": "Lou ⁵ do f(x) ⚢",
+      "url": "https://x.com/rude1uv",
+      "score": 19,
+      "discovered_at": "2026-06-30T13:20:52.679Z",
+      "last_seen_at": "2026-06-30T13:20:52.679Z",
+      "query": "\"comprei\" (amazon OR shopee OR \"mercado livre\")",
+      "reasons": [
+        "fala sobre compra ou produto recebido",
+        "menciona marketplaces usados pelo Promo Ninja"
+      ],
+      "sample_text": "Lou ⁵ do f(x) ⚢ @Jinridofx · 2h Parody account Replying to @rude1uv Então amgg, O the reve festival e o the red eu comprei na shopee, numa loja chamada musicnshop que tem vários álbuns antigos e da 3 gen também, dependendo do álbum dá pra achar por um preço bo",
+      "suggested_replies": [
+        "Boa! Esse tipo de achado costuma sumir rapido. Valeu por compartilhar a experiencia.",
+        "Chegou certinho? Quando o produto entrega bem, eu ja salvo para ficar de olho em novas quedas."
+      ],
+      "followed_at": null,
+      "follow_status": "candidate"
+    },
+    {
+      "username": "my__sunshine97",
+      "display_name": "Clarinha ⁷ VAI VER O BTS dnv",
+      "url": "https://x.com/my__sunshine97",
+      "score": 19,
+      "discovered_at": "2026-06-30T13:20:52.680Z",
+      "last_seen_at": "2026-06-30T13:20:52.680Z",
+      "query": "\"comprei\" (amazon OR shopee OR \"mercado livre\")",
+      "reasons": [
+        "fala sobre compra ou produto recebido",
+        "menciona marketplaces usados pelo Promo Ninja"
+      ],
+      "sample_text": "Clarinha ⁷ VAI VER O BTS dnv @my__sunshine97 · 11h Replying to @hithyrty A minha eu comprei presencial amg ent foi um pouco mais barato … eu achei ela na Shopee 33",
+      "suggested_replies": [
+        "Boa! Esse tipo de achado costuma sumir rapido. Valeu por compartilhar a experiencia.",
+        "Chegou certinho? Quando o produto entrega bem, eu ja salvo para ficar de olho em novas quedas."
+      ],
+      "followed_at": null,
+      "follow_status": "candidate"
+    },
+    {
+      "username": "hithyrty",
+      "display_name": "Clarinha ⁷ VAI VER O BTS dnv",
+      "url": "https://x.com/hithyrty",
+      "score": 19,
+      "discovered_at": "2026-06-30T13:20:52.680Z",
+      "last_seen_at": "2026-06-30T13:20:52.680Z",
+      "query": "\"comprei\" (amazon OR shopee OR \"mercado livre\")",
+      "reasons": [
+        "fala sobre compra ou produto recebido",
+        "menciona marketplaces usados pelo Promo Ninja"
+      ],
+      "sample_text": "Clarinha ⁷ VAI VER O BTS dnv @my__sunshine97 · 11h Replying to @hithyrty A minha eu comprei presencial amg ent foi um pouco mais barato … eu achei ela na Shopee 33",
+      "suggested_replies": [
+        "Boa! Esse tipo de achado costuma sumir rapido. Valeu por compartilhar a experiencia.",
+        "Chegou certinho? Quando o produto entrega bem, eu ja salvo para ficar de olho em novas quedas."
+      ],
+      "followed_at": null,
+      "follow_status": "candidate"
+    },
+    {
+      "username": "capitaoodeo",
+      "display_name": "Capitão Odeo",
+      "url": "https://x.com/capitaoodeo",
+      "score": 18,
+      "discovered_at": "2026-06-30T13:24:14.183Z",
+      "last_seen_at": "2026-06-30T13:24:14.183Z",
+      "query": "\"xiaomi\" (comprei OR chegou OR promoção)",
+      "reasons": [
+        "fala sobre compra ou produto recebido",
+        "interage com ofertas, cupons ou descontos",
+        "tem interesse em tecnologia ou consumo"
+      ],
+      "sample_text": "Capitão Odeo @CapitaoOdeo · 20h Replying to @NelsonRedPill nah, eu só troco de celular quando o atual vai pro saco de vez to com um xiaomi que comprei em 2020 ainda e tá indo firme e forte por enquanto... tive que trocar a bateria uns 2 meses atrás, e vai dura",
+      "suggested_replies": [
+        "Boa! Esse tipo de achado costuma sumir rapido. Valeu por compartilhar a experiencia.",
+        "Chegou certinho? Quando o produto entrega bem, eu ja salvo para ficar de olho em novas quedas."
+      ],
+      "followed_at": null,
+      "follow_status": "candidate"
+    },
+    {
+      "username": "nelsonredpill",
+      "display_name": "Capitão Odeo",
+      "url": "https://x.com/nelsonredpill",
+      "score": 18,
+      "discovered_at": "2026-06-30T13:24:14.183Z",
+      "last_seen_at": "2026-06-30T13:24:14.183Z",
+      "query": "\"xiaomi\" (comprei OR chegou OR promoção)",
+      "reasons": [
+        "fala sobre compra ou produto recebido",
+        "interage com ofertas, cupons ou descontos",
+        "tem interesse em tecnologia ou consumo"
+      ],
+      "sample_text": "Capitão Odeo @CapitaoOdeo · 20h Replying to @NelsonRedPill nah, eu só troco de celular quando o atual vai pro saco de vez to com um xiaomi que comprei em 2020 ainda e tá indo firme e forte por enquanto... tive que trocar a bateria uns 2 meses atrás, e vai dura",
+      "suggested_replies": [
+        "Boa! Esse tipo de achado costuma sumir rapido. Valeu por compartilhar a experiencia.",
+        "Chegou certinho? Quando o produto entrega bem, eu ja salvo para ficar de olho em novas quedas."
+      ],
+      "followed_at": null,
+      "follow_status": "candidate"
+    },
+    {
+      "username": "hydrlz",
+      "display_name": "@hydrlz",
+      "url": "https://x.com/hydrlz",
+      "score": 18,
+      "discovered_at": "2026-06-30T13:24:14.183Z",
+      "last_seen_at": "2026-06-30T13:24:14.183Z",
+      "query": "\"xiaomi\" (comprei OR chegou OR promoção)",
+      "reasons": [
+        "fala sobre compra ou produto recebido",
+        "interage com ofertas, cupons ou descontos",
+        "tem interesse em tecnologia ou consumo"
+      ],
+      "sample_text": "@hydrlz · Jun 29 Replying to @izzynobre Comprei um topo de linha da Xiaomi e ele veio com carregador, capa e película. Mas desse mesmo celular vc acha versões sem carregador. Difícil entender. 61",
+      "suggested_replies": [
+        "Boa! Esse tipo de achado costuma sumir rapido. Valeu por compartilhar a experiencia.",
+        "Chegou certinho? Quando o produto entrega bem, eu ja salvo para ficar de olho em novas quedas."
+      ],
+      "followed_at": null,
+      "follow_status": "candidate"
+    },
+    {
+      "username": "izzynobre",
+      "display_name": "@hydrlz",
+      "url": "https://x.com/izzynobre",
+      "score": 18,
+      "discovered_at": "2026-06-30T13:24:14.183Z",
+      "last_seen_at": "2026-06-30T13:24:14.183Z",
+      "query": "\"xiaomi\" (comprei OR chegou OR promoção)",
+      "reasons": [
+        "fala sobre compra ou produto recebido",
+        "interage com ofertas, cupons ou descontos",
+        "tem interesse em tecnologia ou consumo"
+      ],
+      "sample_text": "@hydrlz · Jun 29 Replying to @izzynobre Comprei um topo de linha da Xiaomi e ele veio com carregador, capa e película. Mas desse mesmo celular vc acha versões sem carregador. Difícil entender. 61",
+      "suggested_replies": [
+        "Boa! Esse tipo de achado costuma sumir rapido. Valeu por compartilhar a experiencia.",
+        "Chegou certinho? Quando o produto entrega bem, eu ja salvo para ficar de olho em novas quedas."
+      ],
+      "followed_at": null,
+      "follow_status": "candidate"
+    },
+    {
+      "username": "_metanaito",
+      "display_name": "oli !",
+      "url": "https://x.com/_metanaito",
+      "score": 18,
+      "discovered_at": "2026-06-30T13:24:14.184Z",
+      "last_seen_at": "2026-06-30T13:24:14.184Z",
+      "query": "\"xiaomi\" (comprei OR chegou OR promoção)",
+      "reasons": [
+        "fala sobre compra ou produto recebido",
+        "interage com ofertas, cupons ou descontos",
+        "tem interesse em tecnologia ou consumo"
+      ],
+      "sample_text": "oli ! @_metanaito · Jun 29 gente do céu lembrei o quanto ter uma câmera ruim no celular é uma bosta KKKKKKK comprei o cel atual pq o processador + memória eram mto bons, mas a câmera dele é um cu em troca de desempenho muito bom fui tirar foto de desenho e, no",
+      "suggested_replies": [
+        "Boa! Esse tipo de achado costuma sumir rapido. Valeu por compartilhar a experiencia.",
+        "Chegou certinho? Quando o produto entrega bem, eu ja salvo para ficar de olho em novas quedas."
+      ],
+      "followed_at": null,
+      "follow_status": "candidate"
+    },
+    {
+      "username": "roxicilina",
+      "display_name": "Rô ⏣",
+      "url": "https://x.com/roxicilina",
+      "score": 18,
+      "discovered_at": "2026-06-30T13:24:14.184Z",
+      "last_seen_at": "2026-06-30T13:24:14.184Z",
+      "query": "\"xiaomi\" (comprei OR chegou OR promoção)",
+      "reasons": [
+        "fala sobre compra ou produto recebido",
+        "interage com ofertas, cupons ou descontos",
+        "tem interesse em tecnologia ou consumo"
+      ],
+      "sample_text": "Rô ⏣ @Roxicilina · Jun 28 Finalmente trocando meu tab s7 fe de 2023 pra o Xiaomi mi pad 8 pro + focus stylus pro. O s7 fe me atendia bem mas o que pesou mais foi pq eu queria MTtt ter mais armazenamento. O s7 fe tinha 128 + 128 do micro SD que comprei mas pra ",
+      "suggested_replies": [
+        "Boa! Esse tipo de achado costuma sumir rapido. Valeu por compartilhar a experiencia.",
+        "Chegou certinho? Quando o produto entrega bem, eu ja salvo para ficar de olho em novas quedas."
+      ],
+      "followed_at": null,
+      "follow_status": "candidate"
+    },
+    {
+      "username": "lavpevensie",
+      "display_name": "lavs",
+      "url": "https://x.com/lavpevensie",
+      "score": 18,
+      "discovered_at": "2026-06-30T13:24:14.184Z",
+      "last_seen_at": "2026-06-30T13:24:14.184Z",
+      "query": "\"xiaomi\" (comprei OR chegou OR promoção)",
+      "reasons": [
+        "fala sobre compra ou produto recebido",
+        "interage com ofertas, cupons ou descontos",
+        "tem interesse em tecnologia ou consumo"
+      ],
+      "sample_text": "lavs @lavpevensie · Jun 27 Replying to @luvdramass amg comprei o samsung s25. Pesquisei muito e foi uma das minhas opções, era esse ou o xiaomi poco x7. Consegui comprar em uma promoção numa loja aqui na cidade 53",
+      "suggested_replies": [
+        "Boa! Esse tipo de achado costuma sumir rapido. Valeu por compartilhar a experiencia.",
+        "Chegou certinho? Quando o produto entrega bem, eu ja salvo para ficar de olho em novas quedas."
+      ],
+      "followed_at": null,
+      "follow_status": "candidate"
+    },
+    {
+      "username": "luvdramass",
+      "display_name": "lavs",
+      "url": "https://x.com/luvdramass",
+      "score": 18,
+      "discovered_at": "2026-06-30T13:24:14.184Z",
+      "last_seen_at": "2026-06-30T13:24:14.184Z",
+      "query": "\"xiaomi\" (comprei OR chegou OR promoção)",
+      "reasons": [
+        "fala sobre compra ou produto recebido",
+        "interage com ofertas, cupons ou descontos",
+        "tem interesse em tecnologia ou consumo"
+      ],
+      "sample_text": "lavs @lavpevensie · Jun 27 Replying to @luvdramass amg comprei o samsung s25. Pesquisei muito e foi uma das minhas opções, era esse ou o xiaomi poco x7. Consegui comprar em uma promoção numa loja aqui na cidade 53",
+      "suggested_replies": [
+        "Boa! Esse tipo de achado costuma sumir rapido. Valeu por compartilhar a experiencia.",
+        "Chegou certinho? Quando o produto entrega bem, eu ja salvo para ficar de olho em novas quedas."
+      ],
+      "followed_at": null,
+      "follow_status": "candidate"
+    },
+    {
+      "username": "thvfangs",
+      "display_name": "cici",
+      "url": "https://x.com/thvfangs",
+      "score": 18,
+      "discovered_at": "2026-06-30T13:24:14.184Z",
+      "last_seen_at": "2026-06-30T13:24:14.184Z",
+      "query": "\"xiaomi\" (comprei OR chegou OR promoção)",
+      "reasons": [
+        "fala sobre compra ou produto recebido",
+        "interage com ofertas, cupons ou descontos",
+        "tem interesse em tecnologia ou consumo"
+      ],
+      "sample_text": "cici @thvfangs · Jun 27 Replying to @mychemicalcloti amor comprei um da xiaomi que vi uma galera recomendando, to rezando pra ele ser bom 1 13",
+      "suggested_replies": [
+        "Boa! Esse tipo de achado costuma sumir rapido. Valeu por compartilhar a experiencia.",
+        "Chegou certinho? Quando o produto entrega bem, eu ja salvo para ficar de olho em novas quedas."
+      ],
+      "followed_at": null,
+      "follow_status": "candidate"
+    },
+    {
+      "username": "mychemicalcloti",
+      "display_name": "cici",
+      "url": "https://x.com/mychemicalcloti",
+      "score": 18,
+      "discovered_at": "2026-06-30T13:24:14.184Z",
+      "last_seen_at": "2026-06-30T13:24:14.184Z",
+      "query": "\"xiaomi\" (comprei OR chegou OR promoção)",
+      "reasons": [
+        "fala sobre compra ou produto recebido",
+        "interage com ofertas, cupons ou descontos",
+        "tem interesse em tecnologia ou consumo"
+      ],
+      "sample_text": "cici @thvfangs · Jun 27 Replying to @mychemicalcloti amor comprei um da xiaomi que vi uma galera recomendando, to rezando pra ele ser bom 1 13",
+      "suggested_replies": [
+        "Boa! Esse tipo de achado costuma sumir rapido. Valeu por compartilhar a experiencia.",
+        "Chegou certinho? Quando o produto entrega bem, eu ja salvo para ficar de olho em novas quedas."
+      ],
+      "followed_at": null,
+      "follow_status": "candidate"
+    },
+    {
+      "username": "carolina_ama_",
+      "display_name": "Carolina⁷",
+      "url": "https://x.com/carolina_ama_",
+      "score": 18,
+      "discovered_at": "2026-06-30T13:24:14.188Z",
+      "last_seen_at": "2026-06-30T13:24:14.188Z",
+      "query": "\"xiaomi\" (comprei OR chegou OR promoção)",
+      "reasons": [
+        "fala sobre compra ou produto recebido",
+        "interage com ofertas, cupons ou descontos",
+        "tem interesse em tecnologia ou consumo"
+      ],
+      "sample_text": "Carolina⁷ @Carolina_AMA_ · Jun 26 Fan account A powerbank que comprei da xiaomi é a melhor para o meu telemóvel. Porque se levar a antiga que tenho não vai dar para carregar o telemóvel todo 109",
+      "suggested_replies": [
+        "Boa! Esse tipo de achado costuma sumir rapido. Valeu por compartilhar a experiencia.",
+        "Chegou certinho? Quando o produto entrega bem, eu ja salvo para ficar de olho em novas quedas."
+      ],
+      "followed_at": null,
+      "follow_status": "candidate"
+    },
+    {
+      "username": "v1n1111111",
+      "display_name": "vini.",
+      "url": "https://x.com/v1n1111111",
+      "score": 18,
+      "discovered_at": "2026-06-30T13:24:14.188Z",
+      "last_seen_at": "2026-06-30T13:24:14.188Z",
+      "query": "\"xiaomi\" (comprei OR chegou OR promoção)",
+      "reasons": [
+        "fala sobre compra ou produto recebido",
+        "interage com ofertas, cupons ou descontos",
+        "tem interesse em tecnologia ou consumo"
+      ],
+      "sample_text": "vini. @v1n1111111 · Jun 25 Parody account xiaomi OBRIGADO de coração pelo aspirador robô (que comprei, não ganhei kkkk) 29",
+      "suggested_replies": [
+        "Boa! Esse tipo de achado costuma sumir rapido. Valeu por compartilhar a experiencia.",
+        "Chegou certinho? Quando o produto entrega bem, eu ja salvo para ficar de olho em novas quedas."
+      ],
+      "followed_at": null,
+      "follow_status": "candidate"
+    },
+    {
       "username": "jealouslingorm",
       "display_name": "Alessandra",
       "url": "https://x.com/jealouslingorm",
@@ -246,7 +639,7 @@
       "url": "https://x.com/juri_psyche138",
       "score": 17,
       "discovered_at": "2026-06-29T23:06:48.182Z",
-      "last_seen_at": "2026-06-29T23:06:48.182Z",
+      "last_seen_at": "2026-06-30T13:23:35.079Z",
       "query": "\"fone bluetooth\" (comprei OR chegou OR promoção)",
       "reasons": [
         "fala sobre compra ou produto recebido",
@@ -633,146 +1026,6 @@
         "menciona marketplaces usados pelo Promo Ninja"
       ],
       "sample_text": "Malice trevosa⊗ @yelenaeuteamo · 45m Meu irmão comprou um celular pela amazon e chegou um bodysplash 7",
-      "suggested_replies": [
-        "Boa! Esse tipo de achado costuma sumir rapido. Valeu por compartilhar a experiencia.",
-        "Chegou certinho? Quando o produto entrega bem, eu ja salvo para ficar de olho em novas quedas."
-      ],
-      "followed_at": null,
-      "follow_status": "candidate"
-    },
-    {
-      "username": "clavaitnac",
-      "display_name": "´-´",
-      "url": "https://x.com/clavaitnac",
-      "score": 15,
-      "discovered_at": "2026-06-29T22:54:01.494Z",
-      "last_seen_at": "2026-06-29T23:04:58.506Z",
-      "query": "\"chegou\" (amazon OR shopee OR \"mercado livre\")",
-      "reasons": [
-        "fala sobre compra ou produto recebido",
-        "menciona marketplaces usados pelo Promo Ninja"
-      ],
-      "sample_text": "´-´ @clavaitnac · 49m Replying to @mikusabbath_ wow... pior q aliexpress demora msm, mas as coisas q eu peço na amazon q tem distribuidora em pernambuco é muito foda, pedi um hidratante sabado e chegou hoje já 1 10",
-      "suggested_replies": [
-        "Boa! Esse tipo de achado costuma sumir rapido. Valeu por compartilhar a experiencia.",
-        "Chegou certinho? Quando o produto entrega bem, eu ja salvo para ficar de olho em novas quedas."
-      ],
-      "followed_at": null,
-      "follow_status": "candidate"
-    },
-    {
-      "username": "mikusabbath_",
-      "display_name": "´-´",
-      "url": "https://x.com/mikusabbath_",
-      "score": 15,
-      "discovered_at": "2026-06-29T22:54:01.494Z",
-      "last_seen_at": "2026-06-29T23:04:58.506Z",
-      "query": "\"chegou\" (amazon OR shopee OR \"mercado livre\")",
-      "reasons": [
-        "fala sobre compra ou produto recebido",
-        "menciona marketplaces usados pelo Promo Ninja"
-      ],
-      "sample_text": "´-´ @clavaitnac · 49m Replying to @mikusabbath_ wow... pior q aliexpress demora msm, mas as coisas q eu peço na amazon q tem distribuidora em pernambuco é muito foda, pedi um hidratante sabado e chegou hoje já 1 10",
-      "suggested_replies": [
-        "Boa! Esse tipo de achado costuma sumir rapido. Valeu por compartilhar a experiencia.",
-        "Chegou certinho? Quando o produto entrega bem, eu ja salvo para ficar de olho em novas quedas."
-      ],
-      "followed_at": null,
-      "follow_status": "candidate"
-    },
-    {
-      "username": "itspedrito",
-      "display_name": "PEDRÃO",
-      "url": "https://x.com/itspedrito",
-      "score": 15,
-      "discovered_at": "2026-06-29T22:54:01.494Z",
-      "last_seen_at": "2026-06-29T23:04:58.506Z",
-      "query": "\"chegou\" (amazon OR shopee OR \"mercado livre\")",
-      "reasons": [
-        "fala sobre compra ou produto recebido",
-        "menciona marketplaces usados pelo Promo Ninja"
-      ],
-      "sample_text": "PEDRÃO @Itspedrito · 5h A camisa da seleção que eu comprei na Shopee nem chegou BRASIL TRATE DE VIRAR ESSE JOGO 2 19 295 8.7K",
-      "suggested_replies": [
-        "Boa! Esse tipo de achado costuma sumir rapido. Valeu por compartilhar a experiencia.",
-        "Chegou certinho? Quando o produto entrega bem, eu ja salvo para ficar de olho em novas quedas."
-      ],
-      "followed_at": null,
-      "follow_status": "candidate"
-    },
-    {
-      "username": "moongguktae",
-      "display_name": "Shimo 𐤀NO LABELS 2 VAI VER O BTS,ZM,HS,EN-, LT",
-      "url": "https://x.com/moongguktae",
-      "score": 15,
-      "discovered_at": "2026-06-29T22:54:01.494Z",
-      "last_seen_at": "2026-06-29T23:04:58.506Z",
-      "query": "\"chegou\" (amazon OR shopee OR \"mercado livre\")",
-      "reasons": [
-        "fala sobre compra ou produto recebido",
-        "menciona marketplaces usados pelo Promo Ninja"
-      ],
-      "sample_text": "Shimo 𐤀NO LABELS 2 VAI VER O BTS,ZM,HS,EN-, LT @moongguktae · 5h Parody account Nossa eu comprei o cradle pela shopee e ate hoje nao chegou 8",
-      "suggested_replies": [
-        "Boa! Esse tipo de achado costuma sumir rapido. Valeu por compartilhar a experiencia.",
-        "Chegou certinho? Quando o produto entrega bem, eu ja salvo para ficar de olho em novas quedas."
-      ],
-      "followed_at": null,
-      "follow_status": "candidate"
-    },
-    {
-      "username": "th_0896",
-      "display_name": "thiago ap",
-      "url": "https://x.com/th_0896",
-      "score": 15,
-      "discovered_at": "2026-06-29T22:54:01.495Z",
-      "last_seen_at": "2026-06-29T22:54:01.495Z",
-      "query": "\"chegou\" (amazon OR shopee OR \"mercado livre\")",
-      "reasons": [
-        "fala sobre compra ou produto recebido",
-        "menciona marketplaces usados pelo Promo Ninja"
-      ],
-      "sample_text": "thiago ap @th_0896 · 6h Fan account Sou um entusiasta de mídia física e sabendo que provavelmente jamais teremos algo assim no Brasil, adquiri alguns dos volumes em Blu-Ray de Kamen Rider que foram lançados nos Estados Unidos pela Discotek Media. Chegou recent",
-      "suggested_replies": [
-        "Boa! Esse tipo de achado costuma sumir rapido. Valeu por compartilhar a experiencia.",
-        "Chegou certinho? Quando o produto entrega bem, eu ja salvo para ficar de olho em novas quedas."
-      ],
-      "followed_at": null,
-      "follow_status": "candidate"
-    },
-    {
-      "username": "torisnote",
-      "display_name": "tori",
-      "url": "https://x.com/torisnote",
-      "score": 15,
-      "discovered_at": "2026-06-29T23:04:01.373Z",
-      "last_seen_at": "2026-06-29T23:04:01.879Z",
-      "query": "\"comprei\" (amazon OR shopee OR \"mercado livre\")",
-      "reasons": [
-        "fala sobre compra ou produto recebido",
-        "menciona marketplaces usados pelo Promo Ninja"
-      ],
-      "sample_text": "tori @torisnote · 17m Replying to @marisnotcute comprei o blister com a promo no mercado livre, a outra cartinha veio num booster e a latinha foi presente! 1 53",
-      "suggested_replies": [
-        "Boa! Esse tipo de achado costuma sumir rapido. Valeu por compartilhar a experiencia.",
-        "Chegou certinho? Quando o produto entrega bem, eu ja salvo para ficar de olho em novas quedas."
-      ],
-      "followed_at": null,
-      "follow_status": "candidate"
-    },
-    {
-      "username": "marisnotcute",
-      "display_name": "tori",
-      "url": "https://x.com/marisnotcute",
-      "score": 15,
-      "discovered_at": "2026-06-29T23:04:01.880Z",
-      "last_seen_at": "2026-06-29T23:04:01.881Z",
-      "query": "\"comprei\" (amazon OR shopee OR \"mercado livre\")",
-      "reasons": [
-        "fala sobre compra ou produto recebido",
-        "menciona marketplaces usados pelo Promo Ninja"
-      ],
-      "sample_text": "tori @torisnote · 17m Replying to @marisnotcute comprei o blister com a promo no mercado livre, a outra cartinha veio num booster e a latinha foi presente! 1 53",
       "suggested_replies": [
         "Boa! Esse tipo de achado costuma sumir rapido. Valeu por compartilhar a experiencia.",
         "Chegou certinho? Quando o produto entrega bem, eu ja salvo para ficar de olho em novas quedas."
