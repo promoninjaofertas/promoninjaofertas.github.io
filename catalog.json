@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-07-12T22:27:54.884750+00:00",
+  "atualizado": "2026-07-12T22:37:55.300897+00:00",
   "ofertas": [
     {
       "source_id": "23693332111",
@@ -97,6 +97,25 @@
       "nota_qualidade": 9
     },
     {
+      "source_id": "2919700",
+      "titulo": "GPU ASROCK INTEL ARC B580 CHALLENGER 12G OC 192 BITS (B580 CL 12GO) 90-GA5LZZ-00UANF",
+      "de": 3373.27,
+      "por": 1636.42,
+      "desconto": 51,
+      "imagem": "https://m.media-amazon.com/images/I/81igM3aW65L._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0DNV4NWF7?tag=promoninja0c3-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Hardware",
+      "data": "2026-07-12T22:37:55.300897+00:00",
+      "slug": "gpu-asrock-intel-arc-b580-challenger-12g-oc-192-bits-b580-cl-12go-90",
+      "page_url": "https://promoninjaofertas.github.io/produto/gpu-asrock-intel-arc-b580-challenger-12g-oc-192-bits-b580-cl-12go-90.html",
+      "avaliacao": null,
+      "avaliacoes": 7,
+      "vendas": 345,
+      "nota_qualidade": 9
+    },
+    {
       "source_id": "pechinchou-112380",
       "titulo": "TP-Link Tapo C100 Câmera de Segurança Wifi 1080P Full HD",
       "de": 169.9,
@@ -171,25 +190,6 @@
       "avaliacoes": null,
       "vendas": 198,
       "nota_qualidade": 9
-    },
-    {
-      "source_id": "pechinchou-105579",
-      "titulo": "Kit 6 Potes 640ml Vidro Hermético 4 Travas Marmita Refratario Star House Com 4 Travas De Super Vedação Branco",
-      "de": 135.0,
-      "por": 49.56,
-      "desconto": 63,
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_863730-MLA99506481276_112025-O.webp",
-      "link": "https://meli.la/31JhzXR",
-      "cupom": "ADRENALINA",
-      "loja": "mercadolivre",
-      "categoria": "Casa",
-      "data": "2026-07-12T21:57:51.974200+00:00",
-      "slug": "kit-6-potes-640ml-vidro-hermetico-4-travas-marmita-refratario-star-house-com-4",
-      "page_url": "https://promoninjaofertas.github.io/produto/kit-6-potes-640ml-vidro-hermetico-4-travas-marmita-refratario-star-house-com-4.html",
-      "avaliacao": null,
-      "avaliacoes": null,
-      "vendas": 883,
-      "nota_qualidade": 8
     },
     {
       "source_id": "pechinchou-142690",
@@ -492,26 +492,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/jaqueta-feminina-puffer-capuz-removivel-bobojaco-impermeavel.html",
       "avaliacao": null,
       "avaliacoes": 30,
-      "vendas": 1537,
-      "nota_qualidade": 7
-    },
-    {
-      "source_id": "pechinchou-131519",
-      "titulo": "Kit 4 Bermuda Masculina Short Moletom Leve Caminhada Atacado",
-      "de": 89.9,
-      "por": 61.84,
-      "desconto": 31,
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_700462-MLB110219465233_042026-O.webp",
-      "link": "https://meli.la/1CgSEmA",
-      "cupom": "MODASEMPRE",
-      "loja": "mercadolivre",
-      "categoria": "Beleza",
-      "data": "2026-07-11T22:36:49.188892+00:00",
-      "slug": "kit-4-bermuda-masculina-short-moletom-leve-caminhada-atacado",
-      "page_url": "https://promoninjaofertas.github.io/produto/kit-4-bermuda-masculina-short-moletom-leve-caminhada-atacado.html",
-      "avaliacao": null,
-      "avaliacoes": 10,
-      "vendas": 1418,
+      "vendas": 1581,
       "nota_qualidade": 7
     },
     {
@@ -529,8 +510,8 @@
       "slug": "kit-2-cobertor-mantinha-microfibra-casal-manta-macia-diversas-cores-lisa-sortida",
       "page_url": "https://promoninjaofertas.github.io/produto/kit-2-cobertor-mantinha-microfibra-casal-manta-macia-diversas-cores-lisa-sortida.html",
       "avaliacao": null,
-      "avaliacoes": 20,
-      "vendas": 1312,
+      "avaliacoes": 16,
+      "vendas": 1334,
       "nota_qualidade": 7
     },
     {
@@ -549,7 +530,26 @@
       "page_url": "https://promoninjaofertas.github.io/produto/mala-de-bordo-10kg-pequena-londres-swiss-move-preto.html",
       "avaliacao": null,
       "avaliacoes": 40,
-      "vendas": 1204,
+      "vendas": 1280,
+      "nota_qualidade": 7
+    },
+    {
+      "source_id": "pechinchou-105579",
+      "titulo": "Kit 6 Potes 640ml Vidro Hermético 4 Travas Marmita Refratario Star House Com 4 Travas De Super Vedação Branco",
+      "de": 135.0,
+      "por": 49.56,
+      "desconto": 63,
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_863730-MLA99506481276_112025-O.webp",
+      "link": "https://meli.la/31JhzXR",
+      "cupom": "ADRENALINA",
+      "loja": "mercadolivre",
+      "categoria": "Casa",
+      "data": "2026-07-12T21:57:51.974200+00:00",
+      "slug": "kit-6-potes-640ml-vidro-hermetico-4-travas-marmita-refratario-star-house-com-4",
+      "page_url": "https://promoninjaofertas.github.io/produto/kit-6-potes-640ml-vidro-hermetico-4-travas-marmita-refratario-star-house-com-4.html",
+      "avaliacao": null,
+      "avaliacoes": 10,
+      "vendas": 1013,
       "nota_qualidade": 7
     },
     {
@@ -568,7 +568,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/tenis-fila-speedzone-promocao-relampago.html",
       "avaliacao": null,
       "avaliacoes": 6,
-      "vendas": 905,
+      "vendas": 972,
       "nota_qualidade": 7
     },
     {
@@ -606,7 +606,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/cesto-de-roupas-de-bambu-70-litros-yikasa.html",
       "avaliacao": null,
       "avaliacoes": 20,
-      "vendas": 598,
+      "vendas": 681,
       "nota_qualidade": 7
     },
     {
@@ -648,6 +648,25 @@
       "nota_qualidade": 7
     },
     {
+      "source_id": "pechinchou-146095",
+      "titulo": "Conjunto De Moletom Polo Calça + Blusa De Frio Kit Masculino",
+      "de": 162.9,
+      "por": 87.21,
+      "desconto": 46,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/external-image_3VGQQW5.jpg",
+      "link": "https://meli.la/1YURqA2",
+      "cupom": "ADRENALINA",
+      "loja": "mercadolivre",
+      "categoria": "Beleza",
+      "data": "2026-07-12T22:37:55.300897+00:00",
+      "slug": "conjunto-de-moletom-polo-calca-blusa-de-frio-kit-masculino",
+      "page_url": "https://promoninjaofertas.github.io/produto/conjunto-de-moletom-polo-calca-blusa-de-frio-kit-masculino.html",
+      "avaliacao": null,
+      "avaliacoes": 10,
+      "vendas": 105,
+      "nota_qualidade": 7
+    },
+    {
       "source_id": "1005007701197697",
       "titulo": "Interface VCDS VAGCOM 2026 VCDSCAN HEX V2 Atualização 26.3 para VW, AUDI, Skoda, Seat - Ferramentas de Diagnóstico Automotivo Multilíngue",
       "de": 184.27,
@@ -682,7 +701,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/l-oreal-paris-elseve-oleo-extraordinario-finalizador-capilar-nutricao-profunda-com-6-o.html",
       "avaliacao": null,
       "avaliacoes": 120,
-      "vendas": 1611,
+      "vendas": 1614,
       "nota_qualidade": 7
     },
     {
