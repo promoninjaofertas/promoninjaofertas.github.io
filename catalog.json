@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-07-13T08:35:14.895667+00:00",
+  "atualizado": "2026-07-13T08:55:42.786765+00:00",
   "ofertas": [
     {
       "source_id": "pechinchou-92239",
@@ -113,6 +113,25 @@
       "avaliacao": 4.9,
       "avaliacoes": null,
       "vendas": 638,
+      "nota_qualidade": 9
+    },
+    {
+      "source_id": "2919700",
+      "titulo": "GPU ASROCK INTEL ARC B580 CHALLENGER 12G OC 192 BITS (B580 CL 12GO) 90-GA5LZZ-00UANF",
+      "de": 3373.27,
+      "por": 1636.42,
+      "desconto": 51,
+      "imagem": "https://m.media-amazon.com/images/I/81igM3aW65L._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0DNV4NWF7?tag=promoninja0c3-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Hardware",
+      "data": "2026-07-13T08:55:42.786765+00:00",
+      "slug": "gpu-asrock-intel-arc-b580-challenger-12g-oc-192-bits-b580-cl-12go-90",
+      "page_url": "https://promoninjaofertas.github.io/produto/gpu-asrock-intel-arc-b580-challenger-12g-oc-192-bits-b580-cl-12go-90.html",
+      "avaliacao": null,
+      "avaliacoes": 7,
+      "vendas": 400,
       "nota_qualidade": 9
     },
     {
@@ -369,7 +388,7 @@
       "por": 123.59,
       "desconto": 32,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Scf0710a99da94a1c85dad73485472006M.jpeg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mZSVem421GCQvTzf2IXvVHP3nnDM6WREbfEl89h241tdd5RMnXqsdU8YPcrdx6cUOfyEZBfbzl2LbD1XuChDnqaiyzMjUMgzft59MobeSxh9xMjiFEBX2YlB8tXr0DPvs3D8TCPIlDILpIB79e1zy3hA1FjuFpqj71hlatryOUK9d1v0XOyy8EFZPXfbamir8T2kfHxOynd5R00cTpHXpUXdPAqJl4fmRvZBPiwKVK8TiW14yeIhkLnP5xuhUbhS4nLt8PFemC6tHmF18zTTgOoBi6ko6Ev82ucqkcg1mgScmRYcsONmrL12PphoJanIFCNo2QpPdc5lkxcmK12pbngReCRuZrZ8Ehc7MZffnO264i7pKgIf8Djd03azfEtKRMp3ig7uNbW9TC6nCKcTTNQa5upQSmU5xku6L8SdbOTkODLsICollcJOID70ewqF6Y4Ym75HyjDiwuhem5y1xclwtnDHXLXyPajdwbqyE8rvwrboPbvrBdPFeA4TfeTnTbKY8EMaq9PktS9E1X0gvLtmrRoWaLPhl6ZN54gUQdapJ4rEIDAjUMaqFovxhumpvILmsOiymSVOGvHzAbwWWPeGqqQzQDzEqSEI6bgSDcJzSdUoXZO25CNL9jO7c65bAD5cQLat1aVDdniS3gb52E490K2JYypfRdsgPsp5RkXyEgMzKHTq4he3mRINL0zVkWLuaeO8vQqtB",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mZSVem421GCQvTzf2IXvVHP3nnDM6WREbfEl89h241tdd5RMnXqsdU8YPcrdx6cUOfyEZBfbzl2LbD1XuChDnqaiyzMjUMgzft59MobeSxh9xMjiFEBX2YlB8tXr0DPvs3D8TCPIlDILpIB79e1zy3hA1FjuFpqj71hlatryOUK9d1v0XOyy8EFZPXfbamir8T2kfHxOynd5R00cTpHXpUXdPAqJl4fmRvZBPj4uUZjG3yRHqWtY2OyXNOmUPXBRWUk19oOXnscFhuDR5dk6PAZKJTkMjJQAetlwdpCJbSzfxMBx9JPh5fXuqblwhQTNszI7rrflkcdAHXw8bkXwjtskE4QHTabqfYCCOuZ1ZzvzdlqLM1flnoX9O42ucKlgiv30XkYyI8ulciEtpn4fSC7vM4VAobuWi3bZ0R9RCKwFc6lk00NhXpBehRAw5WvfdDXEk8JArM5s1tIrbBlwcaBKTqAXTI9Yb1Gfg9PVSh368swX8B7FbTwKJInO1QAwBddPzHhikbfUk99zFyNWKETpfUnVxqFy6N8QrmtUn1UxkPfn6BRFkCo9t8SGJZWd4eQZhj6HbRxAxChrEqBCMqsYdszgYhSsUX4k7hInrKmfGO4UGNP5RxtvIAZSg3PSrTjwiJRfdQWU0rM0rosH5jBpsyuL5oFh8ajMbWfjHkkPuGhSnCkY0EORh44RZ3AyHm5j36LSUJVWz",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Ferramentas",
