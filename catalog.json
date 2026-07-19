@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-07-19T19:24:51.989966+00:00",
+  "atualizado": "2026-07-19T19:45:04.578523+00:00",
   "ofertas": [
+    {
+      "source_id": "pechinchou-39122",
+      "titulo": "Smart TV 40\" Philco Roku TV HDR10 Dolby Áudio P40CRA",
+      "de": 1499.0,
+      "por": 960.8,
+      "desconto": 36,
+      "imagem": "https://m.media-amazon.com/images/I/81tK4J0OG-L._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0GJTCF75W?tag=promoninja0c3-20",
+      "cupom": "JOGADAFINAL",
+      "loja": "amazon",
+      "categoria": "TV e Eletronicos",
+      "data": "2026-07-19T19:24:51.989966+00:00",
+      "slug": "smart-tv-40-philco-roku-tv-hdr10-dolby-audio-p40cra",
+      "page_url": "https://promoninjaofertas.github.io/produto/smart-tv-40-philco-roku-tv-hdr10-dolby-audio-p40cra.html",
+      "avaliacao": null,
+      "avaliacoes": 40,
+      "vendas": 1076,
+      "nota_qualidade": 10
+    },
     {
       "source_id": "23693332111",
       "titulo": "Memória PC 8GB Kingston Ddr3 1600mhz  Pc3 12800  KVR16N11/8 Novo",
@@ -17,7 +36,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/memoria-pc-8gb-kingston-ddr3-1600mhz-pc3-12800-kvr16n11-8-novo.html",
       "avaliacao": 4.9,
       "avaliacoes": null,
-      "vendas": 786,
+      "vendas": 791,
       "nota_qualidade": 10
     },
     {
@@ -74,27 +93,8 @@
       "page_url": "https://promoninjaofertas.github.io/produto/jogo-de-frigideiras-tramontina-3pcs-caribe-revestimento-antiaderente-starflon-max.html",
       "avaliacao": 4.9,
       "avaliacoes": null,
-      "vendas": 326,
+      "vendas": 327,
       "nota_qualidade": 10
-    },
-    {
-      "source_id": "pechinchou-39122",
-      "titulo": "Smart TV 40\" Philco Roku TV HDR10 Dolby Áudio P40CRA",
-      "de": 1499.0,
-      "por": 960.8,
-      "desconto": 36,
-      "imagem": "https://m.media-amazon.com/images/I/81tK4J0OG-L._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0GJTCF75W?tag=promoninja0c3-20",
-      "cupom": "JOGADAFINAL",
-      "loja": "amazon",
-      "categoria": "TV e Eletronicos",
-      "data": "2026-07-19T19:24:51.989966+00:00",
-      "slug": "smart-tv-40-philco-roku-tv-hdr10-dolby-audio-p40cra",
-      "page_url": "https://promoninjaofertas.github.io/produto/smart-tv-40-philco-roku-tv-hdr10-dolby-audio-p40cra.html",
-      "avaliacao": null,
-      "avaliacoes": 30,
-      "vendas": 963,
-      "nota_qualidade": 9
     },
     {
       "source_id": "pechinchou-148403",
@@ -112,7 +112,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/chinelos-adidas-flexmove-adidas.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 131,
+      "vendas": 550,
       "nota_qualidade": 9
     },
     {
@@ -130,8 +130,8 @@
       "slug": "smart-tv-samsung-32-hd-tizen-hdr-wi-fi-hdmi-bivolt-preta",
       "page_url": "https://promoninjaofertas.github.io/produto/smart-tv-samsung-32-hd-tizen-hdr-wi-fi-hdmi-bivolt-preta.html",
       "avaliacao": null,
-      "avaliacoes": 60,
-      "vendas": 1419,
+      "avaliacoes": 70,
+      "vendas": 1466,
       "nota_qualidade": 9
     },
     {
@@ -150,7 +150,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/panela-de-pressao-vancouver-effect-tramontina-4-5-e-6-0-litros-preto-e.html",
       "avaliacao": 4.9,
       "avaliacoes": null,
-      "vendas": 914,
+      "vendas": 935,
       "nota_qualidade": 9
     },
     {
@@ -211,13 +211,32 @@
       "nota_qualidade": 9
     },
     {
+      "source_id": "pechinchou-106197",
+      "titulo": "Refrigerador Consul Duplex 334 Litros Branco CRD37EBANA – 127 Volts",
+      "de": 2339.0,
+      "por": 1663.1,
+      "desconto": 29,
+      "imagem": "https://m.media-amazon.com/images/I/315ViJS9TvL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B076B9ZB8C?tag=promoninja0c3-20",
+      "cupom": "JOGADAFINAL",
+      "loja": "amazon",
+      "categoria": "Eletrodomésticos",
+      "data": "2026-07-19T19:04:42.127627+00:00",
+      "slug": "refrigerador-consul-duplex-334-litros-branco-crd37ebana-127-volts",
+      "page_url": "https://promoninjaofertas.github.io/produto/refrigerador-consul-duplex-334-litros-branco-crd37ebana-127-volts.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": 108,
+      "nota_qualidade": 8
+    },
+    {
       "source_id": "1005006356702381",
       "titulo": "Fifine microfone dinâmico usb/xlr com controle rgb/jack de fone de ouvido/mudo, microfone para gravação de jogos de pc streaming AmpliGame-AM8",
       "de": 523.95,
       "por": 250.73,
       "desconto": 52,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sa5415f22fc3744f49a74bcd11b136f6bj.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mY4CxmU8IwR2UrcWxdTquyoYbsbTvCW9ywkg2i4lXdpaU1AoZLz2Z9GQ5qPkwcjRfPafFck0l427Tc77cNoYqWeKS7Y5zRzENAsDXxgPn7DX1TuU5R3rh2v1YhxJst8B6yOOR356JNvTU2ENVUP9gti35XkCvXdhKPFTM93B0xGm6FWpb93rdZqED7b4ws3qQO0fnv2W1VBFLXkid7QmzqPOdXVs0EAeXVzsPNV95Pus7SH5s3maKImHXcJeYStFnlif1t1dHpgdH5XKGr4lU2ESnDCqMSNzuNt9c3oYigM2rM5uMzqoN3QvY7TK9D2bP6GY6QiT4mJBEzmWKtEh2MhaGhn44BTpf52PTMb5eyN9XMC3FeAEBNNOW92tRzbBVEJhrvxfmIfLPmwil0MzaZMrwkWHQqQ0kOIYQKuRqJx2pSZcUetOCBi3WMMkiOJvXVeynWAbnzdVg0tZOIw0HSdcertRfSj6CXWztVReFxyKdTcCVyvZVKUVyuATIOBbaSpCp6FjFB7nGhCIQfJw603KysiJg5tlLKHpbkfKzMJFcVuJ3Y7gtVt67GPtR5QAG9tSxGt9hM55yCUPUDxkboYOzBZUvPiMwKdjF0hIZk1fZjxWZSwqaME2nQB2vxMoGQpvJYIVXBEzm3ZvI2NMbFmPFWp2AP9IbSw6dPVIo8Eo5vbPhSIdgf4my7ZEbUHaxBMzYUB9xk26I",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mY4CxmU8IwR2UrcWxdTquyoYbsbTvCW9ywkg2i4lXdpaU1AoZLz2Z9GQ5qPkwcjRfPafFck0l427Tc77cNoYqWeKS7Y5zRzENAsDXxgPn7DX1TuU5R3rh2v1YhxJst8B6yOOR356JNvTU2ENVUP9gti35XkCvXdhKPFTM93B0xGm6FWpb93rdZqED7b4ws3qQO0fnv2W1VBFLXkid7QmzqPOdXVs0EAeXVzsPMfp1CGF4e9KwtFSTvYr23RNH7iWPstHC1bFzqGIoMXqd0PIcWTpcXOrGoaDzJSe3QGDOzxDoLPYPDMIHuG4ZwWQkli1kQDB18UDNRmCLGm5ToFmAWsh41OigaxSE11JIKyemOa6VDvOahc1zLJv4PCsLLgot7VCDrjI2BxEqCJbYelNjSREfvoWChZdzfVvY1vfF7h0WbyBVAADFiv73ocMX2h4kFzyoVS1WTt28OjQbGmuiMH2YZB9WIlCPE0qqRpwAI6ezMxAYIvoYJ6URrmcNWrv044dTayhGrFDR7qta1vUvqospon04Ul2PMAnmmjl8hZ8vmOP1IszsE7UTWjDiPtrUAWwi5Xc86psvdnYN4gXglWQrnzMHdqk7rPWkhHlneknGTagFmfLiRAwR1F3iabJv9slC7bYbIUY526Fbrygniw91jIN5SWIxdHCY0w0MgDWVvANQo2AVEg3EBxXUXcKXygMG6KQjH9CA",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Audio",
@@ -245,7 +264,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/lixeira-inteligente-automatica-branca-universal-com-sensor-hearbuds-recarregavel-anti.html",
       "avaliacao": null,
       "avaliacoes": 6,
-      "vendas": 659,
+      "vendas": 926,
       "nota_qualidade": 7
     },
     {
@@ -264,26 +283,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/tenis-mizuno-neo-vortex-pretobranco.html",
       "avaliacao": null,
       "avaliacoes": 2,
-      "vendas": 110,
-      "nota_qualidade": 7
-    },
-    {
-      "source_id": "pechinchou-106197",
-      "titulo": "Refrigerador Consul Duplex 334 Litros Branco CRD37EBANA – 127 Volts",
-      "de": 2339.0,
-      "por": 1663.1,
-      "desconto": 29,
-      "imagem": "https://m.media-amazon.com/images/I/315ViJS9TvL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B076B9ZB8C?tag=promoninja0c3-20",
-      "cupom": "JOGADAFINAL",
-      "loja": "amazon",
-      "categoria": "Eletrodomésticos",
-      "data": "2026-07-19T19:04:42.127627+00:00",
-      "slug": "refrigerador-consul-duplex-334-litros-branco-crd37ebana-127-volts",
-      "page_url": "https://promoninjaofertas.github.io/produto/refrigerador-consul-duplex-334-litros-branco-crd37ebana-127-volts.html",
-      "avaliacao": null,
-      "avaliacoes": null,
-      "vendas": 91,
+      "vendas": 115,
       "nota_qualidade": 7
     },
     {
@@ -302,7 +302,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/mochila-masculina-e-feminina-essential-cor-preto-olympikus.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 16,
+      "vendas": 21,
       "nota_qualidade": 7
     },
     {
@@ -312,7 +312,7 @@
       "por": 123.99,
       "desconto": 33,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Scf0710a99da94a1c85dad73485472006M.jpeg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mZSVem421GCQvTzf2IXvVHP3nnDM6WREbfEl89h241tdd5RMnXqsdU8YPcrdx6cUOfyEZBfbzl2LbD1XuChDnqaiyzMjUMgzft59MobeSxh9xMjiFEBX2YlB8tXr0DPvs3D8TCPIlDILpIB79e1zy3hA1FjuFpqj71hlatryOUK9d1v0XOyy8EFZPXfbamir8T2kfHxOynd5R00cTpHXpUXdPAqJl4fmRvZBPi38GxSHCvoVoW9tRY5q3nA5COYzexFxP37FPmtsz20SeuVSk6NAWLFB1SGOGQ1EsNoyXwyVIafNxdfd3Lf4qollBdNAimSL4wbXoKQZ6Ut0HIFJBhacQ18JgftWc25npJ1TJOGKkZMhzsIEXNHCLcShIeRGbIo2KX3cpcNWBS4dvLn5YndGigLzvowmWZ5V2Q4RXi4iNONz7UylY8fJRhOFv0EcIjN95K1YMZjkieE5tyFqCxRMV6SSTnKjyBOIje0I3MVDjY4S63zdGa12rnVI7ZqZKRjdduORK0EFXNL3JsGtogHoFH8pJGqolgqHnyqqeY1ED9uYOwK78Jd7WkVqbzcdaOZDbRHJ3dUC2gRPiQjmn6muRpkecgSKduCEW9VkXlUjJ0b1PE8IZ6cOZxqMo65RE3fLnTy9TmMffQcuqfNOMf6tpQv0vCHQb4qiYKqJFJmiSvo9P8z0CvItdcvyQa0srXtsSqLDpHLTP",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mZSVem421GCQvTzf2IXvVHP3nnDM6WREbfEl89h241tdd5RMnXqsdU8YPcrdx6cUOfyEZBfbzl2LbD1XuChDnqaiyzMjUMgzft59MobeSxh9xMjiFEBX2YlB8tXr0DPvs3D8TCPIlDILpIB79e1zy3hA1FjuFpqj71hlatryOUK9d1v0XOyy8EFZPXfbamir8T2kfHxOynd5R00cTpHXpUXdPAqJl4fmRvZBPitDnlzsn28VMYgLaq04Yxbjal76H67qf5iZzDTMj2OBOHQVUe3y3fUohB5LhSQhLxKE6Aq3wQJpFuKiPqDk5i0YbE5GHzfBHSqx6ndOBsXAxcqanzsBBTsecpiyY4sg6bxBZLlH1ilcmnlZti8rGvkvNjvggxKUAClt9Xz9XU3mWkPZxbAXmTN7E5aaT6LGviLdxC38XTwkp9ZNmRjk6hoC8kJ6PhtlZN263QG0B6Uphagb2ePL7PDVp5NMLLhmIrtlTVnv5oDko0cD5cDTBIFSD5FHggP4BUrmDngscBDFczLifPmvxfKuiVJM5IuwZFPm9I99VMxGCJDThyGCy5rPV68ACBDk1v4OfHkSbZgG7XWs74mmupFbzIIGwI0EAvqK52GkdViQCsWKXK75eTlEslnnKo5zH4aGBvdMEPcaOTpH1oTzfB6aHQyh1b9BF1zx7EcSsMih75QrbzQHoc7wzy4HvewXfMBIaDGfb",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Ferramentas",
