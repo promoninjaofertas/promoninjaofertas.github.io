@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-07-28T18:59:33.129928+00:00",
+  "atualizado": "2026-07-28T19:10:07.078963+00:00",
   "ofertas": [
     {
       "source_id": "18397674061",
@@ -245,7 +245,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/guarda-roupa-solteiro-6-portas-2-gavetas-sidney-doripel-cor-preto.html",
       "avaliacao": null,
       "avaliacoes": 80,
-      "vendas": 4056,
+      "vendas": 4092,
       "nota_qualidade": 8
     },
     {
@@ -264,7 +264,26 @@
       "page_url": "https://promoninjaofertas.github.io/produto/hisense-smart-tv-4k-55-polegadas-55a6nv-com-dolby-vision-hdr10-hlg-dolby-gaming.html",
       "avaliacao": null,
       "avaliacoes": 70,
-      "vendas": 1202,
+      "vendas": 1212,
+      "nota_qualidade": 8
+    },
+    {
+      "source_id": "2939491",
+      "titulo": "Smart TV LG UHD 50'' AI UA75 HDR10",
+      "de": 2699.0,
+      "por": 1894.0,
+      "desconto": 30,
+      "imagem": "https://m.media-amazon.com/images/I/51EjDBKasKL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0F8KGXJ44?tag=promoninja0c3-20",
+      "cupom": "AQUITEMCUPOM",
+      "loja": "amazon",
+      "categoria": "TV e Eletronicos",
+      "data": "2026-07-28T19:10:07.078963+00:00",
+      "slug": "smart-tv-lg-uhd-50-ai-ua75-hdr10",
+      "page_url": "https://promoninjaofertas.github.io/produto/smart-tv-lg-uhd-50-ai-ua75-hdr10.html",
+      "avaliacao": null,
+      "avaliacoes": 0,
+      "vendas": 285,
       "nota_qualidade": 8
     },
     {
@@ -287,41 +306,22 @@
       "nota_qualidade": 8
     },
     {
-      "source_id": "pechinchou-113110",
+      "source_id": "2947642",
       "titulo": "Smart Tv 32 Hd P32crb Roku Tv Hdr10 Philco",
-      "de": 1049.9,
+      "de": 1099.0,
       "por": 698.58,
-      "desconto": 33,
+      "desconto": 36,
       "imagem": "https://m.media-amazon.com/images/I/81zLY1z0j4L._SL1500_.jpg",
       "link": "https://www.amazon.com.br/dp/B0GH34KFLR?tag=promoninja0c3-20",
-      "cupom": "PARAVOCE",
+      "cupom": "PRESENTEPAI",
       "loja": "amazon",
       "categoria": "TV e Eletronicos",
-      "data": "2026-07-28T18:59:33.129928+00:00",
+      "data": "2026-07-28T19:10:07.078963+00:00",
       "slug": "smart-tv-32-hd-p32crb-roku-tv-hdr10-philco",
       "page_url": "https://promoninjaofertas.github.io/produto/smart-tv-32-hd-p32crb-roku-tv-hdr10-philco.html",
       "avaliacao": null,
-      "avaliacoes": 2,
-      "vendas": null,
-      "nota_qualidade": 8
-    },
-    {
-      "source_id": "pechinchou-148113",
-      "titulo": "Air Fryer Oven Philco 15L Redstone 10 Funções PAF15C 127V",
-      "de": 612.99,
-      "por": 479.66,
-      "desconto": 22,
-      "imagem": "https://m.media-amazon.com/images/I/61AMnZD50XL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0GJ7CSCD7?tag=promoninja0c3-20",
-      "cupom": "PARAVOCE",
-      "loja": "amazon",
-      "categoria": "Eletrodomesticos",
-      "data": "2026-07-28T18:59:33.129928+00:00",
-      "slug": "air-fryer-oven-philco-15l-redstone-10-funcoes-paf15c-127v",
-      "page_url": "https://promoninjaofertas.github.io/produto/air-fryer-oven-philco-15l-redstone-10-funcoes-paf15c-127v.html",
-      "avaliacao": null,
-      "avaliacoes": null,
-      "vendas": null,
+      "avaliacoes": 1,
+      "vendas": 0,
       "nota_qualidade": 8
     },
     {
@@ -454,7 +454,26 @@
       "page_url": "https://promoninjaofertas.github.io/produto/tenis-fila-racer-speedzone-feminino-verde-e-azul-verde.html",
       "avaliacao": null,
       "avaliacoes": 26,
-      "vendas": 2546,
+      "vendas": 2651,
+      "nota_qualidade": 7
+    },
+    {
+      "source_id": "pechinchou-148113",
+      "titulo": "Air Fryer Oven Philco 15L Redstone 10 Funções PAF15C 127V",
+      "de": 612.99,
+      "por": 479.66,
+      "desconto": 22,
+      "imagem": "https://m.media-amazon.com/images/I/61AMnZD50XL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0GJ7CSCD7?tag=promoninja0c3-20",
+      "cupom": "PARAVOCE",
+      "loja": "amazon",
+      "categoria": "Eletrodomesticos",
+      "data": "2026-07-28T18:59:33.129928+00:00",
+      "slug": "air-fryer-oven-philco-15l-redstone-10-funcoes-paf15c-127v",
+      "page_url": "https://promoninjaofertas.github.io/produto/air-fryer-oven-philco-15l-redstone-10-funcoes-paf15c-127v.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": 41,
       "nota_qualidade": 7
     },
     {
