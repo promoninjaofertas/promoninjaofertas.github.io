@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-08-02T04:37:21.485201+00:00",
+  "atualizado": "2026-08-02T04:57:27.801546+00:00",
   "ofertas": [
     {
       "source_id": "pechinchou-143398",
@@ -197,7 +197,7 @@
       "de": 799.91,
       "por": 431.43,
       "desconto": 46,
-      "imagem": "https://m.media-amazon.com/images/I/71RHqktAoFL._SL1500_.jpg",
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/71RHqktAoFL._AC_SY300_SX300_QL70_ML2_.jpg",
       "link": "https://www.amazon.com.br/dp/B0G5PYYLXZ?tag=promoninja0c3-20",
       "cupom": "BOMSABADO",
       "loja": "amazon",
@@ -398,25 +398,6 @@
       "avaliacao": null,
       "avaliacoes": 70,
       "vendas": 2303,
-      "nota_qualidade": 8
-    },
-    {
-      "source_id": "pechinchou-149340",
-      "titulo": "Tênis Feminino Adizero Drive Rc Adidas Violeta Lisa",
-      "de": 899.0,
-      "por": 575.0,
-      "desconto": 36,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/external-image_mP1zrN2.jpg",
-      "link": "https://meli.la/1gjn6en",
-      "cupom": "FASHIONML",
-      "loja": "mercadolivre",
-      "categoria": "Beleza",
-      "data": "2026-08-02T02:05:02.986714+00:00",
-      "slug": "tenis-feminino-adizero-drive-rc-adidas-violeta-lisa",
-      "page_url": "https://promoninjaofertas.github.io/produto/tenis-feminino-adizero-drive-rc-adidas-violeta-lisa.html",
-      "avaliacao": null,
-      "avaliacoes": 46,
-      "vendas": 1981,
       "nota_qualidade": 8
     },
     {
@@ -844,7 +825,7 @@
       "por": 134.56,
       "desconto": 60,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S3620bd9e1a6c4b519aba52db651f23a7Y.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4kWCJNj5gCTO0FFXOwNIdOHtpOIihcQ3fUfSSdGFakimLjFWcLYtQb5NMEBzPSve91bzf5HrmkdQJJWxTpWDDXqQVPrvSkh985LmkZj9XzTYj9waBK8V9Y9ftZ8TjqYxBlbTpC9vmKM6DKvspif0d2U6wIrffnfxvJC0vWymBpPzNmVTVPp1yE0wafR077ZwEENfMaEiEut8QxZthCptKGEYvepGVREo1mMTqGxn6z90pQKiyR287DuBNO1cgOpiOJjL06E7SEOUGfIPXSn1QLdhkViifLwD1aDeCC1r00R7njGVRwot31Z1ceOvRwTr1orAKr1PpksBojgf4DFMmW9yqLek5OFjlaHhOGZLL3pXSKDWr8aFJ3MTl75uuXIkSss6uLn037kMcaLXD3HcnZ3iGYXYd2JOHqQAEJI11Tx1G9ZDZV883mzKdf2sh2bvsKwEGi0q7yDqugTr4k0FBMcKHkqATUwdANLWau94l4I9QY1ihK3qxRHiEaXhEbOk394FuX3jafaP7L2LtoREfEAfvVyH0AuZR6CEKoDc9pkqY9BB4P11S8sBJv2ncNqZeMDKBrtqbuOoR4Qko51K8ggxXwsuIAb2Xe22OTFji2NONOKmjj8eiWlDVwEPlRDUqyoByAeeLZazCOb4d2pBNuLQcTorn2OQxa4sjEEcZRALxSMKExEk79oO2Ai6VR37o31ZrHYrCnBpAw",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4kWCJNj5gCTO0FFXOwNIdOHtpOIihcQ3fUfSSdGFakimLjFWcLYtQb5NMEBzPSve91bzf5HrmkdQJJWxTpWDDXqQVPrvSkh985LmkZj9XzTYj9waBK8V9Y9ftZ8TjqYxBlbTpC9vmKM6DKvspif0d2U6wIrffnfxvJC0vWymBpPzNmVTVPp1yE0wafR077ZwEENfMaEiEut8QxZthCptKGEYvepGVREo1mMTqGw7kRArneYgca6eOKIN7LQ3XGBHqszLImzXHWBkP54IjhPYAU80IqlsZNIS9loz0FxWJmmlTrU1knVIFKREBPLsJ7POY5jIyzQxTxqFvVDgiH1J4N3BGdZwPEz7LbAT9tU9O2wlkXsakw3P5rc9pe72T8kEY79kjYLB0rxNEIzdUB1T4FmfffuGqqa9BFvwhvwIAstTFMEP1Uvt0JhJOuGHD2ihbAcpxNn7cuEcqort4g4Ushst3afnl9DBHHU2nMJEevmQu2GS5Q18l2Q0ANjlRBMsLTDhDIlXzTbBjhTccoFna6jrDWAsUqKhx10sasT2Ej0TIbXXxF4Ht6DtNOTQo2Wn64L5X8R9hdB9Yx75zDshotx3PU1XADUTd8aB6HAKHYDbAjHTo3VGnLgab0ZKaDyzFYDh5BLLiUybp7Ss7OY5gHZMRf0dQ1LaQ3QZLJp0fpj9QgwKByM2sJwXsN7ztkiog9qjeNjV5ac4rs",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Audio",
