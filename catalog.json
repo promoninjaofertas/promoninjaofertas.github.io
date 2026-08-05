@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-08-05T01:10:21.282205+00:00",
+  "atualizado": "2026-08-05T01:20:24.576168+00:00",
   "ofertas": [
     {
       "source_id": "18397674061",
@@ -18,6 +18,25 @@
       "avaliacao": 4.9,
       "avaliacoes": null,
       "vendas": 1287,
+      "nota_qualidade": 10
+    },
+    {
+      "source_id": "23693332111",
+      "titulo": "Memória PC 8GB Kingston Ddr3 1600mhz  Pc3 12800  KVR16N11/8 Novo",
+      "de": 112.0,
+      "por": 109.99,
+      "desconto": 30,
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m0d6a7n3hi1sd2",
+      "link": "https://s.shopee.com.br/4AypLX1n4k",
+      "cupom": null,
+      "loja": "shopee",
+      "categoria": "Hardware",
+      "data": "2026-08-05T01:20:24.576168+00:00",
+      "slug": "memoria-pc-8gb-kingston-ddr3-1600mhz-pc3-12800-kvr16n11-8-novo",
+      "page_url": "https://promoninjaofertas.github.io/produto/memoria-pc-8gb-kingston-ddr3-1600mhz-pc3-12800-kvr16n11-8-novo.html",
+      "avaliacao": 4.9,
+      "avaliacoes": null,
+      "vendas": 646,
       "nota_qualidade": 10
     },
     {
@@ -74,7 +93,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/terno-italiano-slim-promocao-queima-de-estoque.html",
       "avaliacao": null,
       "avaliacoes": 60,
-      "vendas": 2046,
+      "vendas": 2051,
       "nota_qualidade": 9
     },
     {
@@ -264,7 +283,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/kit-3-bermuda-masculina-esportiva-secagem-rapida-ziper-bolso.html",
       "avaliacao": null,
       "avaliacoes": 70,
-      "vendas": 3229,
+      "vendas": 3263,
       "nota_qualidade": 8
     },
     {
@@ -273,7 +292,7 @@
       "de": 539.9,
       "por": 374.68,
       "desconto": 31,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/41yCjAMnxoL._AC_SL1000_.jpg",
+      "imagem": "https://m.media-amazon.com/images/I/41La0GKodcL._SL1500_.jpg",
       "link": "https://www.amazon.com.br/dp/B077PWP64J?tag=promoninja0c3-20",
       "cupom": "20HOME",
       "loja": "amazon",
@@ -283,7 +302,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/chuveiro-acqua-duo-ultra-branco-220v-7800w-lorenzetti.html",
       "avaliacao": null,
       "avaliacoes": 50,
-      "vendas": 1690,
+      "vendas": 1707,
       "nota_qualidade": 8
     },
     {
@@ -401,6 +420,44 @@
       "nota_qualidade": 8
     },
     {
+      "source_id": "2960595",
+      "titulo": "Tenis Fila Racer Speedzone Masculino",
+      "de": 599.99,
+      "por": 256.49,
+      "desconto": 57,
+      "imagem": "https://m.media-amazon.com/images/I/61LPRXEty0L._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0GM3711DH?tag=promoninja0c3-20",
+      "cupom": "CARTAOPRIME",
+      "loja": "amazon",
+      "categoria": "Moda",
+      "data": "2026-08-05T01:20:24.576168+00:00",
+      "slug": "tenis-fila-racer-speedzone-masculino",
+      "page_url": "https://promoninjaofertas.github.io/produto/tenis-fila-racer-speedzone-masculino.html",
+      "avaliacao": null,
+      "avaliacoes": 1,
+      "vendas": 185,
+      "nota_qualidade": 7
+    },
+    {
+      "source_id": "pechinchou-141556",
+      "titulo": "Escorredor de Louça para Pia NEXMIDIO 65 cm com 2 Andares, Porta-Talheres e Porta-Copos em Ferro Preto",
+      "de": 199.99,
+      "por": 104.25,
+      "desconto": 48,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/watermarked_img_15307185585169870744.jpg",
+      "link": "https://meli.la/12kzsQP",
+      "cupom": "CASAPROMO",
+      "loja": "mercadolivre",
+      "categoria": "Pet",
+      "data": "2026-08-05T01:20:24.576168+00:00",
+      "slug": "escorredor-de-louca-para-pia-nexmidio-65-cm-com-2-andares-porta-talheres-e",
+      "page_url": "https://promoninjaofertas.github.io/produto/escorredor-de-louca-para-pia-nexmidio-65-cm-com-2-andares-porta-talheres-e.html",
+      "avaliacao": null,
+      "avaliacoes": 10,
+      "vendas": 118,
+      "nota_qualidade": 7
+    },
+    {
       "source_id": "2961083",
       "titulo": "Caixa de Som JBL Boombox 4 Bluetooth",
       "de": 3199.0,
@@ -416,26 +473,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/caixa-de-som-jbl-boombox-4-bluetooth.html",
       "avaliacao": null,
       "avaliacoes": 9,
-      "vendas": 55,
-      "nota_qualidade": 7
-    },
-    {
-      "source_id": "2961146",
-      "titulo": "Smart TV Samsung 50\" UHD 4K 2025 U8600F",
-      "de": 2599.99,
-      "por": 1839.0,
-      "desconto": 29,
-      "imagem": "https://m.media-amazon.com/images/I/71iGUDQvOYL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0F5X4LL89?tag=promoninja0c3-20",
-      "cupom": "CUPOMDODIA",
-      "loja": "amazon",
-      "categoria": "TV e Eletronicos",
-      "data": "2026-08-05T01:00:20.805284+00:00",
-      "slug": "smart-tv-samsung-50-uhd-4k-2025-u8600f",
-      "page_url": "https://promoninjaofertas.github.io/produto/smart-tv-samsung-50-uhd-4k-2025-u8600f.html",
-      "avaliacao": null,
-      "avaliacoes": 4,
-      "vendas": 45,
+      "vendas": 60,
       "nota_qualidade": 7
     },
     {
@@ -463,7 +501,7 @@
       "de": 89.9,
       "por": 59.9,
       "desconto": 33,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/external-image_P6GuBsA.jpg",
+      "imagem": "https://m.media-amazon.com/images/I/61nHcSa96BL._SL1500_.jpg",
       "link": "https://www.amazon.com.br/dp/B0CKJNCZ8P?tag=promoninja0c3-20",
       "cupom": null,
       "loja": "amazon",
@@ -473,7 +511,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/i2go-carregador-portatil-power-bank-pocket-5000mah-nao-necessita-cabos-modelo-lightnin.html",
       "avaliacao": null,
       "avaliacoes": 60,
-      "vendas": 1842,
+      "vendas": 1852,
       "nota_qualidade": 7
     },
     {
@@ -597,7 +635,7 @@
       "por": 1279.19,
       "desconto": 74,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S2d5f7ba1337145cea71064afcd2c4ce0o.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4E7Veyn4dOCP3floS77xOLeFLvDwLI6ld2K3RaX80EApAiw9Z7fnsHHBqf8KNd17GtqsR1RmD7Lf1R9fGOpF5eRtI2LOlmVwEZFuwDwPtFLCm2WhaeaAFyOtZLSc4v8nPbmZCexVhzEuokqFz2pajAk8asZ9uYDFwmbuY05qvguH6ogpDVoxhhZ13RoRs6E2eokEASnai6R2i0pxvhYluXL33MF4XRV3gOu15BqpLOiJRN33FJURrXlgeQvQzmLkIgamWv7guoqFOZFMd6gQPZw9Fke8bOpZeZIDbXiKYgf9JKBUaVdbkgQy9BewkcOxhfEsd31ixwlaDrTD1sQfeCRMnTNriwTJA1H3muo9l8gFTj8OeQTF412goIZPQ6CLEJQ0CfuONka0yIubTBhH19tcao1ljSiAC4xDVdsOZAOLRpsRsYabKYA5vMn223zvfQGLEy85t6YqVD9FhtaJJlI9n5NDCeusrDEUcQpEQK1PJApBDjsVcByur9HE31G2PZcstGk6ZzeVIoSXA8Q0XNPa0PwN15ko2IkiErCrnjfsJqNN5cCftqerlB5NIxnReszH82IRVrfU6XECJP5Cq7BXIw4GtUzinKNxcIbGUIxTXL527fckjWb39DQbtLQakxzrfJ3usmgM7Y24A92975y0iEnPz1E07IiAVZVgRIpI0hWnwUWObcP6ejEtIR12q2NLCcTDr0gvM4",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4E7Veyn4dOCP3floS77xOLeFLvDwLI6ld2K3RaX80EApAiw9Z7fnsHHBqf8KNd17GtqsR1RmD7Lf1R9fGOpF5eRtI2LOlmVwEZFuwDwPtFLCm2WhaeaAFyOtZLSc4v8nPbmZCexVhzEuokqFz2pajAk8asZ9uYDFwmbuY05qvguH6ogpDVoxhhZ13RoRs6E2eokEASnai6R2i0pxvhYluXL33MF4XRV3gOu15BqkFKfTXqS9tRj2pnxPUJz3rRd104u07qd0fybTfjfAgI6lKg7Uy6WPutL8ZZpjbKoqsxC034bzgeWifdvRXkIttyaxlVwAEgTii3p0gG10o4drWrOtLbRNZsiHHACQVSltt3GX6IyrhPceQugtsynDjdTR7dml5hdi6ekz5jdFW6A5DGFFA8aJjGuC8lQ7pzIwaII9QN4Qqz00AYHgPV18VCjYdk1if01oETmcpk9KTok9KFyyueo7mDFCWTBXLV64F63frfnf1GgPKAAWkBvegre7LN7FztKHJo3xqbEGcfocKzwrJNyH5bvlBSOHeYbfPJnxFpSrxHdBmv54pVu0fEJc36ep00FlGePYPwLgnhhgS1uVN399MTsVopBf9cNrjh5qqvGhTFzAfm3KnH0bAUW6kvtzKG3FViyvrQw7Y5eFrDNeYcm1veookdChbfN9Mt9iCnb25sVH13PmotDv9gd2lkdnaAfw31URfi",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Eletrodomesticos",
@@ -702,6 +740,63 @@
       "avaliacao": 4.5600000000000005,
       "avaliacoes": null,
       "vendas": 695,
+      "nota_qualidade": 7
+    },
+    {
+      "source_id": "2961196",
+      "titulo": "JBL Bateria Battery 400 Para Caixa de Som PartyBox Stage 320 e JBL Xtreme 4 Carregamento Rápido - Preta",
+      "de": 453.0,
+      "por": 296.1,
+      "desconto": 35,
+      "imagem": "https://m.media-amazon.com/images/I/51-MoescTyL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0D2J6SSQY?tag=promoninja0c3-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Audio",
+      "data": "2026-08-05T01:20:24.576168+00:00",
+      "slug": "jbl-bateria-battery-400-para-caixa-de-som-partybox-stage-320-e-jbl-xtreme",
+      "page_url": "https://promoninjaofertas.github.io/produto/jbl-bateria-battery-400-para-caixa-de-som-partybox-stage-320-e-jbl-xtreme.html",
+      "avaliacao": null,
+      "avaliacoes": 1,
+      "vendas": 25,
+      "nota_qualidade": 7
+    },
+    {
+      "source_id": "2961198",
+      "titulo": "Fone de Ouvido Bluetooth JBL Live 670 com cancelamento de ruído Azul",
+      "de": 599.0,
+      "por": 449.1,
+      "desconto": 25,
+      "imagem": "https://m.media-amazon.com/images/I/71yRp4u5x0L._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0CHMMVHQL?tag=promoninja0c3-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Audio",
+      "data": "2026-08-05T01:20:24.576168+00:00",
+      "slug": "fone-de-ouvido-bluetooth-jbl-live-670-com-cancelamento-de-ruido-azul",
+      "page_url": "https://promoninjaofertas.github.io/produto/fone-de-ouvido-bluetooth-jbl-live-670-com-cancelamento-de-ruido-azul.html",
+      "avaliacao": null,
+      "avaliacoes": 1,
+      "vendas": 20,
+      "nota_qualidade": 7
+    },
+    {
+      "source_id": "2961174",
+      "titulo": "Teclado sem fio Logitech Pebble Keys 2 K380s Layout US",
+      "de": 247.9,
+      "por": 179.47,
+      "desconto": 28,
+      "imagem": "https://m.media-amazon.com/images/I/61vnuYiLrXL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0CJ3P5RX9?tag=promoninja0c3-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Hardware",
+      "data": "2026-08-05T01:20:24.576168+00:00",
+      "slug": "teclado-sem-fio-logitech-pebble-keys-2-k380s-layout-us",
+      "page_url": "https://promoninjaofertas.github.io/produto/teclado-sem-fio-logitech-pebble-keys-2-k380s-layout-us.html",
+      "avaliacao": null,
+      "avaliacoes": 1,
+      "vendas": 15,
       "nota_qualidade": 7
     }
   ]
