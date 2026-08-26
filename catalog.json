@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-08-26T07:02:25.702595+00:00",
+  "atualizado": "2026-08-26T07:22:29.133739+00:00",
   "ofertas": [
     {
       "source_id": "pechinchou-128361",
@@ -18,6 +18,25 @@
       "avaliacao": null,
       "avaliacoes": 110,
       "vendas": 1480,
+      "nota_qualidade": 10
+    },
+    {
+      "source_id": "pechinchou-146464",
+      "titulo": "Smart TV LG UHD AI UA75 50 polegadas HDR10 Pro Processador α7 AI Ger8 webOS 25",
+      "de": 2799.9,
+      "por": 1861.29,
+      "desconto": 34,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/image-removebg-preview_43_IW4i8rd.png",
+      "link": "https://meli.la/2FSNwrL",
+      "cupom": "OFFCOMMELI",
+      "loja": "mercadolivre",
+      "categoria": "Hardware",
+      "data": "2026-08-26T07:12:21.772949+00:00",
+      "slug": "smart-tv-lg-uhd-ai-ua75-50-polegadas-hdr10-pro-processador-7-ai-ger8",
+      "page_url": "https://promoninjaofertas.github.io/produto/smart-tv-lg-uhd-ai-ua75-50-polegadas-hdr10-pro-processador-7-ai-ger8.html",
+      "avaliacao": null,
+      "avaliacoes": 50,
+      "vendas": 1087,
       "nota_qualidade": 10
     },
     {
@@ -363,25 +382,6 @@
       "nota_qualidade": 8
     },
     {
-      "source_id": "2997093",
-      "titulo": "Tablet Samsung Galaxy TAB A11 +Samsung Galaxy Buds Core Fone de Ouvido sem fio cancelamento de ruído interprete int",
-      "de": 1798.0,
-      "por": 1345.16,
-      "desconto": 25,
-      "imagem": "https://m.media-amazon.com/images/I/51M71JHWbmL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0G1TVJWRR?tag=promoninja0c3-20",
-      "cupom": null,
-      "loja": "amazon",
-      "categoria": "Smartphones",
-      "data": "2026-08-26T07:02:25.702595+00:00",
-      "slug": "tablet-samsung-galaxy-tab-a11-samsung-galaxy-buds-core-fone-de-ouvido-sem-fio",
-      "page_url": "https://promoninjaofertas.github.io/produto/tablet-samsung-galaxy-tab-a11-samsung-galaxy-buds-core-fone-de-ouvido-sem-fio.html",
-      "avaliacao": null,
-      "avaliacoes": 1,
-      "vendas": 695,
-      "nota_qualidade": 8
-    },
-    {
       "source_id": "1005012530862704",
       "titulo": "Cartão de Memória Lenovo 1TB Micro SD, Cartões SD de Leitura Rápida para Telefone Android, Câmera Digital, Cartão TF U3 V30",
       "de": 40.93,
@@ -558,7 +558,7 @@
       "de": 299.9,
       "por": 164.4,
       "desconto": 45,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/61WEIF5QCrL._AC_SX342_SY445_QL70_ML2_.jpg",
+      "imagem": "https://m.media-amazon.com/images/I/61WEIF5QCrL._SL1500_.jpg",
       "link": "https://www.amazon.com.br/dp/B0BM4RN4RL?tag=promoninja0c3-20",
       "cupom": "HAIRPRO",
       "loja": "amazon",
@@ -616,7 +616,7 @@
       "por": 30.38,
       "desconto": 20,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S914117765ebf43fa9c4ff0f5f37011e7W.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4Fc5xKB56ujxzWk53YUI534JytNEG7WnvdKkBWAH2ObTm06ZshQxGmCpK2YD9Z2O7qbUXB7Tu92ppiZhZNL9brQin3OHJEkmP1N9QkZEnCqq8NAjwMb9bgXpVTjhSQWthoX4Jw4aDSr9vfMZok7OgpAig76wlSkfSilYiY2O0XfVwDc5kCjSgsY7qbBDRmBP9y8qnxy4qFav3UhL4ZjqCGZXn8IQ8I3LsNyTU9TyUpQMC6rf9AOYF20G5dqCLMEZ5E9IJuSgfNGMoDbwKAGAQMOrniRlr3kmKOaae8Bfs3vO0r6GcIsWbSyyzu68eAiMIEcnagfz2uRkPMyk8kEvPyGHbLs8qhjof2drFbfECvVzxAMgLXfyVXhC74oKsZfEs7CpTJOtILBT5kY5HgOS0H7cy5vnjmuKm2Le2UwelvXEtpo3CHN3WrLlUjcxsWow4X03jwcdDyFMynBm9AkKHoFinShNgfb8QbubUr3h74FSHnyQyvzH9YWndEW3xMBORNv1AR8TRKEGKF4eTxjFVn0y1HOd0NrSS1trnp1bkYmNaXo9fbG9ntvRPD3D9a6qZwOPlU2Q5FJ1ujgW3DhWwIAbHeJX7AhzBtCTzJa49oJbYAsbAkyGGyMsxm0BqRXoZ7PGckVdXpfPtFjsnaBbcuNCFiiiwqbgPvjKOUsXWXiqK8psvShNBKg8t3ohpaSWH7Qf1iGQRCM2e8",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4Fc5xKB56ujxzWk53YUI534JytNEG7WnvdKkBWAH2ObTm06ZshQxGmCpK2YD9Z2O7qbUXB7Tu92ppiZhZNL9brQin3OHJEkmP1N9QkZEnCqq8NAjwMb9bgXpVTjhSQWthoX4Jw4aDSr9vfMZok7OgpAig76wlSkfSilYiY2O0XfVwDc5kCjSgsY7qbBDRmBP9y8qnxy4qFav3UhL4ZjqCGZXn8IQ8I3LsNyTU9TjpVAAN6aySapUNyB6aqhgJOfMxuSYz0fHRaDtkYOiVq5bTHnQNHU0SeBj7eaSRaPkqFquVANyLHNAejO15tSh5BPVpvGgpPTlBEtdJOa0uZOev2V4aVRJrjQzCN5CJJPiPGyUxr3vq6K0SxJkYlQhDdx83TRERtLakYm9YZBtXLFcljFOjseGrIuE0jeD4py0CUTKKplt5uUKmmoyVfzdSxrOg3UAr9VnI6jwEWjQd7O3uDso4S75jj00FNUidqRZYdf4Zj2T8yGq3TrRn6LPDO0ryZ0aUsJp6Xh8zAiAr8ELXXjsqbqUndiSFRrD5xUnXlf77I7oANTSJhIVKU05sVEPotinYCGMfEeJ0FNjUQ8yc2Hgd3UqjmbE0Pl01j2RBmhrp6TzbsWym9RaS9HlKmArNvcUIJuYosTsMzMZL1QnNxHN5f48aGg9c3eoddmpTqi71aBG1X1yS1DqGvwq4bp6WDCgMDaL22G5sc",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Smartphones",
@@ -739,7 +739,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/smartphone-motorola-edge-60-fusion-5g-256gb-8gb-ram-16gb-ram-boost-tela-quad.html",
       "avaliacao": null,
       "avaliacoes": 10,
-      "vendas": 463,
+      "vendas": 467,
       "nota_qualidade": 7
     }
   ]
