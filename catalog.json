@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-07T22:26:04.918350+00:00",
+  "atualizado": "2026-09-07T22:36:23.887917+00:00",
   "ofertas": [
     {
       "source_id": "21254229374",
@@ -40,25 +40,6 @@
       "nota_qualidade": 10
     },
     {
-      "source_id": "pechinchou-141963",
-      "titulo": "Panela De Arroz Elétrica 3l Preta Midea Cor Preto",
-      "de": 199.99,
-      "por": 90.6,
-      "desconto": 55,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/947bcba8f41b43530d84d05e30af0617_VWZCqtQ.webp",
-      "link": "https://meli.la/1C4mkg7",
-      "cupom": "BOLSOCHEIO",
-      "loja": "mercadolivre",
-      "categoria": "Casa",
-      "data": "2026-09-07T18:22:30.679622+00:00",
-      "slug": "panela-de-arroz-eletrica-3l-preta-midea-cor-preto",
-      "page_url": "https://promoninjaofertas.github.io/produto/panela-de-arroz-eletrica-3l-preta-midea-cor-preto.html",
-      "avaliacao": null,
-      "avaliacoes": 80,
-      "vendas": 2941,
-      "nota_qualidade": 9
-    },
-    {
       "source_id": "pechinchou-79966",
       "titulo": "Tênis Smash V2 Puma",
       "de": 449.99,
@@ -74,7 +55,45 @@
       "page_url": "https://promoninjaofertas.github.io/produto/tenis-smash-v2-puma.html",
       "avaliacao": null,
       "avaliacoes": 46,
-      "vendas": 1342,
+      "vendas": 1350,
+      "nota_qualidade": 9
+    },
+    {
+      "source_id": "pechinchou-96659",
+      "titulo": "JBL, Caixa de Som, PartyBox Stage 320, Bluetooth, Portátil, Show de Luzes, À Prova de Respingos - 240W RMS - Preta",
+      "de": 3629.9,
+      "por": 2349.44,
+      "desconto": 35,
+      "imagem": "https://m.media-amazon.com/images/I/61qkBOtq8OL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0G4SN4QF7?tag=promoninja0c3-20",
+      "cupom": "TECH15",
+      "loja": "amazon",
+      "categoria": "Audio",
+      "data": "2026-09-07T20:44:34.870214+00:00",
+      "slug": "jbl-caixa-de-som-partybox-stage-320-bluetooth-portatil-show-de-luzes-a-prova",
+      "page_url": "https://promoninjaofertas.github.io/produto/jbl-caixa-de-som-partybox-stage-320-bluetooth-portatil-show-de-luzes-a-prova.html",
+      "avaliacao": null,
+      "avaliacoes": 50,
+      "vendas": 905,
+      "nota_qualidade": 9
+    },
+    {
+      "source_id": "pechinchou-142269",
+      "titulo": "Micro-ondas Philco 20L Preto Painel Mecânico PMO23M",
+      "de": 579.0,
+      "por": 333.02,
+      "desconto": 42,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/D_NQ_NP_792279-MLA99822565951_112025-O.webp",
+      "link": "https://meli.la/1eAJWiw",
+      "cupom": "CARRINHOCERTO",
+      "loja": "mercadolivre",
+      "categoria": "Eletrodomésticos",
+      "data": "2026-09-07T22:05:39.383495+00:00",
+      "slug": "micro-ondas-philco-20l-preto-painel-mecanico-pmo23m",
+      "page_url": "https://promoninjaofertas.github.io/produto/micro-ondas-philco-20l-preto-painel-mecanico-pmo23m.html",
+      "avaliacao": null,
+      "avaliacoes": 20,
+      "vendas": 113,
       "nota_qualidade": 9
     },
     {
@@ -230,25 +249,6 @@
       "nota_qualidade": 9
     },
     {
-      "source_id": "pechinchou-96659",
-      "titulo": "JBL, Caixa de Som, PartyBox Stage 320, Bluetooth, Portátil, Show de Luzes, À Prova de Respingos - 240W RMS - Preta",
-      "de": 3629.9,
-      "por": 2349.44,
-      "desconto": 35,
-      "imagem": "https://m.media-amazon.com/images/I/61qkBOtq8OL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0G4SN4QF7?tag=promoninja0c3-20",
-      "cupom": "TECH15",
-      "loja": "amazon",
-      "categoria": "Audio",
-      "data": "2026-09-07T20:44:34.870214+00:00",
-      "slug": "jbl-caixa-de-som-partybox-stage-320-bluetooth-portatil-show-de-luzes-a-prova",
-      "page_url": "https://promoninjaofertas.github.io/produto/jbl-caixa-de-som-partybox-stage-320-bluetooth-portatil-show-de-luzes-a-prova.html",
-      "avaliacao": null,
-      "avaliacoes": 20,
-      "vendas": 883,
-      "nota_qualidade": 8
-    },
-    {
       "source_id": "1005006965436436",
       "titulo": "Projetor Mini Smart para Home Theater BYINTEK U4 LOVE 1, Vídeo 4K 1080P, Android WIFI para Cinema em Smartphone",
       "de": 1614.9,
@@ -312,7 +312,7 @@
       "por": 1258.49,
       "desconto": 75,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S4fd28a00efaf414f91c736a68f0d325c5.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4E7Veyn4dOCP3floS77xOLeFLvDwLI6ld2K3RaX80EApAiw9Z7fnsHHBqf8KNd17GtqsR1RmD7Lf1R9fGOpF5eRtI2LOlmVwEZFuwDwPtFLCm2WhaeaAFyOtZLSc4v8nPbmZCexVhzEuokqFz2pajAk8asZ9uYDFwmbuY05qvguH6ogpDVoxhhZ13RoRs6E2eokEASnai6R2i0pxvhYluXL33MF4XRV3gOu15BqpcOdhIaTPQGhxfBoY3Zy6OJ3lO1nzEoj9kSGZQB5TCrQ9oxRUULdMoxNVpCDwfgKWHR9FIU0xajw5fn0v2QJZu0wbGzBQOoh904B6lsIJp7WViSydH66hQXS1AcoNwoYbzUWV6UhwI0MdacAbOIu5iuS1Dl7u2FLa0S45xaBkuipQaaIIQXpApdpz3DgNwS85B64GNyCTzLwisIRYegrdzloBTgY1OOuGBDH1bSVzhM2NCu0jtoajuTjvaYQNDCqs9sAw6bPwhJ6DkmWa2BM90vNNWDLL5JLkHo2311RqLLfv3w1GQGWu8FpJ0EnQjo2FVWDRp6nsZfBxlndk6VeZ4PgYbhYysDtk4btq1OI0KgNu7KPHXborNc3XDXxkOy4VJcVyYmaGMaTp1VRjcekeyQv0vefPPeQd2ZJkKfHfoekGCkHR1GxZZaW6PBE0JCESwZ06r1KA5ruP7PYMVl2On7FTCw4FEBWV3yjKaG",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4E7Veyn4dOCP3floS77xOLeFLvDwLI6ld2K3RaX80EApAiw9Z7fnsHHBqf8KNd17GtqsR1RmD7Lf1R9fGOpF5eRtI2LOlmVwEZFuwDwPtFLCm2WhaeaAFyOtZLSc4v8nPbmZCexVhzEuokqFz2pajAk8asZ9uYDFwmbuY05qvguH6ogpDVoxhhZ13RoRs6E2eokEASnai6R2i0pxvhYluXL33MF4XRV3gOu15B5YxZkSC2GqWyi0htHpwt2Huq50IRpNzrKOKnflhzopmI4uRVZKHima8E0n7C7wRCNAlC7gb6P3WbaQummAxRtq6HUIF6e1TA0EnihX1LhlOdgT4IR0mMJ24eWnHuDszBrjXOJX6s5qoHSoKKVPXBgfe5jIAj1wsI8kzY7Dhp2gcY3PDQxklnTfxMzdbBimZ8ObG3NE5Dw4W2CKJBlNomKRlc6vAtDVCTvFEFJ22IdABCZcQsBKacSRIZF8w7OEBrSLXCnr7kuecpcT0NR6OAh7G5JRJeT80gB0ZXbhSAYib2m543lKJpsO6Ru3ccHY4hXSAIkczkqg8IUVOPxp6UtCZ7lplw2oFDWkh9heBbDgs1dDxz86qoMLsKBlgEJuHokuPHupYwnF3lkXEakn9HSMhnoqCg1sxhC5mrWYLBmJhr3GOo3XJ8lA6lqBioxBblSP09WaQQtifBWsIR55iVT1KMDvLHm5zJVxKl5oPI",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Eletrodomesticos",
@@ -340,7 +340,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/stanley-copo-quencher-com-alca-pomelo-591ml.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 221,
+      "vendas": 255,
       "nota_qualidade": 8
     },
     {
@@ -382,22 +382,22 @@
       "nota_qualidade": 8
     },
     {
-      "source_id": "pechinchou-142269",
-      "titulo": "Micro-ondas Philco 20L Preto Painel Mecânico PMO23M",
-      "de": 579.0,
-      "por": 333.02,
-      "desconto": 42,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/D_NQ_NP_792279-MLA99822565951_112025-O.webp",
-      "link": "https://meli.la/1eAJWiw",
+      "source_id": "pechinchou-149937",
+      "titulo": "Perfume Árabe Thahaani 100ML",
+      "de": 209.9,
+      "por": 135.0,
+      "desconto": 36,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/external-image_itT4Tpo.jpg",
+      "link": "https://meli.la/2UgDvaF",
       "cupom": "CARRINHOCERTO",
       "loja": "mercadolivre",
-      "categoria": "Eletrodomésticos",
-      "data": "2026-09-07T22:05:39.383495+00:00",
-      "slug": "micro-ondas-philco-20l-preto-painel-mecanico-pmo23m",
-      "page_url": "https://promoninjaofertas.github.io/produto/micro-ondas-philco-20l-preto-painel-mecanico-pmo23m.html",
+      "categoria": "Beleza",
+      "data": "2026-09-07T22:36:23.887917+00:00",
+      "slug": "perfume-arabe-thahaani-100ml",
+      "page_url": "https://promoninjaofertas.github.io/produto/perfume-arabe-thahaani-100ml.html",
       "avaliacao": null,
-      "avaliacoes": 10,
-      "vendas": 58,
+      "avaliacoes": null,
+      "vendas": 133,
       "nota_qualidade": 7
     },
     {
@@ -472,8 +472,8 @@
       "slug": "achocolatado-alpino-1kg",
       "page_url": "https://promoninjaofertas.github.io/produto/achocolatado-alpino-1kg.html",
       "avaliacao": null,
-      "avaliacoes": 60,
-      "vendas": 1463,
+      "avaliacoes": 70,
+      "vendas": 1466,
       "nota_qualidade": 7
     },
     {
@@ -635,7 +635,7 @@
       "por": 1789.83,
       "desconto": 79,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sac3f623488954cdfbb6a5709ec6bf6e6g.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4FkiSNFwIux28gjUfFmhldYjvWAxnbz8u4g6EAK53czGAHJze5KFkiSrTrMRfFm3DZwE02kRxTdbg3Vp8m7noxuBVpbtlreXBekBmpJJhV8kJK8dU5JlR8RYocJVWLOQ5KedOk88BRASFla4Jk7Qe7PEsePyCoOK5OUM3M9b3ADldvE7V8qkhu42evjPhY1xBhHGQnIHrysCUTVcBpjMmyw5zknVx8Cwy6IgmpIyJgDk5t8Rio1tsQXxDUGkFjjJ7FJC4h67CGq5PfPowUq0pczNh5GiyVEj1fl4l3ArskOnjtJkTnJmE3OAa3H38WZ0QVwfOtwRgWv0T7TQUFX0bRr1csXoetE8IOjs3rE5z4TxBFXvZCfwDEmUy8x8YAVpOtJIF9hwZ4HVA0GXskHon8MXYSEkxytxcfJReE873HnYUwEXmHR80Jfvh48BqZmQtgLE9osy9ZcXAVlec8T2XhJHIhRSsWqqmlj2PkeXmGAPgvheHxDFDF0I91B4CsPgs4em4utlBGZi21s7pN6Hg7IPZz6gkpvksTxqkRPzDUYEwNdCKGCwazJP6lUZidkCvCnO3lGO8hiohc5eKJYj86uOFEuBjjQhY0uktUYkcGdn37SzNFEBO3z9urLQ5ErNglShjGrM8UWJwFQnAnaQfbqFBd8glNwidykRUXSwLfNu8SoIxgo6mpqRmyz6xU6qDq8lzRR8D0flcB",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4FkiSNFwIux28gjUfFmhldYjvWAxnbz8u4g6EAK53czGAHJze5KFkiSrTrMRfFm3DZwE02kRxTdbg3Vp8m7noxuBVpbtlreXBekBmpJJhV8kJK8dU5JlR8RYocJVWLOQ5KedOk88BRASFla4Jk7Qe7PEsePyCoOK5OUM3M9b3ADldvE7V8qkhu42evjPhY1xBhHGQnIHrysCUTVcBpjMmyw5zknVx8Cwy6IgmpIqgxnwVZzIKs1yL3mUg4ErV2IldZuVrAwvBSeQNgYEqc2xzW22r2ntMJwQqFzYeOaaCKHIeEEXpB7xe5Cg1y8XsYXmRDZgQ5JK7tR5HS8GcUC4jxaXQWqjGnNK4KIqQtlqkx9a1OPxnqQny584XBWOASdcyH2QXi0ARsSfryIqpibTotuIpUhkKm2DSzle3Lk3Lao226zxqyX4nPvABPYWw9rIq0Op9nZug7Tow3zlgrKQDO6fZsYZHQlUAJPP7qfN4HDx2YS2B2otLWqUEyyUGXCfXmFqqZMCyNIYf6IjoWlENA1wD1t67soGaxj1Dxlz5N4omeIQQNRc6GwRUKsn8XAFFqiSz5bv82stRSHKgQbLaH6S5LnnofBQrduOtpGOPqGEub7hFIPOLz6TjWEri8zSep39tQNNZkInMHFFFyF1X0seEBJu4u2gD50M5YBVLgyOkeutxtUAIqr65BVtxV4SmuHRQikBN0l18J",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Eletrodomesticos",
@@ -663,7 +663,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/kit-10-organizador-multiuso-modular-gaveta-acrilico-rebirth-cor-cristal.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 420,
+      "vendas": 463,
       "nota_qualidade": 7
     },
     {
@@ -701,26 +701,7 @@
       "page_url": "https://promoninjaofertas.github.io/produto/drone-ls-s1s-max-camera-4k-motores-sem-escova-com-2-baterias.html",
       "avaliacao": null,
       "avaliacoes": 2,
-      "vendas": 174,
-      "nota_qualidade": 7
-    },
-    {
-      "source_id": "pechinchou-129055",
-      "titulo": "Kaiak Ultra Natura Colônia Perfume Masculino 100ml Relançamento 2025",
-      "de": 119.9,
-      "por": 75.95,
-      "desconto": 37,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/D_NQ_NP_872555-MLA81564213780_012025-O.webp",
-      "link": "https://meli.la/1q7WF7k",
-      "cupom": null,
-      "loja": "mercadolivre",
-      "categoria": "Beleza",
-      "data": "2026-09-07T22:26:04.918350+00:00",
-      "slug": "kaiak-ultra-natura-colonia-perfume-masculino-100ml-relancamento-2025",
-      "page_url": "https://promoninjaofertas.github.io/produto/kaiak-ultra-natura-colonia-perfume-masculino-100ml-relancamento-2025.html",
-      "avaliacao": null,
-      "avaliacoes": null,
-      "vendas": 2,
+      "vendas": 192,
       "nota_qualidade": 7
     }
   ]
