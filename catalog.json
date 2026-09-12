@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-12T22:02:46.290717+00:00",
+  "atualizado": "2026-09-12T22:16:34.813595+00:00",
   "ofertas": [
     {
       "source_id": "pechinchou-120410",
@@ -17,8 +17,12 @@
       "page_url": "https://promoninjaofertas.github.io/produto/perfume-natura-humor-proprio-colonia-75-ml.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 231,
-      "nota_qualidade": 10
+      "vendas": 265,
+      "nota_qualidade": 10,
+      "last_seen": "2026-09-12T22:16:34.813595+00:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Moda"
     },
     {
       "source_id": "11792447171",
@@ -37,7 +41,39 @@
       "avaliacao": 5.0,
       "avaliacoes": null,
       "vendas": 1599,
-      "nota_qualidade": 10
+      "nota_qualidade": 10,
+      "last_seen": "2026-09-12T22:16:34.813595+00:00",
+      "marca": "Tramontina",
+      "price_evidence": {
+        "checked_at": "2026-09-12T22:18:07.571383+00:00",
+        "identity": {
+          "brand": "Tramontina",
+          "model": null,
+          "family": "cozinha",
+          "kind": "produto",
+          "variant": "cor:preto|kit:4",
+          "ambiguous": false,
+          "comparison_key": null
+        },
+        "previous_min": 39.99,
+        "observed_min": 39.99,
+        "since": "2026-09-12T13:31:01.433528+00:00",
+        "observations": 2,
+        "days": 1,
+        "history": [
+          {
+            "at": "2026-09-12T13:31:01.433528+00:00",
+            "price": 39.99
+          },
+          {
+            "at": "2026-09-12T22:15:20.087208+00:00",
+            "price": 39.99
+          }
+        ],
+        "advantage": false,
+        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
+      },
+      "grupo": "Casa"
     },
     {
       "source_id": "1005003983116405",
@@ -56,7 +92,11 @@
       "avaliacao": 4.6,
       "avaliacoes": null,
       "vendas": 1535,
-      "nota_qualidade": 10
+      "nota_qualidade": 10,
+      "last_seen": "2026-09-12T21:32:20.833279+00:00",
+      "marca": null,
+      "price_evidence": null,
+      "grupo": null
     },
     {
       "source_id": "23693332111",
@@ -75,7 +115,11 @@
       "avaliacao": 4.9,
       "avaliacoes": null,
       "vendas": 585,
-      "nota_qualidade": 10
+      "nota_qualidade": 10,
+      "last_seen": "2026-09-12T22:12:34.584962+00:00",
+      "marca": null,
+      "price_evidence": null,
+      "grupo": null
     },
     {
       "source_id": "58204551307",
@@ -94,7 +138,11 @@
       "avaliacao": 4.9,
       "avaliacoes": null,
       "vendas": 479,
-      "nota_qualidade": 10
+      "nota_qualidade": 10,
+      "last_seen": "2026-09-12T22:02:46.290717+00:00",
+      "marca": null,
+      "price_evidence": null,
+      "grupo": null
     },
     {
       "source_id": "46662348294",
@@ -113,7 +161,11 @@
       "avaliacao": 5.0,
       "avaliacoes": null,
       "vendas": 385,
-      "nota_qualidade": 10
+      "nota_qualidade": 10,
+      "last_seen": "2026-09-12T22:12:34.584962+00:00",
+      "marca": null,
+      "price_evidence": null,
+      "grupo": null
     },
     {
       "source_id": "22897147575",
@@ -132,7 +184,39 @@
       "avaliacao": 4.9,
       "avaliacoes": null,
       "vendas": 293,
-      "nota_qualidade": 10
+      "nota_qualidade": 10,
+      "last_seen": "2026-09-12T22:16:34.813595+00:00",
+      "marca": "Tramontina",
+      "price_evidence": {
+        "checked_at": "2026-09-12T22:18:07.571383+00:00",
+        "identity": {
+          "brand": "Tramontina",
+          "model": null,
+          "family": "acessorios",
+          "kind": "produto",
+          "variant": "14cm|2l|kit:1",
+          "ambiguous": false,
+          "comparison_key": null
+        },
+        "previous_min": 99.99,
+        "observed_min": 99.99,
+        "since": "2026-09-12T13:31:01.433528+00:00",
+        "observations": 2,
+        "days": 1,
+        "history": [
+          {
+            "at": "2026-09-12T13:31:01.433528+00:00",
+            "price": 99.99
+          },
+          {
+            "at": "2026-09-12T22:15:20.087208+00:00",
+            "price": 99.99
+          }
+        ],
+        "advantage": false,
+        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
+      },
+      "grupo": "Tech"
     },
     {
       "source_id": "58009377686",
@@ -151,45 +235,58 @@
       "avaliacao": 4.9,
       "avaliacoes": null,
       "vendas": 279,
-      "nota_qualidade": 10
+      "nota_qualidade": 10,
+      "last_seen": "2026-09-12T22:02:46.290717+00:00",
+      "marca": null,
+      "price_evidence": null,
+      "grupo": null
     },
     {
-      "source_id": "23192940890",
-      "titulo": "Cabo Puxador Alça Air Fryer Mondial AF-29 AF-30 AF-31",
+      "source_id": "23594959395",
+      "titulo": "Furadeira Parafusadeira de Impacto Bosch 48V – 2 Baterias Inclusas | Ferramenta Elétrica",
       "de": null,
-      "por": 51.9,
-      "desconto": 45,
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-lto7a5y8hf5r7e",
-      "link": "https://s.shopee.com.br/BTkTGDrHX",
+      "por": 399.33,
+      "desconto": 55,
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lk-mo9dpk20zg1w51",
+      "link": "https://s.shopee.com.br/6fhAXERfxS",
       "cupom": null,
       "loja": "shopee",
       "categoria": "Smartphones",
-      "data": "2026-09-12T10:30:38.079626+00:00",
-      "slug": "cabo-puxador-alca-air-fryer-mondial-af-29-af-30-af-31",
-      "page_url": "https://promoninjaofertas.github.io/produto/cabo-puxador-alca-air-fryer-mondial-af-29-af-30-af-31.html",
+      "data": "2026-09-12T22:16:34.813595+00:00",
+      "slug": "furadeira-parafusadeira-de-impacto-bosch-48v-2-baterias-inclusas-ferramenta-eletrica",
+      "page_url": "https://promoninjaofertas.github.io/produto/furadeira-parafusadeira-de-impacto-bosch-48v-2-baterias-inclusas-ferramenta-eletrica.html",
       "avaliacao": 4.8,
       "avaliacoes": null,
-      "vendas": 227,
-      "nota_qualidade": 10
-    },
-    {
-      "source_id": "27444595739",
-      "titulo": "Cabo de Força Bipolar 90º para Tv Samsung Lg Monitor Impressora Rádio Ps4 Ps5 - Cabo Modular 2 Pinos 1,5m 127/220V",
-      "de": null,
-      "por": 21.8,
-      "desconto": 55,
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lq-mn0wubgapou8af",
-      "link": "https://s.shopee.com.br/1BMDyPmmun",
-      "cupom": null,
-      "loja": "shopee",
-      "categoria": "Hardware",
-      "data": "2026-09-12T10:00:07.592361+00:00",
-      "slug": "cabo-de-forca-bipolar-90o-para-tv-samsung-lg-monitor-impressora-radio-ps4-ps5",
-      "page_url": "https://promoninjaofertas.github.io/produto/cabo-de-forca-bipolar-90o-para-tv-samsung-lg-monitor-impressora-radio-ps4-ps5.html",
-      "avaliacao": 4.9,
-      "avaliacoes": null,
-      "vendas": 178,
-      "nota_qualidade": 10
+      "vendas": 198,
+      "nota_qualidade": 10,
+      "last_seen": "2026-09-12T22:16:34.813595+00:00",
+      "marca": "Bosch",
+      "price_evidence": {
+        "checked_at": "2026-09-12T22:18:07.571383+00:00",
+        "identity": {
+          "brand": "Bosch",
+          "model": null,
+          "family": "ferramentas",
+          "kind": "produto",
+          "variant": "48v|kit:1",
+          "ambiguous": false,
+          "comparison_key": null
+        },
+        "previous_min": null,
+        "observed_min": 399.33,
+        "since": "2026-09-12T22:18:07.571383+00:00",
+        "observations": 1,
+        "days": 1,
+        "history": [
+          {
+            "at": "2026-09-12T22:18:07.571383+00:00",
+            "price": 399.33
+          }
+        ],
+        "advantage": false,
+        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
+      },
+      "grupo": "Casa"
     },
     {
       "source_id": "47406482981",
@@ -208,26 +305,86 @@
       "avaliacao": 5.0,
       "avaliacoes": null,
       "vendas": 146,
-      "nota_qualidade": 10
+      "nota_qualidade": 10,
+      "last_seen": "2026-09-12T22:16:34.813595+00:00",
+      "marca": "JBL",
+      "price_evidence": {
+        "checked_at": "2026-09-12T22:18:07.571383+00:00",
+        "identity": {
+          "brand": "JBL",
+          "model": "520bt",
+          "family": "outros",
+          "kind": "produto",
+          "variant": "kit:1",
+          "ambiguous": false,
+          "comparison_key": "jbl|520bt|kit:1"
+        },
+        "previous_min": 229.3,
+        "observed_min": 229.3,
+        "since": "2026-09-12T13:31:01.433528+00:00",
+        "observations": 2,
+        "days": 1,
+        "history": [
+          {
+            "at": "2026-09-12T13:31:01.433528+00:00",
+            "price": 229.3
+          },
+          {
+            "at": "2026-09-12T22:15:20.087208+00:00",
+            "price": 229.3
+          }
+        ],
+        "advantage": false,
+        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
+      },
+      "grupo": "Tech"
     },
     {
-      "source_id": "12131205820",
-      "titulo": "Bateria Acer Aspire 5750 AS10D51 V3-571 AS10D31 Preto",
+      "source_id": "18199337362",
+      "titulo": "Parafusadeira e Furadeira à Bateria 12V GSR 120-LI com 1 Bateria e Maleta BOSCH Bivolt",
       "de": null,
-      "por": 119.0,
-      "desconto": 35,
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8258x-mqu9dnr2nkzzf5",
-      "link": "https://s.shopee.com.br/6Akxu5PAdW",
+      "por": 409.0,
+      "desconto": 27,
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdxb-lxqvrx46qhjg31",
+      "link": "https://s.shopee.com.br/7VGI1TuGyr",
       "cupom": null,
       "loja": "shopee",
       "categoria": "Smartphones",
-      "data": "2026-09-12T10:00:07.592361+00:00",
-      "slug": "bateria-acer-aspire-5750-as10d51-v3-571-as10d31-preto",
-      "page_url": "https://promoninjaofertas.github.io/produto/bateria-acer-aspire-5750-as10d51-v3-571-as10d31-preto.html",
-      "avaliacao": 4.9,
+      "data": "2026-09-12T22:16:34.813595+00:00",
+      "slug": "shopee-bosch-120-li-12v-bivolt-kit-1",
+      "page_url": "https://promoninjaofertas.github.io/produto/shopee-bosch-120-li-12v-bivolt-kit-1.html",
+      "avaliacao": 5.0,
       "avaliacoes": null,
-      "vendas": 115,
-      "nota_qualidade": 10
+      "vendas": 141,
+      "nota_qualidade": 10,
+      "last_seen": "2026-09-12T22:16:34.813595+00:00",
+      "marca": "Bosch",
+      "price_evidence": {
+        "checked_at": "2026-09-12T22:18:07.571383+00:00",
+        "identity": {
+          "brand": "Bosch",
+          "model": "120-li",
+          "family": "ferramentas",
+          "kind": "produto",
+          "variant": "12v|bivolt|kit:1",
+          "ambiguous": false,
+          "comparison_key": "bosch|120 li|12v|bivolt|kit:1"
+        },
+        "previous_min": null,
+        "observed_min": 409.0,
+        "since": "2026-09-12T22:18:07.571383+00:00",
+        "observations": 1,
+        "days": 1,
+        "history": [
+          {
+            "at": "2026-09-12T22:18:07.571383+00:00",
+            "price": 409.0
+          }
+        ],
+        "advantage": false,
+        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
+      },
+      "grupo": "Casa"
     },
     {
       "source_id": "pechinchou-151466",
@@ -245,8 +402,12 @@
       "page_url": "https://promoninjaofertas.github.io/produto/panela-de-pressao-vitrex-ceramic-4-2-l-cinza-com-inducao-e-antiaderente.html",
       "avaliacao": null,
       "avaliacoes": 80,
-      "vendas": 1289,
-      "nota_qualidade": 9
+      "vendas": 1297,
+      "nota_qualidade": 9,
+      "last_seen": "2026-09-12T22:16:34.813595+00:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Casa"
     },
     {
       "source_id": "pechinchou-129055",
@@ -264,8 +425,12 @@
       "page_url": "https://promoninjaofertas.github.io/produto/kaiak-ultra-natura-colonia-perfume-masculino-100ml-relancamento-2025.html",
       "avaliacao": null,
       "avaliacoes": 30,
-      "vendas": 917,
-      "nota_qualidade": 9
+      "vendas": 1047,
+      "nota_qualidade": 9,
+      "last_seen": "2026-09-12T22:16:34.813595+00:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Moda"
     },
     {
       "source_id": "1005006159826171",
@@ -284,7 +449,11 @@
       "avaliacao": 4.7299999999999995,
       "avaliacoes": null,
       "vendas": 1627,
-      "nota_qualidade": 9
+      "nota_qualidade": 9,
+      "last_seen": "2026-09-12T17:58:50.587750+00:00",
+      "marca": null,
+      "price_evidence": null,
+      "grupo": null
     },
     {
       "source_id": "22198437019",
@@ -303,7 +472,11 @@
       "avaliacao": 5.0,
       "avaliacoes": null,
       "vendas": 1334,
-      "nota_qualidade": 9
+      "nota_qualidade": 9,
+      "last_seen": "2026-09-12T13:34:01.595318+00:00",
+      "marca": null,
+      "price_evidence": null,
+      "grupo": null
     },
     {
       "source_id": "18397674061",
@@ -322,7 +495,62 @@
       "avaliacao": 4.9,
       "avaliacoes": null,
       "vendas": 1231,
-      "nota_qualidade": 9
+      "nota_qualidade": 9,
+      "last_seen": "2026-09-12T21:02:15.678666+00:00",
+      "marca": null,
+      "price_evidence": null,
+      "grupo": null
+    },
+    {
+      "source_id": "20799892548",
+      "titulo": "Fritadeira Elétrica Sem Óleo Air Fryer Mondial 5L Grand Family AFN-50 Timer 1900W",
+      "de": null,
+      "por": 339.9,
+      "desconto": 58,
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-8258f-meuhtq1ymm879d",
+      "link": "https://s.shopee.com.br/1AJaKHfZE",
+      "cupom": null,
+      "loja": "shopee",
+      "categoria": "Eletrodomesticos",
+      "data": "2026-09-12T22:16:34.813595+00:00",
+      "slug": "fritadeira-eletrica-sem-oleo-air-fryer-mondial-5l-grand-family-afn-50-timer-1900w",
+      "page_url": "https://promoninjaofertas.github.io/produto/fritadeira-eletrica-sem-oleo-air-fryer-mondial-5l-grand-family-afn-50-timer-1900w.html",
+      "avaliacao": 4.9,
+      "avaliacoes": null,
+      "vendas": 799,
+      "nota_qualidade": 9,
+      "last_seen": "2026-09-12T22:16:34.813595+00:00",
+      "marca": "Mondial",
+      "price_evidence": {
+        "checked_at": "2026-09-12T22:18:07.571383+00:00",
+        "identity": {
+          "brand": "Mondial",
+          "model": "afn-50",
+          "family": "eletrodomesticos",
+          "kind": "produto",
+          "variant": "1900w|5l|kit:1",
+          "ambiguous": false,
+          "comparison_key": null
+        },
+        "previous_min": 339.9,
+        "observed_min": 339.9,
+        "since": "2026-09-12T13:31:01.433528+00:00",
+        "observations": 2,
+        "days": 1,
+        "history": [
+          {
+            "at": "2026-09-12T13:31:01.433528+00:00",
+            "price": 339.9
+          },
+          {
+            "at": "2026-09-12T22:15:20.087208+00:00",
+            "price": 339.9
+          }
+        ],
+        "advantage": false,
+        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
+      },
+      "grupo": "Casa"
     },
     {
       "source_id": "23293788558",
@@ -341,7 +569,11 @@
       "avaliacao": 4.9,
       "avaliacoes": null,
       "vendas": 658,
-      "nota_qualidade": 9
+      "nota_qualidade": 9,
+      "last_seen": "2026-09-12T22:12:34.584962+00:00",
+      "marca": null,
+      "price_evidence": null,
+      "grupo": null
     },
     {
       "source_id": "20111903242",
@@ -360,7 +592,11 @@
       "avaliacao": 4.9,
       "avaliacoes": null,
       "vendas": 386,
-      "nota_qualidade": 9
+      "nota_qualidade": 9,
+      "last_seen": "2026-09-12T21:02:15.678666+00:00",
+      "marca": null,
+      "price_evidence": null,
+      "grupo": null
     },
     {
       "source_id": "1005008768275540",
@@ -379,7 +615,11 @@
       "avaliacao": 4.7299999999999995,
       "avaliacoes": null,
       "vendas": 289,
-      "nota_qualidade": 9
+      "nota_qualidade": 9,
+      "last_seen": "2026-09-12T18:39:51.978122+00:00",
+      "marca": null,
+      "price_evidence": null,
+      "grupo": null
     },
     {
       "source_id": "21896948903",
@@ -398,7 +638,39 @@
       "avaliacao": 4.9,
       "avaliacoes": null,
       "vendas": 229,
-      "nota_qualidade": 9
+      "nota_qualidade": 9,
+      "last_seen": "2026-09-12T22:16:34.813595+00:00",
+      "marca": "Tramontina",
+      "price_evidence": {
+        "checked_at": "2026-09-12T22:18:07.571383+00:00",
+        "identity": {
+          "brand": "Tramontina",
+          "model": null,
+          "family": "outros",
+          "kind": "produto",
+          "variant": "kit:12",
+          "ambiguous": false,
+          "comparison_key": null
+        },
+        "previous_min": 299.9,
+        "observed_min": 299.9,
+        "since": "2026-09-12T13:31:01.433528+00:00",
+        "observations": 2,
+        "days": 1,
+        "history": [
+          {
+            "at": "2026-09-12T13:31:01.433528+00:00",
+            "price": 299.9
+          },
+          {
+            "at": "2026-09-12T22:15:20.087208+00:00",
+            "price": 299.9
+          }
+        ],
+        "advantage": false,
+        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
+      },
+      "grupo": "Casa"
     },
     {
       "source_id": "22897409705",
@@ -417,7 +689,39 @@
       "avaliacao": 5.0,
       "avaliacoes": null,
       "vendas": 173,
-      "nota_qualidade": 9
+      "nota_qualidade": 9,
+      "last_seen": "2026-09-12T22:16:34.813595+00:00",
+      "marca": "Tramontina",
+      "price_evidence": {
+        "checked_at": "2026-09-12T22:18:07.571383+00:00",
+        "identity": {
+          "brand": "Tramontina",
+          "model": null,
+          "family": "cozinha",
+          "kind": "produto",
+          "variant": "kit:1",
+          "ambiguous": false,
+          "comparison_key": null
+        },
+        "previous_min": 162.99,
+        "observed_min": 162.99,
+        "since": "2026-09-12T13:31:01.433528+00:00",
+        "observations": 2,
+        "days": 1,
+        "history": [
+          {
+            "at": "2026-09-12T13:31:01.433528+00:00",
+            "price": 162.99
+          },
+          {
+            "at": "2026-09-12T22:15:20.087208+00:00",
+            "price": 162.99
+          }
+        ],
+        "advantage": false,
+        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
+      },
+      "grupo": "Casa"
     },
     {
       "source_id": "1005004702025352",
@@ -436,7 +740,11 @@
       "avaliacao": 4.845000000000001,
       "avaliacoes": null,
       "vendas": 128,
-      "nota_qualidade": 9
+      "nota_qualidade": 9,
+      "last_seen": "2026-09-12T19:10:18.875493+00:00",
+      "marca": null,
+      "price_evidence": null,
+      "grupo": null
     },
     {
       "source_id": "55214478888",
@@ -455,7 +763,11 @@
       "avaliacao": 4.9,
       "avaliacoes": null,
       "vendas": 124,
-      "nota_qualidade": 9
+      "nota_qualidade": 9,
+      "last_seen": "2026-09-12T22:02:46.290717+00:00",
+      "marca": null,
+      "price_evidence": null,
+      "grupo": null
     },
     {
       "source_id": "1005009639277716",
@@ -474,7 +786,11 @@
       "avaliacao": 4.865,
       "avaliacoes": null,
       "vendas": 114,
-      "nota_qualidade": 9
+      "nota_qualidade": 9,
+      "last_seen": "2026-09-12T17:48:36.171213+00:00",
+      "marca": null,
+      "price_evidence": null,
+      "grupo": null
     },
     {
       "source_id": "1005009584131694",
@@ -493,7 +809,11 @@
       "avaliacao": 4.63,
       "avaliacoes": null,
       "vendas": 113,
-      "nota_qualidade": 9
+      "nota_qualidade": 9,
+      "last_seen": "2026-09-12T19:10:18.875493+00:00",
+      "marca": null,
+      "price_evidence": null,
+      "grupo": null
     },
     {
       "source_id": "12101869802",
@@ -512,7 +832,35 @@
       "avaliacao": 4.8,
       "avaliacoes": null,
       "vendas": 104,
-      "nota_qualidade": 9
+      "nota_qualidade": 9,
+      "last_seen": "2026-09-12T22:16:34.813595+00:00",
+      "marca": "Logitech",
+      "price_evidence": {
+        "checked_at": "2026-09-12T22:18:07.571383+00:00",
+        "identity": {
+          "brand": "Logitech",
+          "model": "m220",
+          "family": "computadores",
+          "kind": "produto",
+          "variant": "kit:1",
+          "ambiguous": false,
+          "comparison_key": null
+        },
+        "previous_min": null,
+        "observed_min": 32.5,
+        "since": "2026-09-12T22:18:07.571383+00:00",
+        "observations": 1,
+        "days": 1,
+        "history": [
+          {
+            "at": "2026-09-12T22:18:07.571383+00:00",
+            "price": 32.5
+          }
+        ],
+        "advantage": false,
+        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
+      },
+      "grupo": "Tech"
     },
     {
       "source_id": "1005006965436436",
@@ -521,7 +869,7 @@
       "por": 675.52,
       "desconto": 57,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S418d07b62ba9438f8fc052613b2c3d65L.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mMNLYoi2M6w21JJKF7ufgYw876FvtaAlFjXD7JxGYVKMbt2SgrgDzg43tK7Ql1BoBljZncZzBNw7I2umN0jUgX1rBPslBisK77l1ipvf0AHVsIHZPuwDbLu6mkB9lsR7RjiaDFouP2fnxtQP8YBmP2zeV46yeuNLw4NXAKAIKct5fnpxpQfSuOnNSAkMd9TpQThS7TLCx1J1c1jal3nUd16MnuCyXfQ1BKiWs6PBGYT3DmzmDYVDW1LTItTXM49nJU9LWqI4W7iZnHXLpHsGwXXOlwABrlxWgBlNweDFiFsXFKpvOEVzbGPq9THsKsabtt7smSHt2WEKNpiAXBA8h7ZMM0laDO3MZUlPuaZGBSce82DCodJmzcVtARS87RvUNKDVnvOHcX7qYaYqNqcRM7Z2YUOjXHPfxJ4u54ptTcpCg08hhKHqwrMWWnwkfqzCotK07kHAiRbwocKb6Uxj8SMJ0KuvCO6IdURTXQKfSKif2ktvuEhoUAH2gkUI2R6C5y9QU3FFrgOWPGP44TDJEswGrQwiQFqJQXOKCcFTxaVMVSP5nENeb3hBiFbEMcYkBl9SXetWSc6X8OGz679ZYkQKbtLAG7KGXtdbH3ptHjgUl9pQmbe8kjAiEHUll5PeL0ukdU8WxquOBApNDZ84FWzXZCTkMX6lLtoRTj7cXyFx1hUa9Cpkt1TNXBxljWO5tafFfuB13BUhB",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mMNLYoi2M6w21JJKF7ufgYw876FvtaAlFjXD7JxGYVKMbt2SgrgDzg43tK7Ql1BoBljZncZzBNw7I2umN0jUgX1rBPslBisK77l1ipvf0AHVsIHZPuwDbLu6mkB9lsR7RjiaDFouP2fnxtQP8YBmP2zeV46yeuNLw4NXAKAIKct5fnpxpQfSuOnNSAkMd9TpQThS7TLCx1J1c1jal3nUd16MnuCyXfQ1BKiWsZU49EZyqETJssmO4Q5RvWURCHYtJeCAz6Sm6ULnPogVavObELsxSZQWCA8D0X5PSoChTcgIBlV5NLoprBVUzGfB11nryv5zbyDsRwsdY1kfryc1Sp9V1s89iKCCWg1hzVDiCuYng4F8EE6hhvzzI3pmq38TQXQtDJOtprdtWjWQbaIlXBa8qm7yrvg3M1a1KME2b1R6WcJ47FJb1TA4erAU2UZijclTMFyNZZkbEJijcVau6IViqnJZRyaCunqVfCCspkpMFmZpXHrVVIpM813iU3uN4t4TBcaD4zATx7R4tYGQGMZL5gGYcGKvmmHI7LLnk8a0XkPwpw3SYtkUNRxMzTHWwim3hxyPZumxkzEvBOj5stUmLXOgSsMXo1gUJUvtzQBcwONBWAtxSidcDJl8DFHGtjqkl5uSX0yz2IXbAYmgl1XQKYxLdFd2E7ieU9kHNnkrNoAHZqK3WgwFe0MA6ReCkfXrKqlnKgxTX",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Smartphones",
@@ -531,7 +879,11 @@
       "avaliacao": 4.84,
       "avaliacoes": null,
       "vendas": 1767,
-      "nota_qualidade": 8
+      "nota_qualidade": 8,
+      "last_seen": "2026-09-12T22:16:34.813595+00:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Tech"
     },
     {
       "source_id": "1005006967413964",
@@ -550,7 +902,11 @@
       "avaliacao": 4.89,
       "avaliacoes": null,
       "vendas": 1541,
-      "nota_qualidade": 8
+      "nota_qualidade": 8,
+      "last_seen": "2026-09-12T21:52:24.585912+00:00",
+      "marca": null,
+      "price_evidence": null,
+      "grupo": null
     },
     {
       "source_id": "1005008868989146",
@@ -569,7 +925,11 @@
       "avaliacao": 4.795,
       "avaliacoes": null,
       "vendas": 1512,
-      "nota_qualidade": 8
+      "nota_qualidade": 8,
+      "last_seen": "2026-09-12T21:32:20.833279+00:00",
+      "marca": null,
+      "price_evidence": null,
+      "grupo": null
     },
     {
       "source_id": "1005010473793061",
@@ -588,7 +948,11 @@
       "avaliacao": 4.865,
       "avaliacoes": null,
       "vendas": 1010,
-      "nota_qualidade": 8
+      "nota_qualidade": 8,
+      "last_seen": "2026-09-12T16:16:43.883387+00:00",
+      "marca": null,
+      "price_evidence": null,
+      "grupo": null
     },
     {
       "source_id": "1005003763495277",
@@ -607,7 +971,11 @@
       "avaliacao": 4.825,
       "avaliacoes": null,
       "vendas": 356,
-      "nota_qualidade": 8
+      "nota_qualidade": 8,
+      "last_seen": "2026-09-12T20:52:05.588125+00:00",
+      "marca": null,
+      "price_evidence": null,
+      "grupo": null
     },
     {
       "source_id": "1005011608318925",
@@ -626,7 +994,11 @@
       "avaliacao": 4.88,
       "avaliacoes": null,
       "vendas": 150,
-      "nota_qualidade": 8
+      "nota_qualidade": 8,
+      "last_seen": "2026-09-12T20:52:05.588125+00:00",
+      "marca": null,
+      "price_evidence": null,
+      "grupo": null
     },
     {
       "source_id": "1005010412672389",
@@ -645,7 +1017,11 @@
       "avaliacao": 4.835,
       "avaliacoes": null,
       "vendas": 146,
-      "nota_qualidade": 8
+      "nota_qualidade": 8,
+      "last_seen": "2026-09-12T22:02:46.290717+00:00",
+      "marca": null,
+      "price_evidence": null,
+      "grupo": null
     },
     {
       "source_id": "pechinchou-150721",
@@ -663,8 +1039,12 @@
       "page_url": "https://promoninjaofertas.github.io/produto/jaqueta-masculino-corta-vento-monster-02-capuz-impermeavel.html",
       "avaliacao": null,
       "avaliacoes": 30,
-      "vendas": 2478,
-      "nota_qualidade": 7
+      "vendas": 2511,
+      "nota_qualidade": 7,
+      "last_seen": "2026-09-12T22:16:34.813595+00:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Moda"
     },
     {
       "source_id": "pechinchou-100732",
@@ -682,8 +1062,12 @@
       "page_url": "https://promoninjaofertas.github.io/produto/tenis-qix-skate-retro-am-unissex-preto-preto.html",
       "avaliacao": null,
       "avaliacoes": 10,
-      "vendas": 237,
-      "nota_qualidade": 7
+      "vendas": 264,
+      "nota_qualidade": 7,
+      "last_seen": "2026-09-12T22:16:34.813595+00:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Moda"
     },
     {
       "source_id": "pechinchou-143620",
@@ -701,8 +1085,12 @@
       "page_url": "https://promoninjaofertas.github.io/produto/body-splash-arabe-c-4un-200ml-perfume-masculino-de-luxo.html",
       "avaliacao": null,
       "avaliacoes": 30,
-      "vendas": 165,
-      "nota_qualidade": 7
+      "vendas": 215,
+      "nota_qualidade": 7,
+      "last_seen": "2026-09-12T22:16:34.813595+00:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Moda"
     },
     {
       "source_id": "pechinchou-119863",
@@ -720,8 +1108,12 @@
       "page_url": "https://promoninjaofertas.github.io/produto/perfume-feminino-supreme-edp-100-ml-essencial-natura.html",
       "avaliacao": null,
       "avaliacoes": 20,
-      "vendas": 58,
-      "nota_qualidade": 7
+      "vendas": 67,
+      "nota_qualidade": 7,
+      "last_seen": "2026-09-12T22:16:34.813595+00:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Moda"
     },
     {
       "source_id": "1005009942973523",
@@ -730,7 +1122,7 @@
       "por": 98.82,
       "desconto": 21,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sde41ee2d147445a1b782ea99ce2a2690d.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mrbupromK6mYSbuqYR50sQXn1xnxQjsn6UD8OFDTyuzx58lNGuFICzNShe5N91FWyj99Bjco621BLld2shUA6bbCdRDv1GHnnfJZ8tM6Lj4yciaQ8Xk4apPeYKsjg2f5W5ZPnPzLN0DjmTaB4uBJ58pdrflFq1JZFHRM3yN5MpADtVg48Rsx39Bj7t3IofRJLiNvg34SqV6zHVOtUXsvrUuzoZWsPBhVCw0jsTzyQAzbbQJto3knT9Q9W0rewEono5CXD8CfZdUddUF9mAfxPYRLcI4Q5uVxzD1y4fUZT5vDoNNAickSoYGluJ1sUq46W0PgAXo28nFKpiYcKjlwmj7HdBtr9tvTcSxAYAVkjZ7RUUjY6MyMhmvpe7MTDcqUzJfjZAwxQdhQIGRl6THoQnwHVDLIXMy29LI6Beqx9wv4aI8C9yd8pAWdgha4ItgEcYA69b4XwzxH3eLBDIIJ78g344FkDBAc4VvZ6dvTME4C3xVgiiwAoEjVfG9KdjWR0pbdFszCx1DBxFgUGv90XigZmvnqEVr3GDZnqp8JqOONl5UxJF5RiwvvgElIT15oVWOP9XPZkHeLN0MeMlvvb16bWV3Rve5DXHO5sPw4uWndA9929buy6i5gfVjHlanEO3q8qSVYfetCYOp1qkhWhKwXLArtxJ5wXzGPnBDMAytYplZUq8EQ8GY9kqj9C7XKe1N5zjg1PSh9r",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mrbupromK6mYSbuqYR50sQXn1xnxQjsn6UD8OFDTyuzx58lNGuFICzNShe5N91FWyj99Bjco621BLld2shUA6bbCdRDv1GHnnfJZ8tM6Lj4yciaQ8Xk4apPeYKsjg2f5W5ZPnPzLN0DjmTaB4uBJ58pdrflFq1JZFHRM3yN5MpADtVg48Rsx39Bj7t3IofRJLiNvg34SqV6zHVOtUXsvrUuzoZWsPBhVCw0jsU7e7m6Jt7vJAJU7sY3qVOWLLpufBMI9B9Rwt6vZjRpwHbFYIjGBADTrs7v6kNnNqASBQpir8ngcV9Rb1MTeTcDxhveNAxZ6NLiP5TRvQpYWd9NUDr3KN6n9tYgYNRW6CDT3aQSwxuXSfgHiSkorMpztdI0GPIcdP1FrlbgmnzykXxXflRuJK6syqJgaUYieaejnGvS54MccXRf2NoIfXFoJ49DN0E0PqV6D4ZdHej1xyAAd0pfDBv9LSw9Ay2q158jlHaDTpvbZqJkbXf8YtZnI5BLdCiNDPQ86Uw7oFENwIhqOvjQfTCo04MXjXcFddszRnUZMImRZ5IDOEGDKV3qLGGz58M6OPt2XW9GKCsiEq9U0hRVZ92hbEglqNOqPFxKnEmQ1bA0WwFzolFLL9tj4LvXi9F7jk8UROocsJJ0lGshqEzPULvlopmIewq1PeSIKD7UqFTF6zZa8CCTAxQTZHgBEb7QN4cJRW3qhT",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Acessórios para telefones e telecomunicações",
@@ -740,7 +1132,11 @@
       "avaliacao": 4.87,
       "avaliacoes": null,
       "vendas": 2067,
-      "nota_qualidade": 7
+      "nota_qualidade": 7,
+      "last_seen": "2026-09-12T22:12:34.584962+00:00",
+      "marca": null,
+      "price_evidence": null,
+      "grupo": null
     },
     {
       "source_id": "1005006224929748",
@@ -759,7 +1155,11 @@
       "avaliacao": 4.6899999999999995,
       "avaliacoes": null,
       "vendas": 1905,
-      "nota_qualidade": 7
+      "nota_qualidade": 7,
+      "last_seen": "2026-09-12T16:47:29.384077+00:00",
+      "marca": null,
+      "price_evidence": null,
+      "grupo": null
     },
     {
       "source_id": "1005010615674255",
@@ -778,7 +1178,11 @@
       "avaliacao": 4.515,
       "avaliacoes": null,
       "vendas": 1397,
-      "nota_qualidade": 7
+      "nota_qualidade": 7,
+      "last_seen": "2026-09-12T21:42:21.181850+00:00",
+      "marca": null,
+      "price_evidence": null,
+      "grupo": null
     },
     {
       "source_id": "1005007168133757",
@@ -797,7 +1201,11 @@
       "avaliacao": 4.825,
       "avaliacoes": null,
       "vendas": 1285,
-      "nota_qualidade": 7
+      "nota_qualidade": 7,
+      "last_seen": "2026-09-12T21:32:20.833279+00:00",
+      "marca": null,
+      "price_evidence": null,
+      "grupo": null
     },
     {
       "source_id": "1005008744753707",
@@ -816,7 +1224,11 @@
       "avaliacao": 4.845000000000001,
       "avaliacoes": null,
       "vendas": 1213,
-      "nota_qualidade": 7
+      "nota_qualidade": 7,
+      "last_seen": "2026-09-12T21:02:15.678666+00:00",
+      "marca": null,
+      "price_evidence": null,
+      "grupo": null
     },
     {
       "source_id": "1005007861373640",
@@ -835,7 +1247,11 @@
       "avaliacao": 4.87,
       "avaliacoes": null,
       "vendas": 1132,
-      "nota_qualidade": 7
+      "nota_qualidade": 7,
+      "last_seen": "2026-09-12T17:17:40.483770+00:00",
+      "marca": null,
+      "price_evidence": null,
+      "grupo": null
     },
     {
       "source_id": "1005008639836335",
@@ -844,7 +1260,7 @@
       "por": 252.04,
       "desconto": 65,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sf5de0b7841cd4a6796260e0ec198d1efH.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mUOAepjq71bmCAfdUIcSE89C6gvJUdJWImj7GMKsnH7sXqx7zDmKvW7xILWbvDH5yumUDIXxWSoaABPPjacVWyuGnmlzLEb7PnnBC0SOhBXdbNJO7zg1zWHh3VGtplf5Ai5JccVLLHQ5E09hG7FJLmjA6IO9MbWORwnteIV6Tr25qZzva2dC2p9IXuG5ylq0ko7qi2vK4M6gqLhArYMTGWvQWPBvFH1AuFFqd6fkShILAahwXFrJWR3LAFHyavT9X0kz7bJgvVOq8xVzC49uzcYWggD7Ul9pqS4xbnSv2anS7kI4BKQQ9qgYYyRVPMbxBRa8UVLWmjD97wiM9c6juDRaswZMXlA3lbvkNuhuZVy6XQ2VWo0XGSj0aIBxIm2R5Wv1PSh9HQytIJ20kj5EoNnLBMR8I1jObo7CE3oD8FFtrJHFZQOCZlKKXsFeIhsqiF4R0t3J7cTFoIyugaUo2E46efr9asBb0C56VOlmTgnoE8ZVkR8RC2N7bzrjikWwQlUawBdGc5ENDfp7davD6xEW6ZjOFXNW2QDCCUeMK77iPuKtrOe5E0LlCXqkMNriIij9h8O1Y3VTTu0eORCpP8Wi9RG5uzPuCXmqxhAAGTdmuaPL093K1cYzkBTiR8Ulrdacm6uOOejGSQad4JcznOeZqGehcN0PnS1NEc3YWoSRLyo8RDpciTKoCHxfv9HpG7nEHdtGiQ4dF",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mUOAepjq71bmCAfdUIcSE89C6gvJUdJWImj7GMKsnH7sXqx7zDmKvW7xILWbvDH5yumUDIXxWSoaABPPjacVWyuGnmlzLEb7PnnBC0SOhBXdbNJO7zg1zWHh3VGtplf5Ai5JccVLLHQ5E09hG7FJLmjA6IO9MbWORwnteIV6Tr25qZzva2dC2p9IXuG5ylq0ko7qi2vK4M6gqLhArYMTGWvQWPBvFH1AuFFqd7lLX74H2t6RLNthWHhryQmzUkdW4UnI4VxF7nfiU0YMpSlr5DCdg85gSu7d9CeTIJphQs8kXVbHO4qV2rZS28xSHSfW8t3zFHTLsxF94YepLZ0jpjO2WaPTxD4d0Tcrajf4cwnrIQbxA6r1lKTwkY6WXbSslv0kF7gU4qlI6WEVTiuWBVIeMq3WJE7MwkYdgX6atPUWcXSxMJTNMRiVMuA3yWl9b8gRjrFal8izeAjzNBlExy8qPbcNH7aYVUEO2H52jAPwHKV2HzA2CTYPeKmitUMkV2KUTkm1IuX6l5aUmfpOcgCI6px62Gzsu1gLJDq2Ph6cfHlMWk2DIgK8O83LrW8Vvz5noOIjyb1WX45YRI607RQSqt2h9qYJ5hPogwceMxIgNQXAP0Mp74NSgaaFOkLWOtVWarHPhwvI0dzlv3IrEW7QeU4e8DzpfQ5fWCZiGfF6jRX2zuHJbb7gtf2L0DhS2ZSkt05j5O5dJ",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Casa",
@@ -854,7 +1270,11 @@
       "avaliacao": 4.83,
       "avaliacoes": null,
       "vendas": 1063,
-      "nota_qualidade": 7
+      "nota_qualidade": 7,
+      "last_seen": "2026-09-12T22:12:34.584962+00:00",
+      "marca": null,
+      "price_evidence": null,
+      "grupo": null
     },
     {
       "source_id": "1005012801288647",
@@ -873,7 +1293,11 @@
       "avaliacao": 4.805,
       "avaliacoes": null,
       "vendas": 1042,
-      "nota_qualidade": 7
+      "nota_qualidade": 7,
+      "last_seen": "2026-09-12T19:51:07.622358+00:00",
+      "marca": null,
+      "price_evidence": null,
+      "grupo": null
     },
     {
       "source_id": "1005006076318004",
@@ -882,7 +1306,7 @@
       "por": 120.59,
       "desconto": 44,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S840cf48f59fd4111ba37616f33b50b47N.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4nxJnBc7zI6jj5mJeiMJcunuahHwG7zdBoeChwellI9AyrJJjpTHeWF9xgvBD5n2urNLveF2IPYJsfdVRBXVGhD5mjzOYRCKlezB6HxSNK59ah5RCGeWDSlDZpzNTKrZpYdLVvoUkEAmvkvkimKxdiCbwzND73mUSCSZtrHWKgCrr4Q8Ab10CjP1cftMBqaYn1o3Ky4HXudokgcjBNTSOqOwKQNvptWM8LSTgCuKorJwO4a9H2jzUjnA9FG2oGmqkbQiVpkqdhS6PIw72GTnROyxEpSJNNBEAaByzRMXA0d9qXdngxvVl0eIBDw2CABhWAb04CEYovKhemTn0Cq3yZeYJYsnPIVx1m4sFnuPvbfZ6Oz71ZNhusWt1t7XIGg6pACp0dEJPT0WfUots7XpdLPD5Idu68DfkFCnYuvmxL1GWeXZslZYJxy2LMRNUccc9VzJ0tBzLrossDQnLqNNGvCkTZtzYz22qEiQ1i9x6U5DyQk3WeomCziOgKojC2kE1uAqEsoHCVqzg6H9HD3n15WGCFEFobnqGRM7yEGDrEtOJ4mkqvKWUhGzvzua5plcJMyMYKbEhrCDMbYshsH9PHef77b9Bko6XrnsClhMerToTbjkUlRycTSd34rHPkZS9hX85u3kuSSNaEnNgR2cATFxJEEOursMS5RWHi1yc6cHQp2ITczdSEMyxOWwYKZGh0uyGgkcI93nma",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4nxJnBc7zI6jj5mJeiMJcunuahHwG7zdBoeChwellI9AyrJJjpTHeWF9xgvBD5n2urNLveF2IPYJsfdVRBXVGhD5mjzOYRCKlezB6HxSNK59ah5RCGeWDSlDZpzNTKrZpYdLVvoUkEAmvkvkimKxdiCbwzND73mUSCSZtrHWKgCrr4Q8Ab10CjP1cftMBqaYn1o3Ky4HXudokgcjBNTSOqOwKQNvptWM8LSTgCuPMwqvFkn4smob0p3lRm5Z18SWh7H5ljjnGqt2o2C0d5XzI33UmOtMqsuXaCg4XVnLvO2RMtwwoS4XO43jv6F6rVqerhjZqIGZEpd9fpDlnUerhW7kElG9ls8df5HZ0lUnvucARRgwlRtuNRalh6ANlqA9EFmdXinz9Qj7YXGjh3saP4C4hmnxLpzXLK4oQnJQifFar9dZbm6HgoRSxoSUUdG6mMxsHef1jYjHHCZdaBgM463wfScI748Yr7DVNarrtCWHsOQ82QkNupWdSpWJiqJ13DM0lMVQhLGnDRkDMqgUJ4C2Wqfe1JcwqKBV6NvNYg0suXMZilpNKNwdeCcLdSdkkSnmnewVCp3QmggZpjMhyfW49Z1q3EhpQ1E03EL4mg8zSD3rwbtI7GetoNQF7XzVQI454o8S4qvYMHVCZfk6Qly0cICETYEUUdSUziZlqbmqRdTEoewvnh9uH8En14nDOJfEJUb73h935g",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Smartphones",
@@ -891,8 +1315,12 @@
       "page_url": "https://promoninjaofertas.github.io/produto/ulanzi-mt-79-2m-suporte-de-luz-de-liga-de-aluminio-suporte-de-tripe.html",
       "avaliacao": 4.9,
       "avaliacoes": null,
-      "vendas": 965,
-      "nota_qualidade": 7
+      "vendas": 969,
+      "nota_qualidade": 7,
+      "last_seen": "2026-09-12T22:16:34.813595+00:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Tech"
     },
     {
       "source_id": "pechinchou-151546",
@@ -910,8 +1338,35 @@
       "page_url": "https://promoninjaofertas.github.io/produto/pantene-pro-v-shampoo-bambu-nutre-e-cresce-510-ml.html",
       "avaliacao": null,
       "avaliacoes": 50,
-      "vendas": 809,
-      "nota_qualidade": 7
+      "vendas": 818,
+      "nota_qualidade": 7,
+      "last_seen": "2026-09-12T22:16:34.813595+00:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Outros"
+    },
+    {
+      "source_id": "1005009534699098",
+      "titulo": "Transmissor e Receptor HDMI Sem Fio Lemorele 200m com Monitoramento por APP, Baixa Latência, Plug and Play para PC, TV e Projetor",
+      "de": 299.25,
+      "por": 164.59,
+      "desconto": 44,
+      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Se83b1b9b4a1b47cba045744c23bc3b60K.jpg",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4m7VDoXMM1GFlLUyw7tzWUcllUTFp4LD30IXBOY2mz7HRKYxmHgBakQRl6AuOxShHKD3rQ5xHFTeRl9AQqQfgH75EMf1ZglNvRy9RmqbI6uO2AWsxlsMq2mTu6zhQP9MRg0sFGGxS0ICcaeAVOSy7uhvqJHNG0SNtvXVcDwxsikAxkqS2RKgZt06JfGJ7fMH963ND0qTX2oZzzwOxfzgMKi0vRgdj6eVtIBzCSbFzMFcUrBBrqrSvZCZti2jOgPO5m2V0UKegOLivMNhGDeLlMjmCR2yR0ijueL1LguSaTLeNkvJIhuZXioh5tH5zOu6PlrJNz53ThUIGpDa43mjrK1ccKSEHMVoshLpyxJ6nqNHoGYne5osc888HQjWx12QYnXwh7wwv5uLvbKzPngls4rtyyMrc35Ashp36xK2L9Y5a5EhRKusPNPM6zc8wvHND0SfahqOZYvG87taOCUI3wGsv5517Fe5objGcyWrVvlgulbsYRxMW2Hgx0Csz6Z9u23subbAW01BqGkSZGOhyRW5iNliQEhbMLM61UCFuXvfcdmNh9u3emwBJhaUo23HBskSWCVb8d54NQNI6DxlLM2eD5teCi7DbbVWJLc2qido3zUB0WFhhkPsE8ao8tltgdZgib3prhh8nb0TorIjmbxAoafsW6DtM7WTaifp0LASaW8QJU8tZDKniAHRTibnIt1lusK3CQVbPB",
+      "cupom": null,
+      "loja": "aliexpress",
+      "categoria": "Hardware",
+      "data": "2026-09-12T22:12:34.584962+00:00",
+      "slug": "transmissor-e-receptor-hdmi-sem-fio-lemorele-200m-com-monitoramento-por-app-baixa-late",
+      "page_url": "https://promoninjaofertas.github.io/produto/transmissor-e-receptor-hdmi-sem-fio-lemorele-200m-com-monitoramento-por-app-baixa-late.html",
+      "avaliacao": 4.64,
+      "avaliacoes": null,
+      "vendas": 758,
+      "nota_qualidade": 7,
+      "last_seen": "2026-09-12T22:16:34.813595+00:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Tech"
     },
     {
       "source_id": "1005007531061132",
@@ -930,26 +1385,11 @@
       "avaliacao": 4.65,
       "avaliacoes": null,
       "vendas": 743,
-      "nota_qualidade": 7
-    },
-    {
-      "source_id": "1005004803929676",
-      "titulo": "Aspirador de pó robô ABIR K30, estação vazia automática, lidar a laser, sucção 6500PA, mapa multipiso, aparelho seco e molhado para casa inteligente,Voltagem 220V",
-      "de": 8792.46,
-      "por": 1857.58,
-      "desconto": 78,
-      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S632e7843bf37491db1c836dd85bdc75fq.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4FkiSNFwIux28gjUfFmhldYjvWAxnbz8u4g6EAK53czGAHJze5KFkiSrTrMRfFm3DZwE02kRxTdbg3Vp8m7noxuBVpbtlreXBekBmpJJhV8kJK8dU5JlR8RYocJVWLOQ5KedOk88BRASFla4Jk7Qe7PEsePyCoOK5OUM3M9b3ADldvE7V8qkhu42evjPhY1xBhHGQnIHrysCUTVcBpjMmyw5zknVx8Cwy6IgmpIVlYUwDvLcXGcrzxwoaL32mnkaxFQR0Pu47O0CXZZC0zEjeBrcxYvwGcYiL242WOoQFg0U0tXpbsPhnMVLRWlGk989xG5jeBq1nB4EVzKvT1TfpSSW7Bh2vJDYqp1HBTJRXiwsS9VcOOdeW7MxrmCQIqwe7xQUx9d4KB1ZWeom2t5R9IScuQMvtMIU5WWjXkwppudaPEsFTcaZ2xLCZ9lwqLWYSViioBB57xHy8M3OAIev4NlMUTv6e6rJCZRTuTGSORCuSe0P3tDUwuqhLAVgCeIEwHvxbC3ZgSYTrlVNVTN71LEZC0zwiho1FtcOxOqPZubknlQykmNeWCYnK0YVrvfiNBskbWDjyPrNmgWBabogJx2aJFOh64QU2Qf74DFYGPMlSJZMXP5GFIUEjj9N7w8rMhwkgbE3BPGoXVGxDwISrItypxMQrfxeJqw9WuQZ9BtfbvhEuqNpDdhlbrOcFx071JHBclBNjSLop5",
-      "cupom": null,
-      "loja": "aliexpress",
-      "categoria": "Eletrodomesticos",
-      "data": "2026-09-12T02:52:20.812222+00:00",
-      "slug": "aspirador-de-po-robo-abir-k30-estacao-vazia-automatica-lidar-a-laser-succao-6500pa",
-      "page_url": "https://promoninjaofertas.github.io/produto/aspirador-de-po-robo-abir-k30-estacao-vazia-automatica-lidar-a-laser-succao-6500pa.html",
-      "avaliacao": 4.91,
-      "avaliacoes": null,
-      "vendas": 734,
-      "nota_qualidade": 7
+      "nota_qualidade": 7,
+      "last_seen": "2026-09-12T19:51:07.622358+00:00",
+      "marca": null,
+      "price_evidence": null,
+      "grupo": null
     }
   ]
 }
