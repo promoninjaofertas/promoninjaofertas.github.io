@@ -1,6 +1,60 @@
 {
-  "atualizado": "2026-09-12T22:16:34.813595+00:00",
+  "atualizado": "2026-09-12T22:36:57.312928+00:00",
   "ofertas": [
+    {
+      "source_id": "43610664736",
+      "titulo": "Monitor LG 24\" Gamer 180Hz 1ms UltraGear 24GS60F-B",
+      "de": null,
+      "por": 837.0,
+      "desconto": 36,
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdxv-mcqkxvv53zv877",
+      "link": "https://s.shopee.com.br/gPxNUogvi",
+      "cupom": null,
+      "loja": "shopee",
+      "categoria": "Hardware",
+      "data": "2026-09-12T22:26:42.314341+00:00",
+      "slug": "shopee-lg-24gs60f-b-kit-1",
+      "page_url": "https://promoninjaofertas.github.io/produto/shopee-lg-24gs60f-b-kit-1.html",
+      "avaliacao": 4.9,
+      "avaliacoes": null,
+      "vendas": 107,
+      "nota_qualidade": 9,
+      "last_seen": "2026-09-12T22:36:57.312928+00:00",
+      "marca": "LG",
+      "price_evidence": {
+        "checked_at": "2026-09-12T22:38:04.087249+00:00",
+        "identity": {
+          "brand": "LG",
+          "model": "24gs60f-b",
+          "family": "monitores",
+          "kind": "produto",
+          "variant": "kit:1",
+          "ambiguous": false,
+          "comparison_key": "lg|24gs60f b|kit:1"
+        },
+        "previous_min": 837.0,
+        "observed_min": 837.0,
+        "since": "2026-09-12T13:31:01.433528+00:00",
+        "observations": 2,
+        "days": 1,
+        "history": [
+          {
+            "at": "2026-09-12T13:31:01.433528+00:00",
+            "price": 837.0
+          },
+          {
+            "at": "2026-09-12T22:28:39.914734+00:00",
+            "price": 837.0
+          }
+        ],
+        "advantage": true,
+        "reason": "Preço anunciado 12.5% abaixo do outro vendedor mais barato encontrado para o mesmo modelo/variante nesta coleta. Frete não incluído; confirme as condições na loja.",
+        "compared_sellers": 2,
+        "other_seller_min": 956.9,
+        "comparison_percent": 12.5
+      },
+      "grupo": "Gamer"
+    },
     {
       "source_id": "pechinchou-120410",
       "titulo": "Perfume Natura Humor Próprio Colônia 75 mL",
@@ -17,9 +71,9 @@
       "page_url": "https://promoninjaofertas.github.io/produto/perfume-natura-humor-proprio-colonia-75-ml.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 265,
+      "vendas": 295,
       "nota_qualidade": 10,
-      "last_seen": "2026-09-12T22:16:34.813595+00:00",
+      "last_seen": "2026-09-12T22:36:57.312928+00:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda"
@@ -116,10 +170,40 @@
       "avaliacoes": null,
       "vendas": 585,
       "nota_qualidade": 10,
-      "last_seen": "2026-09-12T22:12:34.584962+00:00",
-      "marca": null,
-      "price_evidence": null,
-      "grupo": null
+      "last_seen": "2026-09-12T22:26:42.314341+00:00",
+      "marca": "Kingston",
+      "price_evidence": {
+        "checked_at": "2026-09-12T22:28:51.910420+00:00",
+        "identity": {
+          "brand": "Kingston",
+          "model": "kvr16n11/8",
+          "family": "memoria",
+          "kind": "produto",
+          "variant": "8gb|kit:1",
+          "ambiguous": false,
+          "comparison_key": "kingston|kvr16n11 8|8gb|kit:1"
+        },
+        "previous_min": 112.0,
+        "observed_min": 112.0,
+        "since": "2026-09-12T13:23:53.286532+00:00",
+        "observations": 2,
+        "days": 1,
+        "history": [
+          {
+            "at": "2026-09-12T13:23:53.286532+00:00",
+            "price": 112.0
+          },
+          {
+            "at": "2026-09-12T22:28:39.914734+00:00",
+            "price": 112.0
+          }
+        ],
+        "advantage": false,
+        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada.",
+        "compared_sellers": 2,
+        "other_seller_min": 112.0
+      },
+      "grupo": "Tech"
     },
     {
       "source_id": "58204551307",
@@ -139,10 +223,34 @@
       "avaliacoes": null,
       "vendas": 479,
       "nota_qualidade": 10,
-      "last_seen": "2026-09-12T22:02:46.290717+00:00",
-      "marca": null,
-      "price_evidence": null,
-      "grupo": null
+      "last_seen": "2026-09-12T22:36:57.312928+00:00",
+      "marca": "WAP",
+      "price_evidence": {
+        "checked_at": "2026-09-12T22:38:04.087249+00:00",
+        "identity": {
+          "brand": "WAP",
+          "model": "7metros",
+          "family": "eletrodomesticos",
+          "kind": "produto",
+          "variant": "12v|180w|420ml|kit:1",
+          "ambiguous": false,
+          "comparison_key": null
+        },
+        "previous_min": null,
+        "observed_min": 104.11,
+        "since": "2026-09-12T22:19:00.776474+00:00",
+        "observations": 1,
+        "days": 1,
+        "history": [
+          {
+            "at": "2026-09-12T22:19:00.776474+00:00",
+            "price": 104.11
+          }
+        ],
+        "advantage": false,
+        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
+      },
+      "grupo": "Casa"
     },
     {
       "source_id": "46662348294",
@@ -162,10 +270,38 @@
       "avaliacoes": null,
       "vendas": 385,
       "nota_qualidade": 10,
-      "last_seen": "2026-09-12T22:12:34.584962+00:00",
-      "marca": null,
-      "price_evidence": null,
-      "grupo": null
+      "last_seen": "2026-09-12T22:26:42.314341+00:00",
+      "marca": "Acer",
+      "price_evidence": {
+        "checked_at": "2026-09-12T22:28:51.910420+00:00",
+        "identity": {
+          "brand": "Acer",
+          "model": "kg243y",
+          "family": "monitores",
+          "kind": "produto",
+          "variant": "bivolt|codigo:p1bip|cor:preto|kit:1",
+          "ambiguous": false,
+          "comparison_key": "acer|kg243y|bivolt|codigo:p1bip|cor:preto|kit:1"
+        },
+        "previous_min": 657.9,
+        "observed_min": 657.9,
+        "since": "2026-09-12T13:31:01.433528+00:00",
+        "observations": 2,
+        "days": 1,
+        "history": [
+          {
+            "at": "2026-09-12T13:31:01.433528+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-12T22:28:39.914734+00:00",
+            "price": 657.9
+          }
+        ],
+        "advantage": false,
+        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
+      },
+      "grupo": "Gamer"
     },
     {
       "source_id": "22897147575",
@@ -236,10 +372,34 @@
       "avaliacoes": null,
       "vendas": 279,
       "nota_qualidade": 10,
-      "last_seen": "2026-09-12T22:02:46.290717+00:00",
-      "marca": null,
-      "price_evidence": null,
-      "grupo": null
+      "last_seen": "2026-09-12T22:36:57.312928+00:00",
+      "marca": "WAP",
+      "price_evidence": {
+        "checked_at": "2026-09-12T22:38:04.087249+00:00",
+        "identity": {
+          "brand": "WAP",
+          "model": null,
+          "family": "eletrodomesticos",
+          "kind": "produto",
+          "variant": "1500w|2.5l|cor:preto|kit:1",
+          "ambiguous": false,
+          "comparison_key": null
+        },
+        "previous_min": null,
+        "observed_min": 279.99,
+        "since": "2026-09-12T22:19:00.776474+00:00",
+        "observations": 1,
+        "days": 1,
+        "history": [
+          {
+            "at": "2026-09-12T22:19:00.776474+00:00",
+            "price": 279.99
+          }
+        ],
+        "advantage": false,
+        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
+      },
+      "grupo": "Casa"
     },
     {
       "source_id": "23594959395",
@@ -402,9 +562,9 @@
       "page_url": "https://promoninjaofertas.github.io/produto/panela-de-pressao-vitrex-ceramic-4-2-l-cinza-com-inducao-e-antiaderente.html",
       "avaliacao": null,
       "avaliacoes": 80,
-      "vendas": 1297,
+      "vendas": 1309,
       "nota_qualidade": 9,
-      "last_seen": "2026-09-12T22:16:34.813595+00:00",
+      "last_seen": "2026-09-12T22:36:57.312928+00:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa"
@@ -424,10 +584,10 @@
       "slug": "kaiak-ultra-natura-colonia-perfume-masculino-100ml-relancamento-2025",
       "page_url": "https://promoninjaofertas.github.io/produto/kaiak-ultra-natura-colonia-perfume-masculino-100ml-relancamento-2025.html",
       "avaliacao": null,
-      "avaliacoes": 30,
-      "vendas": 1047,
+      "avaliacoes": 26,
+      "vendas": 1134,
       "nota_qualidade": 9,
-      "last_seen": "2026-09-12T22:16:34.813595+00:00",
+      "last_seen": "2026-09-12T22:36:57.312928+00:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda"
@@ -570,10 +730,34 @@
       "avaliacoes": null,
       "vendas": 658,
       "nota_qualidade": 9,
-      "last_seen": "2026-09-12T22:12:34.584962+00:00",
-      "marca": null,
-      "price_evidence": null,
-      "grupo": null
+      "last_seen": "2026-09-12T22:36:57.312928+00:00",
+      "marca": "Asus",
+      "price_evidence": {
+        "checked_at": "2026-09-12T22:38:04.087249+00:00",
+        "identity": {
+          "brand": "Asus",
+          "model": "am4",
+          "family": "outros",
+          "kind": "produto",
+          "variant": "codigo:90mb14a0-c1bay0|codigo:b550m-plus|kit:1",
+          "ambiguous": false,
+          "comparison_key": "asus|am4|codigo:90mb14a0-c1bay0|codigo:b550m-plus|kit:1"
+        },
+        "previous_min": null,
+        "observed_min": 849.0,
+        "since": "2026-09-12T22:19:00.776474+00:00",
+        "observations": 1,
+        "days": 1,
+        "history": [
+          {
+            "at": "2026-09-12T22:19:00.776474+00:00",
+            "price": 849.0
+          }
+        ],
+        "advantage": false,
+        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
+      },
+      "grupo": "Gamer"
     },
     {
       "source_id": "20111903242",
@@ -594,29 +778,6 @@
       "vendas": 386,
       "nota_qualidade": 9,
       "last_seen": "2026-09-12T21:02:15.678666+00:00",
-      "marca": null,
-      "price_evidence": null,
-      "grupo": null
-    },
-    {
-      "source_id": "1005008768275540",
-      "titulo": "Ventoinha de Resfriamento Eficiente para CPU 90mm 4pin/PWM, Radiador Tipo Torre para PC com 2/4/6 Heat Pipes, Compatível com LGA2011 X79 X99 115x 1200 1700 AMD AM3 AM4",
-      "de": 158.98,
-      "por": 79.49,
-      "desconto": 50,
-      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S8617f1ea153d4f9ba55eed23c244419e9.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4obZJrwXiwj0ayux6zeMU53d1kGH8TPzX86eYf7RLrFrrZ95xdBrOO0O1U7sOdFltVTpjeeBmU12e2OHraiWWKpFC3cuvVR8ecSZBgDgFnmqd6hGSubgAL6oMxxaJWi0eJAXMJ4YLdr4fP87LI21asQUWoe4VuDJkLgI4tnK4LoiFDuRwD09iaA2OwpLgZOFopU8BKyYTkzCKu3XzqC3EC7SgOz6EzfSDt1fiA2oE6Oi02wW5l2Pw8uF0o9WHNbNKwXKDi5gmhyNNueWf1Ov7xg84JF48VJ62PqQTlKftbd62h68SSmtvYhkZ4fz5xnhAyaHiyl8azIetK0i5vZ3AHWZQ3rspA9et6yDgnDkP8ykXgXZbwXoVnksBbDoyAe0PDn6R0V9epde5IYqjGy4uHwoVdA9Yy31IoP04RL04ho01EweoLCNGpQOky5qunqpGZufkdZnMmFLTK0ycA52a7v0bb47wsDMAsjKtYJoiShNbJGl1ntk5ygX6hdhFQvyHGL8ItU4Wgs2nrGIPczdoVJWJYKbXCxaDbUjfQonYEzUdpL7bigJDxugBHMKBc3MH0HcN8Rp0zA3hsPMg8y1aOYgQErBRkkl9qzNbXT4ZaKdZeoE2zcsgKsComVuzefAGFiESu3lMBUD8EpbtK9jtXcS3sCN2IImjkNmhah6cBiZeRDjJfuHo1sx1xaOS1jQnh8g1ZJ24Okta1",
-      "cupom": null,
-      "loja": "aliexpress",
-      "categoria": "Hardware",
-      "data": "2026-09-11T22:29:06.770899+00:00",
-      "slug": "ventoinha-de-resfriamento-eficiente-para-cpu-90mm-4pin-pwm-radiador-tipo-torre-para-pc",
-      "page_url": "https://promoninjaofertas.github.io/produto/ventoinha-de-resfriamento-eficiente-para-cpu-90mm-4pin-pwm-radiador-tipo-torre-para-pc.html",
-      "avaliacao": 4.7299999999999995,
-      "avaliacoes": null,
-      "vendas": 289,
-      "nota_qualidade": 9,
-      "last_seen": "2026-09-12T18:39:51.978122+00:00",
       "marca": null,
       "price_evidence": null,
       "grupo": null
@@ -724,29 +885,6 @@
       "grupo": "Casa"
     },
     {
-      "source_id": "1005004702025352",
-      "titulo": "12w/mk maxtor pasta térmica graxa para processador amd intel cpu cooler ventilador de refrigeração do computador vga gpu composto dissipador de calor gesso",
-      "de": 349.98,
-      "por": 181.99,
-      "desconto": 47,
-      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sf379ba197820456e9fba958ae173e989l.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mKqvqIZBGrglfV1irtOA3Fj7ruAtipWlmszcqPyUpdXSWstwcfiTu0GBNTPJB99bReNJbxtI6nv1n5dsS54mMRCGptPkkdjlmZIiHDiwQGKC0llMSPTqscyHb8XSdZI4lXUp2qUeuU7nvY2n903qDehV3n0CL2dPQwayr5jiTnPCb02gl9ADtlixqT5ThZzgpYvVQpqehlM5fkDO7tN0a93bLXX1oHDnDWBX9WwagXO3cV4FaZzBrUtWtth18mMw8NYagw2x6Nr07u2P9iikL4t745u9ac52TPRtzMZmKKilAOxFwXRswrQ6YIwbH9NWafCGumKHjFo7R2Ql3p3qLr4FXRCA300fEzJ6au0NR5XNuuF77dhxqIzSaFpspyvAoSFgML22J7o64KHs0Cl098khCgMM1TT27g5oll8RMj0FkwzuItt4dX8WHKeNsLRzcgK9jTuyTg93xiZxKzUP4q6Y7qupNRupsQNzVYvXDilcVLSnrql9kLdV9FtBmg8asOTrTi3LZsi0gFQcbfgsY7drD0SGnI60otrKYIKTelxUmmIsAsXC4AlpRLn3ZqLF4btrgaGBgDAAbifJTXeSWACqAJmmG7RqN4Ky8XDj0IG5mkVRhXSZCWovyhhH1nGl7JrJnAd7HbgZMA1RaddZ485quhw07mfcRLTECzjUcm3Ru61oWFKY0OeL2owqQOq6kZLLkiJ42JmWe",
-      "cupom": null,
-      "loja": "aliexpress",
-      "categoria": "Hardware",
-      "data": "2026-09-11T22:19:00.487798+00:00",
-      "slug": "12w-mk-maxtor-pasta-termica-graxa-para-processador-amd-intel-cpu-cooler-ventilador-de",
-      "page_url": "https://promoninjaofertas.github.io/produto/12w-mk-maxtor-pasta-termica-graxa-para-processador-amd-intel-cpu-cooler-ventilador-de.html",
-      "avaliacao": 4.845000000000001,
-      "avaliacoes": null,
-      "vendas": 128,
-      "nota_qualidade": 9,
-      "last_seen": "2026-09-12T19:10:18.875493+00:00",
-      "marca": null,
-      "price_evidence": null,
-      "grupo": null
-    },
-    {
       "source_id": "55214478888",
       "titulo": "Caixa de Som Portátil JBL GO 5 Preto Original Bluetooth À Prova D'água Iluminação e Auracast",
       "de": null,
@@ -764,10 +902,34 @@
       "avaliacoes": null,
       "vendas": 124,
       "nota_qualidade": 9,
-      "last_seen": "2026-09-12T22:02:46.290717+00:00",
-      "marca": null,
-      "price_evidence": null,
-      "grupo": null
+      "last_seen": "2026-09-12T22:36:57.312928+00:00",
+      "marca": "JBL",
+      "price_evidence": {
+        "checked_at": "2026-09-12T22:38:04.087249+00:00",
+        "identity": {
+          "brand": "JBL",
+          "model": null,
+          "family": "audio",
+          "kind": "produto",
+          "variant": "cor:preto|kit:1",
+          "ambiguous": false,
+          "comparison_key": null
+        },
+        "previous_min": null,
+        "observed_min": 309.9,
+        "since": "2026-09-12T22:19:00.776474+00:00",
+        "observations": 1,
+        "days": 1,
+        "history": [
+          {
+            "at": "2026-09-12T22:19:00.776474+00:00",
+            "price": 309.9
+          }
+        ],
+        "advantage": false,
+        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
+      },
+      "grupo": "Tech"
     },
     {
       "source_id": "1005009639277716",
@@ -938,7 +1100,7 @@
       "por": 1291.53,
       "desconto": 74,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S24f4839551b04c53b300118e84320155B.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4E7Veyn4dOCP3floS77xOLeFLvDwLI6ld2K3RaX80EApAiw9Z7fnsHHBqf8KNd17GtqsR1RmD7Lf1R9fGOpF5eRtI2LOlmVwEZFuwDwPtFLCm2WhaeaAFyOtZLSc4v8nPbmZCexVhzEuokqFz2pajAk8asZ9uYDFwmbuY05qvguH6ogpDVoxhhZ13RoRs6E2eokEASnai6R2i0pxvhYluXL33MF4XRV3gOu15B5Jsq116SpSGK4wqcSxk0Lg12ZqA1rHA7Fa1XNKC5dOOdxN020ihCTGmKX75eJsLrmQ2HA4TO4cv5FgGtgquIpq9ZWtDNkRJ37IvgdqWP29XR6FYxINQrV99xcHRziK9Z3wc1lT7sb5MissiS1PJQjOtixnBu67DsBS61wuEup8TcbxLfYMuAsrdD4yU18kSXUACyv6A9Qxk0JTeLpMHWpDx1ExhBlJ3gaQjkEJebKG2Y475AdpgoUi3FKcMrqtPwjg41boMzp5pwUz4WtsBkyJDtVE2q4mD0Lca3mZRe9Yu4ToQ8Z1xvWYSBJxi6SCMcD3C8TmnHqy7V3zN1gGUlYraCp3I4H1wOxmAnht5lb3DCEIR0dU57FpQk4w89ckFC3SI16wK1oVRxhA5HUqZ5YsG2E9V8HLIrMMmbo3uLFSd1g5ayRfYiHgVSXHboGWBpDsTs6C7K9uPTT08tYVVfIPzYHctxt9vlWok1Pzas",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4E7Veyn4dOCP3floS77xOLeFLvDwLI6ld2K3RaX80EApAiw9Z7fnsHHBqf8KNd17GtqsR1RmD7Lf1R9fGOpF5eRtI2LOlmVwEZFuwDwPtFLCm2WhaeaAFyOtZLSc4v8nPbmZCexVhzEuokqFz2pajAk8asZ9uYDFwmbuY05qvguH6ogpDVoxhhZ13RoRs6E2eokEASnai6R2i0pxvhYluXL33MF4XRV3gOu15B50t249j09IDVJJ2EQKrqkRYgDkJsjfI8KDToOlJZRRRv9k2wArl2TG1zBd6YStQRPlvVEBUMj2NZWiNJtIOR13QUUec5KCeK4eDBmYa3kXYYnbukgCFAmSzrDUYhx6fzeE8Vp93z9g8AmE3LCUAKlZ7rr5mAK0sGVFdatVvNTR4J9kt3qT021MOhgjUELypOsRrTSMfISGvRvJjJGCGv4NQeihfXM9kp02Kz4Q3JvSyEjP7Q4HyWzoGsXplieoE5EsMUjGaiyVUcO3cEJJDHlCukTH8iu4ZDMMQBK6Gdp4YSCo4Pm6Ke5ZnxKzwHtZuXCUZICNJcOMveD3N5FO3RtWXdUN03lOJ2Q9LotRmsvpQl0pemLq4Ia37iWWlEIePTWnxp02fNVQz5zPvCRN3Wfkep1T4i5yZ3TVcfGruTN4PtWbaG403zUGNzCOI4HFDJw3Zt5u4ttMhs4eOeruGmIFtn7mdEgHsZTHcrXD2Y",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Eletrodomesticos",
@@ -949,10 +1111,10 @@
       "avaliacoes": null,
       "vendas": 1010,
       "nota_qualidade": 8,
-      "last_seen": "2026-09-12T16:16:43.883387+00:00",
+      "last_seen": "2026-09-12T22:36:57.312928+00:00",
       "marca": null,
-      "price_evidence": null,
-      "grupo": null
+      "price_evidence": {},
+      "grupo": "Casa"
     },
     {
       "source_id": "1005003763495277",
@@ -1039,9 +1201,9 @@
       "page_url": "https://promoninjaofertas.github.io/produto/jaqueta-masculino-corta-vento-monster-02-capuz-impermeavel.html",
       "avaliacao": null,
       "avaliacoes": 30,
-      "vendas": 2511,
+      "vendas": 2549,
       "nota_qualidade": 7,
-      "last_seen": "2026-09-12T22:16:34.813595+00:00",
+      "last_seen": "2026-09-12T22:36:57.312928+00:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda"
@@ -1062,9 +1224,9 @@
       "page_url": "https://promoninjaofertas.github.io/produto/tenis-qix-skate-retro-am-unissex-preto-preto.html",
       "avaliacao": null,
       "avaliacoes": 10,
-      "vendas": 264,
+      "vendas": 292,
       "nota_qualidade": 7,
-      "last_seen": "2026-09-12T22:16:34.813595+00:00",
+      "last_seen": "2026-09-12T22:36:57.312928+00:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda"
@@ -1085,9 +1247,9 @@
       "page_url": "https://promoninjaofertas.github.io/produto/body-splash-arabe-c-4un-200ml-perfume-masculino-de-luxo.html",
       "avaliacao": null,
       "avaliacoes": 30,
-      "vendas": 215,
+      "vendas": 239,
       "nota_qualidade": 7,
-      "last_seen": "2026-09-12T22:16:34.813595+00:00",
+      "last_seen": "2026-09-12T22:36:57.312928+00:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda"
@@ -1108,9 +1270,9 @@
       "page_url": "https://promoninjaofertas.github.io/produto/perfume-feminino-supreme-edp-100-ml-essencial-natura.html",
       "avaliacao": null,
       "avaliacoes": 20,
-      "vendas": 67,
+      "vendas": 69,
       "nota_qualidade": 7,
-      "last_seen": "2026-09-12T22:16:34.813595+00:00",
+      "last_seen": "2026-09-12T22:36:57.312928+00:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda"
@@ -1338,9 +1500,9 @@
       "page_url": "https://promoninjaofertas.github.io/produto/pantene-pro-v-shampoo-bambu-nutre-e-cresce-510-ml.html",
       "avaliacao": null,
       "avaliacoes": 50,
-      "vendas": 818,
+      "vendas": 829,
       "nota_qualidade": 7,
-      "last_seen": "2026-09-12T22:16:34.813595+00:00",
+      "last_seen": "2026-09-12T22:36:57.312928+00:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros"
@@ -1390,6 +1552,29 @@
       "marca": null,
       "price_evidence": null,
       "grupo": null
+    },
+    {
+      "source_id": "1005007301004000",
+      "titulo": "Conjunto de Filtros K&F CONCEPT para DJI Avata 2, Filtros UV/CPL/ND8/ND16/ND32/ND64, Acessórios de Lentes de Câmera para Drones com Revestimento Multicamadas",
+      "de": 226.65,
+      "por": 115.59,
+      "desconto": 49,
+      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S958d53dbbe7f4170871a2bafec117699m.jpg",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4nzeh2ahphtnFgZEdSxsbFCkDNnUEzEQFUTkWDXGUjADvOIWvDyFhzJJmEjMD5kvMvIFeX9mfYVXL0NSHXDBAecaCY7RkTMnRcnBX4bGzWp9jDhQv9RfgB7yd86AVk07Qvd3ZNX4TvaDCyLzqs1i9SCMZsquO4psIYVd4w6miUdG3pDynQeTfSdNlgvtgpB0TcxuQjx2Uq4I4wcJfVIKomEs69Pch3AGpC8EOBTfcQvFrYBW9K3vStFpNdpmiht8vPaOdPzdQaycSBmOrlJKDzW5wZQr5nNEotz6Gsi20ZWwNFcnGknylk7SpzjDnJd9QDHgtC4Uk7GsacHTwmNXdkgJt4EvOjxa4c6Lr88S6nCGRdAY6nM9U23n0SlZ9dvDELB1NoaJJ10zYXuU5AqB0QrtLBvhSMWR5rfO6b7uSKhDHe0WUfVytYKk81totpWQyCMhHKIufXyBD8TGL0IOq6fzkYvfG8W00kDKOPfcbHlkZkgvrP6SSfNs6B5Chvr6DwxoYZ3zDzYzRuHBD2Cpyu0NkcqfUK8dOa5REhSPSxIiBCQR6JvvGuiuZ8t1jUqQJYH9fCeU5AkFW50EHQPVwNCOPbFtzrSJwsYDcGemmg9hlPUzXYR9tqvFsujjErfOAx1LJmGYkj0MqWNOx0G9jgdmrLg1HgdZ4P7jUMQMWWTzMnOSPntZcD4pv4d34H0NzUtfoSxYrpkEu2",
+      "cupom": null,
+      "loja": "aliexpress",
+      "categoria": "TV e Eletronicos",
+      "data": "2026-09-12T22:26:42.314341+00:00",
+      "slug": "conjunto-de-filtros-k-f-concept-para-dji-avata-2-filtros-uv-cpl-nd8",
+      "page_url": "https://promoninjaofertas.github.io/produto/conjunto-de-filtros-k-f-concept-para-dji-avata-2-filtros-uv-cpl-nd8.html",
+      "avaliacao": 4.89,
+      "avaliacoes": null,
+      "vendas": 268,
+      "nota_qualidade": 7,
+      "last_seen": "2026-09-12T22:26:42.314341+00:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Tech"
     }
   ]
 }
