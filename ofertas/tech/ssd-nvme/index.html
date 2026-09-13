@@ -28,6 +28,7 @@
 <meta name="twitter:description" content="Ofertas de SSD NVMe, armazenamento e hardware selecionadas pelo Promo Ninja.">
 <meta name="twitter:image" content="https://promoninjaofertas.github.io/promo-ninja-logo.png">
 <!-- Google tag (gtag.js) -->
+<script defer src="/analytics.js?v=20260912-base"></script>
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-YXXY5RJWNJ"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -412,7 +413,8 @@
   const orderSelect = document.getElementById('orderSelect');
 
   function trackEvent(name, params = {}){
-    if(typeof gtag === 'function')gtag('event', name, params);
+    if(window.PromoNinjaAnalytics)window.PromoNinjaAnalytics.track(name,params);
+    else if(typeof gtag === 'function')gtag('event', name, params);
   }
 
   const money = value => Number(value || 0).toLocaleString('pt-BR',{style:'currency',currency:'BRL'});
@@ -505,7 +507,7 @@
         ${coupon}
         <div class="prices">${oldPrice}<strong class="current-price">${money(offer.por)}</strong></div>
         <span class="verified">${CHECK_ICON}Confira condições na loja</span>
-        <a class="buy-button" href="${link}" target="_blank" rel="nofollow sponsored noopener" data-store="${escapeHtml(offer.lojaN)}" data-title="${escapeHtml(offer.titulo)}">${CART_ICON}Garantir oferta</a>
+        <a class="buy-button" href="${link}" target="_blank" rel="nofollow sponsored noopener" data-store="${escapeHtml(offer.lojaN)}" data-title="${escapeHtml(offer.titulo)}" data-item-id="${escapeHtml(offer.slug||offer.source_id)}">${CART_ICON}Garantir oferta</a>
       </div>
     </article>`;
   }
@@ -536,7 +538,7 @@
   orderSelect.addEventListener('change',()=>{state.order=orderSelect.value;trackEvent('sort_offers',{order:state.order});render();});
   document.addEventListener('click',event=>{
     const buy=event.target.closest('.buy-button');
-    if(buy)trackEvent('click_offer',{store:buy.dataset.store||'',item_name:buy.dataset.title||'',link_url:buy.href});
+    if(buy)trackEvent('click_offer',{store:buy.dataset.store||'',item_name:buy.dataset.title||'',item_id:buy.dataset.itemId||'',placement:'catalog_card',link_url:buy.href});
     const social=event.target.closest('.social-button,.flash-cta,.floating-telegram,footer a');
     if(social)trackEvent('click_social',{link_text:(social.textContent||social.getAttribute('aria-label')||'').trim(),link_url:social.href||''});
   });
@@ -548,7 +550,7 @@
     .then(response=>{if(!response.ok)throw new Error('catalog');return response.json();})
     .then(data=>{
       allOffers=(data.ofertas||[])
-        .filter(offer=>ageHours(offer.data)<=MAX_AGE_HOURS)
+        .filter(offer=>offer.expires_at ? Date.parse(offer.expires_at)>Date.now() : ageHours(offer.last_seen||offer.data)<MAX_AGE_HOURS)
         .map(offer=>({...offer,lojaN:storeName(offer.loja),group:categoryGroup(offer)}));
       populateStores();
       render();
