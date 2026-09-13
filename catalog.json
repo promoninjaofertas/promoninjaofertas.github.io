@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-13T10:28:03.073506+00:00",
+  "atualizado": "2026-09-13T10:38:13.372521+00:00",
   "ofertas": [
     {
       "source_id": "21299179885",
@@ -134,11 +134,11 @@
       "avaliacoes": null,
       "vendas": 141,
       "nota_qualidade": 10,
-      "last_seen": "2026-09-13T09:57:22.775651+00:00",
-      "expires_at": "2026-09-14T06:57:22.775651-03:00",
+      "last_seen": "2026-09-13T10:38:13.372521+00:00",
+      "expires_at": "2026-09-14T07:38:13.372521-03:00",
       "marca": "Bosch",
       "price_evidence": {
-        "checked_at": "2026-09-13T09:58:36.983644+00:00",
+        "checked_at": "2026-09-13T10:39:08.576434+00:00",
         "identity": {
           "brand": "Bosch",
           "model": "120-li",
@@ -151,7 +151,7 @@
         "previous_min": 409.0,
         "observed_min": 409.0,
         "since": "2026-09-12T22:18:07.571383+00:00",
-        "observations": 2,
+        "observations": 3,
         "days": 2,
         "history": [
           {
@@ -160,6 +160,10 @@
           },
           {
             "at": "2026-09-13T04:37:21.869455+00:00",
+            "price": 409.0
+          },
+          {
+            "at": "2026-09-13T10:39:08.576434+00:00",
             "price": 409.0
           }
         ],
@@ -186,11 +190,11 @@
       "avaliacoes": null,
       "vendas": 198,
       "nota_qualidade": 10,
-      "last_seen": "2026-09-13T09:57:22.775651+00:00",
-      "expires_at": "2026-09-14T06:57:22.775651-03:00",
+      "last_seen": "2026-09-13T10:38:13.372521+00:00",
+      "expires_at": "2026-09-14T07:38:13.372521-03:00",
       "marca": "Bosch",
       "price_evidence": {
-        "checked_at": "2026-09-13T09:58:36.983644+00:00",
+        "checked_at": "2026-09-13T10:39:08.576434+00:00",
         "identity": {
           "brand": "Bosch",
           "model": null,
@@ -203,7 +207,7 @@
         "previous_min": 399.33,
         "observed_min": 399.33,
         "since": "2026-09-12T22:18:07.571383+00:00",
-        "observations": 2,
+        "observations": 3,
         "days": 2,
         "history": [
           {
@@ -212,6 +216,10 @@
           },
           {
             "at": "2026-09-13T04:37:21.869455+00:00",
+            "price": 399.33
+          },
+          {
+            "at": "2026-09-13T10:39:08.576434+00:00",
             "price": 399.33
           }
         ],
@@ -262,8 +270,8 @@
       "avaliacoes": 40,
       "vendas": 518,
       "nota_qualidade": 7,
-      "last_seen": "2026-09-13T10:28:03.073506+00:00",
-      "expires_at": "2026-09-14T07:28:03.073506-03:00",
+      "last_seen": "2026-09-13T10:38:13.372521+00:00",
+      "expires_at": "2026-09-14T07:38:13.372521-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda"
@@ -275,7 +283,7 @@
       "por": 67.99,
       "desconto": 50,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sdcfa3bf15ccd429eaefb65c05ea50c782.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mo95ESHUdxUWgsaYiiU5h732j9LvV7Q5ZaJndOirbYpLiw9KNQxfycS9ND1gOYeBey8MUQ7pcR84aaTWRaGg3AL9bpzfx793jeJYipBeI4ATRxYhSyzaKS3tU3OnVwV3Q1a4IKmsmuaReDFj7gCNCezYzaTHdCsAQA4N1UpDutzcyEZKYaKHuzyZM5nscNISgSM655B98T9iqf6g1j7G667oJgq2EwAFPx1FtF1fEF7fmRxiVfQSytb2tBt0A3cgbgUfyPqkuugre6WAmlHDzlVR9qwyXc97hpASpOisouoXUxtT3VRaDJAx3MNBQRaOWxqgQxEwD4w6NedJy7AmWUjB6b2C9cuJJVk4ZlIC3ubO2QlbUOcthcJP5Q2rSGeY9xpzeLwZidovvAEqu07n3R3zSoP8EAJcoXFBbqLtaOqFC2egJOk649FO4PXcQ09l37Kd8UYi8bePiT8vRGnwrpatjLgyNIZqqc4rhBQtqBd3EfHD1pwJ1gEJFLWs4gocDvlQiy3UD1SmS97mZGoYlgB7kuQS9BgL7siGkOXJii8QocjFLVquq7bNlSRHleomnCH48kMnvuCT74PrASiUCOFaLmaNulwwVez8xR2GIJhwWFOv11I3PraelSFeq2ZIOD3jrhtcUdRuzER4HYllBzWtUVJeESdzrR2rHt3p9fm1xGLWTPm0NvtRhyaamvgrf5qIJ0CsKEAIk",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mo95ESHUdxUWgsaYiiU5h732j9LvV7Q5ZaJndOirbYpLiw9KNQxfycS9ND1gOYeBey8MUQ7pcR84aaTWRaGg3AL9bpzfx793jeJYipBeI4ATRxYhSyzaKS3tU3OnVwV3Q1a4IKmsmuaReDFj7gCNCezYzaTHdCsAQA4N1UpDutzcyEZKYaKHuzyZM5nscNISgSM655B98T9iqf6g1j7G667oJgq2EwAFPx1FtFDyolRtawIEXwKDdreYskBczZytfMmvBAB7BEXdp5iQrLmm4OKtFIVujukUPbmZVJ6LiraSMASE1WsmzfzZGIm5MTktt2bd7GV8ET9eFlYpRLHsIl1I7luaW6loGCXlaT8CZVERJsobOKrqU6PMoYVKAAxOyGdwznb48P57pjkfaV0vN2f3RhdKf4IRfq3Boe1av4rpkgaWeqvkjwdLQgLbc7RLR5ECOIZh3ZNcvWiisGZpq2MV0R9vCzNpo9QxiSaOn6flYsvnsryqstPImCd2phSwTnCy0psrtztFo2fwu2vCQMrbbQM1hGunxXRyxoQNzLaDC0xtl1x9xSzyadBbqNW8GNEcnJUMX1CX6BinLhnv9V8LUFPyOYjydn10emJIc32M8tXlykximDMQP29E6pEnT2PYh5TFcyezwQ58zXACQTuCmQ4Xyh4wj2COkSQAhZqIsnI31vasG67DwEbnE8jK34dfINnTDve2k",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Audio",
@@ -286,8 +294,8 @@
       "avaliacoes": null,
       "vendas": 1535,
       "nota_qualidade": 10,
-      "last_seen": "2026-09-13T10:28:03.073506+00:00",
-      "expires_at": "2026-09-14T07:28:03.073506-03:00",
+      "last_seen": "2026-09-13T10:38:13.372521+00:00",
+      "expires_at": "2026-09-14T07:38:13.372521-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech"
@@ -310,8 +318,8 @@
       "avaliacoes": 40,
       "vendas": 130,
       "nota_qualidade": 9,
-      "last_seen": "2026-09-13T10:28:03.073506+00:00",
-      "expires_at": "2026-09-14T07:28:03.073506-03:00",
+      "last_seen": "2026-09-13T10:38:13.372521+00:00",
+      "expires_at": "2026-09-14T07:38:13.372521-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda"
@@ -334,8 +342,8 @@
       "avaliacoes": 10,
       "vendas": 636,
       "nota_qualidade": 9,
-      "last_seen": "2026-09-13T10:28:03.073506+00:00",
-      "expires_at": "2026-09-14T07:28:03.073506-03:00",
+      "last_seen": "2026-09-13T10:38:13.372521+00:00",
+      "expires_at": "2026-09-14T07:38:13.372521-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda"
@@ -358,8 +366,8 @@
       "avaliacoes": 10,
       "vendas": 138,
       "nota_qualidade": 7,
-      "last_seen": "2026-09-13T10:28:03.073506+00:00",
-      "expires_at": "2026-09-14T07:28:03.073506-03:00",
+      "last_seen": "2026-09-13T10:38:13.372521+00:00",
+      "expires_at": "2026-09-14T07:38:13.372521-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda"
@@ -382,8 +390,8 @@
       "avaliacoes": 86,
       "vendas": 1849,
       "nota_qualidade": 10,
-      "last_seen": "2026-09-13T10:28:03.073506+00:00",
-      "expires_at": "2026-09-14T07:28:03.073506-03:00",
+      "last_seen": "2026-09-13T10:38:13.372521+00:00",
+      "expires_at": "2026-09-14T07:38:13.372521-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda"
@@ -406,8 +414,8 @@
       "avaliacoes": 10,
       "vendas": 511,
       "nota_qualidade": 7,
-      "last_seen": "2026-09-13T10:28:03.073506+00:00",
-      "expires_at": "2026-09-14T07:28:03.073506-03:00",
+      "last_seen": "2026-09-13T10:38:13.372521+00:00",
+      "expires_at": "2026-09-14T07:38:13.372521-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda"
@@ -430,8 +438,8 @@
       "avaliacoes": 60,
       "vendas": 929,
       "nota_qualidade": 7,
-      "last_seen": "2026-09-13T10:28:03.073506+00:00",
-      "expires_at": "2026-09-14T07:28:03.073506-03:00",
+      "last_seen": "2026-09-13T10:38:13.372521+00:00",
+      "expires_at": "2026-09-14T07:38:13.372521-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros"
@@ -454,8 +462,8 @@
       "avaliacoes": 30,
       "vendas": 2915,
       "nota_qualidade": 7,
-      "last_seen": "2026-09-13T10:28:03.073506+00:00",
-      "expires_at": "2026-09-14T07:28:03.073506-03:00",
+      "last_seen": "2026-09-13T10:38:13.372521+00:00",
+      "expires_at": "2026-09-14T07:38:13.372521-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda"
@@ -478,11 +486,67 @@
       "avaliacoes": 100,
       "vendas": 1455,
       "nota_qualidade": 9,
-      "last_seen": "2026-09-13T10:28:03.073506+00:00",
-      "expires_at": "2026-09-14T07:28:03.073506-03:00",
+      "last_seen": "2026-09-13T10:38:13.372521+00:00",
+      "expires_at": "2026-09-14T07:38:13.372521-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa"
+    },
+    {
+      "source_id": "22198437019",
+      "titulo": "IMPRESSORA MULTIFUNCIONAL JATO DE TINTA  ECOTANK  EPSON 3250  Bivolt",
+      "de": null,
+      "por": 1039.0,
+      "desconto": 35,
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-82612-ml5fu9rnsdu5fc",
+      "link": "https://s.shopee.com.br/4AzuLd3u40",
+      "cupom": null,
+      "loja": "shopee",
+      "categoria": "Informatica",
+      "data": "2026-09-12T07:30:38.079626-03:00",
+      "slug": "impressora-multifuncional-jato-de-tinta-ecotank-epson-3250-bivolt",
+      "page_url": "https://promoninjaofertas.github.io/produto/impressora-multifuncional-jato-de-tinta-ecotank-epson-3250-bivolt.html",
+      "avaliacao": 5.0,
+      "avaliacoes": null,
+      "vendas": 1342,
+      "nota_qualidade": 10,
+      "last_seen": "2026-09-13T10:38:13.372521+00:00",
+      "expires_at": "2026-09-14T07:38:13.372521-03:00",
+      "marca": "Epson",
+      "price_evidence": {
+        "checked_at": "2026-09-13T10:39:08.576434+00:00",
+        "identity": {
+          "brand": "Epson",
+          "model": "3250",
+          "family": "impressoras",
+          "kind": "produto",
+          "variant": "bivolt|kit:1",
+          "ambiguous": false,
+          "comparison_key": "epson|3250|bivolt|kit:1"
+        },
+        "previous_min": 1039.0,
+        "observed_min": 1039.0,
+        "since": "2026-09-12T13:31:01.433528+00:00",
+        "observations": 3,
+        "days": 2,
+        "history": [
+          {
+            "at": "2026-09-12T13:31:01.433528+00:00",
+            "price": 1099.0
+          },
+          {
+            "at": "2026-09-13T03:02:09.511401+00:00",
+            "price": 1039.0
+          },
+          {
+            "at": "2026-09-13T09:06:40.583130+00:00",
+            "price": 1039.0
+          }
+        ],
+        "advantage": false,
+        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
+      },
+      "grupo": "Tech"
     },
     {
       "source_id": "22897147575",
@@ -491,7 +555,7 @@
       "por": 122.0,
       "desconto": 24,
       "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m94xb51l2z3t40",
-      "link": "https://s.shopee.com.br/6q0bDvrpOE",
+      "link": "https://s.shopee.com.br/2qUXFZzkiH",
       "cupom": null,
       "loja": "shopee",
       "categoria": "Smartphones",
@@ -502,11 +566,11 @@
       "avaliacoes": null,
       "vendas": 293,
       "nota_qualidade": 9,
-      "last_seen": "2026-09-13T09:57:22.775651+00:00",
-      "expires_at": "2026-09-14T06:57:22.775651-03:00",
+      "last_seen": "2026-09-13T10:38:13.372521+00:00",
+      "expires_at": "2026-09-14T07:38:13.372521-03:00",
       "marca": "Tramontina",
       "price_evidence": {
-        "checked_at": "2026-09-13T09:58:36.983644+00:00",
+        "checked_at": "2026-09-13T10:39:08.576434+00:00",
         "identity": {
           "brand": "Tramontina",
           "model": null,
@@ -537,62 +601,6 @@
           {
             "at": "2026-09-13T09:17:18.833118+00:00",
             "price": 122.0
-          }
-        ],
-        "advantage": false,
-        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
-      },
-      "grupo": "Tech"
-    },
-    {
-      "source_id": "22198437019",
-      "titulo": "IMPRESSORA MULTIFUNCIONAL JATO DE TINTA  ECOTANK  EPSON 3250  Bivolt",
-      "de": null,
-      "por": 1039.0,
-      "desconto": 35,
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-82612-ml5fu9rnsdu5fc",
-      "link": "https://s.shopee.com.br/4AzuLd3u40",
-      "cupom": null,
-      "loja": "shopee",
-      "categoria": "Informatica",
-      "data": "2026-09-12T07:30:38.079626-03:00",
-      "slug": "impressora-multifuncional-jato-de-tinta-ecotank-epson-3250-bivolt",
-      "page_url": "https://promoninjaofertas.github.io/produto/impressora-multifuncional-jato-de-tinta-ecotank-epson-3250-bivolt.html",
-      "avaliacao": 5.0,
-      "avaliacoes": null,
-      "vendas": 1342,
-      "nota_qualidade": 10,
-      "last_seen": "2026-09-13T10:17:45.484720+00:00",
-      "expires_at": "2026-09-14T07:17:45.484720-03:00",
-      "marca": "Epson",
-      "price_evidence": {
-        "checked_at": "2026-09-13T10:18:38.379600+00:00",
-        "identity": {
-          "brand": "Epson",
-          "model": "3250",
-          "family": "impressoras",
-          "kind": "produto",
-          "variant": "bivolt|kit:1",
-          "ambiguous": false,
-          "comparison_key": "epson|3250|bivolt|kit:1"
-        },
-        "previous_min": 1039.0,
-        "observed_min": 1039.0,
-        "since": "2026-09-12T13:31:01.433528+00:00",
-        "observations": 3,
-        "days": 2,
-        "history": [
-          {
-            "at": "2026-09-12T13:31:01.433528+00:00",
-            "price": 1099.0
-          },
-          {
-            "at": "2026-09-13T03:02:09.511401+00:00",
-            "price": 1039.0
-          },
-          {
-            "at": "2026-09-13T09:06:40.583130+00:00",
-            "price": 1039.0
           }
         ],
         "advantage": false,
@@ -642,11 +650,11 @@
       "avaliacoes": null,
       "vendas": 173,
       "nota_qualidade": 9,
-      "last_seen": "2026-09-13T09:57:22.775651+00:00",
-      "expires_at": "2026-09-14T06:57:22.775651-03:00",
+      "last_seen": "2026-09-13T10:38:13.372521+00:00",
+      "expires_at": "2026-09-14T07:38:13.372521-03:00",
       "marca": "Tramontina",
       "price_evidence": {
-        "checked_at": "2026-09-13T09:58:36.983644+00:00",
+        "checked_at": "2026-09-13T10:39:08.576434+00:00",
         "identity": {
           "brand": "Tramontina",
           "model": null,
@@ -702,11 +710,11 @@
       "avaliacoes": null,
       "vendas": 799,
       "nota_qualidade": 9,
-      "last_seen": "2026-09-13T10:07:31.608703+00:00",
-      "expires_at": "2026-09-14T07:07:31.608703-03:00",
+      "last_seen": "2026-09-13T10:38:13.372521+00:00",
+      "expires_at": "2026-09-14T07:38:13.372521-03:00",
       "marca": "Mondial",
       "price_evidence": {
-        "checked_at": "2026-09-13T10:08:44.890655+00:00",
+        "checked_at": "2026-09-13T10:39:08.576434+00:00",
         "identity": {
           "brand": "Mondial",
           "model": "afn-50",
@@ -719,7 +727,7 @@
         "previous_min": 339.9,
         "observed_min": 339.9,
         "since": "2026-09-12T13:31:01.433528+00:00",
-        "observations": 3,
+        "observations": 4,
         "days": 2,
         "history": [
           {
@@ -732,6 +740,10 @@
           },
           {
             "at": "2026-09-13T04:32:17.838111+00:00",
+            "price": 339.9
+          },
+          {
+            "at": "2026-09-13T10:39:08.576434+00:00",
             "price": 339.9
           }
         ],
@@ -758,11 +770,11 @@
       "avaliacoes": null,
       "vendas": 104,
       "nota_qualidade": 9,
-      "last_seen": "2026-09-13T09:57:22.775651+00:00",
-      "expires_at": "2026-09-14T06:57:22.775651-03:00",
+      "last_seen": "2026-09-13T10:38:13.372521+00:00",
+      "expires_at": "2026-09-14T07:38:13.372521-03:00",
       "marca": "Logitech",
       "price_evidence": {
-        "checked_at": "2026-09-13T09:58:36.983644+00:00",
+        "checked_at": "2026-09-13T10:39:08.576434+00:00",
         "identity": {
           "brand": "Logitech",
           "model": "m220",
@@ -775,7 +787,7 @@
         "previous_min": 32.5,
         "observed_min": 32.5,
         "since": "2026-09-12T22:18:07.571383+00:00",
-        "observations": 2,
+        "observations": 3,
         "days": 2,
         "history": [
           {
@@ -784,6 +796,10 @@
           },
           {
             "at": "2026-09-13T04:37:21.869455+00:00",
+            "price": 32.5
+          },
+          {
+            "at": "2026-09-13T10:39:08.576434+00:00",
             "price": 32.5
           }
         ],
@@ -799,7 +815,7 @@
       "por": 39.99,
       "desconto": 43,
       "imagem": "https://cf.shopee.com.br/file/224c330f5ff9ff2cd2e07b77fe64202d",
-      "link": "https://s.shopee.com.br/9peCnRgPIW",
+      "link": "https://s.shopee.com.br/1ALsNAXSS",
       "cupom": null,
       "loja": "shopee",
       "categoria": "Shopee",
@@ -810,11 +826,11 @@
       "avaliacoes": null,
       "vendas": 1599,
       "nota_qualidade": 10,
-      "last_seen": "2026-09-13T09:57:22.775651+00:00",
-      "expires_at": "2026-09-14T06:57:22.775651-03:00",
+      "last_seen": "2026-09-13T10:38:13.372521+00:00",
+      "expires_at": "2026-09-14T07:38:13.372521-03:00",
       "marca": "Tramontina",
       "price_evidence": {
-        "checked_at": "2026-09-13T09:58:36.983644+00:00",
+        "checked_at": "2026-09-13T10:39:08.576434+00:00",
         "identity": {
           "brand": "Tramontina",
           "model": null,
@@ -827,7 +843,7 @@
         "previous_min": 39.99,
         "observed_min": 39.99,
         "since": "2026-09-12T13:31:01.433528+00:00",
-        "observations": 3,
+        "observations": 4,
         "days": 2,
         "history": [
           {
@@ -840,6 +856,10 @@
           },
           {
             "at": "2026-09-13T04:37:21.869455+00:00",
+            "price": 39.99
+          },
+          {
+            "at": "2026-09-13T10:39:08.576434+00:00",
             "price": 39.99
           }
         ],
@@ -961,54 +981,6 @@
       "grupo": "Gamer"
     },
     {
-      "source_id": "55214478888",
-      "titulo": "Caixa de Som Portátil JBL GO 5 Preto Original Bluetooth À Prova D'água Iluminação e Auracast",
-      "de": null,
-      "por": 309.9,
-      "desconto": 23,
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l7-mps2n1sv12wy66",
-      "link": "https://s.shopee.com.br/9zxeaPcnEa",
-      "cupom": null,
-      "loja": "shopee",
-      "categoria": "Audio",
-      "data": "2026-09-10T06:27:22.795034-03:00",
-      "slug": "caixa-de-som-portatil-jbl-go-5-preto-original-bluetooth-a-prova-d-agua",
-      "page_url": "https://promoninjaofertas.github.io/produto/caixa-de-som-portatil-jbl-go-5-preto-original-bluetooth-a-prova-d-agua.html",
-      "avaliacao": 4.9,
-      "avaliacoes": null,
-      "vendas": 124,
-      "nota_qualidade": 9,
-      "last_seen": "2026-09-12T23:27:20.715872+00:00",
-      "expires_at": "2026-09-13T20:27:20.715872-03:00",
-      "marca": "JBL",
-      "price_evidence": {
-        "checked_at": "2026-09-12T23:28:24.832718+00:00",
-        "identity": {
-          "brand": "JBL",
-          "model": null,
-          "family": "audio",
-          "kind": "produto",
-          "variant": "cor:preto|kit:1",
-          "ambiguous": false,
-          "comparison_key": null
-        },
-        "previous_min": 309.9,
-        "observed_min": 309.9,
-        "since": "2026-09-12T22:19:00.776474+00:00",
-        "observations": 1,
-        "days": 1,
-        "history": [
-          {
-            "at": "2026-09-12T22:19:00.776474+00:00",
-            "price": 309.9
-          }
-        ],
-        "advantage": false,
-        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
-      },
-      "grupo": "Tech"
-    },
-    {
       "source_id": "23293788558",
       "titulo": "Placa-Mãe AMD AM4 Asus TUF GAMING B550M-Plus - 90MB14A0-C1BAY0",
       "de": null,
@@ -1059,6 +1031,54 @@
         "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
       },
       "grupo": "Gamer"
+    },
+    {
+      "source_id": "55214478888",
+      "titulo": "Caixa de Som Portátil JBL GO 5 Preto Original Bluetooth À Prova D'água Iluminação e Auracast",
+      "de": null,
+      "por": 309.9,
+      "desconto": 23,
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l7-mps2n1sv12wy66",
+      "link": "https://s.shopee.com.br/9zxeaPcnEa",
+      "cupom": null,
+      "loja": "shopee",
+      "categoria": "Audio",
+      "data": "2026-09-10T06:27:22.795034-03:00",
+      "slug": "caixa-de-som-portatil-jbl-go-5-preto-original-bluetooth-a-prova-d-agua",
+      "page_url": "https://promoninjaofertas.github.io/produto/caixa-de-som-portatil-jbl-go-5-preto-original-bluetooth-a-prova-d-agua.html",
+      "avaliacao": 4.9,
+      "avaliacoes": null,
+      "vendas": 124,
+      "nota_qualidade": 9,
+      "last_seen": "2026-09-12T23:27:20.715872+00:00",
+      "expires_at": "2026-09-13T20:27:20.715872-03:00",
+      "marca": "JBL",
+      "price_evidence": {
+        "checked_at": "2026-09-12T23:28:24.832718+00:00",
+        "identity": {
+          "brand": "JBL",
+          "model": null,
+          "family": "audio",
+          "kind": "produto",
+          "variant": "cor:preto|kit:1",
+          "ambiguous": false,
+          "comparison_key": null
+        },
+        "previous_min": 309.9,
+        "observed_min": 309.9,
+        "since": "2026-09-12T22:19:00.776474+00:00",
+        "observations": 1,
+        "days": 1,
+        "history": [
+          {
+            "at": "2026-09-12T22:19:00.776474+00:00",
+            "price": 309.9
+          }
+        ],
+        "advantage": false,
+        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
+      },
+      "grupo": "Tech"
     },
     {
       "source_id": "1005006965436436",
@@ -1187,7 +1207,7 @@
       "por": 298.64,
       "desconto": 59,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S599205138ef44482819b780c5ead1823V.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4ExZKHdZJmYhQRoDcm7qRnqfcKir2sd6BqaANVKp6w9oHq2XY9PODfZoqkJwcJ1hDkvlRZi087Rc9gz60kjgTlW0jbJU1OIVSKvnvWnKlHheEnjfr4GBMkbeicw5YxhyduTzLK9ZYwccA6FPCLhyFs8rw5TOeBenJAFcJ9d3K8BESvfJ4dHy5kT8zERh20cndC62PGpr8Cw55LFtLozek834cYTXSxbGnqABNiq3xyILLhYY54tApYNwXonkD907iBChAdqZtUW5M60OOyMcVSlNQlWxQLbenRgy4pNZ8odVHXKjQY5nAcONW0hkXfyrhsPsSVyLZVUeIeT0KzlU4UBkeyTUTawYNPMlOX67ylib7vTZ7gWd2jM804QXIE03hPWfgFlnNZa8TTNjC4sqbOaGYdKHUfI6bKLqmPRm40qXXRLpyes5uSrOyH88YSRW5JUp9c5LtTFkqcujhcflM4DLS2yLV5ZCLrpeYucvcgUsgB1s2IidvuNsv2ERuKJlCcTLmzP1N5YZhPtjh6DHbl6V8b8XU7aAp8jF9Fh20QNgVuuPefaDCgZyw0FMQPm76ZrcA7J9sWmPmSxVLuJgwfQfJaHjKHssF5ColKHQIc9DToHlSNwvZh2NeZs0e7nLKolYT1M3dZkT3Bg67bnRQsLtc54LIBG5J1LWtr7xFVkWyCaXXRFle9PZBhXInRIEzoylkSXYUiQ7ZJ",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4ExZKHdZJmYhQRoDcm7qRnqfcKir2sd6BqaANVKp6w9oHq2XY9PODfZoqkJwcJ1hDkvlRZi087Rc9gz60kjgTlW0jbJU1OIVSKvnvWnKlHheEnjfr4GBMkbeicw5YxhyduTzLK9ZYwccA6FPCLhyFs8rw5TOeBenJAFcJ9d3K8BESvfJ4dHy5kT8zERh20cndC62PGpr8Cw55LFtLozek834cYTXSxbGnqABNi5wFcufdVTS7qUDHfLzzn3J7yJVLiiZZRHOfVRYLcs2YGyzreZiqEeGJM562DCmuR1s7xMKkXibWKqT04UJMHpqfhT4fdiSrZmaJMR3WDDDISRl5ijHOgqddioUgXMaelTFRqZG1f5Ge6SoelXvBTw08AwLaXi4KN1mhPITw0kydEdFVOgOPGqBfK6Lmqplw68X4GnwaoWsPBnsGHmqnZ9XW1KfmREzhRONkDya7636ujhpkhshDbGQ4xGPbeGTNeOD1v4z9JNTmKjyOK0Ib7Zt2OgYLgmq6OATgcXVv0ARa6YNmHeORy05NCkad2Gcaa5GsJ51nJzvMZLxPf13VCtjazjai3viVQiNbMPJsWtnIrB6jHai4Uq1Qa84mO6F0SBrpf57YU5k20JfdbX5xXUKqGtqEtlQgE2Xna2wlUnXB486MgZ4yGV86YPlmhINC9MMi22IzHgHTWdf4Xavmvy6YlEldgUhHz9s8XsECv",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Audio",
@@ -1198,8 +1218,8 @@
       "avaliacoes": null,
       "vendas": 1512,
       "nota_qualidade": 8,
-      "last_seen": "2026-09-13T10:28:03.073506+00:00",
-      "expires_at": "2026-09-14T07:28:03.073506-03:00",
+      "last_seen": "2026-09-13T10:38:13.372521+00:00",
+      "expires_at": "2026-09-14T07:38:13.372521-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech"
@@ -1259,7 +1279,7 @@
       "por": 98.89,
       "desconto": 40,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S15c2d01242b84313a612744d1251f53aS.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4EHgM1WQTLyNb6JGpbPqfJ2eiLrTCAFG6rH3J4Zkt5nba7fDD1NmSY9z4xOcFgzIDUe6yeur8iGIEVuLjihfbixZnTmeqwl0wrlPnuG4pOT3y3zsf43cwL3ccy0DkUAetc2VjrPHbIFjrv4sANQjXER3BmIEn9QGzmY9sEcWIrgnitASSOBoVluqhzfTC4FOUzaO0Ewxr61yOb0Y4eAXukGyV5szfLXdVee5MjopndlMTOLHSltB1rteMju2ivJxIzUsJHGLzHxgBksK1kKiHQd7aUJkJJPDLZd4RmxrgLuRI8pBqnZquOK7lquq01HRrOZPkq6NJ5g4ISqdYWvuMrzvvTCxRhtHvnJ0suHzgHpkqPu3eZmbn79s5Gp7jNAgUq5VioaOCwQALjUzYrXemlamSjJz1SboAgO5Ty35VDdIiqRbyx0r1w2QXqJJGQabvdZ3YnD8PSgtUMkaiLKJNNDoDIYiYXqwkOoHWxzLTP4M8jF3JbxFcAa7B8lgRa4VIV1Ybu8Ip1tn4BKpT6AbOPWUyToRRlqH7DcCFTuwWRT04E1vsic7jg0JRolq3gb5X3yuX8qfDaMVb2H4EDfcmLLSywnw9mhZTTLdPpLs2euqoDVOqmdP7ejMeLrbz5IHuut6DcjNSxeuobSz6YTjG6Z7XtY2bUIIjKPHdoMRC0AKEdLfcPAYtMr4TVPXunarG2heKWXsjSms92",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4EHgM1WQTLyNb6JGpbPqfJ2eiLrTCAFG6rH3J4Zkt5nba7fDD1NmSY9z4xOcFgzIDUe6yeur8iGIEVuLjihfbixZnTmeqwl0wrlPnuG4pOT3y3zsf43cwL3ccy0DkUAetc2VjrPHbIFjrv4sANQjXER3BmIEn9QGzmY9sEcWIrgnitASSOBoVluqhzfTC4FOUzaO0Ewxr61yOb0Y4eAXukGyV5szfLXdVee5MjoqcOhfaTiMvc209QLyBsCh2d8yRFzerEvQ2bJ6T9WXaRacPqHPqGeZKVVg1xFQ5BUfnN5rCELZShIGU5r3Z9XZnxf3jhwy3x7JcaituvIrvK1rP2vjTox4fC7PG0N7l1vfhZEFtqndmtRcCHZo9dCvqgYp1STXh2Hj1P1SoUu5czy9rKU8wPLKcRbAyQ2fHgGGpyTun9KlAfUy5xGmOkP4BzIcwV74GQsydnSgZdt0KJp1Fbdo4ASIUhabDog8pYeGIPBuwgaYNBgZPUV5KBlYB7QD7mE0DZNlB9zr7p2ZaLMjIgp0VtMwcmXmVZpHEgmhxvPB04a3UQ2mVLvtsEPAAFIbosb3dxapyIF17F3oFCuGBO8ZzfSNcFHyMKUFDslOT9krRK7OmNxuFiUbeUL8DzWOEc5u1K0T1qbpFYUHD0PqVmsw8cxO5lB8Dixx49LLvW0x0iLJBYxyQpRNqA1R3Z2Edqv6MegzPFnzEg",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Eletrônicos",
@@ -1270,8 +1290,8 @@
       "avaliacoes": null,
       "vendas": 1541,
       "nota_qualidade": 8,
-      "last_seen": "2026-09-13T10:28:03.073506+00:00",
-      "expires_at": "2026-09-14T07:28:03.073506-03:00",
+      "last_seen": "2026-09-13T10:38:13.372521+00:00",
+      "expires_at": "2026-09-14T07:38:13.372521-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech"
@@ -1283,7 +1303,7 @@
       "por": 93.4,
       "desconto": 40,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sc8d75a047fbe47b9b19a6e0153a0f73fe.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4FecbGAXooSK8ICpajtx6FtqAI8h0WxA9WKOsZtWF7id4HRxTwZH1szi2KqCAiwSxR5qZeXhWmqNDUqwwUxqME87Z6EZxbw9mYaNXcGutZ9iL0gm56InzAkmwCVbeYFcnmljU01rf28DtcgYs1IGAnm6Q3KKBhXkpeURxwH8pB4JXCxqRysWM6GazQiCr6vi3SHQ5883aRCKEZWeO6kQn9WCJLCjzwSYp8jLVCc6ZQ2DaVgV0sLRXkxr1EnAUHuxfBmb95gJ57WlMBBtpFtLHg1LcnoBoYQW5OxXVmDnNFFYHK5kHD7U1reHiH3dKbmHKd1P9u5RW5u1FBopTLsh4EnpiEZY2yUaxoSxd7LvkfLQJIuoLZoD1QO195WsAmJ1LmHOKKJOijS0IvB9I53ECKYr98cFBJPoH1GpgOdKknzYdn3DPA7u8dz6NKHKXMaVgqiiJl4ZOfcxWjt77F4bqRrrVLcE4KPrHSvXwFMax4bZ9ZvAvW2tIRgyM14HMFm3IW60eQdPubNRhX2td25DZjH9xyX28kka5EguVvG4h7WAo7xyjBsnvtzOGQiqzHcLVXkojONChKB7hqRQIlyX4AR9saFupXO18DrvhpuPtksjlVm4dnjhvCtf0uCYMege2sofhCywoCY30gsbQfhxMdFCd8vpyM5bLNtmEUKAk03FrjsVcP11Kwaa8vi6Bw5U404uV3BmBhjuXH",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4FecbGAXooSK8ICpajtx6FtqAI8h0WxA9WKOsZtWF7id4HRxTwZH1szi2KqCAiwSxR5qZeXhWmqNDUqwwUxqME87Z6EZxbw9mYaNXcGutZ9iL0gm56InzAkmwCVbeYFcnmljU01rf28DtcgYs1IGAnm6Q3KKBhXkpeURxwH8pB4JXCxqRysWM6GazQiCr6vi3SHQ5883aRCKEZWeO6kQn9WCJLCjzwSYp8jLVCcb1Oq4ZUT5UQiayrMOc2LIa7goVJGqj8dcklXB4z8HYh3EqAuKnWuglypEOFqOLpCL0X6rx0yNj1Qc4qzPvOnveURiTyEqda1IzbSDuTGgHEZIt26Ix9m8dZtZ8FUwzR1fCWt9l4w3CfiYEGHGC4OFTCEoM1s8fGdV2RXNFld7R8Rtl4l1DTRqwTMfXWeKV4Ezd8oBOOWFFU6U3ak7FAjpgtM6IH4Bbh5IwOfB4FRr7PP15313YjNWGaaeSJISSc7wg0zJtXeLchJPbbY6iKbcixOs0nPPQEWyjd75MRJzu2nU2S6jF8zwaK6DcntNJ2WMAKByWxkqBQx48fLggVnP0hgefhzWbG5tJDQTV8hN5VDyDjWpiq51QQxYxuSzkmI9GlDZlwsGo8Ykj8FeJeiNpERTbbwACcRrHQWfvKw1UbnvbIWQyLD0bA8bVdkeA3NwNDXrml4AdDaMhDPXv0ElHeCrxtYJMc3wx8cxkF",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Audio",
@@ -1294,8 +1314,8 @@
       "avaliacoes": null,
       "vendas": 1397,
       "nota_qualidade": 7,
-      "last_seen": "2026-09-13T10:28:03.073506+00:00",
-      "expires_at": "2026-09-14T07:28:03.073506-03:00",
+      "last_seen": "2026-09-13T10:38:13.372521+00:00",
+      "expires_at": "2026-09-14T07:38:13.372521-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech"
@@ -1555,7 +1575,7 @@
       "por": 396.99,
       "desconto": 56,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S8ee37e50d33643a783e165383f422003x.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mSslS2jYyUuiz2ZYBMgcFLhqnmp8s1dYeefdLThnTpnoLACzukEc8rBAll1zjDHe1sH6Ln0iZ9Y62yl25Xyq1JB8nsJqrw3GZOlaC3Qwy1mG9Td8s3qijZQPtZoppzTw7Zv0xDqVQsc6KlxbzXtzJTzFNvAwH5GoQ4QmcP7dfvDKnvCCA5UAjmSadpuGMOFM4t6T3k4gBGuRG0qXikVbToT3dhTzWdm7WUMVP4Wyl0Y1T3YKzZDodbFE2foxMKlLPwmomCwfq7JnYWAjPUHVelhAMEb2rnW91HkIf81fcuqbrm9VbVBgq8QFMSEhyYcSwfpEGdG7wOBn07PO9Odnwekt07ykEwrkzuWxiMpxceCFPwhZNOkhIpvLsH9t5YerIoGh41r61JAs72qkVnQfutEh8atNxQSiCdTdVNyWmUi9mgXqO3ofCo7Lw8SlPcE7fRjRDnuwqZhF0L8w0kBeZDmFUGKGpcvaGt3WASKlg2elNXshs542U6cdkBymaP7Xun4Zg5IhpJDyfC2tUB02iw9xBRnnCAMQ4uba170yxvx8rEeWmITVslAsmRnWGjOStCgZ4yMEYB8HhHs7RJCYCdDXrAZHSN6akTxCRuGTjLQiWVld8avC0pE7fqx8IyLH4NEkimM54RkSXuYxZ7uEORoGqlomXlr0vqpgoQqbv2mSOlvZLxXR6cG67n2uQOBEetpMXdUZD082U",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mSslS2jYyUuiz2ZYBMgcFLhqnmp8s1dYeefdLThnTpnoLACzukEc8rBAll1zjDHe1sH6Ln0iZ9Y62yl25Xyq1JB8nsJqrw3GZOlaC3Qwy1mG9Td8s3qijZQPtZoppzTw7Zv0xDqVQsc6KlxbzXtzJTzFNvAwH5GoQ4QmcP7dfvDKnvCCA5UAjmSadpuGMOFM4t6T3k4gBGuRG0qXikVbToT3dhTzWdm7WUMVP3zj7UGESesPVREVnSp7Kxst2p022SSRBkKL0azHRdTFZvK8h7tMNNO3jsrWRTHyZZs98cgwFrOzvW9Q1FwduvbPudlQgu0yMQb99TXvuIBCpdaf5hASLGSqvp6HxPjRr1KhT0q9qXTVfyWK4hxHUSg2bdiqpi2Pl4qDYv6LxDhqLhZUfTPNwifM74ym5yKSSptZ6SXk1xoY73emNz06REY009dJ5z5t75t3fNJKzuuMryHDESEyhoH0mOVpPCz7j4y9AEA7fyaHQm0VV2JO7lF7K9eoqihpv1E6SyxCeXYcQjmBxaXgWEog7PFtisB2vc5QhnXFZTcTHxPFlXExutq40eV4nSvxD9iW3NrOkI1gCqAGoBfaBDIVUbXfDji4ovLwONHlZSnzmYginKXMAv8KYyAwaAqvO6KvQm1dhXXVVrACTG9VvxgtlXnPagMojCIQwHHd2RhninhusV1NpmDMqNixixAyleymnaTJS",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Audio",
@@ -1566,8 +1586,8 @@
       "avaliacoes": null,
       "vendas": 1285,
       "nota_qualidade": 7,
-      "last_seen": "2026-09-13T10:28:03.073506+00:00",
-      "expires_at": "2026-09-14T07:28:03.073506-03:00",
+      "last_seen": "2026-09-13T10:38:13.372521+00:00",
+      "expires_at": "2026-09-14T07:38:13.372521-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech"
@@ -1590,11 +1610,11 @@
       "avaliacoes": null,
       "vendas": 146,
       "nota_qualidade": 10,
-      "last_seen": "2026-09-13T09:57:22.775651+00:00",
-      "expires_at": "2026-09-14T06:57:22.775651-03:00",
+      "last_seen": "2026-09-13T10:38:13.372521+00:00",
+      "expires_at": "2026-09-14T07:38:13.372521-03:00",
       "marca": "JBL",
       "price_evidence": {
-        "checked_at": "2026-09-13T09:58:36.983644+00:00",
+        "checked_at": "2026-09-13T10:39:08.576434+00:00",
         "identity": {
           "brand": "JBL",
           "model": "520bt",
@@ -1607,7 +1627,7 @@
         "previous_min": 229.3,
         "observed_min": 229.3,
         "since": "2026-09-12T13:31:01.433528+00:00",
-        "observations": 3,
+        "observations": 4,
         "days": 2,
         "history": [
           {
@@ -1620,6 +1640,10 @@
           },
           {
             "at": "2026-09-13T04:37:21.869455+00:00",
+            "price": 229.3
+          },
+          {
+            "at": "2026-09-13T10:39:08.576434+00:00",
             "price": 229.3
           }
         ],
