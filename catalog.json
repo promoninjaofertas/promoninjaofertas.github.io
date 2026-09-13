@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-13T10:58:42.770147+00:00",
+  "atualizado": "2026-09-13T11:09:00.788453+00:00",
   "ofertas": [
     {
       "source_id": "21299179885",
@@ -75,11 +75,11 @@
       "avaliacoes": null,
       "vendas": 107,
       "nota_qualidade": 9,
-      "last_seen": "2026-09-13T10:58:42.770147+00:00",
-      "expires_at": "2026-09-14T07:58:42.770147-03:00",
+      "last_seen": "2026-09-13T11:09:00.788453+00:00",
+      "expires_at": "2026-09-14T08:09:00.788453-03:00",
       "marca": "LG",
       "price_evidence": {
-        "checked_at": "2026-09-13T10:59:38.740550+00:00",
+        "checked_at": "2026-09-13T11:11:29.026566+00:00",
         "identity": {
           "brand": "LG",
           "model": "24gs60f-b",
@@ -121,62 +121,6 @@
       "grupo": "Gamer"
     },
     {
-      "source_id": "18199337362",
-      "titulo": "Parafusadeira e Furadeira à Bateria 12V GSR 120-LI com 1 Bateria e Maleta BOSCH Bivolt",
-      "de": null,
-      "por": 409.0,
-      "desconto": 27,
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdxb-lxqvrx46qhjg31",
-      "link": "https://s.shopee.com.br/LnBmIygrQ",
-      "cupom": null,
-      "loja": "shopee",
-      "categoria": "Smartphones",
-      "data": "2026-09-12T19:16:34.813595-03:00",
-      "slug": "shopee-bosch-120-li-12v-bivolt-kit-1",
-      "page_url": "https://promoninjaofertas.github.io/produto/shopee-bosch-120-li-12v-bivolt-kit-1.html",
-      "avaliacao": 5.0,
-      "avaliacoes": null,
-      "vendas": 141,
-      "nota_qualidade": 10,
-      "last_seen": "2026-09-13T10:38:13.372521+00:00",
-      "expires_at": "2026-09-14T07:38:13.372521-03:00",
-      "marca": "Bosch",
-      "price_evidence": {
-        "checked_at": "2026-09-13T10:39:08.576434+00:00",
-        "identity": {
-          "brand": "Bosch",
-          "model": "120-li",
-          "family": "ferramentas",
-          "kind": "produto",
-          "variant": "12v|bivolt|kit:1",
-          "ambiguous": false,
-          "comparison_key": "bosch|120 li|12v|bivolt|kit:1"
-        },
-        "previous_min": 409.0,
-        "observed_min": 409.0,
-        "since": "2026-09-12T22:18:07.571383+00:00",
-        "observations": 3,
-        "days": 2,
-        "history": [
-          {
-            "at": "2026-09-12T22:18:07.571383+00:00",
-            "price": 409.0
-          },
-          {
-            "at": "2026-09-13T04:37:21.869455+00:00",
-            "price": 409.0
-          },
-          {
-            "at": "2026-09-13T10:39:08.576434+00:00",
-            "price": 409.0
-          }
-        ],
-        "advantage": false,
-        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
-      },
-      "grupo": "Casa"
-    },
-    {
       "source_id": "23594959395",
       "titulo": "Furadeira Parafusadeira de Impacto Bosch 48V – 2 Baterias Inclusas | Ferramenta Elétrica",
       "de": null,
@@ -194,11 +138,11 @@
       "avaliacoes": null,
       "vendas": 198,
       "nota_qualidade": 10,
-      "last_seen": "2026-09-13T10:38:13.372521+00:00",
-      "expires_at": "2026-09-14T07:38:13.372521-03:00",
+      "last_seen": "2026-09-13T11:09:00.788453+00:00",
+      "expires_at": "2026-09-14T08:09:00.788453-03:00",
       "marca": "Bosch",
       "price_evidence": {
-        "checked_at": "2026-09-13T10:39:08.576434+00:00",
+        "checked_at": "2026-09-13T11:11:29.026566+00:00",
         "identity": {
           "brand": "Bosch",
           "model": null,
@@ -233,13 +177,69 @@
       "grupo": "Casa"
     },
     {
+      "source_id": "18199337362",
+      "titulo": "Parafusadeira e Furadeira à Bateria 12V GSR 120-LI com 1 Bateria e Maleta BOSCH Bivolt",
+      "de": null,
+      "por": 409.0,
+      "desconto": 27,
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdxb-lxqvrx46qhjg31",
+      "link": "https://s.shopee.com.br/LnBmIygrQ",
+      "cupom": null,
+      "loja": "shopee",
+      "categoria": "Smartphones",
+      "data": "2026-09-12T19:16:34.813595-03:00",
+      "slug": "shopee-bosch-120-li-12v-bivolt-kit-1",
+      "page_url": "https://promoninjaofertas.github.io/produto/shopee-bosch-120-li-12v-bivolt-kit-1.html",
+      "avaliacao": 5.0,
+      "avaliacoes": null,
+      "vendas": 141,
+      "nota_qualidade": 10,
+      "last_seen": "2026-09-13T11:09:00.788453+00:00",
+      "expires_at": "2026-09-14T08:09:00.788453-03:00",
+      "marca": "Bosch",
+      "price_evidence": {
+        "checked_at": "2026-09-13T11:11:29.026566+00:00",
+        "identity": {
+          "brand": "Bosch",
+          "model": "120-li",
+          "family": "ferramentas",
+          "kind": "produto",
+          "variant": "12v|bivolt|kit:1",
+          "ambiguous": false,
+          "comparison_key": "bosch|120 li|12v|bivolt|kit:1"
+        },
+        "previous_min": 409.0,
+        "observed_min": 409.0,
+        "since": "2026-09-12T22:18:07.571383+00:00",
+        "observations": 3,
+        "days": 2,
+        "history": [
+          {
+            "at": "2026-09-12T22:18:07.571383+00:00",
+            "price": 409.0
+          },
+          {
+            "at": "2026-09-13T04:37:21.869455+00:00",
+            "price": 409.0
+          },
+          {
+            "at": "2026-09-13T10:39:08.576434+00:00",
+            "price": 409.0
+          }
+        ],
+        "advantage": false,
+        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
+      },
+      "grupo": "Casa"
+    },
+    {
       "source_id": "1005010412672389",
       "titulo": "Caixa de Som Sem Fio para Conferências EMEET 360 °   Microfone para Reuniões com 4 Microfones com Cancelamento de Ruído e Alto-falante Bluetooth para Escritório",
       "de": 607.0,
       "por": 262.31,
       "desconto": 56,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sf85452d128c849548449665e6564bbfbt.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4kN3FsuP959H3HMoXOv4gRExEY9h7NXdyMhlIHlteZvWHrWDNkPxAwoBwfW4iyvVhB4ELboZPhCbEjGKELeJS7EjxRt4S38EUnig37hCD5vsXL6hFUii7MMGADi9UNqCef7wSyjIkxwMhKRpwk2cYTCodx5tqXL3fnffNVf5mJe851noibFEmll5RnBqJTJM69YVgIxv2EgxieTtVmt1j3e4AlJ0X9fKkK42aLIlp050w2enu8f78hCiy9fiiUnvae4VXOoZr6l6hnFLONI6750zq1K2haQnX8GCb6YrtHBfCulMRQgFvitrHCc1PS8LNj3YZesUlJga5OyvUGjjFC6R1XFmgsyNrF16pVIffFJVnAXWWJ4HWiLMZwVut64ZZ6x5U9NjZO9MrPspgmzyx8jJuYuGvBPMT4ruT9ZTzxwKVwY1czShOnCPcDUVt165ZoPO6RA7qUtLtCbS7zx8znJO8CzBDRUv4awe8gyNIy7zczWy4jbbgVOtbjcx4EFE82MH8nii7wQAysRjbyiFRwuaVGIXxcmQtDwJhWMttgGD084VBlEn8Qqsu03Or2whWtJyt0GE0DMbLwdVjRUkVeLdx8SEjM8K0XENwajjgD34Dae32xskUEuB8lLzJIGuhj1c3942ua6bV3cQgvEhwadFyKdFJ4A4Qtyw2PgQ5wa7kSPelYtpaNwpdx05OK7XBSG2vNSJhflvZ3",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4kN3FsuP959H3HMoXOv4gRExEY9h7NXdyMhlIHlteZvWHrWDNkPxAwoBwfW4iyvVhB4ELboZPhCbEjGKELeJS7EjxRt4S38EUnig37hCD5vsXL6hFUii7MMGADi9UNqCef7wSyjIkxwMhKRpwk2cYTCodx5tqXL3fnffNVf5mJe851noibFEmll5RnBqJTJM69YVgIxv2EgxieTtVmt1j3e4AlJ0X9fKkK42aLH2IzC09G5vGwbJvFx6zvRTB6zrwAxbKxiRXXPtQeNJdGH0S4qPzUYqs27KHJj1cqGI3q0g8NvjsF3fYj3OO6liU5mWJK0MqXCGwVpIeGG8hMRq81j3KNwCTVidFyTubqxkr4BOIrygu5WM3nILpje3OHvoLsAuBijFldK7uZwRMlaPjB9JYCAGndn2FckWG7TWUrAj92maOlIsixGTVp95Lh0UP6DFmCcz12IXqm8qUPNlz2BF63Mpu9ubC1iDpBWH5uIzQ2kwnTqfFnRKMQIWehARNsifKlFRJRQVg5KKwZoi0VowCJcFcFgfWdOvoFkL8TFSbpX4kcAgZi6Fs6QthDkL5SIzHAVd9pUHd5Ly72jhHSLBc2v5qxFtAURH7vgQiLm4VcPh6lRJqrwuaohYsZ6zcd1rxwy74VFSRiL1sygVO1F8pmtm4tszDHzU0Mr8u3TzIfK35eity1WoWbdHzm20kJL3aAeqFEFpql",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Audio",
@@ -250,8 +250,8 @@
       "avaliacoes": null,
       "vendas": 146,
       "nota_qualidade": 8,
-      "last_seen": "2026-09-13T04:41:16.174600+00:00",
-      "expires_at": "2026-09-14T01:41:16.174600-03:00",
+      "last_seen": "2026-09-13T11:09:00.788453+00:00",
+      "expires_at": "2026-09-14T08:09:00.788453-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech"
@@ -274,8 +274,8 @@
       "avaliacoes": 40,
       "vendas": 523,
       "nota_qualidade": 7,
-      "last_seen": "2026-09-13T10:58:42.770147+00:00",
-      "expires_at": "2026-09-14T07:58:42.770147-03:00",
+      "last_seen": "2026-09-13T11:09:00.788453+00:00",
+      "expires_at": "2026-09-14T08:09:00.788453-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda"
@@ -305,6 +305,30 @@
       "grupo": "Tech"
     },
     {
+      "source_id": "pechinchou-119863",
+      "titulo": "Perfume feminino Supreme, Edp, 100 ml, essencial, natura",
+      "de": 279.0,
+      "por": 147.0,
+      "desconto": 47,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/D_NQ_NP_677001-MLA84548476114_052025-O_KYgVZdY.webp",
+      "link": "https://meli.la/1ch6VNC",
+      "cupom": "BELEZACOMPRITTAS",
+      "loja": "mercadolivre",
+      "categoria": "Beleza",
+      "data": "2026-09-12T17:32:06.185265-03:00",
+      "slug": "perfume-feminino-supreme-edp-100-ml-essencial-natura",
+      "page_url": "https://promoninjaofertas.github.io/produto/perfume-feminino-supreme-edp-100-ml-essencial-natura.html",
+      "avaliacao": null,
+      "avaliacoes": 40,
+      "vendas": 132,
+      "nota_qualidade": 9,
+      "last_seen": "2026-09-13T11:09:00.788453+00:00",
+      "expires_at": "2026-09-14T08:09:00.788453-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Moda"
+    },
+    {
       "source_id": "pechinchou-148294",
       "titulo": "Perfume Árabe Qaed Al Fursan Lattafa Edp 90 Ml",
       "de": 249.0,
@@ -322,8 +346,8 @@
       "avaliacoes": 10,
       "vendas": 141,
       "nota_qualidade": 7,
-      "last_seen": "2026-09-13T10:58:42.770147+00:00",
-      "expires_at": "2026-09-14T07:58:42.770147-03:00",
+      "last_seen": "2026-09-13T11:09:00.788453+00:00",
+      "expires_at": "2026-09-14T08:09:00.788453-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda"
@@ -346,32 +370,8 @@
       "avaliacoes": 10,
       "vendas": 643,
       "nota_qualidade": 9,
-      "last_seen": "2026-09-13T10:58:42.770147+00:00",
-      "expires_at": "2026-09-14T07:58:42.770147-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Moda"
-    },
-    {
-      "source_id": "pechinchou-119863",
-      "titulo": "Perfume feminino Supreme, Edp, 100 ml, essencial, natura",
-      "de": 279.0,
-      "por": 147.0,
-      "desconto": 47,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/D_NQ_NP_677001-MLA84548476114_052025-O_KYgVZdY.webp",
-      "link": "https://meli.la/1ch6VNC",
-      "cupom": "BELEZACOMPRITTAS",
-      "loja": "mercadolivre",
-      "categoria": "Beleza",
-      "data": "2026-09-12T17:32:06.185265-03:00",
-      "slug": "perfume-feminino-supreme-edp-100-ml-essencial-natura",
-      "page_url": "https://promoninjaofertas.github.io/produto/perfume-feminino-supreme-edp-100-ml-essencial-natura.html",
-      "avaliacao": null,
-      "avaliacoes": 40,
-      "vendas": 132,
-      "nota_qualidade": 9,
-      "last_seen": "2026-09-13T10:58:42.770147+00:00",
-      "expires_at": "2026-09-14T07:58:42.770147-03:00",
+      "last_seen": "2026-09-13T11:09:00.788453+00:00",
+      "expires_at": "2026-09-14T08:09:00.788453-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda"
@@ -394,8 +394,8 @@
       "avaliacoes": 10,
       "vendas": 513,
       "nota_qualidade": 7,
-      "last_seen": "2026-09-13T10:58:42.770147+00:00",
-      "expires_at": "2026-09-14T07:58:42.770147-03:00",
+      "last_seen": "2026-09-13T11:09:00.788453+00:00",
+      "expires_at": "2026-09-14T08:09:00.788453-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda"
@@ -418,8 +418,8 @@
       "avaliacoes": 86,
       "vendas": 1862,
       "nota_qualidade": 10,
-      "last_seen": "2026-09-13T10:58:42.770147+00:00",
-      "expires_at": "2026-09-14T07:58:42.770147-03:00",
+      "last_seen": "2026-09-13T11:09:00.788453+00:00",
+      "expires_at": "2026-09-14T08:09:00.788453-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda"
@@ -442,8 +442,8 @@
       "avaliacoes": 60,
       "vendas": 933,
       "nota_qualidade": 7,
-      "last_seen": "2026-09-13T10:58:42.770147+00:00",
-      "expires_at": "2026-09-14T07:58:42.770147-03:00",
+      "last_seen": "2026-09-13T11:09:00.788453+00:00",
+      "expires_at": "2026-09-14T08:09:00.788453-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros"
@@ -466,8 +466,8 @@
       "avaliacoes": 30,
       "vendas": 2939,
       "nota_qualidade": 7,
-      "last_seen": "2026-09-13T10:58:42.770147+00:00",
-      "expires_at": "2026-09-14T07:58:42.770147-03:00",
+      "last_seen": "2026-09-13T11:09:00.788453+00:00",
+      "expires_at": "2026-09-14T08:09:00.788453-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda"
@@ -490,67 +490,11 @@
       "avaliacoes": 100,
       "vendas": 1462,
       "nota_qualidade": 9,
-      "last_seen": "2026-09-13T10:58:42.770147+00:00",
-      "expires_at": "2026-09-14T07:58:42.770147-03:00",
+      "last_seen": "2026-09-13T11:09:00.788453+00:00",
+      "expires_at": "2026-09-14T08:09:00.788453-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa"
-    },
-    {
-      "source_id": "22198437019",
-      "titulo": "IMPRESSORA MULTIFUNCIONAL JATO DE TINTA  ECOTANK  EPSON 3250  Bivolt",
-      "de": null,
-      "por": 1039.0,
-      "desconto": 35,
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-82612-ml5fu9rnsdu5fc",
-      "link": "https://s.shopee.com.br/4AzuLd3u40",
-      "cupom": null,
-      "loja": "shopee",
-      "categoria": "Informatica",
-      "data": "2026-09-12T07:30:38.079626-03:00",
-      "slug": "impressora-multifuncional-jato-de-tinta-ecotank-epson-3250-bivolt",
-      "page_url": "https://promoninjaofertas.github.io/produto/impressora-multifuncional-jato-de-tinta-ecotank-epson-3250-bivolt.html",
-      "avaliacao": 5.0,
-      "avaliacoes": null,
-      "vendas": 1342,
-      "nota_qualidade": 10,
-      "last_seen": "2026-09-13T10:58:42.770147+00:00",
-      "expires_at": "2026-09-14T07:58:42.770147-03:00",
-      "marca": "Epson",
-      "price_evidence": {
-        "checked_at": "2026-09-13T10:59:38.740550+00:00",
-        "identity": {
-          "brand": "Epson",
-          "model": "3250",
-          "family": "impressoras",
-          "kind": "produto",
-          "variant": "bivolt|kit:1",
-          "ambiguous": false,
-          "comparison_key": "epson|3250|bivolt|kit:1"
-        },
-        "previous_min": 1039.0,
-        "observed_min": 1039.0,
-        "since": "2026-09-12T13:31:01.433528+00:00",
-        "observations": 3,
-        "days": 2,
-        "history": [
-          {
-            "at": "2026-09-12T13:31:01.433528+00:00",
-            "price": 1099.0
-          },
-          {
-            "at": "2026-09-13T03:02:09.511401+00:00",
-            "price": 1039.0
-          },
-          {
-            "at": "2026-09-13T09:06:40.583130+00:00",
-            "price": 1039.0
-          }
-        ],
-        "advantage": false,
-        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
-      },
-      "grupo": "Tech"
     },
     {
       "source_id": "22897147575",
@@ -605,6 +549,62 @@
           {
             "at": "2026-09-13T09:17:18.833118+00:00",
             "price": 122.0
+          }
+        ],
+        "advantage": false,
+        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
+      },
+      "grupo": "Tech"
+    },
+    {
+      "source_id": "22198437019",
+      "titulo": "IMPRESSORA MULTIFUNCIONAL JATO DE TINTA  ECOTANK  EPSON 3250  Bivolt",
+      "de": null,
+      "por": 1039.0,
+      "desconto": 35,
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-82612-ml5fu9rnsdu5fc",
+      "link": "https://s.shopee.com.br/4AzuLd3u40",
+      "cupom": null,
+      "loja": "shopee",
+      "categoria": "Informatica",
+      "data": "2026-09-12T07:30:38.079626-03:00",
+      "slug": "impressora-multifuncional-jato-de-tinta-ecotank-epson-3250-bivolt",
+      "page_url": "https://promoninjaofertas.github.io/produto/impressora-multifuncional-jato-de-tinta-ecotank-epson-3250-bivolt.html",
+      "avaliacao": 5.0,
+      "avaliacoes": null,
+      "vendas": 1342,
+      "nota_qualidade": 10,
+      "last_seen": "2026-09-13T10:58:42.770147+00:00",
+      "expires_at": "2026-09-14T07:58:42.770147-03:00",
+      "marca": "Epson",
+      "price_evidence": {
+        "checked_at": "2026-09-13T10:59:38.740550+00:00",
+        "identity": {
+          "brand": "Epson",
+          "model": "3250",
+          "family": "impressoras",
+          "kind": "produto",
+          "variant": "bivolt|kit:1",
+          "ambiguous": false,
+          "comparison_key": "epson|3250|bivolt|kit:1"
+        },
+        "previous_min": 1039.0,
+        "observed_min": 1039.0,
+        "since": "2026-09-12T13:31:01.433528+00:00",
+        "observations": 3,
+        "days": 2,
+        "history": [
+          {
+            "at": "2026-09-12T13:31:01.433528+00:00",
+            "price": 1099.0
+          },
+          {
+            "at": "2026-09-13T03:02:09.511401+00:00",
+            "price": 1039.0
+          },
+          {
+            "at": "2026-09-13T09:06:40.583130+00:00",
+            "price": 1039.0
           }
         ],
         "advantage": false,
@@ -774,11 +774,11 @@
       "avaliacoes": null,
       "vendas": 104,
       "nota_qualidade": 9,
-      "last_seen": "2026-09-13T10:38:13.372521+00:00",
-      "expires_at": "2026-09-14T07:38:13.372521-03:00",
+      "last_seen": "2026-09-13T11:09:00.788453+00:00",
+      "expires_at": "2026-09-14T08:09:00.788453-03:00",
       "marca": "Logitech",
       "price_evidence": {
-        "checked_at": "2026-09-13T10:39:08.576434+00:00",
+        "checked_at": "2026-09-13T11:11:29.026566+00:00",
         "identity": {
           "brand": "Logitech",
           "model": "m220",
@@ -890,11 +890,11 @@
       "avaliacoes": null,
       "vendas": 479,
       "nota_qualidade": 10,
-      "last_seen": "2026-09-13T10:28:03.073506+00:00",
-      "expires_at": "2026-09-14T07:28:03.073506-03:00",
+      "last_seen": "2026-09-13T11:09:00.788453+00:00",
+      "expires_at": "2026-09-14T08:09:00.788453-03:00",
       "marca": "WAP",
       "price_evidence": {
-        "checked_at": "2026-09-13T10:28:59.242164+00:00",
+        "checked_at": "2026-09-13T11:11:29.026566+00:00",
         "identity": {
           "brand": "WAP",
           "model": "7metros",
@@ -1006,11 +1006,11 @@
       "avaliacoes": null,
       "vendas": 658,
       "nota_qualidade": 9,
-      "last_seen": "2026-09-13T10:28:03.073506+00:00",
-      "expires_at": "2026-09-14T07:28:03.073506-03:00",
+      "last_seen": "2026-09-13T11:09:00.788453+00:00",
+      "expires_at": "2026-09-14T08:09:00.788453-03:00",
       "marca": "Asus",
       "price_evidence": {
-        "checked_at": "2026-09-13T10:28:59.242164+00:00",
+        "checked_at": "2026-09-13T11:11:29.026566+00:00",
         "identity": {
           "brand": "Asus",
           "model": "am4",
@@ -1023,7 +1023,7 @@
         "previous_min": 849.0,
         "observed_min": 849.0,
         "since": "2026-09-12T22:19:00.776474+00:00",
-        "observations": 2,
+        "observations": 3,
         "days": 2,
         "history": [
           {
@@ -1032,6 +1032,10 @@
           },
           {
             "at": "2026-09-13T04:37:21.869455+00:00",
+            "price": 849.0
+          },
+          {
+            "at": "2026-09-13T10:43:42.327069+00:00",
             "price": 849.0
           }
         ],
@@ -1442,11 +1446,11 @@
       "avaliacoes": null,
       "vendas": 279,
       "nota_qualidade": 10,
-      "last_seen": "2026-09-13T10:28:03.073506+00:00",
-      "expires_at": "2026-09-14T07:28:03.073506-03:00",
+      "last_seen": "2026-09-13T11:09:00.788453+00:00",
+      "expires_at": "2026-09-14T08:09:00.788453-03:00",
       "marca": "WAP",
       "price_evidence": {
-        "checked_at": "2026-09-13T10:28:59.242164+00:00",
+        "checked_at": "2026-09-13T11:11:29.026566+00:00",
         "identity": {
           "brand": "WAP",
           "model": null,
