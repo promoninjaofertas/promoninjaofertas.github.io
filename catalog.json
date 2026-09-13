@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-13T04:21:14.111317+00:00",
+  "atualizado": "2026-09-13T04:31:14.102681+00:00",
   "ofertas": [
     {
       "source_id": "21299179885",
@@ -71,11 +71,11 @@
       "avaliacoes": null,
       "vendas": 107,
       "nota_qualidade": 9,
-      "last_seen": "2026-09-13T04:21:14.111317+00:00",
-      "expires_at": "2026-09-14T01:21:14.111317-03:00",
+      "last_seen": "2026-09-13T04:31:14.102681+00:00",
+      "expires_at": "2026-09-14T01:31:14.102681-03:00",
       "marca": "LG",
       "price_evidence": {
-        "checked_at": "2026-09-13T04:22:11.396199+00:00",
+        "checked_at": "2026-09-13T04:32:20.311683+00:00",
         "identity": {
           "brand": "LG",
           "model": "24gs60f-b",
@@ -88,8 +88,8 @@
         "previous_min": 837.0,
         "observed_min": 837.0,
         "since": "2026-09-12T13:31:01.433528+00:00",
-        "observations": 2,
-        "days": 1,
+        "observations": 3,
+        "days": 2,
         "history": [
           {
             "at": "2026-09-12T13:31:01.433528+00:00",
@@ -97,6 +97,10 @@
           },
           {
             "at": "2026-09-12T22:28:39.914734+00:00",
+            "price": 837.0
+          },
+          {
+            "at": "2026-09-13T04:32:17.838111+00:00",
             "price": 837.0
           }
         ],
@@ -211,7 +215,7 @@
       "por": 262.31,
       "desconto": 56,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sf85452d128c849548449665e6564bbfbt.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4kN3FsuP959H3HMoXOv4gRExEY9h7NXdyMhlIHlteZvWHrWDNkPxAwoBwfW4iyvVhB4ELboZPhCbEjGKELeJS7EjxRt4S38EUnig37hCD5vsXL6hFUii7MMGADi9UNqCef7wSyjIkxwMhKRpwk2cYTCodx5tqXL3fnffNVf5mJe851noibFEmll5RnBqJTJM69YVgIxv2EgxieTtVmt1j3e4AlJ0X9fKkK42aLIMTV4Gzpxqx52KfrU3UtrX9K9MLtsDAGwLcrwEVpEoS0wniT9n3Fmz42OEwMHgdArxBaaQBRpQsWxSJGCbZ6VYGerZrC0vn5CC2EI3dep44Ia3UQQLhO1AlFPS788w9SRKx9n1TPse0QGxF7zJHAO2uvB5snO8u02lq3H4BOzrtKsTBJ32UamgyCPMq4uNHAh78pLbdUZRt4eO2zy51TQIdPnD0bfnJHjlCWObV9yNg4BZt9a1vABOsfIgNOYvV6enulvy0sAYJTEa5Qk87aRSxXJ1A8Ub3hkGKQiUAqabwZ6U2d6AM5m2AAE5GjXaDK8ZCverXWY2vmYBXkyliX9G9hQR3bZLxi1CwI58lo7FfIPLMeOviG08W0p3nobxrrp1mg4VHfeYCRGvSMpIaQfLwlCpgLk0XouDah8W890Ct8JQXimPtwvWgJMiSfXuXbYFYub2efikRU8pD68gnlLgZgqW7bmyC7lF9jxzIl",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4kN3FsuP959H3HMoXOv4gRExEY9h7NXdyMhlIHlteZvWHrWDNkPxAwoBwfW4iyvVhB4ELboZPhCbEjGKELeJS7EjxRt4S38EUnig37hCD5vsXL6hFUii7MMGADi9UNqCef7wSyjIkxwMhKRpwk2cYTCodx5tqXL3fnffNVf5mJe851noibFEmll5RnBqJTJM69YVgIxv2EgxieTtVmt1j3e4AlJ0X9fKkK42aLI2LR13HVE3P4M9WYtYW4LE1JnbroAw88iX1g6XVcYb77bB2UK5ykfNnQc5zUMWH3VQWfWxayl0aRpdk3eI3pW5bG6YwglBqBftj4c9jKu7N98BdIfvA0x9NcOuLdg6aZY5RUSPvvvwwPHTuQQJ4zNxZzk0GyG5M6sXtZYVQIRtcwMWv7QeTQheXLdvJAJpTjf0LrO5op8pfmUaVxIY9CE6FkNU5Jg8mxLOU55NoIuZbe1OmJkMItPcxwaI4Xa0b3aiCoUiRkwn3JyDos5beRImRSYVzK7zuNUjXE3ksfWjZbJO2qGzvrBeyZYPzMUNjPBp2PPSvWteZQBczqx8ejeMYe3d8IqKNGgRtXPDoGGDF1vKLun7yAHKlTGdLzXTkcfuRHujHJLm1ZRE64V4BT5p9xXkMVYDBAsSOXvdMNLBBFdPgLFiBItSqoy29Dy5KdHxsXoXsEfvXIw05IFlnyaePcES0dQDH2aA6TwuT3",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Audio",
@@ -222,8 +226,8 @@
       "avaliacoes": null,
       "vendas": 146,
       "nota_qualidade": 8,
-      "last_seen": "2026-09-13T04:21:14.111317+00:00",
-      "expires_at": "2026-09-14T01:21:14.111317-03:00",
+      "last_seen": "2026-09-13T04:31:14.102681+00:00",
+      "expires_at": "2026-09-14T01:31:14.102681-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech"
@@ -246,8 +250,8 @@
       "avaliacoes": 40,
       "vendas": 471,
       "nota_qualidade": 7,
-      "last_seen": "2026-09-13T04:21:14.111317+00:00",
-      "expires_at": "2026-09-14T01:21:14.111317-03:00",
+      "last_seen": "2026-09-13T04:31:14.102681+00:00",
+      "expires_at": "2026-09-14T01:31:14.102681-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda"
@@ -294,8 +298,8 @@
       "avaliacoes": 40,
       "vendas": 123,
       "nota_qualidade": 9,
-      "last_seen": "2026-09-13T04:21:14.111317+00:00",
-      "expires_at": "2026-09-14T01:21:14.111317-03:00",
+      "last_seen": "2026-09-13T04:31:14.102681+00:00",
+      "expires_at": "2026-09-14T01:31:14.102681-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda"
@@ -318,8 +322,8 @@
       "avaliacoes": 10,
       "vendas": 584,
       "nota_qualidade": 9,
-      "last_seen": "2026-09-13T04:21:14.111317+00:00",
-      "expires_at": "2026-09-14T01:21:14.111317-03:00",
+      "last_seen": "2026-09-13T04:31:14.102681+00:00",
+      "expires_at": "2026-09-14T01:31:14.102681-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda"
@@ -342,8 +346,8 @@
       "avaliacoes": 10,
       "vendas": 123,
       "nota_qualidade": 7,
-      "last_seen": "2026-09-13T04:21:14.111317+00:00",
-      "expires_at": "2026-09-14T01:21:14.111317-03:00",
+      "last_seen": "2026-09-13T04:31:14.102681+00:00",
+      "expires_at": "2026-09-14T01:31:14.102681-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda"
@@ -366,8 +370,8 @@
       "avaliacoes": 66,
       "vendas": 1737,
       "nota_qualidade": 10,
-      "last_seen": "2026-09-13T04:21:14.111317+00:00",
-      "expires_at": "2026-09-14T01:21:14.111317-03:00",
+      "last_seen": "2026-09-13T04:31:14.102681+00:00",
+      "expires_at": "2026-09-14T01:31:14.102681-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda"
@@ -390,8 +394,8 @@
       "avaliacoes": 10,
       "vendas": 479,
       "nota_qualidade": 7,
-      "last_seen": "2026-09-13T04:21:14.111317+00:00",
-      "expires_at": "2026-09-14T01:21:14.111317-03:00",
+      "last_seen": "2026-09-13T04:31:14.102681+00:00",
+      "expires_at": "2026-09-14T01:31:14.102681-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda"
@@ -414,8 +418,8 @@
       "avaliacoes": 60,
       "vendas": 917,
       "nota_qualidade": 7,
-      "last_seen": "2026-09-13T04:21:14.111317+00:00",
-      "expires_at": "2026-09-14T01:21:14.111317-03:00",
+      "last_seen": "2026-09-13T04:31:14.102681+00:00",
+      "expires_at": "2026-09-14T01:31:14.102681-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros"
@@ -438,8 +442,8 @@
       "avaliacoes": 30,
       "vendas": 2857,
       "nota_qualidade": 7,
-      "last_seen": "2026-09-13T04:21:14.111317+00:00",
-      "expires_at": "2026-09-14T01:21:14.111317-03:00",
+      "last_seen": "2026-09-13T04:31:14.102681+00:00",
+      "expires_at": "2026-09-14T01:31:14.102681-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda"
@@ -462,8 +466,8 @@
       "avaliacoes": 90,
       "vendas": 1418,
       "nota_qualidade": 9,
-      "last_seen": "2026-09-13T04:21:14.111317+00:00",
-      "expires_at": "2026-09-14T01:21:14.111317-03:00",
+      "last_seen": "2026-09-13T04:31:14.102681+00:00",
+      "expires_at": "2026-09-14T01:31:14.102681-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa"
@@ -674,11 +678,11 @@
       "avaliacoes": null,
       "vendas": 799,
       "nota_qualidade": 9,
-      "last_seen": "2026-09-13T04:10:59.371563+00:00",
-      "expires_at": "2026-09-14T01:10:59.371563-03:00",
+      "last_seen": "2026-09-13T04:31:14.102681+00:00",
+      "expires_at": "2026-09-14T01:31:14.102681-03:00",
       "marca": "Mondial",
       "price_evidence": {
-        "checked_at": "2026-09-13T04:12:02.664287+00:00",
+        "checked_at": "2026-09-13T04:32:20.311683+00:00",
         "identity": {
           "brand": "Mondial",
           "model": "afn-50",
@@ -691,8 +695,8 @@
         "previous_min": 339.9,
         "observed_min": 339.9,
         "since": "2026-09-12T13:31:01.433528+00:00",
-        "observations": 2,
-        "days": 1,
+        "observations": 3,
+        "days": 2,
         "history": [
           {
             "at": "2026-09-12T13:31:01.433528+00:00",
@@ -700,6 +704,10 @@
           },
           {
             "at": "2026-09-12T22:18:07.571383+00:00",
+            "price": 339.9
+          },
+          {
+            "at": "2026-09-13T04:32:17.838111+00:00",
             "price": 339.9
           }
         ],
@@ -926,11 +934,11 @@
       "avaliacoes": null,
       "vendas": 385,
       "nota_qualidade": 10,
-      "last_seen": "2026-09-13T04:21:14.111317+00:00",
-      "expires_at": "2026-09-14T01:21:14.111317-03:00",
+      "last_seen": "2026-09-13T04:31:14.102681+00:00",
+      "expires_at": "2026-09-14T01:31:14.102681-03:00",
       "marca": "Acer",
       "price_evidence": {
-        "checked_at": "2026-09-13T04:22:11.396199+00:00",
+        "checked_at": "2026-09-13T04:32:20.311683+00:00",
         "identity": {
           "brand": "Acer",
           "model": "kg243y",
@@ -943,8 +951,8 @@
         "previous_min": 657.9,
         "observed_min": 657.9,
         "since": "2026-09-12T13:31:01.433528+00:00",
-        "observations": 2,
-        "days": 1,
+        "observations": 3,
+        "days": 2,
         "history": [
           {
             "at": "2026-09-12T13:31:01.433528+00:00",
@@ -952,6 +960,10 @@
           },
           {
             "at": "2026-09-12T22:28:39.914734+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-13T04:32:17.838111+00:00",
             "price": 657.9
           }
         ],
@@ -1057,30 +1069,6 @@
       "grupo": "Gamer"
     },
     {
-      "source_id": "1005009942973523",
-      "titulo": "Carregador Portátil 20000mah，Power Bank Portátil，Pilhas Recarregáveis，Powerbank Portátil， TYPE-C, USB， Preto， Do Brasil",
-      "de": 125.99,
-      "por": 98.82,
-      "desconto": 21,
-      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sde41ee2d147445a1b782ea99ce2a2690d.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mrbupromK6mYSbuqYR50sQXn1xnxQjsn6UD8OFDTyuzx58lNGuFICzNShe5N91FWyj99Bjco621BLld2shUA6bbCdRDv1GHnnfJZ8tM6Lj4yciaQ8Xk4apPeYKsjg2f5W5ZPnPzLN0DjmTaB4uBJ58pdrflFq1JZFHRM3yN5MpADtVg48Rsx39Bj7t3IofRJLiNvg34SqV6zHVOtUXsvrUuzoZWsPBhVCw0jsU7e7m6Jt7vJAJU7sY3qVOWLLpufBMI9B9Rwt6vZjRpwHbFYIjGBADTrs7v6kNnNqASBQpir8ngcV9Rb1MTeTcDxhveNAxZ6NLiP5TRvQpYWd9NUDr3KN6n9tYgYNRW6CDT3aQSwxuXSfgHiSkorMpztdI0GPIcdP1FrlbgmnzykXxXflRuJK6syqJgaUYieaejnGvS54MccXRf2NoIfXFoJ49DN0E0PqV6D4ZdHej1xyAAd0pfDBv9LSw9Ay2q158jlHaDTpvbZqJkbXf8YtZnI5BLdCiNDPQ86Uw7oFENwIhqOvjQfTCo04MXjXcFddszRnUZMImRZ5IDOEGDKV3qLGGz58M6OPt2XW9GKCsiEq9U0hRVZ92hbEglqNOqPFxKnEmQ1bA0WwFzolFLL9tj4LvXi9F7jk8UROocsJJ0lGshqEzPULvlopmIewq1PeSIKD7UqFTF6zZa8CCTAxQTZHgBEb7QN4cJRW3qhT",
-      "cupom": null,
-      "loja": "aliexpress",
-      "categoria": "Acessórios para telefones e telecomunicações",
-      "data": "2026-09-07T05:12:37.105870-03:00",
-      "slug": "carregador-portatil-20000mah-power-bank-portatil-pilhas-recarregaveis-powerbank-portat",
-      "page_url": "https://promoninjaofertas.github.io/produto/carregador-portatil-20000mah-power-bank-portatil-pilhas-recarregaveis-powerbank-portat.html",
-      "avaliacao": 4.87,
-      "avaliacoes": null,
-      "vendas": 2067,
-      "nota_qualidade": 7,
-      "last_seen": "2026-09-12T22:12:34.584962+00:00",
-      "expires_at": "2026-09-13T19:12:34.584962-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": null
-    },
-    {
       "source_id": "1005008639836335",
       "titulo": "Towild dl1200s/dl1700 luz de bicicleta com linha de corte feixe1900lm recarregável luz dianteira banco potência mtb ciclismo faróis",
       "de": 720.92,
@@ -1097,6 +1085,30 @@
       "avaliacao": 4.83,
       "avaliacoes": null,
       "vendas": 1063,
+      "nota_qualidade": 7,
+      "last_seen": "2026-09-12T22:12:34.584962+00:00",
+      "expires_at": "2026-09-13T19:12:34.584962-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": null
+    },
+    {
+      "source_id": "1005009942973523",
+      "titulo": "Carregador Portátil 20000mah，Power Bank Portátil，Pilhas Recarregáveis，Powerbank Portátil， TYPE-C, USB， Preto， Do Brasil",
+      "de": 125.99,
+      "por": 98.82,
+      "desconto": 21,
+      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sde41ee2d147445a1b782ea99ce2a2690d.jpg",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mrbupromK6mYSbuqYR50sQXn1xnxQjsn6UD8OFDTyuzx58lNGuFICzNShe5N91FWyj99Bjco621BLld2shUA6bbCdRDv1GHnnfJZ8tM6Lj4yciaQ8Xk4apPeYKsjg2f5W5ZPnPzLN0DjmTaB4uBJ58pdrflFq1JZFHRM3yN5MpADtVg48Rsx39Bj7t3IofRJLiNvg34SqV6zHVOtUXsvrUuzoZWsPBhVCw0jsU7e7m6Jt7vJAJU7sY3qVOWLLpufBMI9B9Rwt6vZjRpwHbFYIjGBADTrs7v6kNnNqASBQpir8ngcV9Rb1MTeTcDxhveNAxZ6NLiP5TRvQpYWd9NUDr3KN6n9tYgYNRW6CDT3aQSwxuXSfgHiSkorMpztdI0GPIcdP1FrlbgmnzykXxXflRuJK6syqJgaUYieaejnGvS54MccXRf2NoIfXFoJ49DN0E0PqV6D4ZdHej1xyAAd0pfDBv9LSw9Ay2q158jlHaDTpvbZqJkbXf8YtZnI5BLdCiNDPQ86Uw7oFENwIhqOvjQfTCo04MXjXcFddszRnUZMImRZ5IDOEGDKV3qLGGz58M6OPt2XW9GKCsiEq9U0hRVZ92hbEglqNOqPFxKnEmQ1bA0WwFzolFLL9tj4LvXi9F7jk8UROocsJJ0lGshqEzPULvlopmIewq1PeSIKD7UqFTF6zZa8CCTAxQTZHgBEb7QN4cJRW3qhT",
+      "cupom": null,
+      "loja": "aliexpress",
+      "categoria": "Acessórios para telefones e telecomunicações",
+      "data": "2026-09-07T05:12:37.105870-03:00",
+      "slug": "carregador-portatil-20000mah-power-bank-portatil-pilhas-recarregaveis-powerbank-portat",
+      "page_url": "https://promoninjaofertas.github.io/produto/carregador-portatil-20000mah-power-bank-portatil-pilhas-recarregaveis-powerbank-portat.html",
+      "avaliacao": 4.87,
+      "avaliacoes": null,
+      "vendas": 2067,
       "nota_qualidade": 7,
       "last_seen": "2026-09-12T22:12:34.584962+00:00",
       "expires_at": "2026-09-13T19:12:34.584962-03:00",
@@ -1225,30 +1237,6 @@
       "grupo": "Tech"
     },
     {
-      "source_id": "1005006967413964",
-      "titulo": "Zeblaze-Btalk 3 Plus Smartwatch para Homens e Senhoras, Chamada De Voz, 1.39 \"Grande Display Colorido HD, Rastreamento De Fitness, Novo",
-      "de": 164.82,
-      "por": 98.89,
-      "desconto": 40,
-      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S15c2d01242b84313a612744d1251f53aS.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4EHgM1WQTLyNb6JGpbPqfJ2eiLrTCAFG6rH3J4Zkt5nba7fDD1NmSY9z4xOcFgzIDUe6yeur8iGIEVuLjihfbixZnTmeqwl0wrlPnuG4pOT3y3zsf43cwL3ccy0DkUAetc2VjrPHbIFjrv4sANQjXER3BmIEn9QGzmY9sEcWIrgnitASSOBoVluqhzfTC4FOUzaO0Ewxr61yOb0Y4eAXukGyV5szfLXdVee5Mjop5xHQxXNOZrl3wT3b3mTdd6PAIFa4zlsCz5VJjGXl5NC3SXPRBniXaAIcx22mbPYCl3HMIAUMtzT7SwhgOZyLXe6zFbdptdbkIoxse7dJbUFk22w71N7JJOrO6aI57Pm1dEgfFbAxyZXyNJWbZDnkgvb2tnBuTdV8zofpu99YH7DBWnavYXsxp9ol7Zwgbh5j3qsQiBwsLq37ToOdILVdyEV3puy5TpQGbVhpTDIXj8xdk1NMZl1PnCfCJb7ZhI0RiaWqWBUo0eWFu4g99Hg9CN8Bb9gHlVvDbNppbPRnUUZ0yXyQYKnLKrbdhjX9wcz5ZzGggxcCDjOjQR3DMgmtBRvmrQq537zH0zkj5XhxdFT4IXjinw6YfoO8k7buiibMUtOAWhWnrukI5Y4DtM440oUjGPljIO6Xvoebf6LMFKRUKXHF3JJrnxkN8EUiy3SlJ1BEYgv6cVEaspH8KMSXttF1wwXuMDxPn0NS52",
-      "cupom": null,
-      "loja": "aliexpress",
-      "categoria": "Eletrônicos",
-      "data": "2026-08-31T19:03:54.087698-03:00",
-      "slug": "zeblaze-btalk-3-plus-smartwatch-para-homens-e-senhoras-chamada-de-voz-1-39",
-      "page_url": "https://promoninjaofertas.github.io/produto/zeblaze-btalk-3-plus-smartwatch-para-homens-e-senhoras-chamada-de-voz-1-39.html",
-      "avaliacao": 4.89,
-      "avaliacoes": null,
-      "vendas": 1541,
-      "nota_qualidade": 8,
-      "last_seen": "2026-09-13T04:21:14.111317+00:00",
-      "expires_at": "2026-09-14T01:21:14.111317-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Tech"
-    },
-    {
       "source_id": "1005010615674255",
       "titulo": "Original sony sp180 fones de ouvido sem fio tws com microfone esportes clipe de orelha fones de ouvido estéreo display led",
       "de": 155.67,
@@ -1268,6 +1256,30 @@
       "nota_qualidade": 7,
       "last_seen": "2026-09-13T04:10:59.371563+00:00",
       "expires_at": "2026-09-14T01:10:59.371563-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Tech"
+    },
+    {
+      "source_id": "1005006967413964",
+      "titulo": "Zeblaze-Btalk 3 Plus Smartwatch para Homens e Senhoras, Chamada De Voz, 1.39 \"Grande Display Colorido HD, Rastreamento De Fitness, Novo",
+      "de": 164.82,
+      "por": 98.89,
+      "desconto": 40,
+      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S15c2d01242b84313a612744d1251f53aS.jpg",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4EHgM1WQTLyNb6JGpbPqfJ2eiLrTCAFG6rH3J4Zkt5nba7fDD1NmSY9z4xOcFgzIDUe6yeur8iGIEVuLjihfbixZnTmeqwl0wrlPnuG4pOT3y3zsf43cwL3ccy0DkUAetc2VjrPHbIFjrv4sANQjXER3BmIEn9QGzmY9sEcWIrgnitASSOBoVluqhzfTC4FOUzaO0Ewxr61yOb0Y4eAXukGyV5szfLXdVee5Mjop5xHQxXNOZrl3wT3b3mTdd6PAIFa4zlsCz5VJjGXl5NC3SXPRBniXaAIcx22mbPYCl3HMIAUMtzT7SwhgOZyLXe6zFbdptdbkIoxse7dJbUFk22w71N7JJOrO6aI57Pm1dEgfFbAxyZXyNJWbZDnkgvb2tnBuTdV8zofpu99YH7DBWnavYXsxp9ol7Zwgbh5j3qsQiBwsLq37ToOdILVdyEV3puy5TpQGbVhpTDIXj8xdk1NMZl1PnCfCJb7ZhI0RiaWqWBUo0eWFu4g99Hg9CN8Bb9gHlVvDbNppbPRnUUZ0yXyQYKnLKrbdhjX9wcz5ZzGggxcCDjOjQR3DMgmtBRvmrQq537zH0zkj5XhxdFT4IXjinw6YfoO8k7buiibMUtOAWhWnrukI5Y4DtM440oUjGPljIO6Xvoebf6LMFKRUKXHF3JJrnxkN8EUiy3SlJ1BEYgv6cVEaspH8KMSXttF1wwXuMDxPn0NS52",
+      "cupom": null,
+      "loja": "aliexpress",
+      "categoria": "Eletrônicos",
+      "data": "2026-08-31T19:03:54.087698-03:00",
+      "slug": "zeblaze-btalk-3-plus-smartwatch-para-homens-e-senhoras-chamada-de-voz-1-39",
+      "page_url": "https://promoninjaofertas.github.io/produto/zeblaze-btalk-3-plus-smartwatch-para-homens-e-senhoras-chamada-de-voz-1-39.html",
+      "avaliacao": 4.89,
+      "avaliacoes": null,
+      "vendas": 1541,
+      "nota_qualidade": 8,
+      "last_seen": "2026-09-13T04:21:14.111317+00:00",
+      "expires_at": "2026-09-14T01:21:14.111317-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech"
@@ -1586,11 +1598,11 @@
       "avaliacoes": null,
       "vendas": 585,
       "nota_qualidade": 10,
-      "last_seen": "2026-09-13T04:10:59.371563+00:00",
-      "expires_at": "2026-09-14T01:10:59.371563-03:00",
+      "last_seen": "2026-09-13T04:31:14.102681+00:00",
+      "expires_at": "2026-09-14T01:31:14.102681-03:00",
       "marca": "Kingston",
       "price_evidence": {
-        "checked_at": "2026-09-13T04:12:02.664287+00:00",
+        "checked_at": "2026-09-13T04:32:20.311683+00:00",
         "identity": {
           "brand": "Kingston",
           "model": "kvr16n11/8",
@@ -1603,8 +1615,8 @@
         "previous_min": 112.0,
         "observed_min": 112.0,
         "since": "2026-09-12T13:23:53.286532+00:00",
-        "observations": 2,
-        "days": 1,
+        "observations": 3,
+        "days": 2,
         "history": [
           {
             "at": "2026-09-12T13:23:53.286532+00:00",
@@ -1612,6 +1624,10 @@
           },
           {
             "at": "2026-09-12T22:28:39.914734+00:00",
+            "price": 112.0
+          },
+          {
+            "at": "2026-09-13T04:32:17.838111+00:00",
             "price": 112.0
           }
         ],
