@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-13T16:33:52.984215+00:00",
+  "atualizado": "2026-09-13T16:54:12.773585+00:00",
   "ofertas": [
     {
       "source_id": "3037930",
@@ -24,30 +24,6 @@
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech"
-    },
-    {
-      "source_id": "pechinchou-92385",
-      "titulo": "Jogo De Panelas Tramontina Inox Allegra 10p Com Pegador",
-      "de": 899.9,
-      "por": 608.31,
-      "desconto": 32,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/D_NQ_NP_853803-MLU75149967483_032024-O.webp_0GEL8Mi_BrCggU6_eQYebo8_KD31PD6_BAJo7p8.webp",
-      "link": "https://meli.la/1NjoJ3i",
-      "cupom": "COMPRAFACIL",
-      "loja": "mercadolivre",
-      "categoria": "Casa",
-      "data": "2026-09-13T10:30:20.904669-03:00",
-      "slug": "jogo-de-panelas-tramontina-inox-allegra-10p-com-pegador",
-      "page_url": "https://promoninjaofertas.github.io/produto/jogo-de-panelas-tramontina-inox-allegra-10p-com-pegador.html",
-      "avaliacao": null,
-      "avaliacoes": 30,
-      "vendas": 1214,
-      "nota_qualidade": 8,
-      "last_seen": "2026-09-13T16:33:52.984215+00:00",
-      "expires_at": "2026-09-14T13:33:52.984215-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Casa"
     },
     {
       "source_id": "21299179885",
@@ -123,11 +99,11 @@
       "avaliacoes": null,
       "vendas": 107,
       "nota_qualidade": 9,
-      "last_seen": "2026-09-13T16:33:52.984215+00:00",
-      "expires_at": "2026-09-14T13:33:52.984215-03:00",
+      "last_seen": "2026-09-13T16:43:58.580197+00:00",
+      "expires_at": "2026-09-14T13:43:58.580197-03:00",
       "marca": "LG",
       "price_evidence": {
-        "checked_at": "2026-09-13T16:35:21.955780+00:00",
+        "checked_at": "2026-09-13T16:44:47.609484+00:00",
         "identity": {
           "brand": "LG",
           "model": "24gs60f-b",
@@ -140,7 +116,7 @@
         "previous_min": 837.0,
         "observed_min": 837.0,
         "since": "2026-09-12T13:31:01.433528+00:00",
-        "observations": 4,
+        "observations": 5,
         "days": 2,
         "history": [
           {
@@ -158,6 +134,10 @@
           {
             "at": "2026-09-13T10:38:35.328600+00:00",
             "price": 837.0
+          },
+          {
+            "at": "2026-09-13T16:44:20.987053+00:00",
+            "price": 837.0
           }
         ],
         "advantage": true,
@@ -167,62 +147,6 @@
         "comparison_percent": 12.5
       },
       "grupo": "Gamer"
-    },
-    {
-      "source_id": "23594959395",
-      "titulo": "Furadeira Parafusadeira de Impacto Bosch 48V – 2 Baterias Inclusas | Ferramenta Elétrica",
-      "de": null,
-      "por": 399.33,
-      "desconto": 55,
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lk-mo9dpk20zg1w51",
-      "link": "https://s.shopee.com.br/1gIZMktc9Y",
-      "cupom": null,
-      "loja": "shopee",
-      "categoria": "Smartphones",
-      "data": "2026-09-12T19:16:34.813595-03:00",
-      "slug": "furadeira-parafusadeira-de-impacto-bosch-48v-2-baterias-inclusas-ferramenta-eletrica",
-      "page_url": "https://promoninjaofertas.github.io/produto/furadeira-parafusadeira-de-impacto-bosch-48v-2-baterias-inclusas-ferramenta-eletrica.html",
-      "avaliacao": 4.8,
-      "avaliacoes": null,
-      "vendas": 198,
-      "nota_qualidade": 10,
-      "last_seen": "2026-09-13T16:03:36.493876+00:00",
-      "expires_at": "2026-09-14T13:03:36.493876-03:00",
-      "marca": "Bosch",
-      "price_evidence": {
-        "checked_at": "2026-09-13T16:05:15.933722+00:00",
-        "identity": {
-          "brand": "Bosch",
-          "model": null,
-          "family": "ferramentas",
-          "kind": "produto",
-          "variant": "48v|kit:1",
-          "ambiguous": false,
-          "comparison_key": null
-        },
-        "previous_min": 399.33,
-        "observed_min": 399.33,
-        "since": "2026-09-12T22:18:07.571383+00:00",
-        "observations": 3,
-        "days": 2,
-        "history": [
-          {
-            "at": "2026-09-12T22:18:07.571383+00:00",
-            "price": 399.33
-          },
-          {
-            "at": "2026-09-13T04:37:21.869455+00:00",
-            "price": 399.33
-          },
-          {
-            "at": "2026-09-13T10:39:08.576434+00:00",
-            "price": 399.33
-          }
-        ],
-        "advantage": false,
-        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
-      },
-      "grupo": "Casa"
     },
     {
       "source_id": "18199337362",
@@ -242,11 +166,11 @@
       "avaliacoes": null,
       "vendas": 141,
       "nota_qualidade": 10,
-      "last_seen": "2026-09-13T16:03:36.493876+00:00",
-      "expires_at": "2026-09-14T13:03:36.493876-03:00",
+      "last_seen": "2026-09-13T16:43:58.580197+00:00",
+      "expires_at": "2026-09-14T13:43:58.580197-03:00",
       "marca": "Bosch",
       "price_evidence": {
-        "checked_at": "2026-09-13T16:05:15.933722+00:00",
+        "checked_at": "2026-09-13T16:44:47.609484+00:00",
         "identity": {
           "brand": "Bosch",
           "model": "120-li",
@@ -259,7 +183,7 @@
         "previous_min": 409.0,
         "observed_min": 409.0,
         "since": "2026-09-12T22:18:07.571383+00:00",
-        "observations": 3,
+        "observations": 4,
         "days": 2,
         "history": [
           {
@@ -273,6 +197,70 @@
           {
             "at": "2026-09-13T10:39:08.576434+00:00",
             "price": 409.0
+          },
+          {
+            "at": "2026-09-13T16:44:47.609484+00:00",
+            "price": 409.0
+          }
+        ],
+        "advantage": false,
+        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
+      },
+      "grupo": "Casa"
+    },
+    {
+      "source_id": "23594959395",
+      "titulo": "Furadeira Parafusadeira de Impacto Bosch 48V – 2 Baterias Inclusas | Ferramenta Elétrica",
+      "de": null,
+      "por": 399.33,
+      "desconto": 55,
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lk-mo9dpk20zg1w51",
+      "link": "https://s.shopee.com.br/1gIZMktc9Y",
+      "cupom": null,
+      "loja": "shopee",
+      "categoria": "Smartphones",
+      "data": "2026-09-12T19:16:34.813595-03:00",
+      "slug": "furadeira-parafusadeira-de-impacto-bosch-48v-2-baterias-inclusas-ferramenta-eletrica",
+      "page_url": "https://promoninjaofertas.github.io/produto/furadeira-parafusadeira-de-impacto-bosch-48v-2-baterias-inclusas-ferramenta-eletrica.html",
+      "avaliacao": 4.8,
+      "avaliacoes": null,
+      "vendas": 198,
+      "nota_qualidade": 10,
+      "last_seen": "2026-09-13T16:43:58.580197+00:00",
+      "expires_at": "2026-09-14T13:43:58.580197-03:00",
+      "marca": "Bosch",
+      "price_evidence": {
+        "checked_at": "2026-09-13T16:44:47.609484+00:00",
+        "identity": {
+          "brand": "Bosch",
+          "model": null,
+          "family": "ferramentas",
+          "kind": "produto",
+          "variant": "48v|kit:1",
+          "ambiguous": false,
+          "comparison_key": null
+        },
+        "previous_min": 399.33,
+        "observed_min": 399.33,
+        "since": "2026-09-12T22:18:07.571383+00:00",
+        "observations": 4,
+        "days": 2,
+        "history": [
+          {
+            "at": "2026-09-12T22:18:07.571383+00:00",
+            "price": 399.33
+          },
+          {
+            "at": "2026-09-13T04:37:21.869455+00:00",
+            "price": 399.33
+          },
+          {
+            "at": "2026-09-13T10:39:08.576434+00:00",
+            "price": 399.33
+          },
+          {
+            "at": "2026-09-13T16:44:47.609484+00:00",
+            "price": 399.33
           }
         ],
         "advantage": false,
@@ -305,30 +293,6 @@
       "grupo": "Tech"
     },
     {
-      "source_id": "pechinchou-143620",
-      "titulo": "Body Splash Arabe C/4un 200ml Perfume Masculino De Luxo",
-      "de": 99.9,
-      "por": 50.06,
-      "desconto": 50,
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_732841-MLA108876170355_032026-O.webp",
-      "link": "https://meli.la/1mNheaa",
-      "cupom": "BELEZACOMPRITTAS",
-      "loja": "mercadolivre",
-      "categoria": "Beleza",
-      "data": "2026-09-12T18:12:11.380743-03:00",
-      "slug": "body-splash-arabe-c-4un-200ml-perfume-masculino-de-luxo",
-      "page_url": "https://promoninjaofertas.github.io/produto/body-splash-arabe-c-4un-200ml-perfume-masculino-de-luxo.html",
-      "avaliacao": null,
-      "avaliacoes": 60,
-      "vendas": 718,
-      "nota_qualidade": 8,
-      "last_seen": "2026-09-13T16:33:52.984215+00:00",
-      "expires_at": "2026-09-14T13:33:52.984215-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Moda"
-    },
-    {
       "source_id": "1005003983116405",
       "titulo": "Fones de ouvido sem fio Lenovo LP5 Pro, Bluetooth 5.4, TWS, som HiFi, para música, jogos e esportes, com microfone e função de chamada em HD.",
       "de": 135.98,
@@ -350,214 +314,6 @@
       "expires_at": "2026-09-14T07:58:42.770147-03:00",
       "marca": null,
       "price_evidence": {},
-      "grupo": "Tech"
-    },
-    {
-      "source_id": "pechinchou-119863",
-      "titulo": "Perfume feminino Supreme, Edp, 100 ml, essencial, natura",
-      "de": 279.0,
-      "por": 147.0,
-      "desconto": 47,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/D_NQ_NP_677001-MLA84548476114_052025-O_KYgVZdY.webp",
-      "link": "https://meli.la/1ch6VNC",
-      "cupom": "BELEZACOMPRITTAS",
-      "loja": "mercadolivre",
-      "categoria": "Beleza",
-      "data": "2026-09-12T17:32:06.185265-03:00",
-      "slug": "perfume-feminino-supreme-edp-100-ml-essencial-natura",
-      "page_url": "https://promoninjaofertas.github.io/produto/perfume-feminino-supreme-edp-100-ml-essencial-natura.html",
-      "avaliacao": null,
-      "avaliacoes": 60,
-      "vendas": 179,
-      "nota_qualidade": 10,
-      "last_seen": "2026-09-13T16:33:52.984215+00:00",
-      "expires_at": "2026-09-14T13:33:52.984215-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Moda"
-    },
-    {
-      "source_id": "pechinchou-148294",
-      "titulo": "Perfume Árabe Qaed Al Fursan Lattafa Edp 90 Ml",
-      "de": 249.0,
-      "por": 115.52,
-      "desconto": 54,
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_741585-MLA108095507002_032026-O.webp",
-      "link": "https://meli.la/1b1ZYWx",
-      "cupom": "BELEZACOMPRITTAS",
-      "loja": "mercadolivre",
-      "categoria": "Beleza",
-      "data": "2026-09-12T17:32:06.185265-03:00",
-      "slug": "perfume-arabe-qaed-al-fursan-lattafa-edp-90-ml",
-      "page_url": "https://promoninjaofertas.github.io/produto/perfume-arabe-qaed-al-fursan-lattafa-edp-90-ml.html",
-      "avaliacao": null,
-      "avaliacoes": 10,
-      "vendas": 199,
-      "nota_qualidade": 7,
-      "last_seen": "2026-09-13T16:33:52.984215+00:00",
-      "expires_at": "2026-09-14T13:33:52.984215-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Moda"
-    },
-    {
-      "source_id": "pechinchou-120410",
-      "titulo": "Perfume Natura Humor Próprio Colônia 75 mL",
-      "de": 102.0,
-      "por": 61.3,
-      "desconto": 40,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/D_NQ_NP_803014-MLA84857256315_052025-O.webp",
-      "link": "https://meli.la/32qN9YB",
-      "cupom": "BELEZACOMPRITTAS",
-      "loja": "mercadolivre",
-      "categoria": "Beleza",
-      "data": "2026-09-12T17:32:06.185265-03:00",
-      "slug": "perfume-natura-humor-proprio-colonia-75-ml",
-      "page_url": "https://promoninjaofertas.github.io/produto/perfume-natura-humor-proprio-colonia-75-ml.html",
-      "avaliacao": null,
-      "avaliacoes": 10,
-      "vendas": 826,
-      "nota_qualidade": 9,
-      "last_seen": "2026-09-13T16:33:52.984215+00:00",
-      "expires_at": "2026-09-14T13:33:52.984215-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Moda"
-    },
-    {
-      "source_id": "pechinchou-151738",
-      "titulo": "Perfume Scuderia Ferrari Red Edt 125ml. Volume Da Unidade 125 Ml",
-      "de": 179.9,
-      "por": 117.3,
-      "desconto": 35,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/C45-024B-460_zoom1_skVLVsv.jpg",
-      "link": "https://meli.la/1tqA8L9",
-      "cupom": "BELEZACOMPRITTAS",
-      "loja": "mercadolivre",
-      "categoria": "Beleza",
-      "data": "2026-09-12T17:32:06.185265-03:00",
-      "slug": "perfume-scuderia-ferrari-red-edt-125ml-volume-da-unidade-125-ml",
-      "page_url": "https://promoninjaofertas.github.io/produto/perfume-scuderia-ferrari-red-edt-125ml-volume-da-unidade-125-ml.html",
-      "avaliacao": null,
-      "avaliacoes": 50,
-      "vendas": 312,
-      "nota_qualidade": 8,
-      "last_seen": "2026-09-13T16:33:52.984215+00:00",
-      "expires_at": "2026-09-14T13:33:52.984215-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Moda"
-    },
-    {
-      "source_id": "pechinchou-129055",
-      "titulo": "Kaiak Ultra Natura Colônia Perfume Masculino 100ml Relançamento 2025",
-      "de": 189.0,
-      "por": 64.59,
-      "desconto": 66,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/D_NQ_NP_872555-MLA81564213780_012025-O.webp",
-      "link": "https://meli.la/1q7WF7k",
-      "cupom": "BELEZACOMPRITTAS",
-      "loja": "mercadolivre",
-      "categoria": "Beleza",
-      "data": "2026-09-12T17:11:28.375590-03:00",
-      "slug": "kaiak-ultra-natura-colonia-perfume-masculino-100ml-relancamento-2025",
-      "page_url": "https://promoninjaofertas.github.io/produto/kaiak-ultra-natura-colonia-perfume-masculino-100ml-relancamento-2025.html",
-      "avaliacao": null,
-      "avaliacoes": 106,
-      "vendas": 2382,
-      "nota_qualidade": 10,
-      "last_seen": "2026-09-13T16:33:52.984215+00:00",
-      "expires_at": "2026-09-14T13:33:52.984215-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Moda"
-    },
-    {
-      "source_id": "pechinchou-100732",
-      "titulo": "Tênis Qix Skate Retrô Am Unissex | Preto Preto",
-      "de": 349.9,
-      "por": 180.08,
-      "desconto": 49,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/external-image_lrHJHpX.jpg",
-      "link": "https://meli.la/2nbAKRh",
-      "cupom": "EXCLUSIVONOMELI",
-      "loja": "mercadolivre",
-      "categoria": "Beleza",
-      "data": "2026-09-12T17:11:28.375590-03:00",
-      "slug": "tenis-qix-skate-retro-am-unissex-preto-preto",
-      "page_url": "https://promoninjaofertas.github.io/produto/tenis-qix-skate-retro-am-unissex-preto-preto.html",
-      "avaliacao": null,
-      "avaliacoes": 20,
-      "vendas": 660,
-      "nota_qualidade": 7,
-      "last_seen": "2026-09-13T16:33:52.984215+00:00",
-      "expires_at": "2026-09-14T13:33:52.984215-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Moda"
-    },
-    {
-      "source_id": "22897147575",
-      "titulo": "Leiteira Canecão Fervedor Indução Tramontina Allegra 2l Cor Inox 14 Cm Cabo de Baquelite",
-      "de": null,
-      "por": 122.0,
-      "desconto": 24,
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m94xb51l2z3t40",
-      "link": "https://s.shopee.com.br/2qUXFZzkiH",
-      "cupom": null,
-      "loja": "shopee",
-      "categoria": "Smartphones",
-      "data": "2026-09-12T07:30:38.079626-03:00",
-      "slug": "leiteira-canecao-fervedor-inducao-tramontina-allegra-2l-cor-inox-14-cm-cabo-de-baqueli",
-      "page_url": "https://promoninjaofertas.github.io/produto/leiteira-canecao-fervedor-inducao-tramontina-allegra-2l-cor-inox-14-cm-cabo-de-baqueli.html",
-      "avaliacao": 4.9,
-      "avaliacoes": null,
-      "vendas": 293,
-      "nota_qualidade": 9,
-      "last_seen": "2026-09-13T15:32:46.381116+00:00",
-      "expires_at": "2026-09-14T12:32:46.381116-03:00",
-      "marca": "Tramontina",
-      "price_evidence": {
-        "checked_at": "2026-09-13T15:34:09.285160+00:00",
-        "identity": {
-          "brand": "Tramontina",
-          "model": null,
-          "family": "acessorios",
-          "kind": "produto",
-          "variant": "14cm|2l|kit:1",
-          "ambiguous": false,
-          "comparison_key": null
-        },
-        "previous_min": 99.99,
-        "observed_min": 99.99,
-        "since": "2026-09-12T13:31:01.433528+00:00",
-        "observations": 5,
-        "days": 2,
-        "history": [
-          {
-            "at": "2026-09-12T13:31:01.433528+00:00",
-            "price": 99.99
-          },
-          {
-            "at": "2026-09-12T22:18:07.571383+00:00",
-            "price": 99.99
-          },
-          {
-            "at": "2026-09-13T03:11:25.974384+00:00",
-            "price": 122.0
-          },
-          {
-            "at": "2026-09-13T09:17:18.833118+00:00",
-            "price": 122.0
-          },
-          {
-            "at": "2026-09-13T15:22:57.846300+00:00",
-            "price": 122.0
-          }
-        ],
-        "advantage": false,
-        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
-      },
       "grupo": "Tech"
     },
     {
@@ -621,6 +377,70 @@
       "grupo": "Tech"
     },
     {
+      "source_id": "22897147575",
+      "titulo": "Leiteira Canecão Fervedor Indução Tramontina Allegra 2l Cor Inox 14 Cm Cabo de Baquelite",
+      "de": null,
+      "por": 122.0,
+      "desconto": 24,
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m94xb51l2z3t40",
+      "link": "https://s.shopee.com.br/2qUXFZzkiH",
+      "cupom": null,
+      "loja": "shopee",
+      "categoria": "Smartphones",
+      "data": "2026-09-12T07:30:38.079626-03:00",
+      "slug": "leiteira-canecao-fervedor-inducao-tramontina-allegra-2l-cor-inox-14-cm-cabo-de-baqueli",
+      "page_url": "https://promoninjaofertas.github.io/produto/leiteira-canecao-fervedor-inducao-tramontina-allegra-2l-cor-inox-14-cm-cabo-de-baqueli.html",
+      "avaliacao": 4.9,
+      "avaliacoes": null,
+      "vendas": 293,
+      "nota_qualidade": 9,
+      "last_seen": "2026-09-13T16:43:58.580197+00:00",
+      "expires_at": "2026-09-14T13:43:58.580197-03:00",
+      "marca": "Tramontina",
+      "price_evidence": {
+        "checked_at": "2026-09-13T16:44:47.609484+00:00",
+        "identity": {
+          "brand": "Tramontina",
+          "model": null,
+          "family": "acessorios",
+          "kind": "produto",
+          "variant": "14cm|2l|kit:1",
+          "ambiguous": false,
+          "comparison_key": null
+        },
+        "previous_min": 99.99,
+        "observed_min": 99.99,
+        "since": "2026-09-12T13:31:01.433528+00:00",
+        "observations": 5,
+        "days": 2,
+        "history": [
+          {
+            "at": "2026-09-12T13:31:01.433528+00:00",
+            "price": 99.99
+          },
+          {
+            "at": "2026-09-12T22:18:07.571383+00:00",
+            "price": 99.99
+          },
+          {
+            "at": "2026-09-13T03:11:25.974384+00:00",
+            "price": 122.0
+          },
+          {
+            "at": "2026-09-13T09:17:18.833118+00:00",
+            "price": 122.0
+          },
+          {
+            "at": "2026-09-13T15:22:57.846300+00:00",
+            "price": 122.0
+          }
+        ],
+        "advantage": false,
+        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
+      },
+      "grupo": "Tech"
+    },
+    {
       "source_id": "18397674061",
       "titulo": "Panela De Pressão Vancouver Effect Tramontina 4,5 e 6,0 Litros Preto e Vermelho Interna Starflon Max",
       "de": null,
@@ -662,11 +482,11 @@
       "avaliacoes": null,
       "vendas": 173,
       "nota_qualidade": 9,
-      "last_seen": "2026-09-13T15:32:46.381116+00:00",
-      "expires_at": "2026-09-14T12:32:46.381116-03:00",
+      "last_seen": "2026-09-13T16:43:58.580197+00:00",
+      "expires_at": "2026-09-14T13:43:58.580197-03:00",
       "marca": "Tramontina",
       "price_evidence": {
-        "checked_at": "2026-09-13T15:34:09.285160+00:00",
+        "checked_at": "2026-09-13T16:44:47.609484+00:00",
         "identity": {
           "brand": "Tramontina",
           "model": null,
@@ -786,11 +606,11 @@
       "avaliacoes": null,
       "vendas": 104,
       "nota_qualidade": 9,
-      "last_seen": "2026-09-13T16:03:36.493876+00:00",
-      "expires_at": "2026-09-14T13:03:36.493876-03:00",
+      "last_seen": "2026-09-13T16:43:58.580197+00:00",
+      "expires_at": "2026-09-14T13:43:58.580197-03:00",
       "marca": "Logitech",
       "price_evidence": {
-        "checked_at": "2026-09-13T16:05:15.933722+00:00",
+        "checked_at": "2026-09-13T16:44:47.609484+00:00",
         "identity": {
           "brand": "Logitech",
           "model": "m220",
@@ -803,7 +623,7 @@
         "previous_min": 32.5,
         "observed_min": 32.5,
         "since": "2026-09-12T22:18:07.571383+00:00",
-        "observations": 3,
+        "observations": 4,
         "days": 2,
         "history": [
           {
@@ -816,6 +636,10 @@
           },
           {
             "at": "2026-09-13T10:39:08.576434+00:00",
+            "price": 32.5
+          },
+          {
+            "at": "2026-09-13T16:44:47.609484+00:00",
             "price": 32.5
           }
         ],
@@ -842,11 +666,11 @@
       "avaliacoes": null,
       "vendas": 1599,
       "nota_qualidade": 10,
-      "last_seen": "2026-09-13T15:32:46.381116+00:00",
-      "expires_at": "2026-09-14T12:32:46.381116-03:00",
+      "last_seen": "2026-09-13T16:43:58.580197+00:00",
+      "expires_at": "2026-09-14T13:43:58.580197-03:00",
       "marca": "Tramontina",
       "price_evidence": {
-        "checked_at": "2026-09-13T15:34:09.285160+00:00",
+        "checked_at": "2026-09-13T16:44:47.609484+00:00",
         "identity": {
           "brand": "Tramontina",
           "model": null,
@@ -859,7 +683,7 @@
         "previous_min": 39.99,
         "observed_min": 39.99,
         "since": "2026-09-12T13:31:01.433528+00:00",
-        "observations": 4,
+        "observations": 5,
         "days": 2,
         "history": [
           {
@@ -876,6 +700,10 @@
           },
           {
             "at": "2026-09-13T10:39:08.576434+00:00",
+            "price": 39.99
+          },
+          {
+            "at": "2026-09-13T16:44:47.609484+00:00",
             "price": 39.99
           }
         ],
@@ -1074,11 +902,11 @@
       "avaliacoes": null,
       "vendas": 658,
       "nota_qualidade": 9,
-      "last_seen": "2026-09-13T16:03:36.493876+00:00",
-      "expires_at": "2026-09-14T13:03:36.493876-03:00",
+      "last_seen": "2026-09-13T16:43:58.580197+00:00",
+      "expires_at": "2026-09-14T13:43:58.580197-03:00",
       "marca": "Asus",
       "price_evidence": {
-        "checked_at": "2026-09-13T16:05:15.933722+00:00",
+        "checked_at": "2026-09-13T16:44:47.609484+00:00",
         "identity": {
           "brand": "Asus",
           "model": "am4",
@@ -1091,7 +919,7 @@
         "previous_min": 849.0,
         "observed_min": 849.0,
         "since": "2026-09-12T22:19:00.776474+00:00",
-        "observations": 3,
+        "observations": 4,
         "days": 2,
         "history": [
           {
@@ -1104,6 +932,10 @@
           },
           {
             "at": "2026-09-13T10:43:42.327069+00:00",
+            "price": 849.0
+          },
+          {
+            "at": "2026-09-13T16:44:47.609484+00:00",
             "price": 849.0
           }
         ],
@@ -1143,7 +975,7 @@
       "por": 165.35,
       "desconto": 59,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S19ef127e0d9b40f09802f5caad87851b9.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mLmqWqgZyrm2wdIQcimGRFvG3C6BbmIUTQwfgBCALZ5PHV8bytiVoPD51fwBp7lJx51r9ZYebVGtMaZEIpSAaODbAnlhKeOaFlIglJBWuhNuulmzw3TjuiwRAYzmeizfiPX5RVck2f7aJzEqgTZG477uZAv4GKwnNHYVIwB4GpZypX4jDK6EQ5SNyaGuNwYMbLDumtUuCsBktoxSRr9TKM7Ly6w4CYfIKd5RhFUPpPSrbu5rr169I2hr4it2cQrupTtYQpBVHNjSSKFLTdekdhtH2fp7Hnypge1DovdQ6Wt9KQWxgkFyCX86mg4ww9N89uFT0OwKAPrR8kph4bHThsrXLnyGDV3sVGyDXILfwxmROHoNGhyZ9a7FDCkWzkgwGeA9GHdU3yGCzi9If8BdhP66FNu9aFnEgA9rgAxNuS4cxhuBmB8FHHYssnTJxP55H0SzzAP83HyDiPfHHukuv4RpQovZeuKMbE5qLYLx355bWklztfxKRBs4gsvodSTQlXL3bpIvqel4RIMymhAGnlkpLxGUJVC9dd8gJAdSVsxBXKxoThX16iIzuyIEz3gzSIGNXk8So195v5QOKKZxTU1X01qIQLeDjkCNFpYFHbFwuCRYYCgeKB2mh2oJTUaD0yzVpxolGVhHu0uS0DUyhtsfS9f4kUdve4ezyTsMG9OrMwyDk0bf2ofU3EasLCtsVgfRbKdxP4lYe",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mLmqWqgZyrm2wdIQcimGRFvG3C6BbmIUTQwfgBCALZ5PHV8bytiVoPD51fwBp7lJx51r9ZYebVGtMaZEIpSAaODbAnlhKeOaFlIglJBWuhNuulmzw3TjuiwRAYzmeizfiPX5RVck2f7aJzEqgTZG477uZAv4GKwnNHYVIwB4GpZypX4jDK6EQ5SNyaGuNwYMbLDumtUuCsBktoxSRr9TKM7Ly6w4CYfIKd5RhEY4NjRQKdsoD25ERyVFQ0HNmmoah6MZCCPYLBJ4QxiBUxWUFCdB6ovEEVYpmIMNkLDo6nxG7xHkMJxXjLESYLcYsaeZJJOBCrVKrn9jSwxqPH52mv0SvP12nXU1zA4AqgA56U6Rm0IYFohB2SIFctEe11KoYhDM6qKaX8K8CRPhirnqEpk4eSBsXeSoshvHawI5JnpgnQmfOinhTifF7YbNLS46OxY16SiMAabjg10SU9UntCgupK3ChNXwjCYuzX0sBixWarAE4CwWUvd0d8ksSIirtCwoCG3MupS59o4BJCkUDuzGBf95csO8uPS5efzfXw4mifPwmfoDwiP3uvDBtL0MDSYztBtLgfmGEecY5Plp4yJyRYuTnXTjlSPDYk7BQOEi3MPwcj7puzeXdSAHxmOwcLnwmU4lAVAw3yMvH3BaYsS9v13nYzOHthynqbxTVwY0T3mGTDrLwoOTKxqrtgVgr9Hn7SFGFisD8",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Audio",
@@ -1154,8 +986,8 @@
       "avaliacoes": null,
       "vendas": 154,
       "nota_qualidade": 8,
-      "last_seen": "2026-09-13T16:33:52.984215+00:00",
-      "expires_at": "2026-09-14T13:33:52.984215-03:00",
+      "last_seen": "2026-09-13T16:43:58.580197+00:00",
+      "expires_at": "2026-09-14T13:43:58.580197-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Gamer"
@@ -1303,30 +1135,6 @@
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa"
-    },
-    {
-      "source_id": "pechinchou-118448",
-      "titulo": "Smartphone Motorola Edge 60 Fusion 5G - 256GB 24GB (8GB RAM+16GB Ram Boost), Tela Quad-Curve moto AI 50MP Sony Camera ultrarresistencia militar IP68 + IP69 - Mocha Mousse",
-      "de": 3299.0,
-      "por": 1669.5,
-      "desconto": 49,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/external-image_LNtacvC.jpg",
-      "link": "https://meli.la/1rrqWPv",
-      "cupom": null,
-      "loja": "mercadolivre",
-      "categoria": "Smartphones",
-      "data": "2026-08-31T20:04:39.804450-03:00",
-      "slug": "smartphone-motorola-edge-60-fusion-5g-256gb-24gb-8gb-ram-16gb-ram-boost-tela",
-      "page_url": "https://promoninjaofertas.github.io/produto/smartphone-motorola-edge-60-fusion-5g-256gb-24gb-8gb-ram-16gb-ram-boost-tela.html",
-      "avaliacao": null,
-      "avaliacoes": 5,
-      "vendas": null,
-      "nota_qualidade": 7,
-      "last_seen": "2026-09-13T16:33:52.984215+00:00",
-      "expires_at": "2026-09-14T13:33:52.984215-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Tech"
     },
     {
       "source_id": "1005006967413964",
@@ -1563,7 +1371,7 @@
       "por": 59.39,
       "desconto": 55,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Hc3a48e471c9842ee8fb13ff649875daed.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4ml4ewOlFOrBpzwT8IIYGdKWurJu0vUOWkmI5T7DTziboOKqiC9pMmoP1FfozDuhK3bbaqnvgc0gaTgcKS5Yq757yYwBbqzjHHG14QIAs9zU6mjP2G2sONoh3wVS7SjR2qGAXwZtLLv6lhfFEqHEPviWxIXOQlaRihUwAsZsl57AZNOYpUhI7qNhpdNyU0oQYiiWq8NxlGEXvtWB4dhtSDCW7QMz8KJfAYVz6FuNotzAAq6RHqDMRxbzEGzRyjx1gg6bYSKi4Tu8r9HGpWZrjdAoFjj6KdMy7XUnXB6KzZgwJEa4dhWKjwFBoniwSneRqHSTdkDPd81OAcJooY561621gQrlCw3B4fKohVerJPqaArKUXNT9tHo0Roi71xJNlOKkGJfaq1IvUITGxq7HsjdvcWSiPBkbz9WeFLQ2OTZNDYq7KsaZUBkZ0e4mcqnylpPT5HEmYADPO3VG9nzXAoPkk2tc4C7izTo0zuqXmiuPbz2YOUK07fdb4XtB2CgbWJwtJL7NC4ALYGUAfX53LyX5XDq4VA4yO0WkuNjgb5tJFrZS6vIYS3Hjul3IRb7DRvzYLwf3mGZKl6Q99V08JVgzpFxtmF9nErIYGArWsl5PUAE9jh2qkiv3I2Fow8NMkbwyeb9nhnyznxODraht82wKyuiugi6szfStNaK1zjOhq2yrc2gfsl8f94bKKD5FF9DbHsQAIhgL7a",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4ml4ewOlFOrBpzwT8IIYGdKWurJu0vUOWkmI5T7DTziboOKqiC9pMmoP1FfozDuhK3bbaqnvgc0gaTgcKS5Yq757yYwBbqzjHHG14QIAs9zU6mjP2G2sONoh3wVS7SjR2qGAXwZtLLv6lhfFEqHEPviWxIXOQlaRihUwAsZsl57AZNOYpUhI7qNhpdNyU0oQYiiWq8NxlGEXvtWB4dhtSDCW7QMz8KJfAYVz6FJuHPvqhaggU8WfgyppsdARhAmisKQfMV9g1fveyDKKNfZK4ZNWpiKb0DtwmpYjfDwj2tgdinBsksfSOOGzTCRTGpWzu3l8rtgTKyMfOjed4uGAheHH3ELbPVrxHbPfihNMZ8v2rHUb7MGQZ5t2rogQ5yS2r0BtYg4RbxLrCTrYgyZUNvULkwmZ02Jy7GCnWZIYyTgfEew7y37LZR2yGIgFUVPxFEoWpUiam3aNFzkdn7y90HPN0gplEtJGK2RLicdkkGr8jpqikrBpY0hcPTkUvkAbXTJQOttjCRfsPFNmjpgV8QfpDw5zssVjQmJhr66qouWbZv9u3vEifasY1758YB5DIbRkUw0mkrmabp03m0RgOzFssiUks1dzJk20xbz8UyLl5VhZoKsrDr3Mh4W51vWV3Fmdt7G3MWPVaaOm4Vo5iBgK7XL1IhL9ltFKbEPP4cVEeXetspsnCgpefcttj4sbh9RwtOqL9LgYDE",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Hardware",
@@ -1574,8 +1382,8 @@
       "avaliacoes": null,
       "vendas": 355,
       "nota_qualidade": 8,
-      "last_seen": "2026-09-13T16:33:52.984215+00:00",
-      "expires_at": "2026-09-14T13:33:52.984215-03:00",
+      "last_seen": "2026-09-13T16:43:58.580197+00:00",
+      "expires_at": "2026-09-14T13:43:58.580197-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Gamer"
@@ -1611,7 +1419,7 @@
       "por": 242.01,
       "desconto": 42,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S53096c2ac11442b9a8a71bfce0eb72245.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4kOW4yeR2LwodxHr8okLFMap1U94X3OzeNaKOloQealnLLxupZsaUh4YhmwM5omsuNrjcmZTO1Au3Y5uZp95azyNoHX3iaEdTbnFp8i1cDDy7kOSvhRlV4Z149IpcgtaYqM9aZWGSaj8FX04x7XVXIk2PH0eSz2aaZ3iWiOnMfO8fSbhimwVxABWMyZIKQ5A0q1QUW1OyD5UWA8vJWer6OSHjeEoKVz4C4MMBfbEvgdxzorhfJsy8egdYQO9dFAfrKJfzRQyuGfI4MXR1TyDLJot4aEVlCUwj9haQTBtfbM6n8BWGSEN54WLNNQOOZTRrxtNQLJwbxJw0UwkBCc4HqQXyUioUBWINzhiASfSdSSdAgdwC20uZhA29kXzbbVKugTrU63FwvGAnDTIgjI6QflkepTulWPEf5cxiAHWAcoWryEnoi7bKWqMd4GUGtqKsRkFwrEcwF9yQeQAkoiwPhBdaoSxPcHMP9Z8wem8FIBmbuZgzLgXOi17fpb8jIqpAcpcDYHDZJeN5G6qfzj60Cy49cnRcWMmucTqOYbhKGM4MX46me7gFhkshVFAmNNfK0L9FpBG6kUcENiTH2lsZayyubS7pF4jCbUp70Kojfgu1r1SLDxMOjvEP01chLxj10eCSjkInHXMGM8WnjC0E45ILCwajIoz05boUyNRlMddWyj6YyPcT4z3A2k3PGdIAwinpesCtLf1qN",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4kOW4yeR2LwodxHr8okLFMap1U94X3OzeNaKOloQealnLLxupZsaUh4YhmwM5omsuNrjcmZTO1Au3Y5uZp95azyNoHX3iaEdTbnFp8i1cDDy7kOSvhRlV4Z149IpcgtaYqM9aZWGSaj8FX04x7XVXIk2PH0eSz2aaZ3iWiOnMfO8fSbhimwVxABWMyZIKQ5A0q1QUW1OyD5UWA8vJWer6OSHjeEoKVz4C4MMBfbo98oDDpiOcsMZ052JOnvcHqeFK7otkuYflNnPFUK4XfbbStlQdVYqqjRiuoMmfMmqJCYgDgxKisFvzUCdMK4zgjB1AoVZ1sh9LJ4oARtAvLhfgSIxaTXDoKTtfPjaLBVMh6i1WIh7DpxrQ8mBh2FemDJff6y127atTHdZGWGqNta0Xb5Lhq9ziNNrIsneWZ9FRzNQ1y4UxpmOGAjwF9rPlPlnflQGsQ13EEIsZ1vo0hZDBvxn3YNKeoLKKRUUQIP08WokJsdRxj281Stivk39KJfZyJ3LA6A2pw035h7g5Vyb0b7c9gWld36e1Z2GtyLnlIXjU0IjeRiE9XdExaZbtEPaBDjMkttFa6slAlpsBluH3zXx3sKzle2dUfqFflrTrgrkEer4TDm58347zLRrD2smZlaDOGg2JZdOn92NEALJLPKQ8MSqCSBWmWFiwerXIZTJ9iErFj9q9NSf3Votp1H4JqmVyhSK0jvz6d",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Hardware",
@@ -1620,10 +1428,10 @@
       "page_url": "https://promoninjaofertas.github.io/produto/aula-hero-68he-teclado-com-interruptor-magnetico-rgb-teclado-mecanico-para-jogos-gatil.html",
       "avaliacao": 4.845000000000001,
       "avaliacoes": null,
-      "vendas": 1213,
+      "vendas": 1206,
       "nota_qualidade": 7,
-      "last_seen": "2026-09-13T10:17:45.484720+00:00",
-      "expires_at": "2026-09-14T07:17:45.484720-03:00",
+      "last_seen": "2026-09-13T16:54:12.773585+00:00",
+      "expires_at": "2026-09-14T13:54:12.773585-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech"
@@ -1653,30 +1461,6 @@
       "grupo": "Tech"
     },
     {
-      "source_id": "pechinchou-141556",
-      "titulo": "Escorredor De Louça Para Pia Nexmidio 65 Cm Com 2 Andares, Porta-talheres E Porta-copos Em Ferro Preto",
-      "de": 159.9,
-      "por": 113.98,
-      "desconto": 29,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/watermarked_img_15307185585169870744.jpg",
-      "link": "https://meli.la/12kzsQP",
-      "cupom": "COMPRAFACIL",
-      "loja": "mercadolivre",
-      "categoria": "Pet",
-      "data": "2026-08-04T22:20:24.576168-03:00",
-      "slug": "escorredor-de-louca-para-pia-nexmidio-65-cm-com-2-andares-porta-talheres-e",
-      "page_url": "https://promoninjaofertas.github.io/produto/escorredor-de-louca-para-pia-nexmidio-65-cm-com-2-andares-porta-talheres-e.html",
-      "avaliacao": null,
-      "avaliacoes": 60,
-      "vendas": 1068,
-      "nota_qualidade": 8,
-      "last_seen": "2026-09-13T16:33:52.984215+00:00",
-      "expires_at": "2026-09-14T13:33:52.984215-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Casa"
-    },
-    {
       "source_id": "47406482981",
       "titulo": "Headphone Bluetooth JBL Tune 520BT, On-Ear, Bateria de 57 Horas, Som Pure Bass",
       "de": null,
@@ -1694,11 +1478,11 @@
       "avaliacoes": null,
       "vendas": 146,
       "nota_qualidade": 10,
-      "last_seen": "2026-09-13T16:03:36.493876+00:00",
-      "expires_at": "2026-09-14T13:03:36.493876-03:00",
+      "last_seen": "2026-09-13T16:43:58.580197+00:00",
+      "expires_at": "2026-09-14T13:43:58.580197-03:00",
       "marca": "JBL",
       "price_evidence": {
-        "checked_at": "2026-09-13T16:05:15.933722+00:00",
+        "checked_at": "2026-09-13T16:44:47.609484+00:00",
         "identity": {
           "brand": "JBL",
           "model": "520bt",
@@ -1711,7 +1495,7 @@
         "previous_min": 229.3,
         "observed_min": 229.3,
         "since": "2026-09-12T13:31:01.433528+00:00",
-        "observations": 4,
+        "observations": 5,
         "days": 2,
         "history": [
           {
@@ -1728,6 +1512,10 @@
           },
           {
             "at": "2026-09-13T10:39:08.576434+00:00",
+            "price": 229.3
+          },
+          {
+            "at": "2026-09-13T16:44:47.609484+00:00",
             "price": 229.3
           }
         ],
