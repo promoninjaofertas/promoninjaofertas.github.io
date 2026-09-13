@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-13T06:43:42.889833+00:00",
+  "atualizado": "2026-09-13T07:04:24.081356+00:00",
   "ofertas": [
     {
       "source_id": "21299179885",
@@ -113,58 +113,6 @@
       "grupo": "Gamer"
     },
     {
-      "source_id": "18199337362",
-      "titulo": "Parafusadeira e Furadeira à Bateria 12V GSR 120-LI com 1 Bateria e Maleta BOSCH Bivolt",
-      "de": null,
-      "por": 409.0,
-      "desconto": 27,
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdxb-lxqvrx46qhjg31",
-      "link": "https://s.shopee.com.br/LnBmIygrQ",
-      "cupom": null,
-      "loja": "shopee",
-      "categoria": "Smartphones",
-      "data": "2026-09-12T19:16:34.813595-03:00",
-      "slug": "shopee-bosch-120-li-12v-bivolt-kit-1",
-      "page_url": "https://promoninjaofertas.github.io/produto/shopee-bosch-120-li-12v-bivolt-kit-1.html",
-      "avaliacao": 5.0,
-      "avaliacoes": null,
-      "vendas": 141,
-      "nota_qualidade": 10,
-      "last_seen": "2026-09-13T06:12:47.283237+00:00",
-      "expires_at": "2026-09-14T03:12:47.283237-03:00",
-      "marca": "Bosch",
-      "price_evidence": {
-        "checked_at": "2026-09-13T06:13:36.297454+00:00",
-        "identity": {
-          "brand": "Bosch",
-          "model": "120-li",
-          "family": "ferramentas",
-          "kind": "produto",
-          "variant": "12v|bivolt|kit:1",
-          "ambiguous": false,
-          "comparison_key": "bosch|120 li|12v|bivolt|kit:1"
-        },
-        "previous_min": 409.0,
-        "observed_min": 409.0,
-        "since": "2026-09-12T22:18:07.571383+00:00",
-        "observations": 2,
-        "days": 2,
-        "history": [
-          {
-            "at": "2026-09-12T22:18:07.571383+00:00",
-            "price": 409.0
-          },
-          {
-            "at": "2026-09-13T04:37:21.869455+00:00",
-            "price": 409.0
-          }
-        ],
-        "advantage": false,
-        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
-      },
-      "grupo": "Casa"
-    },
-    {
       "source_id": "23594959395",
       "titulo": "Furadeira Parafusadeira de Impacto Bosch 48V – 2 Baterias Inclusas | Ferramenta Elétrica",
       "de": null,
@@ -182,11 +130,11 @@
       "avaliacoes": null,
       "vendas": 198,
       "nota_qualidade": 10,
-      "last_seen": "2026-09-13T06:12:47.283237+00:00",
-      "expires_at": "2026-09-14T03:12:47.283237-03:00",
+      "last_seen": "2026-09-13T06:53:59.783582+00:00",
+      "expires_at": "2026-09-14T03:53:59.783582-03:00",
       "marca": "Bosch",
       "price_evidence": {
-        "checked_at": "2026-09-13T06:13:36.297454+00:00",
+        "checked_at": "2026-09-13T06:54:49.453088+00:00",
         "identity": {
           "brand": "Bosch",
           "model": null,
@@ -209,6 +157,58 @@
           {
             "at": "2026-09-13T04:37:21.869455+00:00",
             "price": 399.33
+          }
+        ],
+        "advantage": false,
+        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
+      },
+      "grupo": "Casa"
+    },
+    {
+      "source_id": "18199337362",
+      "titulo": "Parafusadeira e Furadeira à Bateria 12V GSR 120-LI com 1 Bateria e Maleta BOSCH Bivolt",
+      "de": null,
+      "por": 409.0,
+      "desconto": 27,
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdxb-lxqvrx46qhjg31",
+      "link": "https://s.shopee.com.br/LnBmIygrQ",
+      "cupom": null,
+      "loja": "shopee",
+      "categoria": "Smartphones",
+      "data": "2026-09-12T19:16:34.813595-03:00",
+      "slug": "shopee-bosch-120-li-12v-bivolt-kit-1",
+      "page_url": "https://promoninjaofertas.github.io/produto/shopee-bosch-120-li-12v-bivolt-kit-1.html",
+      "avaliacao": 5.0,
+      "avaliacoes": null,
+      "vendas": 141,
+      "nota_qualidade": 10,
+      "last_seen": "2026-09-13T06:53:59.783582+00:00",
+      "expires_at": "2026-09-14T03:53:59.783582-03:00",
+      "marca": "Bosch",
+      "price_evidence": {
+        "checked_at": "2026-09-13T06:54:49.453088+00:00",
+        "identity": {
+          "brand": "Bosch",
+          "model": "120-li",
+          "family": "ferramentas",
+          "kind": "produto",
+          "variant": "12v|bivolt|kit:1",
+          "ambiguous": false,
+          "comparison_key": "bosch|120 li|12v|bivolt|kit:1"
+        },
+        "previous_min": 409.0,
+        "observed_min": 409.0,
+        "since": "2026-09-12T22:18:07.571383+00:00",
+        "observations": 2,
+        "days": 2,
+        "history": [
+          {
+            "at": "2026-09-12T22:18:07.571383+00:00",
+            "price": 409.0
+          },
+          {
+            "at": "2026-09-13T04:37:21.869455+00:00",
+            "price": 409.0
           }
         ],
         "advantage": false,
@@ -258,8 +258,8 @@
       "avaliacoes": 40,
       "vendas": 491,
       "nota_qualidade": 7,
-      "last_seen": "2026-09-13T06:43:42.889833+00:00",
-      "expires_at": "2026-09-14T03:43:42.889833-03:00",
+      "last_seen": "2026-09-13T07:04:24.081356+00:00",
+      "expires_at": "2026-09-14T04:04:24.081356-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda"
@@ -306,8 +306,8 @@
       "avaliacoes": 10,
       "vendas": 606,
       "nota_qualidade": 9,
-      "last_seen": "2026-09-13T06:43:42.889833+00:00",
-      "expires_at": "2026-09-14T03:43:42.889833-03:00",
+      "last_seen": "2026-09-13T07:04:24.081356+00:00",
+      "expires_at": "2026-09-14T04:04:24.081356-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda"
@@ -330,8 +330,8 @@
       "avaliacoes": 40,
       "vendas": 129,
       "nota_qualidade": 9,
-      "last_seen": "2026-09-13T06:43:42.889833+00:00",
-      "expires_at": "2026-09-14T03:43:42.889833-03:00",
+      "last_seen": "2026-09-13T07:04:24.081356+00:00",
+      "expires_at": "2026-09-14T04:04:24.081356-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda"
@@ -354,32 +354,8 @@
       "avaliacoes": 10,
       "vendas": 127,
       "nota_qualidade": 7,
-      "last_seen": "2026-09-13T06:43:42.889833+00:00",
-      "expires_at": "2026-09-14T03:43:42.889833-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Moda"
-    },
-    {
-      "source_id": "pechinchou-100732",
-      "titulo": "Tênis Qix Skate Retrô Am Unissex | Preto Preto",
-      "de": 349.9,
-      "por": 180.08,
-      "desconto": 49,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/external-image_lrHJHpX.jpg",
-      "link": "https://meli.la/2nbAKRh",
-      "cupom": "EXCLUSIVONOMELI",
-      "loja": "mercadolivre",
-      "categoria": "Beleza",
-      "data": "2026-09-12T17:11:28.375590-03:00",
-      "slug": "tenis-qix-skate-retro-am-unissex-preto-preto",
-      "page_url": "https://promoninjaofertas.github.io/produto/tenis-qix-skate-retro-am-unissex-preto-preto.html",
-      "avaliacao": null,
-      "avaliacoes": 10,
-      "vendas": 496,
-      "nota_qualidade": 7,
-      "last_seen": "2026-09-13T06:43:42.889833+00:00",
-      "expires_at": "2026-09-14T03:43:42.889833-03:00",
+      "last_seen": "2026-09-13T07:04:24.081356+00:00",
+      "expires_at": "2026-09-14T04:04:24.081356-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda"
@@ -402,8 +378,32 @@
       "avaliacoes": 66,
       "vendas": 1797,
       "nota_qualidade": 10,
-      "last_seen": "2026-09-13T06:43:42.889833+00:00",
-      "expires_at": "2026-09-14T03:43:42.889833-03:00",
+      "last_seen": "2026-09-13T07:04:24.081356+00:00",
+      "expires_at": "2026-09-14T04:04:24.081356-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Moda"
+    },
+    {
+      "source_id": "pechinchou-100732",
+      "titulo": "Tênis Qix Skate Retrô Am Unissex | Preto Preto",
+      "de": 349.9,
+      "por": 180.08,
+      "desconto": 49,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/external-image_lrHJHpX.jpg",
+      "link": "https://meli.la/2nbAKRh",
+      "cupom": "EXCLUSIVONOMELI",
+      "loja": "mercadolivre",
+      "categoria": "Beleza",
+      "data": "2026-09-12T17:11:28.375590-03:00",
+      "slug": "tenis-qix-skate-retro-am-unissex-preto-preto",
+      "page_url": "https://promoninjaofertas.github.io/produto/tenis-qix-skate-retro-am-unissex-preto-preto.html",
+      "avaliacao": null,
+      "avaliacoes": 10,
+      "vendas": 496,
+      "nota_qualidade": 7,
+      "last_seen": "2026-09-13T07:04:24.081356+00:00",
+      "expires_at": "2026-09-14T04:04:24.081356-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda"
@@ -426,8 +426,8 @@
       "avaliacoes": 60,
       "vendas": 924,
       "nota_qualidade": 7,
-      "last_seen": "2026-09-13T06:43:42.889833+00:00",
-      "expires_at": "2026-09-14T03:43:42.889833-03:00",
+      "last_seen": "2026-09-13T07:04:24.081356+00:00",
+      "expires_at": "2026-09-14T04:04:24.081356-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros"
@@ -450,8 +450,8 @@
       "avaliacoes": 30,
       "vendas": 2882,
       "nota_qualidade": 7,
-      "last_seen": "2026-09-13T06:43:42.889833+00:00",
-      "expires_at": "2026-09-14T03:43:42.889833-03:00",
+      "last_seen": "2026-09-13T07:04:24.081356+00:00",
+      "expires_at": "2026-09-14T04:04:24.081356-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda"
@@ -474,8 +474,8 @@
       "avaliacoes": 100,
       "vendas": 1434,
       "nota_qualidade": 9,
-      "last_seen": "2026-09-13T06:43:42.889833+00:00",
-      "expires_at": "2026-09-14T03:43:42.889833-03:00",
+      "last_seen": "2026-09-13T07:04:24.081356+00:00",
+      "expires_at": "2026-09-14T04:04:24.081356-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa"
@@ -498,11 +498,11 @@
       "avaliacoes": null,
       "vendas": 1342,
       "nota_qualidade": 10,
-      "last_seen": "2026-09-13T06:33:22.688397+00:00",
-      "expires_at": "2026-09-14T03:33:22.688397-03:00",
+      "last_seen": "2026-09-13T06:53:59.783582+00:00",
+      "expires_at": "2026-09-14T03:53:59.783582-03:00",
       "marca": "Epson",
       "price_evidence": {
-        "checked_at": "2026-09-13T06:34:14.981202+00:00",
+        "checked_at": "2026-09-13T06:54:49.453088+00:00",
         "identity": {
           "brand": "Epson",
           "model": "3250",
@@ -550,11 +550,11 @@
       "avaliacoes": null,
       "vendas": 293,
       "nota_qualidade": 9,
-      "last_seen": "2026-09-13T06:12:47.283237+00:00",
-      "expires_at": "2026-09-14T03:12:47.283237-03:00",
+      "last_seen": "2026-09-13T06:53:59.783582+00:00",
+      "expires_at": "2026-09-14T03:53:59.783582-03:00",
       "marca": "Tramontina",
       "price_evidence": {
-        "checked_at": "2026-09-13T06:13:36.297454+00:00",
+        "checked_at": "2026-09-13T06:54:49.453088+00:00",
         "identity": {
           "brand": "Tramontina",
           "model": null,
@@ -630,11 +630,11 @@
       "avaliacoes": null,
       "vendas": 173,
       "nota_qualidade": 9,
-      "last_seen": "2026-09-13T06:12:47.283237+00:00",
-      "expires_at": "2026-09-14T03:12:47.283237-03:00",
+      "last_seen": "2026-09-13T06:53:59.783582+00:00",
+      "expires_at": "2026-09-14T03:53:59.783582-03:00",
       "marca": "Tramontina",
       "price_evidence": {
-        "checked_at": "2026-09-13T06:13:36.297454+00:00",
+        "checked_at": "2026-09-13T06:54:49.453088+00:00",
         "identity": {
           "brand": "Tramontina",
           "model": null,
@@ -686,11 +686,11 @@
       "avaliacoes": null,
       "vendas": 799,
       "nota_qualidade": 9,
-      "last_seen": "2026-09-13T06:23:13.078297+00:00",
-      "expires_at": "2026-09-14T03:23:13.078297-03:00",
+      "last_seen": "2026-09-13T06:53:59.783582+00:00",
+      "expires_at": "2026-09-14T03:53:59.783582-03:00",
       "marca": "Mondial",
       "price_evidence": {
-        "checked_at": "2026-09-13T06:24:03.008767+00:00",
+        "checked_at": "2026-09-13T06:54:49.453088+00:00",
         "identity": {
           "brand": "Mondial",
           "model": "afn-50",
@@ -742,11 +742,11 @@
       "avaliacoes": null,
       "vendas": 104,
       "nota_qualidade": 9,
-      "last_seen": "2026-09-13T06:12:47.283237+00:00",
-      "expires_at": "2026-09-14T03:12:47.283237-03:00",
+      "last_seen": "2026-09-13T06:53:59.783582+00:00",
+      "expires_at": "2026-09-14T03:53:59.783582-03:00",
       "marca": "Logitech",
       "price_evidence": {
-        "checked_at": "2026-09-13T06:13:36.297454+00:00",
+        "checked_at": "2026-09-13T06:54:49.453088+00:00",
         "identity": {
           "brand": "Logitech",
           "model": "m220",
@@ -794,11 +794,11 @@
       "avaliacoes": null,
       "vendas": 1599,
       "nota_qualidade": 10,
-      "last_seen": "2026-09-13T06:12:47.283237+00:00",
-      "expires_at": "2026-09-14T03:12:47.283237-03:00",
+      "last_seen": "2026-09-13T06:53:59.783582+00:00",
+      "expires_at": "2026-09-14T03:53:59.783582-03:00",
       "marca": "Tramontina",
       "price_evidence": {
-        "checked_at": "2026-09-13T06:13:36.297454+00:00",
+        "checked_at": "2026-09-13T06:54:49.453088+00:00",
         "identity": {
           "brand": "Tramontina",
           "model": null,
@@ -885,6 +885,54 @@
       "grupo": "Casa"
     },
     {
+      "source_id": "55214478888",
+      "titulo": "Caixa de Som Portátil JBL GO 5 Preto Original Bluetooth À Prova D'água Iluminação e Auracast",
+      "de": null,
+      "por": 309.9,
+      "desconto": 23,
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l7-mps2n1sv12wy66",
+      "link": "https://s.shopee.com.br/9zxeaPcnEa",
+      "cupom": null,
+      "loja": "shopee",
+      "categoria": "Audio",
+      "data": "2026-09-10T06:27:22.795034-03:00",
+      "slug": "caixa-de-som-portatil-jbl-go-5-preto-original-bluetooth-a-prova-d-agua",
+      "page_url": "https://promoninjaofertas.github.io/produto/caixa-de-som-portatil-jbl-go-5-preto-original-bluetooth-a-prova-d-agua.html",
+      "avaliacao": 4.9,
+      "avaliacoes": null,
+      "vendas": 124,
+      "nota_qualidade": 9,
+      "last_seen": "2026-09-12T23:27:20.715872+00:00",
+      "expires_at": "2026-09-13T20:27:20.715872-03:00",
+      "marca": "JBL",
+      "price_evidence": {
+        "checked_at": "2026-09-12T23:28:24.832718+00:00",
+        "identity": {
+          "brand": "JBL",
+          "model": null,
+          "family": "audio",
+          "kind": "produto",
+          "variant": "cor:preto|kit:1",
+          "ambiguous": false,
+          "comparison_key": null
+        },
+        "previous_min": 309.9,
+        "observed_min": 309.9,
+        "since": "2026-09-12T22:19:00.776474+00:00",
+        "observations": 1,
+        "days": 1,
+        "history": [
+          {
+            "at": "2026-09-12T22:19:00.776474+00:00",
+            "price": 309.9
+          }
+        ],
+        "advantage": false,
+        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
+      },
+      "grupo": "Tech"
+    },
+    {
       "source_id": "46662348294",
       "titulo": "Monitor Gamer Acer KG243Y 23.8\" Full HD 144Hz IPS HDMI P1bip - Preto - Bivolt",
       "de": null,
@@ -939,54 +987,6 @@
         "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
       },
       "grupo": "Gamer"
-    },
-    {
-      "source_id": "55214478888",
-      "titulo": "Caixa de Som Portátil JBL GO 5 Preto Original Bluetooth À Prova D'água Iluminação e Auracast",
-      "de": null,
-      "por": 309.9,
-      "desconto": 23,
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l7-mps2n1sv12wy66",
-      "link": "https://s.shopee.com.br/9zxeaPcnEa",
-      "cupom": null,
-      "loja": "shopee",
-      "categoria": "Audio",
-      "data": "2026-09-10T06:27:22.795034-03:00",
-      "slug": "caixa-de-som-portatil-jbl-go-5-preto-original-bluetooth-a-prova-d-agua",
-      "page_url": "https://promoninjaofertas.github.io/produto/caixa-de-som-portatil-jbl-go-5-preto-original-bluetooth-a-prova-d-agua.html",
-      "avaliacao": 4.9,
-      "avaliacoes": null,
-      "vendas": 124,
-      "nota_qualidade": 9,
-      "last_seen": "2026-09-12T23:27:20.715872+00:00",
-      "expires_at": "2026-09-13T20:27:20.715872-03:00",
-      "marca": "JBL",
-      "price_evidence": {
-        "checked_at": "2026-09-12T23:28:24.832718+00:00",
-        "identity": {
-          "brand": "JBL",
-          "model": null,
-          "family": "audio",
-          "kind": "produto",
-          "variant": "cor:preto|kit:1",
-          "ambiguous": false,
-          "comparison_key": null
-        },
-        "previous_min": 309.9,
-        "observed_min": 309.9,
-        "since": "2026-09-12T22:19:00.776474+00:00",
-        "observations": 1,
-        "days": 1,
-        "history": [
-          {
-            "at": "2026-09-12T22:19:00.776474+00:00",
-            "price": 309.9
-          }
-        ],
-        "advantage": false,
-        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
-      },
-      "grupo": "Tech"
     },
     {
       "source_id": "23293788558",
@@ -1089,30 +1089,6 @@
       "grupo": "Gamer"
     },
     {
-      "source_id": "1005009942973523",
-      "titulo": "Carregador Portátil 20000mah，Power Bank Portátil，Pilhas Recarregáveis，Powerbank Portátil， TYPE-C, USB， Preto， Do Brasil",
-      "de": 125.99,
-      "por": 98.82,
-      "desconto": 21,
-      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sde41ee2d147445a1b782ea99ce2a2690d.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mrbupromK6mYSbuqYR50sQXn1xnxQjsn6UD8OFDTyuzx58lNGuFICzNShe5N91FWyj99Bjco621BLld2shUA6bbCdRDv1GHnnfJZ8tM6Lj4yciaQ8Xk4apPeYKsjg2f5W5ZPnPzLN0DjmTaB4uBJ58pdrflFq1JZFHRM3yN5MpADtVg48Rsx39Bj7t3IofRJLiNvg34SqV6zHVOtUXsvrUuzoZWsPBhVCw0jsUlRMCfmAwu7C6AiRurJeaS5mvt7iE17tkicgUxa063WBNT0NIUSzUgxexzDMzYVxjgWLsCWnJ4psr1dgAyhKWYqycb13PKnfLmduxXwv6YnFwDPRpbu2QGQPkhHRF21W32OPa0OvugFTuIo01evP9M7MmwGDmA2Luq2l5Rou19CbPLtxMKaqXsNvTZpm6WFDNroV4oObEtfzLsfTnVwyZXyQWI3Ragw3h4RFaxSuXRORDojubsoIkw72LJcJnmYsW5rWKnDMWgZ5L15SPJ3rPQAwQc8mWMz9dCJlM2tyRrc3fzZa3oUj11WzjtDbA8GI4YOE609IdI0iN8HXgYXNuHbbk1g0xeXenHRFy2DEjmgI8raczrCfg9LtxnwusuwgtEqmG7vjtFBGAHK1QHlKAawkUtopite5VlNLDmA0rS0lLmo3Yo72TlPXpJpUFbB8uvTN10Y1Xoe4t1gOnD9zotvsLRlDN5vj3uOknT7b",
-      "cupom": null,
-      "loja": "aliexpress",
-      "categoria": "Acessórios para telefones e telecomunicações",
-      "data": "2026-09-07T05:12:37.105870-03:00",
-      "slug": "carregador-portatil-20000mah-power-bank-portatil-pilhas-recarregaveis-powerbank-portat",
-      "page_url": "https://promoninjaofertas.github.io/produto/carregador-portatil-20000mah-power-bank-portatil-pilhas-recarregaveis-powerbank-portat.html",
-      "avaliacao": 4.87,
-      "avaliacoes": null,
-      "vendas": 2067,
-      "nota_qualidade": 7,
-      "last_seen": "2026-09-13T04:51:20.816792+00:00",
-      "expires_at": "2026-09-14T01:51:20.816792-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Tech"
-    },
-    {
       "source_id": "1005008639836335",
       "titulo": "Towild dl1200s/dl1700 luz de bicicleta com linha de corte feixe1900lm recarregável luz dianteira banco potência mtb ciclismo faróis",
       "de": 720.92,
@@ -1135,6 +1111,30 @@
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros"
+    },
+    {
+      "source_id": "1005009942973523",
+      "titulo": "Carregador Portátil 20000mah，Power Bank Portátil，Pilhas Recarregáveis，Powerbank Portátil， TYPE-C, USB， Preto， Do Brasil",
+      "de": 125.99,
+      "por": 98.82,
+      "desconto": 21,
+      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sde41ee2d147445a1b782ea99ce2a2690d.jpg",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mrbupromK6mYSbuqYR50sQXn1xnxQjsn6UD8OFDTyuzx58lNGuFICzNShe5N91FWyj99Bjco621BLld2shUA6bbCdRDv1GHnnfJZ8tM6Lj4yciaQ8Xk4apPeYKsjg2f5W5ZPnPzLN0DjmTaB4uBJ58pdrflFq1JZFHRM3yN5MpADtVg48Rsx39Bj7t3IofRJLiNvg34SqV6zHVOtUXsvrUuzoZWsPBhVCw0jsUlRMCfmAwu7C6AiRurJeaS5mvt7iE17tkicgUxa063WBNT0NIUSzUgxexzDMzYVxjgWLsCWnJ4psr1dgAyhKWYqycb13PKnfLmduxXwv6YnFwDPRpbu2QGQPkhHRF21W32OPa0OvugFTuIo01evP9M7MmwGDmA2Luq2l5Rou19CbPLtxMKaqXsNvTZpm6WFDNroV4oObEtfzLsfTnVwyZXyQWI3Ragw3h4RFaxSuXRORDojubsoIkw72LJcJnmYsW5rWKnDMWgZ5L15SPJ3rPQAwQc8mWMz9dCJlM2tyRrc3fzZa3oUj11WzjtDbA8GI4YOE609IdI0iN8HXgYXNuHbbk1g0xeXenHRFy2DEjmgI8raczrCfg9LtxnwusuwgtEqmG7vjtFBGAHK1QHlKAawkUtopite5VlNLDmA0rS0lLmo3Yo72TlPXpJpUFbB8uvTN10Y1Xoe4t1gOnD9zotvsLRlDN5vj3uOknT7b",
+      "cupom": null,
+      "loja": "aliexpress",
+      "categoria": "Acessórios para telefones e telecomunicações",
+      "data": "2026-09-07T05:12:37.105870-03:00",
+      "slug": "carregador-portatil-20000mah-power-bank-portatil-pilhas-recarregaveis-powerbank-portat",
+      "page_url": "https://promoninjaofertas.github.io/produto/carregador-portatil-20000mah-power-bank-portatil-pilhas-recarregaveis-powerbank-portat.html",
+      "avaliacao": 4.87,
+      "avaliacoes": null,
+      "vendas": 2067,
+      "nota_qualidade": 7,
+      "last_seen": "2026-09-13T04:51:20.816792+00:00",
+      "expires_at": "2026-09-14T01:51:20.816792-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Tech"
     },
     {
       "source_id": "1005006076318004",
@@ -1566,11 +1566,11 @@
       "avaliacoes": null,
       "vendas": 146,
       "nota_qualidade": 10,
-      "last_seen": "2026-09-13T06:12:47.283237+00:00",
-      "expires_at": "2026-09-14T03:12:47.283237-03:00",
+      "last_seen": "2026-09-13T06:53:59.783582+00:00",
+      "expires_at": "2026-09-14T03:53:59.783582-03:00",
       "marca": "JBL",
       "price_evidence": {
-        "checked_at": "2026-09-13T06:13:36.297454+00:00",
+        "checked_at": "2026-09-13T06:54:49.453088+00:00",
         "identity": {
           "brand": "JBL",
           "model": "520bt",
@@ -1622,11 +1622,11 @@
       "avaliacoes": null,
       "vendas": 585,
       "nota_qualidade": 10,
-      "last_seen": "2026-09-13T06:23:13.078297+00:00",
-      "expires_at": "2026-09-14T03:23:13.078297-03:00",
+      "last_seen": "2026-09-13T07:04:24.081356+00:00",
+      "expires_at": "2026-09-14T04:04:24.081356-03:00",
       "marca": "Kingston",
       "price_evidence": {
-        "checked_at": "2026-09-13T06:24:03.008767+00:00",
+        "checked_at": "2026-09-13T07:05:25.709680+00:00",
         "identity": {
           "brand": "Kingston",
           "model": "kvr16n11/8",
@@ -1669,7 +1669,7 @@
       "por": 338.99,
       "desconto": 50,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Scba98bd184714dabbe9baa56743c87fay.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4E948K6kSKZ8aEOpRzJhM4Wrj6enp1n2qzytPtf2xM1sDPZBoi4LqOOZRMkqLZdn2ShxnB1leOijFIYXUiVy30IGiabxRAU519v1SToE0EO8sLFRE4Xy2srUmiwNyT8GQHXlw5pfC2LgSrv0jTZwTWRgz5zoX5UgFCeS94E0a7PkqfSCxiR3DDSNquRIxVXCfyfrULID7qgVbVBsVO2OKkqm7liy0XRI4FGrribzZhyqpBGHcibLeEgqSqYQ0lWtlaCeYWl6jJAMggfI0D5y2QCHUdZeqPmDFrjPvWAFURLEDqm0OUbLB0AzRXQiCzsrCIhbtnHDFEUwa4XznU1rN2GvRP5jNvViUWf3NIKaNXs4E3txMRxuoqG3zfRehDu24LR7SLfXGKC9gXjfmF3bCshucJRtB6CQEZzIoYEZvy03xsNX7GWJS9aIzIMr0xsEsVuXaEzjRzGZj8kSEGArcVUksRzcEPVAcWJPBnbeBSdBoKjeV6hrMm8R96Ifz4vtttPsJvMuo5tYsNRUkmeRojLMK7O9HT9fOlKhMWRuDvl3RlzSYPECNBtYtkVIAx101L4QFXHdHNxLb7bd9xPGPvAjQW4ndUTJ7agUiVDOGpKypYloAvgoxmzdQ7ey9uzgkC73ZoPIFplm8VtETVXpmKdfK9qWllDywnoedjmugDuTBTJfnCeG2la2TxzfJc7QSwJR94otxlK0mz",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4E948K6kSKZ8aEOpRzJhM4Wrj6enp1n2qzytPtf2xM1sDPZBoi4LqOOZRMkqLZdn2ShxnB1leOijFIYXUiVy30IGiabxRAU519v1SToE0EO8sLFRE4Xy2srUmiwNyT8GQHXlw5pfC2LgSrv0jTZwTWRgz5zoX5UgFCeS94E0a7PkqfSCxiR3DDSNquRIxVXCfyfrULID7qgVbVBsVO2OKkqm7liy0XRI4FGrricARvCxyklHCGpK9HAnxEc23GLq4ME4R8aLcwiQu5F3ZNCHUozo0uEjt35koxezKD3Uz0E5QLxd2hJHGP0PBJwBAB5DhnKF1U29WpZ9nlbzh83uiqxs3XHy3JUxTTPOKPjPKLdY7OcnzrEceMDhRuLCWzVdEmRaXDOtl5wVJDS0MZP0P9UGjcNj7ECoZuiczA8LrknClsKAa4pAWuRJlppWLWqrVMh8XFAK5m6d9jCm06c5VbH0hmEWGLCLFtQY2mmFKfBZrFZc3raCFL4bgTuy7NNlvQrWI3rfhced4Miprv3OZgexo43rm86TBDrZrQxEH42TT5T4hZBL87YRzndCze7wxoFEZ1PFC1gaKljfTWuXvQzUAK21BT8WLXEMHr29gjdMGFEyvRaBANadGuSipIqZNKlqwJsdYYidzRfG2K5DSRovbA4dtSm7R8mVDh4BgtWMUkx5CiDEGsrztkfg9BLOTLFlcBVOKgBvLF",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Hardware",
@@ -1680,8 +1680,8 @@
       "avaliacoes": null,
       "vendas": 1627,
       "nota_qualidade": 9,
-      "last_seen": "2026-09-13T00:28:20.787761+00:00",
-      "expires_at": "2026-09-13T21:28:20.787761-03:00",
+      "last_seen": "2026-09-13T07:04:24.081356+00:00",
+      "expires_at": "2026-09-14T04:04:24.081356-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech"
@@ -1693,7 +1693,7 @@
       "por": 27.29,
       "desconto": 39,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S706f529d578d41fc950d4088a887217bq.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4FCux7W5h57Ty79IOwbiMN4HrVOyWh27eg5MBmmjmolvP8nXgg2bi2yiY2f1XnXSCrRR5Aw5ALu8OWGIfrjHiW7jjKlIwuq8BnAQPxBRJLkjAN7ISsSX1CaxPzfD6I4nQL4JAiKYXLjyfKuo6iaY9iyZbfHVfLu5Rs69aHH5FroNkhRXZzJMdTT25P5ulfRanUhk6nKc3eaD5GBTCHupeBx7AnZxHq5WkcIuisgwvoB2BUaNzsi0iyOIVwk0qx5ldmDQGTL2wRIYKNwdzhqrpiMz3QsHAJHc9vX5gelRhQSdpmKYwRrxVumq9LVTctmKPInbFvrgcEQop8df6iwCCMJEXFmzcidvgVALcOH8XlVOzRGIgbgXqqnfby4XxTWWdQsvPySL679awVWIv0kKUU6e9rd6vrvmjKtnEUCf5tn0jZSd5pbH9YzxpVYbHm9V7nFSxg16RFrbWeVw8Z6wuZ6koF4jBZCv5kkjdaKdV7hq69uHLul1wYIBu9fjZd1Rp2dzfoNqJKn1ddXdFd5ph4zR43fktrsGJEsB55O8oSiVA8BRvJzeaDDLVrBDjxEVJ3kDsIFNR5pUMLqzXvnyVcBMW68Kg1pRDBmA9x3TQNrdZ0mJpAGxEZi7ZvO3zNdd66dr6gD7T3UutV3eaRlK2u6NvIgTrFdGExUby4RzKLvBJgKDlWFDvy4SuS3arBtxe4gO93847NoR9j",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4FCux7W5h57Ty79IOwbiMN4HrVOyWh27eg5MBmmjmolvP8nXgg2bi2yiY2f1XnXSCrRR5Aw5ALu8OWGIfrjHiW7jjKlIwuq8BnAQPxBRJLkjAN7ISsSX1CaxPzfD6I4nQL4JAiKYXLjyfKuo6iaY9iyZbfHVfLu5Rs69aHH5FroNkhRXZzJMdTT25P5ulfRanUhk6nKc3eaD5GBTCHupeBx7AnZxHq5WkcIuisgxF0VKBxorzLvusrHZtbxh8fjXuzYLjB0xHhczKSK0JU16KoGW58dnE0lRovwDIwdkEcLNLJCOHn1IzD215bNMaDYLO32sAwAq7nDEm0hwYaMTmC4sd4brpu0rfnQkpHSvFlCctA3XGAldjemwjrhN00qL92ln5Q1neFcDXjb0Ve7tq0I9hpZALoYHpuzePCJDMFXfEhcxeVkpstkiQKZCRUyTYh9wWpV77bc2I6HHEIoHAQO8iSjMGHY2gH2Q271miCgRGKHGItCXUbAJEpt1mf7tqioq2ujyEAQmePeow02K72TH3zvzpFXiG7kTkiUozQD6qiDEOcBxCJRxml8CP5YdHkaSGV9DVTB3oAkMN4uG8QZeZKlDwuK212KXawHSq6B1CTrGbAUoGlHj0u5GUa8keU6eJwaZZwTkNVkfFttHXniDVX1cRWK0DHXZhL6YI820WfyrIZvqSTZWGpXfCQMOe2B98IuR61jnY1",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Informatica",
@@ -1704,8 +1704,8 @@
       "avaliacoes": null,
       "vendas": 4852,
       "nota_qualidade": 7,
-      "last_seen": "2026-09-13T00:48:55.701295+00:00",
-      "expires_at": "2026-09-13T21:48:55.701295-03:00",
+      "last_seen": "2026-09-13T07:04:24.081356+00:00",
+      "expires_at": "2026-09-14T04:04:24.081356-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech"
@@ -1717,7 +1717,7 @@
       "por": 222.99,
       "desconto": 50,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S76c6a0c979a94773b70c86d697daca4cV.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4FlyPwdszh87fWD4NDIrXo79ErjG3JkI4h3U04iuPdGvYFe5nCXp70CwaAJxms6c873FQtoYXSNXz6UfsjCwyH8FcRol7wOH3gNTuLw1LxPW5v3pZTuapfzjeq9Jd46as4dW6cdFBE5J20GLFQ3Di57eUFeNRzaZswt4VLYTzqoL5ZqouG9hxi0mY72pObPb2Ukf9PR65My21knC0RTQ4i9NjdJ5HHsGTh0X7vtTeXdnOQqi0tq14pJn0lD2R3L67U3CL1IypKhH7tT3DROQN96h2yrRwpdLqlZ44meoXjodDFkdnV9MxC78oHIx7mnke8aRFwUO8O4iPTaQ3YqLxEBjFJPmjDTmBQLlWMF7k295DRxo6Uywp9IIExhpEYAqVh2df68GYwz1bc9jbWNps1on1ba74a7bOnCQsA0RQxXPxh9oIb9fT6n4GDo2oX5i4XJEeHQqTv921qNQTTgdB7Lix8sPtrOKdUbuc8JcF9ZnI6wp7LsMLXfELTCzhjfKuc0oI4JkzLeZ8IIh9k7q21qz9W5HLLv86MHubGoU0e43KeyWpHGtJOy6pPIqslVBf7dU3HGsWk480DllSHDpEOH1lRsgk17z1nZElnWMnBo5hN8OxL5vT6S5hvIGgjvJyIztfl8FKmSyvDYbZCKs0QLEpOid2QoLvTvtwxqBp8TbIi3z70KyHKNdCtwrglydPClIvDvuKCqAWd",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4FlyPwdszh87fWD4NDIrXo79ErjG3JkI4h3U04iuPdGvYFe5nCXp70CwaAJxms6c873FQtoYXSNXz6UfsjCwyH8FcRol7wOH3gNTuLw1LxPW5v3pZTuapfzjeq9Jd46as4dW6cdFBE5J20GLFQ3Di57eUFeNRzaZswt4VLYTzqoL5ZqouG9hxi0mY72pObPb2Ukf9PR65My21knC0RTQ4i9NjdJ5HHsGTh0X7vKO32FnHxjGQ5PHLmXaPD7E5G8PIsd4CC50ruJlSSNr2BEWliQ3f1z0jmyF76pJbmxVnMEKiqpDRuFLuqq4E1tnTpdS4esZaaOox6xhE6k7pHzCwlrGUN5XI12rGsKVxSLPpXSM8gGohfLjTsWIifi8TGbzO5aTXWmWeA3H7hVeBZDHUj6KiKhNDQekVp2ZsNCcPlMmqBY3PVritqS6c1KErvBQULpqkC4PRueaEpTJlokDaH84nJSnJKmoK0yZG1GFBGFlZoyWdWw4ovjAits5JdyDvpxeh93HL4Y1zhNCnwnv09rJ4dTMqBP9F2h60LljB4mXFJsAnDbErzSrNRvx7k2UnzTwOV2WS66RPL0aOo086CmedDJ1bL5nzxNayQd1F7s3XTC87BMVkOXhTRrH5uaSIdl1nD4QPbzvxpjvhSWHKG7nGRAelVzQfzTUSS2p6xnFaRNuO7LYbiEWg0xM67hKakUCske5PPvRRx",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Hardware",
@@ -1728,8 +1728,8 @@
       "avaliacoes": null,
       "vendas": 114,
       "nota_qualidade": 9,
-      "last_seen": "2026-09-13T06:43:42.889833+00:00",
-      "expires_at": "2026-09-14T03:43:42.889833-03:00",
+      "last_seen": "2026-09-13T06:53:59.783582+00:00",
+      "expires_at": "2026-09-14T03:53:59.783582-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech"
