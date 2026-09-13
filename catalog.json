@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-13T20:36:44.517308+00:00",
+  "atualizado": "2026-09-13T20:46:44.687647+00:00",
   "ofertas": [
     {
       "source_id": "3037930",
@@ -127,11 +127,11 @@
       "avaliacoes": null,
       "vendas": 106,
       "nota_qualidade": 9,
-      "last_seen": "2026-09-13T20:26:41.872461+00:00",
-      "expires_at": "2026-09-14T17:26:41.872461-03:00",
+      "last_seen": "2026-09-13T20:46:44.687647+00:00",
+      "expires_at": "2026-09-14T17:46:44.687647-03:00",
       "marca": "LG",
       "price_evidence": {
-        "checked_at": "2026-09-13T20:27:29.612283+00:00",
+        "checked_at": "2026-09-13T20:48:48.373301+00:00",
         "identity": {
           "brand": "LG",
           "model": "24gs60f-b",
@@ -762,11 +762,11 @@
       "avaliacoes": null,
       "vendas": 439,
       "nota_qualidade": 10,
-      "last_seen": "2026-09-13T20:06:46.379899+00:00",
-      "expires_at": "2026-09-14T17:06:46.379899-03:00",
+      "last_seen": "2026-09-13T20:46:44.687647+00:00",
+      "expires_at": "2026-09-14T17:46:44.687647-03:00",
       "marca": "WAP",
       "price_evidence": {
-        "checked_at": "2026-09-13T20:08:25.806855+00:00",
+        "checked_at": "2026-09-13T20:48:48.373301+00:00",
         "identity": {
           "brand": "WAP",
           "model": "7metros",
@@ -822,11 +822,11 @@
       "avaliacoes": null,
       "vendas": 389,
       "nota_qualidade": 10,
-      "last_seen": "2026-09-13T19:56:38.654327+00:00",
-      "expires_at": "2026-09-14T16:56:38.654327-03:00",
+      "last_seen": "2026-09-13T20:46:44.687647+00:00",
+      "expires_at": "2026-09-14T17:46:44.687647-03:00",
       "marca": "Acer",
       "price_evidence": {
-        "checked_at": "2026-09-13T19:57:27.613124+00:00",
+        "checked_at": "2026-09-13T20:48:48.373301+00:00",
         "identity": {
           "brand": "Acer",
           "model": "kg243y",
@@ -867,6 +867,54 @@
         "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
       },
       "grupo": "Gamer"
+    },
+    {
+      "source_id": "55214478888",
+      "titulo": "Caixa de Som Portátil JBL GO 5 Preto Original Bluetooth À Prova D'água Iluminação e Auracast",
+      "de": null,
+      "por": 309.9,
+      "desconto": 23,
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l7-mps2n1sv12wy66",
+      "link": "https://s.shopee.com.br/9zxeaPcnEa",
+      "cupom": null,
+      "loja": "shopee",
+      "categoria": "Audio",
+      "data": "2026-09-10T06:27:22.795034-03:00",
+      "slug": "caixa-de-som-portatil-jbl-go-5-preto-original-bluetooth-a-prova-d-agua",
+      "page_url": "https://promoninjaofertas.github.io/produto/caixa-de-som-portatil-jbl-go-5-preto-original-bluetooth-a-prova-d-agua.html",
+      "avaliacao": 4.9,
+      "avaliacoes": null,
+      "vendas": 124,
+      "nota_qualidade": 9,
+      "last_seen": "2026-09-12T23:27:20.715872+00:00",
+      "expires_at": "2026-09-13T20:27:20.715872-03:00",
+      "marca": "JBL",
+      "price_evidence": {
+        "checked_at": "2026-09-12T23:28:24.832718+00:00",
+        "identity": {
+          "brand": "JBL",
+          "model": null,
+          "family": "audio",
+          "kind": "produto",
+          "variant": "cor:preto|kit:1",
+          "ambiguous": false,
+          "comparison_key": null
+        },
+        "previous_min": 309.9,
+        "observed_min": 309.9,
+        "since": "2026-09-12T22:19:00.776474+00:00",
+        "observations": 1,
+        "days": 1,
+        "history": [
+          {
+            "at": "2026-09-12T22:19:00.776474+00:00",
+            "price": 309.9
+          }
+        ],
+        "advantage": false,
+        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
+      },
+      "grupo": "Tech"
     },
     {
       "source_id": "23293788558",
@@ -929,54 +977,6 @@
       "grupo": "Gamer"
     },
     {
-      "source_id": "55214478888",
-      "titulo": "Caixa de Som Portátil JBL GO 5 Preto Original Bluetooth À Prova D'água Iluminação e Auracast",
-      "de": null,
-      "por": 309.9,
-      "desconto": 23,
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l7-mps2n1sv12wy66",
-      "link": "https://s.shopee.com.br/9zxeaPcnEa",
-      "cupom": null,
-      "loja": "shopee",
-      "categoria": "Audio",
-      "data": "2026-09-10T06:27:22.795034-03:00",
-      "slug": "caixa-de-som-portatil-jbl-go-5-preto-original-bluetooth-a-prova-d-agua",
-      "page_url": "https://promoninjaofertas.github.io/produto/caixa-de-som-portatil-jbl-go-5-preto-original-bluetooth-a-prova-d-agua.html",
-      "avaliacao": 4.9,
-      "avaliacoes": null,
-      "vendas": 124,
-      "nota_qualidade": 9,
-      "last_seen": "2026-09-12T23:27:20.715872+00:00",
-      "expires_at": "2026-09-13T20:27:20.715872-03:00",
-      "marca": "JBL",
-      "price_evidence": {
-        "checked_at": "2026-09-12T23:28:24.832718+00:00",
-        "identity": {
-          "brand": "JBL",
-          "model": null,
-          "family": "audio",
-          "kind": "produto",
-          "variant": "cor:preto|kit:1",
-          "ambiguous": false,
-          "comparison_key": null
-        },
-        "previous_min": 309.9,
-        "observed_min": 309.9,
-        "since": "2026-09-12T22:19:00.776474+00:00",
-        "observations": 1,
-        "days": 1,
-        "history": [
-          {
-            "at": "2026-09-12T22:19:00.776474+00:00",
-            "price": 309.9
-          }
-        ],
-        "advantage": false,
-        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
-      },
-      "grupo": "Tech"
-    },
-    {
       "source_id": "1005006965436436",
       "titulo": "Projetor Mini Smart para Home Theater BYINTEK U4 LOVE 1, Vídeo 4K 1080P, Android WIFI para Cinema em Smartphone",
       "de": 1596.93,
@@ -1025,30 +1025,6 @@
       "grupo": "Gamer"
     },
     {
-      "source_id": "1005009942973523",
-      "titulo": "Carregador Portátil 20000mah，Power Bank Portátil，Pilhas Recarregáveis，Powerbank Portátil， TYPE-C, USB， Preto， Do Brasil",
-      "de": 125.99,
-      "por": 98.82,
-      "desconto": 21,
-      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sde41ee2d147445a1b782ea99ce2a2690d.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mrbupromK6mYSbuqYR50sQXn1xnxQjsn6UD8OFDTyuzx58lNGuFICzNShe5N91FWyj99Bjco621BLld2shUA6bbCdRDv1GHnnfJZ8tM6Lj4yciaQ8Xk4apPeYKsjg2f5W5ZPnPzLN0DjmTaB4uBJ58pdrflFq1JZFHRM3yN5MpADtVg48Rsx39Bj7t3IofRJLiNvg34SqV6zHVOtUXsvrUuzoZWsPBhVCw0jsTzzcBWNvio0BhdKh7pXUGjbx8EcXGbfQBb2U4xWsb1FQ7IFDnHca0BvcDEmQkEUNZE5bM5ECNpOc4hCpvYl8hyk48TUiMyz5LviRhh7cf4UreiMcoBW06XykeRPf6Xb0qmnzai4xuQQ5SRIYQT1IUtOVmMXwc6xdlyjCssPMoqRs73zdsunv4LSL9MlDPWlbnAnmwwdDlopPMggwnxuaoyOZy7I9eLoPSSFNe7gDuOIXrvOTcfI8HfF0a9N0DdWxgJmKThd27i8IC4rr0ehduIaFUbATKHGZX496sX5GxWzEVIaWzoHRjzV1778MPfuViXK9YYMhfPttzEYbqPucCAMVJQk9hZWtq68uT5ZYkQdC6hrKHtw8mfA0QjpD7d5jO6fFbFYzbFJMBNvWVGJWsZokidS0czGxo9ZGGxAkY62sN6tESJygr56t8A70OkM5nXRlQR3Y0lGXOZAqCDy52Rd2tBoZ1oFN7zVYgFGN",
-      "cupom": null,
-      "loja": "aliexpress",
-      "categoria": "Acessórios para telefones e telecomunicações",
-      "data": "2026-09-07T05:12:37.105870-03:00",
-      "slug": "carregador-portatil-20000mah-power-bank-portatil-pilhas-recarregaveis-powerbank-portat",
-      "page_url": "https://promoninjaofertas.github.io/produto/carregador-portatil-20000mah-power-bank-portatil-pilhas-recarregaveis-powerbank-portat.html",
-      "avaliacao": 4.87,
-      "avaliacoes": null,
-      "vendas": 2062,
-      "nota_qualidade": 7,
-      "last_seen": "2026-09-13T18:05:09.284213+00:00",
-      "expires_at": "2026-09-14T15:05:09.284213-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Tech"
-    },
-    {
       "source_id": "1005008639836335",
       "titulo": "Towild dl1200s/dl1700 luz de bicicleta com linha de corte feixe1900lm recarregável luz dianteira banco potência mtb ciclismo faróis",
       "de": 720.92,
@@ -1071,6 +1047,30 @@
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros"
+    },
+    {
+      "source_id": "1005009942973523",
+      "titulo": "Carregador Portátil 20000mah，Power Bank Portátil，Pilhas Recarregáveis，Powerbank Portátil， TYPE-C, USB， Preto， Do Brasil",
+      "de": 125.99,
+      "por": 98.82,
+      "desconto": 21,
+      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sde41ee2d147445a1b782ea99ce2a2690d.jpg",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mrbupromK6mYSbuqYR50sQXn1xnxQjsn6UD8OFDTyuzx58lNGuFICzNShe5N91FWyj99Bjco621BLld2shUA6bbCdRDv1GHnnfJZ8tM6Lj4yciaQ8Xk4apPeYKsjg2f5W5ZPnPzLN0DjmTaB4uBJ58pdrflFq1JZFHRM3yN5MpADtVg48Rsx39Bj7t3IofRJLiNvg34SqV6zHVOtUXsvrUuzoZWsPBhVCw0jsTzzcBWNvio0BhdKh7pXUGjbx8EcXGbfQBb2U4xWsb1FQ7IFDnHca0BvcDEmQkEUNZE5bM5ECNpOc4hCpvYl8hyk48TUiMyz5LviRhh7cf4UreiMcoBW06XykeRPf6Xb0qmnzai4xuQQ5SRIYQT1IUtOVmMXwc6xdlyjCssPMoqRs73zdsunv4LSL9MlDPWlbnAnmwwdDlopPMggwnxuaoyOZy7I9eLoPSSFNe7gDuOIXrvOTcfI8HfF0a9N0DdWxgJmKThd27i8IC4rr0ehduIaFUbATKHGZX496sX5GxWzEVIaWzoHRjzV1778MPfuViXK9YYMhfPttzEYbqPucCAMVJQk9hZWtq68uT5ZYkQdC6hrKHtw8mfA0QjpD7d5jO6fFbFYzbFJMBNvWVGJWsZokidS0czGxo9ZGGxAkY62sN6tESJygr56t8A70OkM5nXRlQR3Y0lGXOZAqCDy52Rd2tBoZ1oFN7zVYgFGN",
+      "cupom": null,
+      "loja": "aliexpress",
+      "categoria": "Acessórios para telefones e telecomunicações",
+      "data": "2026-09-07T05:12:37.105870-03:00",
+      "slug": "carregador-portatil-20000mah-power-bank-portatil-pilhas-recarregaveis-powerbank-portat",
+      "page_url": "https://promoninjaofertas.github.io/produto/carregador-portatil-20000mah-power-bank-portatil-pilhas-recarregaveis-powerbank-portat.html",
+      "avaliacao": 4.87,
+      "avaliacoes": null,
+      "vendas": 2062,
+      "nota_qualidade": 7,
+      "last_seen": "2026-09-13T18:05:09.284213+00:00",
+      "expires_at": "2026-09-14T15:05:09.284213-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Tech"
     },
     {
       "source_id": "1005006076318004",
@@ -1184,10 +1184,10 @@
       "page_url": "https://promoninjaofertas.github.io/produto/smartphone-motorola-edge-60-fusion-5g-256gb-24gb-8gb-ram-16gb-ram-boost-tela.html",
       "avaliacao": null,
       "avaliacoes": 5,
-      "vendas": 770,
+      "vendas": 785,
       "nota_qualidade": 8,
-      "last_seen": "2026-09-13T20:36:44.517308+00:00",
-      "expires_at": "2026-09-14T17:36:44.517308-03:00",
+      "last_seen": "2026-09-13T20:46:44.687647+00:00",
+      "expires_at": "2026-09-14T17:46:44.687647-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech"
@@ -1352,10 +1352,10 @@
       "page_url": "https://promoninjaofertas.github.io/produto/maquina-de-lavar-electrolux-17kg-branca-essential-care-com-cesto-inox-e-jet-clean.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 74,
-      "nota_qualidade": 7,
-      "last_seen": "2026-09-13T20:36:44.517308+00:00",
-      "expires_at": "2026-09-14T17:36:44.517308-03:00",
+      "vendas": 100,
+      "nota_qualidade": 8,
+      "last_seen": "2026-09-13T20:46:44.687647+00:00",
+      "expires_at": "2026-09-14T17:46:44.687647-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa"
@@ -1378,11 +1378,11 @@
       "avaliacoes": null,
       "vendas": 274,
       "nota_qualidade": 10,
-      "last_seen": "2026-09-13T20:06:46.379899+00:00",
-      "expires_at": "2026-09-14T17:06:46.379899-03:00",
+      "last_seen": "2026-09-13T20:46:44.687647+00:00",
+      "expires_at": "2026-09-14T17:46:44.687647-03:00",
       "marca": "WAP",
       "price_evidence": {
-        "checked_at": "2026-09-13T20:08:25.806855+00:00",
+        "checked_at": "2026-09-13T20:48:48.373301+00:00",
         "identity": {
           "brand": "WAP",
           "model": null,
@@ -1556,10 +1556,10 @@
       "page_url": "https://promoninjaofertas.github.io/produto/philips-smart-tv-ambilight-55-4k-titan-os-55pug8100-78-comando-de-voz-hdr10.html",
       "avaliacao": null,
       "avaliacoes": null,
-      "vendas": 314,
+      "vendas": 319,
       "nota_qualidade": 8,
-      "last_seen": "2026-09-13T20:36:44.517308+00:00",
-      "expires_at": "2026-09-14T17:36:44.517308-03:00",
+      "last_seen": "2026-09-13T20:46:44.687647+00:00",
+      "expires_at": "2026-09-14T17:46:44.687647-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech"
@@ -1725,7 +1725,7 @@
       "por": 27.29,
       "desconto": 39,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S706f529d578d41fc950d4088a887217bq.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4FCux7W5h57Ty79IOwbiMN4HrVOyWh27eg5MBmmjmolvP8nXgg2bi2yiY2f1XnXSCrRR5Aw5ALu8OWGIfrjHiW7jjKlIwuq8BnAQPxBRJLkjAN7ISsSX1CaxPzfD6I4nQL4JAiKYXLjyfKuo6iaY9iyZbfHVfLu5Rs69aHH5FroNkhRXZzJMdTT25P5ulfRanUhk6nKc3eaD5GBTCHupeBx7AnZxHq5WkcIuisgHiLKRNg4s7tyVoO7xbMJTkSxbydbedAE94HbDoiwGYEuqxNzhMPTdcWBeOpvqKhUoNblRvchwlPc6unNHJRfHE4Fs6OcKqbL5SRqWxdn40hHQtpNmfESXCsyhKA9U5fALBSsB0k31g4Ac6IPALAdC9bCxkxq6kuMjYCxLDbaIv0VIjBScFmJeqXPIhR51NjxOUcicsnfD8c05I7fV8eBsFvGRv1GwOoJYBRH8riHJrV1wePSgPfiQL7ES7WL5F9998VATa2UWNfIS6Mn5S2vCYVKCQ5Fk3GuRtFFN0A5KVEelImA2SpoYK7ZUwS8xTUvKxlTJjOOdV6qr5kHcd01a8mQe1PKLp1iyMmfWdghYB28mKdH9fih8WAK0QdN84uDgEbuo5Pll0SRvwBCWcDE4pQPKzEfLoEjFtkq9byAHqyspSo1jgjUvk95P0OPc0qtPalWseuIT69oC1toqxjFP7MCMBI8Vyh0sBZlpxf",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4FCux7W5h57Ty79IOwbiMN4HrVOyWh27eg5MBmmjmolvP8nXgg2bi2yiY2f1XnXSCrRR5Aw5ALu8OWGIfrjHiW7jjKlIwuq8BnAQPxBRJLkjAN7ISsSX1CaxPzfD6I4nQL4JAiKYXLjyfKuo6iaY9iyZbfHVfLu5Rs69aHH5FroNkhRXZzJMdTT25P5ulfRanUhk6nKc3eaD5GBTCHupeBx7AnZxHq5WkcIuisgh2ySIz3Bd7BOKEWDLqiFmTKyggM7sfmmJbjDkSAdOGVulKsoXkiBaZYe7aCFacyfrsSsdzAky1xBA9l4IswDGYNNZVzrIlKR1eCtmiyukzflXZrjkbuRvhs42lN5dwKoqpVGIZBVJU3VvfKBCTPjApLnsg36oVS6Hc9LwP2ui2kmIkRSoa495A8PFdMBgO4Gajcyyu5xxNiOys9kvXFTtYqo7BFl0J6xSv1nCYwzbYfnU2rFVNVkDnhpLdT3sRM2HiUzgmqSWKKvlnn4MMWG8k16FooBqlEx3OzyIl0CltwQlhh9vipfOUSPUtVqumkMaffrC6pDjjDACPFfvrCYZvJO0gS12Ef5YaGmweClcor5E5YeSSrt8qqI4WVSUfRyUPkggWm25UdvCcNAG93yue1NhAnI1aK77nX7TuDZREYnVytgCtPiB46oeEA5YrL59iugFafNFGlmA0CQx1a7Llhq92rDYoaYCmPpoC9",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Informatica",
@@ -1736,8 +1736,8 @@
       "avaliacoes": null,
       "vendas": 4775,
       "nota_qualidade": 7,
-      "last_seen": "2026-09-13T20:36:44.517308+00:00",
-      "expires_at": "2026-09-14T17:36:44.517308-03:00",
+      "last_seen": "2026-09-13T20:46:44.687647+00:00",
+      "expires_at": "2026-09-14T17:46:44.687647-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech"
