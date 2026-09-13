@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-13T09:47:05.687663+00:00",
+  "atualizado": "2026-09-13T09:57:22.775651+00:00",
   "ofertas": [
     {
       "source_id": "21299179885",
@@ -134,11 +134,11 @@
       "avaliacoes": null,
       "vendas": 141,
       "nota_qualidade": 10,
-      "last_seen": "2026-09-13T09:16:22.776905+00:00",
-      "expires_at": "2026-09-14T06:16:22.776905-03:00",
+      "last_seen": "2026-09-13T09:57:22.775651+00:00",
+      "expires_at": "2026-09-14T06:57:22.775651-03:00",
       "marca": "Bosch",
       "price_evidence": {
-        "checked_at": "2026-09-13T09:17:18.833118+00:00",
+        "checked_at": "2026-09-13T09:58:36.983644+00:00",
         "identity": {
           "brand": "Bosch",
           "model": "120-li",
@@ -186,11 +186,11 @@
       "avaliacoes": null,
       "vendas": 198,
       "nota_qualidade": 10,
-      "last_seen": "2026-09-13T09:16:22.776905+00:00",
-      "expires_at": "2026-09-14T06:16:22.776905-03:00",
+      "last_seen": "2026-09-13T09:57:22.775651+00:00",
+      "expires_at": "2026-09-14T06:57:22.775651-03:00",
       "marca": "Bosch",
       "price_evidence": {
-        "checked_at": "2026-09-13T09:17:18.833118+00:00",
+        "checked_at": "2026-09-13T09:58:36.983644+00:00",
         "identity": {
           "brand": "Bosch",
           "model": null,
@@ -262,8 +262,8 @@
       "avaliacoes": 40,
       "vendas": 502,
       "nota_qualidade": 7,
-      "last_seen": "2026-09-13T09:47:05.687663+00:00",
-      "expires_at": "2026-09-14T06:47:05.687663-03:00",
+      "last_seen": "2026-09-13T09:57:22.775651+00:00",
+      "expires_at": "2026-09-14T06:57:22.775651-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda"
@@ -293,30 +293,6 @@
       "grupo": "Tech"
     },
     {
-      "source_id": "pechinchou-148294",
-      "titulo": "Perfume Árabe Qaed Al Fursan Lattafa Edp 90 Ml",
-      "de": 249.0,
-      "por": 115.52,
-      "desconto": 54,
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_741585-MLA108095507002_032026-O.webp",
-      "link": "https://meli.la/1b1ZYWx",
-      "cupom": "BELEZACOMPRITTAS",
-      "loja": "mercadolivre",
-      "categoria": "Beleza",
-      "data": "2026-09-12T17:32:06.185265-03:00",
-      "slug": "perfume-arabe-qaed-al-fursan-lattafa-edp-90-ml",
-      "page_url": "https://promoninjaofertas.github.io/produto/perfume-arabe-qaed-al-fursan-lattafa-edp-90-ml.html",
-      "avaliacao": null,
-      "avaliacoes": 10,
-      "vendas": 131,
-      "nota_qualidade": 7,
-      "last_seen": "2026-09-13T09:47:05.687663+00:00",
-      "expires_at": "2026-09-14T06:47:05.687663-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Moda"
-    },
-    {
       "source_id": "pechinchou-119863",
       "titulo": "Perfume feminino Supreme, Edp, 100 ml, essencial, natura",
       "de": 279.0,
@@ -334,8 +310,32 @@
       "avaliacoes": 40,
       "vendas": 130,
       "nota_qualidade": 9,
-      "last_seen": "2026-09-13T09:47:05.687663+00:00",
-      "expires_at": "2026-09-14T06:47:05.687663-03:00",
+      "last_seen": "2026-09-13T09:57:22.775651+00:00",
+      "expires_at": "2026-09-14T06:57:22.775651-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Moda"
+    },
+    {
+      "source_id": "pechinchou-148294",
+      "titulo": "Perfume Árabe Qaed Al Fursan Lattafa Edp 90 Ml",
+      "de": 249.0,
+      "por": 115.52,
+      "desconto": 54,
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_741585-MLA108095507002_032026-O.webp",
+      "link": "https://meli.la/1b1ZYWx",
+      "cupom": "BELEZACOMPRITTAS",
+      "loja": "mercadolivre",
+      "categoria": "Beleza",
+      "data": "2026-09-12T17:32:06.185265-03:00",
+      "slug": "perfume-arabe-qaed-al-fursan-lattafa-edp-90-ml",
+      "page_url": "https://promoninjaofertas.github.io/produto/perfume-arabe-qaed-al-fursan-lattafa-edp-90-ml.html",
+      "avaliacao": null,
+      "avaliacoes": 10,
+      "vendas": 131,
+      "nota_qualidade": 7,
+      "last_seen": "2026-09-13T09:57:22.775651+00:00",
+      "expires_at": "2026-09-14T06:57:22.775651-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda"
@@ -358,8 +358,8 @@
       "avaliacoes": 10,
       "vendas": 628,
       "nota_qualidade": 9,
-      "last_seen": "2026-09-13T09:47:05.687663+00:00",
-      "expires_at": "2026-09-14T06:47:05.687663-03:00",
+      "last_seen": "2026-09-13T09:57:22.775651+00:00",
+      "expires_at": "2026-09-14T06:57:22.775651-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda"
@@ -382,8 +382,8 @@
       "avaliacoes": 86,
       "vendas": 1818,
       "nota_qualidade": 10,
-      "last_seen": "2026-09-13T09:47:05.687663+00:00",
-      "expires_at": "2026-09-14T06:47:05.687663-03:00",
+      "last_seen": "2026-09-13T09:57:22.775651+00:00",
+      "expires_at": "2026-09-14T06:57:22.775651-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda"
@@ -406,8 +406,8 @@
       "avaliacoes": 10,
       "vendas": 496,
       "nota_qualidade": 7,
-      "last_seen": "2026-09-13T09:47:05.687663+00:00",
-      "expires_at": "2026-09-14T06:47:05.687663-03:00",
+      "last_seen": "2026-09-13T09:57:22.775651+00:00",
+      "expires_at": "2026-09-14T06:57:22.775651-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda"
@@ -430,8 +430,8 @@
       "avaliacoes": 60,
       "vendas": 927,
       "nota_qualidade": 7,
-      "last_seen": "2026-09-13T09:47:05.687663+00:00",
-      "expires_at": "2026-09-14T06:47:05.687663-03:00",
+      "last_seen": "2026-09-13T09:57:22.775651+00:00",
+      "expires_at": "2026-09-14T06:57:22.775651-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros"
@@ -454,8 +454,8 @@
       "avaliacoes": 30,
       "vendas": 2892,
       "nota_qualidade": 7,
-      "last_seen": "2026-09-13T09:47:05.687663+00:00",
-      "expires_at": "2026-09-14T06:47:05.687663-03:00",
+      "last_seen": "2026-09-13T09:57:22.775651+00:00",
+      "expires_at": "2026-09-14T06:57:22.775651-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda"
@@ -478,8 +478,8 @@
       "avaliacoes": 100,
       "vendas": 1440,
       "nota_qualidade": 9,
-      "last_seen": "2026-09-13T09:47:05.687663+00:00",
-      "expires_at": "2026-09-14T06:47:05.687663-03:00",
+      "last_seen": "2026-09-13T09:57:22.775651+00:00",
+      "expires_at": "2026-09-14T06:57:22.775651-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa"
@@ -502,11 +502,11 @@
       "avaliacoes": null,
       "vendas": 1342,
       "nota_qualidade": 10,
-      "last_seen": "2026-09-13T09:47:05.687663+00:00",
-      "expires_at": "2026-09-14T06:47:05.687663-03:00",
+      "last_seen": "2026-09-13T09:57:22.775651+00:00",
+      "expires_at": "2026-09-14T06:57:22.775651-03:00",
       "marca": "Epson",
       "price_evidence": {
-        "checked_at": "2026-09-13T09:47:56.352256+00:00",
+        "checked_at": "2026-09-13T09:58:36.983644+00:00",
         "identity": {
           "brand": "Epson",
           "model": "3250",
@@ -558,11 +558,11 @@
       "avaliacoes": null,
       "vendas": 293,
       "nota_qualidade": 9,
-      "last_seen": "2026-09-13T09:16:22.776905+00:00",
-      "expires_at": "2026-09-14T06:16:22.776905-03:00",
+      "last_seen": "2026-09-13T09:57:22.775651+00:00",
+      "expires_at": "2026-09-14T06:57:22.775651-03:00",
       "marca": "Tramontina",
       "price_evidence": {
-        "checked_at": "2026-09-13T09:17:18.833118+00:00",
+        "checked_at": "2026-09-13T09:58:36.983644+00:00",
         "identity": {
           "brand": "Tramontina",
           "model": null,
@@ -642,11 +642,11 @@
       "avaliacoes": null,
       "vendas": 173,
       "nota_qualidade": 9,
-      "last_seen": "2026-09-13T09:16:22.776905+00:00",
-      "expires_at": "2026-09-14T06:16:22.776905-03:00",
+      "last_seen": "2026-09-13T09:57:22.775651+00:00",
+      "expires_at": "2026-09-14T06:57:22.775651-03:00",
       "marca": "Tramontina",
       "price_evidence": {
-        "checked_at": "2026-09-13T09:17:18.833118+00:00",
+        "checked_at": "2026-09-13T09:58:36.983644+00:00",
         "identity": {
           "brand": "Tramontina",
           "model": null,
@@ -702,11 +702,11 @@
       "avaliacoes": null,
       "vendas": 799,
       "nota_qualidade": 9,
-      "last_seen": "2026-09-13T09:26:38.784062+00:00",
-      "expires_at": "2026-09-14T06:26:38.784062-03:00",
+      "last_seen": "2026-09-13T09:57:22.775651+00:00",
+      "expires_at": "2026-09-14T06:57:22.775651-03:00",
       "marca": "Mondial",
       "price_evidence": {
-        "checked_at": "2026-09-13T09:27:46.505253+00:00",
+        "checked_at": "2026-09-13T09:58:36.983644+00:00",
         "identity": {
           "brand": "Mondial",
           "model": "afn-50",
@@ -758,11 +758,11 @@
       "avaliacoes": null,
       "vendas": 104,
       "nota_qualidade": 9,
-      "last_seen": "2026-09-13T09:16:22.776905+00:00",
-      "expires_at": "2026-09-14T06:16:22.776905-03:00",
+      "last_seen": "2026-09-13T09:57:22.775651+00:00",
+      "expires_at": "2026-09-14T06:57:22.775651-03:00",
       "marca": "Logitech",
       "price_evidence": {
-        "checked_at": "2026-09-13T09:17:18.833118+00:00",
+        "checked_at": "2026-09-13T09:58:36.983644+00:00",
         "identity": {
           "brand": "Logitech",
           "model": "m220",
@@ -810,11 +810,11 @@
       "avaliacoes": null,
       "vendas": 1599,
       "nota_qualidade": 10,
-      "last_seen": "2026-09-13T09:16:22.776905+00:00",
-      "expires_at": "2026-09-14T06:16:22.776905-03:00",
+      "last_seen": "2026-09-13T09:57:22.775651+00:00",
+      "expires_at": "2026-09-14T06:57:22.775651-03:00",
       "marca": "Tramontina",
       "price_evidence": {
-        "checked_at": "2026-09-13T09:17:18.833118+00:00",
+        "checked_at": "2026-09-13T09:58:36.983644+00:00",
         "identity": {
           "brand": "Tramontina",
           "model": null,
@@ -949,6 +949,58 @@
       "grupo": "Tech"
     },
     {
+      "source_id": "23293788558",
+      "titulo": "Placa-Mãe AMD AM4 Asus TUF GAMING B550M-Plus - 90MB14A0-C1BAY0",
+      "de": null,
+      "por": 849.0,
+      "desconto": 35,
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m71303iaqpuv88",
+      "link": "https://s.shopee.com.br/5foi874mnN",
+      "cupom": null,
+      "loja": "shopee",
+      "categoria": "Hardware",
+      "data": "2026-09-10T06:27:22.795034-03:00",
+      "slug": "placa-mae-amd-am4-asus-tuf-gaming-b550m-plus-90mb14a0-c1bay0",
+      "page_url": "https://promoninjaofertas.github.io/produto/placa-mae-amd-am4-asus-tuf-gaming-b550m-plus-90mb14a0-c1bay0.html",
+      "avaliacao": 4.9,
+      "avaliacoes": null,
+      "vendas": 658,
+      "nota_qualidade": 9,
+      "last_seen": "2026-09-13T09:47:05.687663+00:00",
+      "expires_at": "2026-09-14T06:47:05.687663-03:00",
+      "marca": "Asus",
+      "price_evidence": {
+        "checked_at": "2026-09-13T09:47:56.352256+00:00",
+        "identity": {
+          "brand": "Asus",
+          "model": "am4",
+          "family": "outros",
+          "kind": "produto",
+          "variant": "codigo:90mb14a0-c1bay0|codigo:b550m-plus|kit:1",
+          "ambiguous": false,
+          "comparison_key": "asus|am4|codigo:90mb14a0-c1bay0|codigo:b550m-plus|kit:1"
+        },
+        "previous_min": 849.0,
+        "observed_min": 849.0,
+        "since": "2026-09-12T22:19:00.776474+00:00",
+        "observations": 2,
+        "days": 2,
+        "history": [
+          {
+            "at": "2026-09-12T22:19:00.776474+00:00",
+            "price": 849.0
+          },
+          {
+            "at": "2026-09-13T04:37:21.869455+00:00",
+            "price": 849.0
+          }
+        ],
+        "advantage": false,
+        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
+      },
+      "grupo": "Gamer"
+    },
+    {
       "source_id": "46662348294",
       "titulo": "Monitor Gamer Acer KG243Y 23.8\" Full HD 144Hz IPS HDMI P1bip - Preto - Bivolt",
       "de": null,
@@ -1005,58 +1057,6 @@
       "grupo": "Gamer"
     },
     {
-      "source_id": "23293788558",
-      "titulo": "Placa-Mãe AMD AM4 Asus TUF GAMING B550M-Plus - 90MB14A0-C1BAY0",
-      "de": null,
-      "por": 849.0,
-      "desconto": 35,
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m71303iaqpuv88",
-      "link": "https://s.shopee.com.br/5foi874mnN",
-      "cupom": null,
-      "loja": "shopee",
-      "categoria": "Hardware",
-      "data": "2026-09-10T06:27:22.795034-03:00",
-      "slug": "placa-mae-amd-am4-asus-tuf-gaming-b550m-plus-90mb14a0-c1bay0",
-      "page_url": "https://promoninjaofertas.github.io/produto/placa-mae-amd-am4-asus-tuf-gaming-b550m-plus-90mb14a0-c1bay0.html",
-      "avaliacao": 4.9,
-      "avaliacoes": null,
-      "vendas": 658,
-      "nota_qualidade": 9,
-      "last_seen": "2026-09-13T09:47:05.687663+00:00",
-      "expires_at": "2026-09-14T06:47:05.687663-03:00",
-      "marca": "Asus",
-      "price_evidence": {
-        "checked_at": "2026-09-13T09:47:56.352256+00:00",
-        "identity": {
-          "brand": "Asus",
-          "model": "am4",
-          "family": "outros",
-          "kind": "produto",
-          "variant": "codigo:90mb14a0-c1bay0|codigo:b550m-plus|kit:1",
-          "ambiguous": false,
-          "comparison_key": "asus|am4|codigo:90mb14a0-c1bay0|codigo:b550m-plus|kit:1"
-        },
-        "previous_min": 849.0,
-        "observed_min": 849.0,
-        "since": "2026-09-12T22:19:00.776474+00:00",
-        "observations": 2,
-        "days": 2,
-        "history": [
-          {
-            "at": "2026-09-12T22:19:00.776474+00:00",
-            "price": 849.0
-          },
-          {
-            "at": "2026-09-13T04:37:21.869455+00:00",
-            "price": 849.0
-          }
-        ],
-        "advantage": false,
-        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
-      },
-      "grupo": "Gamer"
-    },
-    {
       "source_id": "1005006965436436",
       "titulo": "Projetor Mini Smart para Home Theater BYINTEK U4 LOVE 1, Vídeo 4K 1080P, Android WIFI para Cinema em Smartphone",
       "de": 1596.93,
@@ -1087,7 +1087,7 @@
       "por": 165.35,
       "desconto": 59,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S19ef127e0d9b40f09802f5caad87851b9.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mLmqWqgZyrm2wdIQcimGRFvG3C6BbmIUTQwfgBCALZ5PHV8bytiVoPD51fwBp7lJx51r9ZYebVGtMaZEIpSAaODbAnlhKeOaFlIglJBWuhNuulmzw3TjuiwRAYzmeizfiPX5RVck2f7aJzEqgTZG477uZAv4GKwnNHYVIwB4GpZypX4jDK6EQ5SNyaGuNwYMbLDumtUuCsBktoxSRr9TKM7Ly6w4CYfIKd5RhFkOLkyhTQbgp43Ts77hHUEzyJ1IOByhhOESkYCtKQ1WOYvtEdyadRxuxVPVSahltX9YNeiIlyvXieMqQh8x6C63admrb1NrvaQGEQz0vFl9FATcvd1NRbJXfUZA0XnNfMRR4njreAfsx8Xot41aXGUt8HPbRBl05D0PaPFOJ6XqnlPyKcKufgDaqvorazeMX6wKcnzaz1QdicgUv64tAEApMVGLcnLDqf5GsXqoy2GpQTDhNyFIeDz2r6e7gq0PuFa8pNdZlsNSaqxnEU2TX9gVjMKyQ17XGFm5pnQ4ZWRWptRBMj5vpjqkuX27YpjpDoOfy5bE0x1GloontFxHuaWscF0IbTMSPZzl7BesMrCfDZ4W6mlkeTiVjr7tjoWgD5sdqg9AfXDYCqkzg8MIY2O2eyZXwVW8ouQvsCzEUzxYwoXQRAqjgHXwlbleDOiChWHu1V18gGGw1RrU49uaNL3NeTIIRWHbRsVdLaZNg",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mLmqWqgZyrm2wdIQcimGRFvG3C6BbmIUTQwfgBCALZ5PHV8bytiVoPD51fwBp7lJx51r9ZYebVGtMaZEIpSAaODbAnlhKeOaFlIglJBWuhNuulmzw3TjuiwRAYzmeizfiPX5RVck2f7aJzEqgTZG477uZAv4GKwnNHYVIwB4GpZypX4jDK6EQ5SNyaGuNwYMbLDumtUuCsBktoxSRr9TKM7Ly6w4CYfIKd5RhFp390EgXWvBrxyZgXkzA1fQa6xdXZ3QkIzvyQaExGe2mbHRRE1KUGWaIF1D86yCgEIwwHVryJNoBJnFDW1DzZzAXmpJ4mM0LkAzy3UFO82oqActyUerU7Ky8mSWm3Pa2WPTsG1k61Iijb37wHGWO7crzFjuqTcSCLR1DsigPjX0yTKMeBBTfd6fy01U9mS12D8WdxZzx0lKk9NIfJlcdpHM6YPQPFLCIt9nGJx4zMyCm2G1Mgr4CqrQI9FbfOG8qJiMjsq9aJDA5blJpcgKwftPmMjBRVYbU8Fki020WsRyWyLSUUru6LzWADuy91T6hx6XL9cTZfGSwf9AeNo6pCyEc4XqR956J5qOQYx49iyAjM98cgUl6wwbOjKpjcoK5VRF1BZRlb3dqvXwBth6CnrA2pQxF7litynJmI8Bp7f6X5r4TLOSSSdapND757AegHGu6arxVUnAmTAe36Q2MC0BUihnzrnOxLcrV1NGW",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Audio",
@@ -1098,8 +1098,8 @@
       "avaliacoes": null,
       "vendas": 150,
       "nota_qualidade": 8,
-      "last_seen": "2026-09-13T09:47:05.687663+00:00",
-      "expires_at": "2026-09-14T06:47:05.687663-03:00",
+      "last_seen": "2026-09-13T09:57:22.775651+00:00",
+      "expires_at": "2026-09-14T06:57:22.775651-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Gamer"
@@ -1475,7 +1475,7 @@
       "por": 59.39,
       "desconto": 55,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Hc3a48e471c9842ee8fb13ff649875daed.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4ml4ewOlFOrBpzwT8IIYGdKWurJu0vUOWkmI5T7DTziboOKqiC9pMmoP1FfozDuhK3bbaqnvgc0gaTgcKS5Yq757yYwBbqzjHHG14QIAs9zU6mjP2G2sONoh3wVS7SjR2qGAXwZtLLv6lhfFEqHEPviWxIXOQlaRihUwAsZsl57AZNOYpUhI7qNhpdNyU0oQYiiWq8NxlGEXvtWB4dhtSDCW7QMz8KJfAYVz6FJgdldCOGd0aOE0D4asB2aqYyO1kpdACgksFBj9yKyFWgIoqbB48K5YiLv8xDiIktWTHa0MB3s34esXQNpzlNJoHfWL1pSNax5K9no2fQO9kDnd5gostUzHS7ccLIdplyRM87PQ8XH55n3cwFTgEymWLZMyQ1h5jT7EarAGShRHJifbYNDjbJB2q58wodMIf04fKbMhPPtAgFgyryj7G95hE5ajElUrgoRdMWGx4d1cyW4P6M3n9Q7TWZ41bHpROQuDYEpBu8BpljK8pgaJcnZ8R2Sj2hPJrckU1Vy8qmvLAhKIoUtmlcEhkbeF8dXZKbIUnaqu2ZljoGOb62JLUEGClCjGM4jyOqlTnoxyRtl07ej0qgfL9t5BdA5Is7a1FuGLm8LkgINqihGz2T3yfk4qwcSDdUMQ6Ng3lRtQFkko1mnguqI5Je3FgsWv8JQJPZN50294fFu09Fvc6xStounuCKDFt4bpIbMrUuGBhm",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4ml4ewOlFOrBpzwT8IIYGdKWurJu0vUOWkmI5T7DTziboOKqiC9pMmoP1FfozDuhK3bbaqnvgc0gaTgcKS5Yq757yYwBbqzjHHG14QIAs9zU6mjP2G2sONoh3wVS7SjR2qGAXwZtLLv6lhfFEqHEPviWxIXOQlaRihUwAsZsl57AZNOYpUhI7qNhpdNyU0oQYiiWq8NxlGEXvtWB4dhtSDCW7QMz8KJfAYVz6FJAuCO823j3QSMECkgoVWRgFXg3AwGHfb6lmfiBo6NUz1FtR5d1hMULA5EQnKOKDwWiPPGY4Xd24joBXpoimTe3ttNwfOCAC1lyFrewf2qYD4nEbabrtpXZBKez7gznA1oGXyeyrqyy4jFrWQBKShbRG84Lj5OJhw1Was8pbPjPqpMpyUQHPcYJshyz2xUjq5B2YGuiJiI95Jf7MZUAwCfl7xHjsVbQwsy9wysP9aKaH7o3LZZakXj9YsnLA6xaU73BqW7Lm1yC0rTH29ZIL5uT6MNIOeTKmiVmmQ1RGHSOeUw44vddS2DpWHEIfwXZ2Ru7HUoVZfop3YthZTK2jkh60f33oCFeVLA6qCDI1Y4t9OMXWeO57Hzb5hbHdp8dJCecCwDK74SSe8SOOUFPtwo3xQtxsAuGoemMJwPz2F1xwOCvrL0ipEM5codtmB6ovi14N9XywVKmFFqN4PKJah4JIVflVzhL4kG7kfxcg0",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Hardware",
@@ -1486,8 +1486,8 @@
       "avaliacoes": null,
       "vendas": 356,
       "nota_qualidade": 8,
-      "last_seen": "2026-09-13T09:47:05.687663+00:00",
-      "expires_at": "2026-09-14T06:47:05.687663-03:00",
+      "last_seen": "2026-09-13T09:57:22.775651+00:00",
+      "expires_at": "2026-09-14T06:57:22.775651-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Gamer"
@@ -1571,7 +1571,7 @@
       "por": 229.3,
       "desconto": 43,
       "imagem": "https://cf.shopee.com.br/file/sg-11134201-8260b-ml5rjh9wpp8v39",
-      "link": "https://s.shopee.com.br/3qN3xhrvZO",
+      "link": "https://s.shopee.com.br/30nxP6OrlI",
       "cupom": null,
       "loja": "shopee",
       "categoria": "Audio",
@@ -1582,11 +1582,11 @@
       "avaliacoes": null,
       "vendas": 146,
       "nota_qualidade": 10,
-      "last_seen": "2026-09-13T09:16:22.776905+00:00",
-      "expires_at": "2026-09-14T06:16:22.776905-03:00",
+      "last_seen": "2026-09-13T09:57:22.775651+00:00",
+      "expires_at": "2026-09-14T06:57:22.775651-03:00",
       "marca": "JBL",
       "price_evidence": {
-        "checked_at": "2026-09-13T09:17:18.833118+00:00",
+        "checked_at": "2026-09-13T09:58:36.983644+00:00",
         "identity": {
           "brand": "JBL",
           "model": "520bt",
