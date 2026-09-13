@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-13T21:57:40.194916+00:00",
+  "atualizado": "2026-09-13T22:07:59.477053+00:00",
   "ofertas": [
     {
       "source_id": "pechinchou-96523",
@@ -17,10 +17,10 @@
       "page_url": "https://promoninjaofertas.github.io/produto/fogao-4-bocas-atlas-monaco-plus-preto-com-mesa-inox-e-acendimento-automatico-bivolt.html",
       "avaliacao": null,
       "avaliacoes": 56,
-      "vendas": 1785,
+      "vendas": 1817,
       "nota_qualidade": 7,
-      "last_seen": "2026-09-13T21:57:40.194916+00:00",
-      "expires_at": "2026-09-14T18:57:40.194916-03:00",
+      "last_seen": "2026-09-13T22:07:59.477053+00:00",
+      "expires_at": "2026-09-14T19:07:59.477053-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa"
@@ -151,11 +151,11 @@
       "avaliacoes": null,
       "vendas": 106,
       "nota_qualidade": 9,
-      "last_seen": "2026-09-13T21:57:40.194916+00:00",
-      "expires_at": "2026-09-14T18:57:40.194916-03:00",
+      "last_seen": "2026-09-13T22:07:59.477053+00:00",
+      "expires_at": "2026-09-14T19:07:59.477053-03:00",
       "marca": "LG",
       "price_evidence": {
-        "checked_at": "2026-09-13T21:58:23.297026+00:00",
+        "checked_at": "2026-09-13T22:09:04.973384+00:00",
         "identity": {
           "brand": "LG",
           "model": "24gs60f-b",
@@ -199,66 +199,6 @@
         "comparison_percent": 12.5
       },
       "grupo": "Gamer"
-    },
-    {
-      "source_id": "18199337362",
-      "titulo": "Parafusadeira e Furadeira à Bateria 12V GSR 120-LI com 1 Bateria e Maleta BOSCH Bivolt",
-      "de": null,
-      "por": 409.0,
-      "desconto": 27,
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdxb-lxqvrx46qhjg31",
-      "link": "https://s.shopee.com.br/LnBmIygrQ",
-      "cupom": null,
-      "loja": "shopee",
-      "categoria": "Smartphones",
-      "data": "2026-09-12T19:16:34.813595-03:00",
-      "slug": "shopee-bosch-120-li-12v-bivolt-kit-1",
-      "page_url": "https://promoninjaofertas.github.io/produto/shopee-bosch-120-li-12v-bivolt-kit-1.html",
-      "avaliacao": 5.0,
-      "avaliacoes": null,
-      "vendas": 129,
-      "nota_qualidade": 10,
-      "last_seen": "2026-09-13T20:26:41.872461+00:00",
-      "expires_at": "2026-09-14T17:26:41.872461-03:00",
-      "marca": "Bosch",
-      "price_evidence": {
-        "checked_at": "2026-09-13T20:27:29.612283+00:00",
-        "identity": {
-          "brand": "Bosch",
-          "model": "120-li",
-          "family": "ferramentas",
-          "kind": "produto",
-          "variant": "12v|bivolt|kit:1",
-          "ambiguous": false,
-          "comparison_key": "bosch|120 li|12v|bivolt|kit:1"
-        },
-        "previous_min": 409.0,
-        "observed_min": 409.0,
-        "since": "2026-09-12T22:18:07.571383+00:00",
-        "observations": 4,
-        "days": 2,
-        "history": [
-          {
-            "at": "2026-09-12T22:18:07.571383+00:00",
-            "price": 409.0
-          },
-          {
-            "at": "2026-09-13T04:37:21.869455+00:00",
-            "price": 409.0
-          },
-          {
-            "at": "2026-09-13T10:39:08.576434+00:00",
-            "price": 409.0
-          },
-          {
-            "at": "2026-09-13T16:44:47.609484+00:00",
-            "price": 409.0
-          }
-        ],
-        "advantage": false,
-        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
-      },
-      "grupo": "Casa"
     },
     {
       "source_id": "23594959395",
@@ -321,6 +261,66 @@
       "grupo": "Casa"
     },
     {
+      "source_id": "18199337362",
+      "titulo": "Parafusadeira e Furadeira à Bateria 12V GSR 120-LI com 1 Bateria e Maleta BOSCH Bivolt",
+      "de": null,
+      "por": 409.0,
+      "desconto": 27,
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdxb-lxqvrx46qhjg31",
+      "link": "https://s.shopee.com.br/LnBmIygrQ",
+      "cupom": null,
+      "loja": "shopee",
+      "categoria": "Smartphones",
+      "data": "2026-09-12T19:16:34.813595-03:00",
+      "slug": "shopee-bosch-120-li-12v-bivolt-kit-1",
+      "page_url": "https://promoninjaofertas.github.io/produto/shopee-bosch-120-li-12v-bivolt-kit-1.html",
+      "avaliacao": 5.0,
+      "avaliacoes": null,
+      "vendas": 129,
+      "nota_qualidade": 10,
+      "last_seen": "2026-09-13T20:26:41.872461+00:00",
+      "expires_at": "2026-09-14T17:26:41.872461-03:00",
+      "marca": "Bosch",
+      "price_evidence": {
+        "checked_at": "2026-09-13T20:27:29.612283+00:00",
+        "identity": {
+          "brand": "Bosch",
+          "model": "120-li",
+          "family": "ferramentas",
+          "kind": "produto",
+          "variant": "12v|bivolt|kit:1",
+          "ambiguous": false,
+          "comparison_key": "bosch|120 li|12v|bivolt|kit:1"
+        },
+        "previous_min": 409.0,
+        "observed_min": 409.0,
+        "since": "2026-09-12T22:18:07.571383+00:00",
+        "observations": 4,
+        "days": 2,
+        "history": [
+          {
+            "at": "2026-09-12T22:18:07.571383+00:00",
+            "price": 409.0
+          },
+          {
+            "at": "2026-09-13T04:37:21.869455+00:00",
+            "price": 409.0
+          },
+          {
+            "at": "2026-09-13T10:39:08.576434+00:00",
+            "price": 409.0
+          },
+          {
+            "at": "2026-09-13T16:44:47.609484+00:00",
+            "price": 409.0
+          }
+        ],
+        "advantage": false,
+        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
+      },
+      "grupo": "Casa"
+    },
+    {
       "source_id": "1005010412672389",
       "titulo": "Caixa de Som Sem Fio para Conferências EMEET 360 °   Microfone para Reuniões com 4 Microfones com Cancelamento de Ruído e Alto-falante Bluetooth para Escritório",
       "de": 607.0,
@@ -366,6 +366,66 @@
       "expires_at": "2026-09-14T14:34:57.877015-03:00",
       "marca": null,
       "price_evidence": {},
+      "grupo": "Tech"
+    },
+    {
+      "source_id": "22198437019",
+      "titulo": "IMPRESSORA MULTIFUNCIONAL JATO DE TINTA  ECOTANK  EPSON 3250  Bivolt",
+      "de": null,
+      "por": 1099.0,
+      "desconto": 31,
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-82612-ml5fu9rnsdu5fc",
+      "link": "https://s.shopee.com.br/4AzuLd3u40",
+      "cupom": null,
+      "loja": "shopee",
+      "categoria": "Informatica",
+      "data": "2026-09-12T07:30:38.079626-03:00",
+      "slug": "impressora-multifuncional-jato-de-tinta-ecotank-epson-3250-bivolt",
+      "page_url": "https://promoninjaofertas.github.io/produto/impressora-multifuncional-jato-de-tinta-ecotank-epson-3250-bivolt.html",
+      "avaliacao": 5.0,
+      "avaliacoes": null,
+      "vendas": 1342,
+      "nota_qualidade": 10,
+      "last_seen": "2026-09-13T14:01:20.812848+00:00",
+      "expires_at": "2026-09-14T11:01:20.812848-03:00",
+      "marca": "Epson",
+      "price_evidence": {
+        "checked_at": "2026-09-13T14:02:33.589640+00:00",
+        "identity": {
+          "brand": "Epson",
+          "model": "3250",
+          "family": "impressoras",
+          "kind": "produto",
+          "variant": "bivolt|kit:1",
+          "ambiguous": false,
+          "comparison_key": "epson|3250|bivolt|kit:1"
+        },
+        "previous_min": 1039.0,
+        "observed_min": 1039.0,
+        "since": "2026-09-12T13:31:01.433528+00:00",
+        "observations": 4,
+        "days": 2,
+        "history": [
+          {
+            "at": "2026-09-12T13:31:01.433528+00:00",
+            "price": 1099.0
+          },
+          {
+            "at": "2026-09-13T03:02:09.511401+00:00",
+            "price": 1039.0
+          },
+          {
+            "at": "2026-09-13T09:06:40.583130+00:00",
+            "price": 1039.0
+          },
+          {
+            "at": "2026-09-13T11:50:15.335247+00:00",
+            "price": 1099.0
+          }
+        ],
+        "advantage": false,
+        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
+      },
       "grupo": "Tech"
     },
     {
@@ -425,66 +485,6 @@
           {
             "at": "2026-09-13T15:22:57.846300+00:00",
             "price": 122.0
-          }
-        ],
-        "advantage": false,
-        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
-      },
-      "grupo": "Tech"
-    },
-    {
-      "source_id": "22198437019",
-      "titulo": "IMPRESSORA MULTIFUNCIONAL JATO DE TINTA  ECOTANK  EPSON 3250  Bivolt",
-      "de": null,
-      "por": 1099.0,
-      "desconto": 31,
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-82612-ml5fu9rnsdu5fc",
-      "link": "https://s.shopee.com.br/4AzuLd3u40",
-      "cupom": null,
-      "loja": "shopee",
-      "categoria": "Informatica",
-      "data": "2026-09-12T07:30:38.079626-03:00",
-      "slug": "impressora-multifuncional-jato-de-tinta-ecotank-epson-3250-bivolt",
-      "page_url": "https://promoninjaofertas.github.io/produto/impressora-multifuncional-jato-de-tinta-ecotank-epson-3250-bivolt.html",
-      "avaliacao": 5.0,
-      "avaliacoes": null,
-      "vendas": 1342,
-      "nota_qualidade": 10,
-      "last_seen": "2026-09-13T14:01:20.812848+00:00",
-      "expires_at": "2026-09-14T11:01:20.812848-03:00",
-      "marca": "Epson",
-      "price_evidence": {
-        "checked_at": "2026-09-13T14:02:33.589640+00:00",
-        "identity": {
-          "brand": "Epson",
-          "model": "3250",
-          "family": "impressoras",
-          "kind": "produto",
-          "variant": "bivolt|kit:1",
-          "ambiguous": false,
-          "comparison_key": "epson|3250|bivolt|kit:1"
-        },
-        "previous_min": 1039.0,
-        "observed_min": 1039.0,
-        "since": "2026-09-12T13:31:01.433528+00:00",
-        "observations": 4,
-        "days": 2,
-        "history": [
-          {
-            "at": "2026-09-12T13:31:01.433528+00:00",
-            "price": 1099.0
-          },
-          {
-            "at": "2026-09-13T03:02:09.511401+00:00",
-            "price": 1039.0
-          },
-          {
-            "at": "2026-09-13T09:06:40.583130+00:00",
-            "price": 1039.0
-          },
-          {
-            "at": "2026-09-13T11:50:15.335247+00:00",
-            "price": 1099.0
           }
         ],
         "advantage": false,
@@ -638,11 +638,11 @@
       "avaliacoes": null,
       "vendas": 129,
       "nota_qualidade": 9,
-      "last_seen": "2026-09-13T21:57:40.194916+00:00",
-      "expires_at": "2026-09-14T18:57:40.194916-03:00",
+      "last_seen": "2026-09-13T22:07:59.477053+00:00",
+      "expires_at": "2026-09-14T19:07:59.477053-03:00",
       "marca": "Oster",
       "price_evidence": {
-        "checked_at": "2026-09-13T21:58:23.297026+00:00",
+        "checked_at": "2026-09-13T22:09:04.973384+00:00",
         "identity": {
           "brand": "Oster",
           "model": "ocaf650",
@@ -826,11 +826,11 @@
       "avaliacoes": null,
       "vendas": 439,
       "nota_qualidade": 10,
-      "last_seen": "2026-09-13T21:47:29.904965+00:00",
-      "expires_at": "2026-09-14T18:47:29.904965-03:00",
+      "last_seen": "2026-09-13T22:07:59.477053+00:00",
+      "expires_at": "2026-09-14T19:07:59.477053-03:00",
       "marca": "WAP",
       "price_evidence": {
-        "checked_at": "2026-09-13T21:48:16.847857+00:00",
+        "checked_at": "2026-09-13T22:09:04.973384+00:00",
         "identity": {
           "brand": "WAP",
           "model": "7metros",
@@ -869,6 +869,66 @@
       "grupo": "Casa"
     },
     {
+      "source_id": "23293788558",
+      "titulo": "Placa-Mãe AMD AM4 Asus TUF GAMING B550M-Plus - 90MB14A0-C1BAY0",
+      "de": null,
+      "por": 849.0,
+      "desconto": 35,
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m71303iaqpuv88",
+      "link": "https://s.shopee.com.br/5foi874mnN",
+      "cupom": null,
+      "loja": "shopee",
+      "categoria": "Hardware",
+      "data": "2026-09-10T06:27:22.795034-03:00",
+      "slug": "placa-mae-amd-am4-asus-tuf-gaming-b550m-plus-90mb14a0-c1bay0",
+      "page_url": "https://promoninjaofertas.github.io/produto/placa-mae-amd-am4-asus-tuf-gaming-b550m-plus-90mb14a0-c1bay0.html",
+      "avaliacao": 4.9,
+      "avaliacoes": null,
+      "vendas": 667,
+      "nota_qualidade": 9,
+      "last_seen": "2026-09-13T22:07:59.477053+00:00",
+      "expires_at": "2026-09-14T19:07:59.477053-03:00",
+      "marca": "Asus",
+      "price_evidence": {
+        "checked_at": "2026-09-13T22:09:04.973384+00:00",
+        "identity": {
+          "brand": "Asus",
+          "model": "am4",
+          "family": "outros",
+          "kind": "produto",
+          "variant": "codigo:90mb14a0-c1bay0|codigo:b550m-plus|kit:1",
+          "ambiguous": false,
+          "comparison_key": "asus|am4|codigo:90mb14a0-c1bay0|codigo:b550m-plus|kit:1"
+        },
+        "previous_min": 849.0,
+        "observed_min": 849.0,
+        "since": "2026-09-12T22:19:00.776474+00:00",
+        "observations": 4,
+        "days": 2,
+        "history": [
+          {
+            "at": "2026-09-12T22:19:00.776474+00:00",
+            "price": 849.0
+          },
+          {
+            "at": "2026-09-13T04:37:21.869455+00:00",
+            "price": 849.0
+          },
+          {
+            "at": "2026-09-13T10:43:42.327069+00:00",
+            "price": 849.0
+          },
+          {
+            "at": "2026-09-13T16:44:47.609484+00:00",
+            "price": 849.0
+          }
+        ],
+        "advantage": false,
+        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
+      },
+      "grupo": "Gamer"
+    },
+    {
       "source_id": "46662348294",
       "titulo": "Monitor Gamer Acer KG243Y 23.8\" Full HD 144Hz IPS HDMI P1bip - Preto - Bivolt",
       "de": null,
@@ -886,11 +946,11 @@
       "avaliacoes": null,
       "vendas": 389,
       "nota_qualidade": 10,
-      "last_seen": "2026-09-13T21:57:40.194916+00:00",
-      "expires_at": "2026-09-14T18:57:40.194916-03:00",
+      "last_seen": "2026-09-13T22:07:59.477053+00:00",
+      "expires_at": "2026-09-14T19:07:59.477053-03:00",
       "marca": "Acer",
       "price_evidence": {
-        "checked_at": "2026-09-13T21:58:23.297026+00:00",
+        "checked_at": "2026-09-13T22:09:04.973384+00:00",
         "identity": {
           "brand": "Acer",
           "model": "kg243y",
@@ -981,66 +1041,6 @@
       "grupo": "Tech"
     },
     {
-      "source_id": "23293788558",
-      "titulo": "Placa-Mãe AMD AM4 Asus TUF GAMING B550M-Plus - 90MB14A0-C1BAY0",
-      "de": null,
-      "por": 849.0,
-      "desconto": 35,
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m71303iaqpuv88",
-      "link": "https://s.shopee.com.br/5foi874mnN",
-      "cupom": null,
-      "loja": "shopee",
-      "categoria": "Hardware",
-      "data": "2026-09-10T06:27:22.795034-03:00",
-      "slug": "placa-mae-amd-am4-asus-tuf-gaming-b550m-plus-90mb14a0-c1bay0",
-      "page_url": "https://promoninjaofertas.github.io/produto/placa-mae-amd-am4-asus-tuf-gaming-b550m-plus-90mb14a0-c1bay0.html",
-      "avaliacao": 4.9,
-      "avaliacoes": null,
-      "vendas": 667,
-      "nota_qualidade": 9,
-      "last_seen": "2026-09-13T20:26:41.872461+00:00",
-      "expires_at": "2026-09-14T17:26:41.872461-03:00",
-      "marca": "Asus",
-      "price_evidence": {
-        "checked_at": "2026-09-13T20:27:29.612283+00:00",
-        "identity": {
-          "brand": "Asus",
-          "model": "am4",
-          "family": "outros",
-          "kind": "produto",
-          "variant": "codigo:90mb14a0-c1bay0|codigo:b550m-plus|kit:1",
-          "ambiguous": false,
-          "comparison_key": "asus|am4|codigo:90mb14a0-c1bay0|codigo:b550m-plus|kit:1"
-        },
-        "previous_min": 849.0,
-        "observed_min": 849.0,
-        "since": "2026-09-12T22:19:00.776474+00:00",
-        "observations": 4,
-        "days": 2,
-        "history": [
-          {
-            "at": "2026-09-12T22:19:00.776474+00:00",
-            "price": 849.0
-          },
-          {
-            "at": "2026-09-13T04:37:21.869455+00:00",
-            "price": 849.0
-          },
-          {
-            "at": "2026-09-13T10:43:42.327069+00:00",
-            "price": 849.0
-          },
-          {
-            "at": "2026-09-13T16:44:47.609484+00:00",
-            "price": 849.0
-          }
-        ],
-        "advantage": false,
-        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
-      },
-      "grupo": "Gamer"
-    },
-    {
       "source_id": "pechinchou-136084",
       "titulo": "PHILIPS, Smart TV Ambilight 50\" 4K, Titan OS, 50PUG8100/78, Comando de Voz, HDR10+/Dolby Atmos, VRR/ALLM, Bluetooth",
       "de": 3289.9,
@@ -1056,10 +1056,10 @@
       "page_url": "https://promoninjaofertas.github.io/produto/philips-smart-tv-ambilight-50-4k-titan-os-50pug8100-78-comando-de-voz-hdr10.html",
       "avaliacao": null,
       "avaliacoes": 30,
-      "vendas": 405,
+      "vendas": 407,
       "nota_qualidade": 7,
-      "last_seen": "2026-09-13T21:57:40.194916+00:00",
-      "expires_at": "2026-09-14T18:57:40.194916-03:00",
+      "last_seen": "2026-09-13T22:07:59.477053+00:00",
+      "expires_at": "2026-09-14T19:07:59.477053-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech"
@@ -1095,7 +1095,7 @@
       "por": 165.35,
       "desconto": 59,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S19ef127e0d9b40f09802f5caad87851b9.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mLmqWqgZyrm2wdIQcimGRFvG3C6BbmIUTQwfgBCALZ5PHV8bytiVoPD51fwBp7lJx51r9ZYebVGtMaZEIpSAaODbAnlhKeOaFlIglJBWuhNuulmzw3TjuiwRAYzmeizfiPX5RVck2f7aJzEqgTZG477uZAv4GKwnNHYVIwB4GpZypX4jDK6EQ5SNyaGuNwYMbLDumtUuCsBktoxSRr9TKM7Ly6w4CYfIKd5RhFozcxBx8pLxWxaAsCSNu49YRtJ3dczfWvF5QRKsiU3zRnHrubEhIXES5hhNyk9KqNWLGK82flqVlzMslbApNtTXOStTm514pzSwKntacrkdIv1cN4d2sf34Syo63afOLjiYpLKWbHP0V0dzLXqCDC7iCLmX28IXwlvM4TUasCqRHLawBuNx3tsLETLQR037cP6dV7Vfnec4OpW6ThIjBUK5RbORTGBqMtI0JyeM4mkXohIBVVnDYE1rvMXHpMhefPEi7FcrWUNDTajpCZVVowDPK1wRzKNijK4vUm7YiAatbJXYVXOkzyefRZ1DuWQ8AgCM8dDewZtSv0ILPV5hNtsj6mMOCy7KcBpamueWjYuX7700JNtAiDbxDCgN2nkxBRALXwgcbFWki33WlP2iDEGVV00vG8mcblyMcWZhiVQkhjsctg0GaaIKDw3WPLX00zRaTp0syYJTJF9IrSg7V6bBzLoB4Yh7VprmBGDge",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mLmqWqgZyrm2wdIQcimGRFvG3C6BbmIUTQwfgBCALZ5PHV8bytiVoPD51fwBp7lJx51r9ZYebVGtMaZEIpSAaODbAnlhKeOaFlIglJBWuhNuulmzw3TjuiwRAYzmeizfiPX5RVck2f7aJzEqgTZG477uZAv4GKwnNHYVIwB4GpZypX4jDK6EQ5SNyaGuNwYMbLDumtUuCsBktoxSRr9TKM7Ly6w4CYfIKd5RhEY22silpQN2vFDPJgjWPDakpTOPxSrUlK25rIvTLk4PiQQEil4C9bQw0DzVnxgFTp9YLmekXgtWYsFCymHKr9RPBoyciiVhx1X58DaWgeC1Cxb7Vta7SrPzzzcmnNPwtZGh9Cx5sHdxQZl7MlVwPueCHXGMLEMZaf2m241mfQhYOTtKzEhMz3JK2cW4Vylm16INTGmDYUieqi1sA9qTZXwDyxEMlVLXLX32fjatijdSYNLCzdLiIM8CpAvgJOnX2y33ZoTrdXdSeSb7JfZn6FwV5ZVz7mKIdsmJR3EkHaNlBpTwy1vPm4mA7cwbZItuUdoJj7YHAtJGBjKuL44403i9fMedNmPH1AWzUTWbssfBW1wYXdTcSMGGO0lliNENxNVyNdoJFtaTwhj0NnRX3jJBwOsicWny0GI3tHU9Fjam0u4BjIabZLPw9c5mntf10ZFJJ5c5YdCwyTUqelKnIkJrwZD5qqeQGP4NJf5om",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Audio",
@@ -1106,35 +1106,11 @@
       "avaliacoes": null,
       "vendas": 154,
       "nota_qualidade": 8,
-      "last_seen": "2026-09-13T21:57:40.194916+00:00",
-      "expires_at": "2026-09-14T18:57:40.194916-03:00",
+      "last_seen": "2026-09-13T22:07:59.477053+00:00",
+      "expires_at": "2026-09-14T19:07:59.477053-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Gamer"
-    },
-    {
-      "source_id": "1005008639836335",
-      "titulo": "Towild dl1200s/dl1700 luz de bicicleta com linha de corte feixe1900lm recarregável luz dianteira banco potência mtb ciclismo faróis",
-      "de": 720.92,
-      "por": 252.04,
-      "desconto": 65,
-      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sf5de0b7841cd4a6796260e0ec198d1efH.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mUOAepjq71bmCAfdUIcSE89C6gvJUdJWImj7GMKsnH7sXqx7zDmKvW7xILWbvDH5yumUDIXxWSoaABPPjacVWyuGnmlzLEb7PnnBC0SOhBXdbNJO7zg1zWHh3VGtplf5Ai5JccVLLHQ5E09hG7FJLmjA6IO9MbWORwnteIV6Tr25qZzva2dC2p9IXuG5ylq0ko7qi2vK4M6gqLhArYMTGWvQWPBvFH1AuFFqd77neW4uZFfhIWfY9D7YcOYAZ3ZpAE91H8lC1zS1Pes4oQ70kSOKXpNHgmNJIzbUFtjG7rWSaQJSrzWtSSV6IUv0CvQ64x4YC2q2kXm1XR2Uk5kgbWp1nQGkhj5GjoV9X9EFO1RXc5YaGDq2X9ctDrMVq4HZbG7WW6r3Ck4l93oIokN1e4jQqNlFzYNGjrXYuJqUusND3SpTb0VEIjY6vG3eqfUCFUmM2nm6L1Dc5hTAoq2nNCVHVNEYnRX6MgZKWYdQETqXTtOWPCdThRzT2KhABVyWY0QGfJchTPFtr94MhQ3IHXrCvIPQez37E60EngCy9g4xTofZWf5x1zqnsAxLz05LCkOyvKMvKTdgB9LbhsdpurVPXN9Wp9HCOGqLzYDZKKUDIDLbsB0RPe3YDwSFYFXg3CtjwPr4HZPt5sJutaRyNujrDHFqfj1umN7BdUh8YV032gvhCkXhXQehsxofDCeOJnRkJcng7XDLL",
-      "cupom": null,
-      "loja": "aliexpress",
-      "categoria": "Casa",
-      "data": "2026-09-07T05:12:37.105870-03:00",
-      "slug": "towild-dl1200s-dl1700-luz-de-bicicleta-com-linha-de-corte-feixe1900lm-recarregavel-luz",
-      "page_url": "https://promoninjaofertas.github.io/produto/towild-dl1200s-dl1700-luz-de-bicicleta-com-linha-de-corte-feixe1900lm-recarregavel-luz.html",
-      "avaliacao": 4.83,
-      "avaliacoes": null,
-      "vendas": 1062,
-      "nota_qualidade": 7,
-      "last_seen": "2026-09-13T18:05:09.284213+00:00",
-      "expires_at": "2026-09-14T15:05:09.284213-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Outros"
     },
     {
       "source_id": "1005009942973523",
@@ -1159,6 +1135,30 @@
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech"
+    },
+    {
+      "source_id": "1005008639836335",
+      "titulo": "Towild dl1200s/dl1700 luz de bicicleta com linha de corte feixe1900lm recarregável luz dianteira banco potência mtb ciclismo faróis",
+      "de": 720.92,
+      "por": 252.04,
+      "desconto": 65,
+      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sf5de0b7841cd4a6796260e0ec198d1efH.jpg",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mUOAepjq71bmCAfdUIcSE89C6gvJUdJWImj7GMKsnH7sXqx7zDmKvW7xILWbvDH5yumUDIXxWSoaABPPjacVWyuGnmlzLEb7PnnBC0SOhBXdbNJO7zg1zWHh3VGtplf5Ai5JccVLLHQ5E09hG7FJLmjA6IO9MbWORwnteIV6Tr25qZzva2dC2p9IXuG5ylq0ko7qi2vK4M6gqLhArYMTGWvQWPBvFH1AuFFqd77neW4uZFfhIWfY9D7YcOYAZ3ZpAE91H8lC1zS1Pes4oQ70kSOKXpNHgmNJIzbUFtjG7rWSaQJSrzWtSSV6IUv0CvQ64x4YC2q2kXm1XR2Uk5kgbWp1nQGkhj5GjoV9X9EFO1RXc5YaGDq2X9ctDrMVq4HZbG7WW6r3Ck4l93oIokN1e4jQqNlFzYNGjrXYuJqUusND3SpTb0VEIjY6vG3eqfUCFUmM2nm6L1Dc5hTAoq2nNCVHVNEYnRX6MgZKWYdQETqXTtOWPCdThRzT2KhABVyWY0QGfJchTPFtr94MhQ3IHXrCvIPQez37E60EngCy9g4xTofZWf5x1zqnsAxLz05LCkOyvKMvKTdgB9LbhsdpurVPXN9Wp9HCOGqLzYDZKKUDIDLbsB0RPe3YDwSFYFXg3CtjwPr4HZPt5sJutaRyNujrDHFqfj1umN7BdUh8YV032gvhCkXhXQehsxofDCeOJnRkJcng7XDLL",
+      "cupom": null,
+      "loja": "aliexpress",
+      "categoria": "Casa",
+      "data": "2026-09-07T05:12:37.105870-03:00",
+      "slug": "towild-dl1200s-dl1700-luz-de-bicicleta-com-linha-de-corte-feixe1900lm-recarregavel-luz",
+      "page_url": "https://promoninjaofertas.github.io/produto/towild-dl1200s-dl1700-luz-de-bicicleta-com-linha-de-corte-feixe1900lm-recarregavel-luz.html",
+      "avaliacao": 4.83,
+      "avaliacoes": null,
+      "vendas": 1062,
+      "nota_qualidade": 7,
+      "last_seen": "2026-09-13T18:05:09.284213+00:00",
+      "expires_at": "2026-09-14T15:05:09.284213-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Outros"
     },
     {
       "source_id": "1005006076318004",
@@ -1272,10 +1272,10 @@
       "page_url": "https://promoninjaofertas.github.io/produto/smartphone-motorola-edge-60-fusion-5g-256gb-24gb-8gb-ram-16gb-ram-boost-tela.html",
       "avaliacao": null,
       "avaliacoes": 5,
-      "vendas": 851,
+      "vendas": 859,
       "nota_qualidade": 8,
-      "last_seen": "2026-09-13T21:57:40.194916+00:00",
-      "expires_at": "2026-09-14T18:57:40.194916-03:00",
+      "last_seen": "2026-09-13T22:07:59.477053+00:00",
+      "expires_at": "2026-09-14T19:07:59.477053-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech"
@@ -1440,10 +1440,10 @@
       "page_url": "https://promoninjaofertas.github.io/produto/maquina-de-lavar-electrolux-17kg-branca-essential-care-com-cesto-inox-e-jet-clean.html",
       "avaliacao": null,
       "avaliacoes": 10,
-      "vendas": 151,
+      "vendas": 158,
       "nota_qualidade": 8,
-      "last_seen": "2026-09-13T21:57:40.194916+00:00",
-      "expires_at": "2026-09-14T18:57:40.194916-03:00",
+      "last_seen": "2026-09-13T22:07:59.477053+00:00",
+      "expires_at": "2026-09-14T19:07:59.477053-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa"
@@ -1466,11 +1466,11 @@
       "avaliacoes": null,
       "vendas": 274,
       "nota_qualidade": 10,
-      "last_seen": "2026-09-13T21:47:29.904965+00:00",
-      "expires_at": "2026-09-14T18:47:29.904965-03:00",
+      "last_seen": "2026-09-13T22:07:59.477053+00:00",
+      "expires_at": "2026-09-14T19:07:59.477053-03:00",
       "marca": "WAP",
       "price_evidence": {
-        "checked_at": "2026-09-13T21:48:16.847857+00:00",
+        "checked_at": "2026-09-13T22:09:04.973384+00:00",
         "identity": {
           "brand": "WAP",
           "model": null,
@@ -1563,7 +1563,7 @@
       "por": 220.42,
       "desconto": 50,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S3ba502d0b0024c41870e2f3583f5c409C.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4oCrS4i4Bjmx2hTVp3QE9Rre7Mr1NgUcbLKKuBbRd9NiEKJP3ieZy0U25ace4qGZlQLVjgdcM9MG71BgQ8o8xZOoWkGqb8JYjlSuJafLGUyC8BDvCP72PUOcyHFNPZVtvdepnfPaThUx4092eqXtJQWEI50RnTGxZ8u5tsicyh1eIipu7dEY5t9kpacHMBC63NzJBTOdWt80NU2HKj3EbFtIMPQ3NCDGTRxzerENjg4dkJ1RiG1G3GJQv9KOzx1rsvOlGgQfxf9R8sj15sQx1DiHVVZq4oZA3IPx8Ga830tGd6hXI7dqOOwfO9rdgcvce5ALqg6xe98QCWyePZ7NwcTqUPh35oUcMjc5O2uBBPmovpjJjwOBaqk4X13RiB0RwbqvqcE3KP6z4QrBC0heU3xbMwaUsHKVHmDYAapuArq3DiswyWtNFEXbcweoQineqp7nenlab5M7CaZ7YC6Wg8zlr1SuYMB4kMBTUfH9ruK9y5zfW2qfyW4i4LCmXxss3sTIOWhCD8xBWdOQUxUCglNHx8NuG2wUA0cy9LrtqvipUaat8fx7iqO948pStxJN3VWfmCAsnAf7dFoKq8R9F8lYotxS4fRpmpG4qQKIVWUqffVx6mNEMHqnItyAKLydKdQZyWo27Mqj32ossuE5dc4aV3S7JrMxu2PErVzbZAZRhZnpfnN8rt0S7icvUsSbdt3McEl4h449pf",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4oCrS4i4Bjmx2hTVp3QE9Rre7Mr1NgUcbLKKuBbRd9NiEKJP3ieZy0U25ace4qGZlQLVjgdcM9MG71BgQ8o8xZOoWkGqb8JYjlSuJafLGUyC8BDvCP72PUOcyHFNPZVtvdepnfPaThUx4092eqXtJQWEI50RnTGxZ8u5tsicyh1eIipu7dEY5t9kpacHMBC63NzJBTOdWt80NU2HKj3EbFtIMPQ3NCDGTRxzerEsQP4udS9ALRWOnNtdFW5elzbcHIbdrUmThfgs25NiaA0KEZW70GY4t0Lr1tsa2EN1K3TSqKfXAdQIZo04AzWcSxJZgrZEm9TD0Io2fOK6NHKCz5KLJIecQgL7FtguXopwZxdRak3bGQyGLLG3MA5XEECgDukXXDxSyj1ynfGj45yqVJCji0SiADbB1zcuzQfRXFN2z72XSQBIEqvenexl9pyEvxwZNFi9o8HTCZnuIKNbNY4hhn8WKONYEgHifzmnjk1nuG23ym8rDDZx61gCxPmaFjGYk5Fa1wzAuzjNRCvKU1WMkSk2SV7tRfZYrKdNApIf3WU0ji9wT81gJZGWGpvIem70VL0ttV7PEVmikyzToJwI2ZRlObojS9KehG1DFMUwrvGG7BrDBakYs1WZNjul2tWRQIkBWrJlZaZcDu00vs35zj2D5to2z9G0CefQd0itWR2kCG2iTRv7V6NjMbmaFIeDN2ffytaUtT",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Hardware",
@@ -1574,8 +1574,8 @@
       "avaliacoes": null,
       "vendas": 1060,
       "nota_qualidade": 7,
-      "last_seen": "2026-09-13T21:57:40.194916+00:00",
-      "expires_at": "2026-09-14T18:57:40.194916-03:00",
+      "last_seen": "2026-09-13T22:07:59.477053+00:00",
+      "expires_at": "2026-09-14T19:07:59.477053-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech"
