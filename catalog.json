@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-13T08:05:08.275178+00:00",
+  "atualizado": "2026-09-13T08:25:20.885130+00:00",
   "ofertas": [
     {
       "source_id": "21299179885",
@@ -19,11 +19,11 @@
       "avaliacoes": null,
       "vendas": 1321,
       "nota_qualidade": 9,
-      "last_seen": "2026-09-13T06:43:42.889833+00:00",
-      "expires_at": "2026-09-14T03:43:42.889833-03:00",
+      "last_seen": "2026-09-13T08:25:20.885130+00:00",
+      "expires_at": "2026-09-14T05:25:20.885130-03:00",
       "marca": "WAP",
       "price_evidence": {
-        "checked_at": "2026-09-13T06:44:52.928189+00:00",
+        "checked_at": "2026-09-13T08:26:25.330591+00:00",
         "identity": {
           "brand": "WAP",
           "model": null,
@@ -71,11 +71,11 @@
       "avaliacoes": null,
       "vendas": 107,
       "nota_qualidade": 9,
-      "last_seen": "2026-09-13T08:05:08.275178+00:00",
-      "expires_at": "2026-09-14T05:05:08.275178-03:00",
+      "last_seen": "2026-09-13T08:25:20.885130+00:00",
+      "expires_at": "2026-09-14T05:25:20.885130-03:00",
       "marca": "LG",
       "price_evidence": {
-        "checked_at": "2026-09-13T08:06:30.584401+00:00",
+        "checked_at": "2026-09-13T08:26:25.330591+00:00",
         "identity": {
           "brand": "LG",
           "model": "24gs60f-b",
@@ -111,58 +111,6 @@
         "comparison_percent": 12.5
       },
       "grupo": "Gamer"
-    },
-    {
-      "source_id": "23594959395",
-      "titulo": "Furadeira Parafusadeira de Impacto Bosch 48V – 2 Baterias Inclusas | Ferramenta Elétrica",
-      "de": null,
-      "por": 399.33,
-      "desconto": 55,
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lk-mo9dpk20zg1w51",
-      "link": "https://s.shopee.com.br/1gIZMktc9Y",
-      "cupom": null,
-      "loja": "shopee",
-      "categoria": "Smartphones",
-      "data": "2026-09-12T19:16:34.813595-03:00",
-      "slug": "furadeira-parafusadeira-de-impacto-bosch-48v-2-baterias-inclusas-ferramenta-eletrica",
-      "page_url": "https://promoninjaofertas.github.io/produto/furadeira-parafusadeira-de-impacto-bosch-48v-2-baterias-inclusas-ferramenta-eletrica.html",
-      "avaliacao": 4.8,
-      "avaliacoes": null,
-      "vendas": 198,
-      "nota_qualidade": 10,
-      "last_seen": "2026-09-13T07:54:59.877145+00:00",
-      "expires_at": "2026-09-14T04:54:59.877145-03:00",
-      "marca": "Bosch",
-      "price_evidence": {
-        "checked_at": "2026-09-13T07:55:50.131832+00:00",
-        "identity": {
-          "brand": "Bosch",
-          "model": null,
-          "family": "ferramentas",
-          "kind": "produto",
-          "variant": "48v|kit:1",
-          "ambiguous": false,
-          "comparison_key": null
-        },
-        "previous_min": 399.33,
-        "observed_min": 399.33,
-        "since": "2026-09-12T22:18:07.571383+00:00",
-        "observations": 2,
-        "days": 2,
-        "history": [
-          {
-            "at": "2026-09-12T22:18:07.571383+00:00",
-            "price": 399.33
-          },
-          {
-            "at": "2026-09-13T04:37:21.869455+00:00",
-            "price": 399.33
-          }
-        ],
-        "advantage": false,
-        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
-      },
-      "grupo": "Casa"
     },
     {
       "source_id": "18199337362",
@@ -217,6 +165,58 @@
       "grupo": "Casa"
     },
     {
+      "source_id": "23594959395",
+      "titulo": "Furadeira Parafusadeira de Impacto Bosch 48V – 2 Baterias Inclusas | Ferramenta Elétrica",
+      "de": null,
+      "por": 399.33,
+      "desconto": 55,
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lk-mo9dpk20zg1w51",
+      "link": "https://s.shopee.com.br/1gIZMktc9Y",
+      "cupom": null,
+      "loja": "shopee",
+      "categoria": "Smartphones",
+      "data": "2026-09-12T19:16:34.813595-03:00",
+      "slug": "furadeira-parafusadeira-de-impacto-bosch-48v-2-baterias-inclusas-ferramenta-eletrica",
+      "page_url": "https://promoninjaofertas.github.io/produto/furadeira-parafusadeira-de-impacto-bosch-48v-2-baterias-inclusas-ferramenta-eletrica.html",
+      "avaliacao": 4.8,
+      "avaliacoes": null,
+      "vendas": 198,
+      "nota_qualidade": 10,
+      "last_seen": "2026-09-13T07:54:59.877145+00:00",
+      "expires_at": "2026-09-14T04:54:59.877145-03:00",
+      "marca": "Bosch",
+      "price_evidence": {
+        "checked_at": "2026-09-13T07:55:50.131832+00:00",
+        "identity": {
+          "brand": "Bosch",
+          "model": null,
+          "family": "ferramentas",
+          "kind": "produto",
+          "variant": "48v|kit:1",
+          "ambiguous": false,
+          "comparison_key": null
+        },
+        "previous_min": 399.33,
+        "observed_min": 399.33,
+        "since": "2026-09-12T22:18:07.571383+00:00",
+        "observations": 2,
+        "days": 2,
+        "history": [
+          {
+            "at": "2026-09-12T22:18:07.571383+00:00",
+            "price": 399.33
+          },
+          {
+            "at": "2026-09-13T04:37:21.869455+00:00",
+            "price": 399.33
+          }
+        ],
+        "advantage": false,
+        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
+      },
+      "grupo": "Casa"
+    },
+    {
       "source_id": "1005010412672389",
       "titulo": "Caixa de Som Sem Fio para Conferências EMEET 360 °   Microfone para Reuniões com 4 Microfones com Cancelamento de Ruído e Alto-falante Bluetooth para Escritório",
       "de": 607.0,
@@ -239,6 +239,30 @@
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech"
+    },
+    {
+      "source_id": "pechinchou-143620",
+      "titulo": "Body Splash Arabe C/4un 200ml Perfume Masculino De Luxo",
+      "de": 99.9,
+      "por": 50.06,
+      "desconto": 50,
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_732841-MLA108876170355_032026-O.webp",
+      "link": "https://meli.la/1mNheaa",
+      "cupom": "BELEZACOMPRITTAS",
+      "loja": "mercadolivre",
+      "categoria": "Beleza",
+      "data": "2026-09-12T18:12:11.380743-03:00",
+      "slug": "body-splash-arabe-c-4un-200ml-perfume-masculino-de-luxo",
+      "page_url": "https://promoninjaofertas.github.io/produto/body-splash-arabe-c-4un-200ml-perfume-masculino-de-luxo.html",
+      "avaliacao": null,
+      "avaliacoes": 40,
+      "vendas": 500,
+      "nota_qualidade": 7,
+      "last_seen": "2026-09-13T08:25:20.885130+00:00",
+      "expires_at": "2026-09-14T05:25:20.885130-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Moda"
     },
     {
       "source_id": "1005003983116405",
@@ -282,8 +306,8 @@
       "avaliacoes": 10,
       "vendas": 618,
       "nota_qualidade": 9,
-      "last_seen": "2026-09-13T08:05:08.275178+00:00",
-      "expires_at": "2026-09-14T05:05:08.275178-03:00",
+      "last_seen": "2026-09-13T08:25:20.885130+00:00",
+      "expires_at": "2026-09-14T05:25:20.885130-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda"
@@ -303,11 +327,11 @@
       "slug": "perfume-arabe-qaed-al-fursan-lattafa-edp-90-ml",
       "page_url": "https://promoninjaofertas.github.io/produto/perfume-arabe-qaed-al-fursan-lattafa-edp-90-ml.html",
       "avaliacao": null,
-      "avaliacoes": 20,
+      "avaliacoes": 10,
       "vendas": 130,
       "nota_qualidade": 7,
-      "last_seen": "2026-09-13T08:05:08.275178+00:00",
-      "expires_at": "2026-09-14T05:05:08.275178-03:00",
+      "last_seen": "2026-09-13T08:25:20.885130+00:00",
+      "expires_at": "2026-09-14T05:25:20.885130-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda"
@@ -330,8 +354,8 @@
       "avaliacoes": 40,
       "vendas": 130,
       "nota_qualidade": 9,
-      "last_seen": "2026-09-13T08:05:08.275178+00:00",
-      "expires_at": "2026-09-14T05:05:08.275178-03:00",
+      "last_seen": "2026-09-13T08:25:20.885130+00:00",
+      "expires_at": "2026-09-14T05:25:20.885130-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda"
@@ -354,8 +378,8 @@
       "avaliacoes": 66,
       "vendas": 1806,
       "nota_qualidade": 10,
-      "last_seen": "2026-09-13T08:05:08.275178+00:00",
-      "expires_at": "2026-09-14T05:05:08.275178-03:00",
+      "last_seen": "2026-09-13T08:25:20.885130+00:00",
+      "expires_at": "2026-09-14T05:25:20.885130-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda"
@@ -378,8 +402,8 @@
       "avaliacoes": 10,
       "vendas": 496,
       "nota_qualidade": 7,
-      "last_seen": "2026-09-13T08:05:08.275178+00:00",
-      "expires_at": "2026-09-14T05:05:08.275178-03:00",
+      "last_seen": "2026-09-13T08:25:20.885130+00:00",
+      "expires_at": "2026-09-14T05:25:20.885130-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda"
@@ -402,8 +426,8 @@
       "avaliacoes": 60,
       "vendas": 925,
       "nota_qualidade": 7,
-      "last_seen": "2026-09-13T08:05:08.275178+00:00",
-      "expires_at": "2026-09-14T05:05:08.275178-03:00",
+      "last_seen": "2026-09-13T08:25:20.885130+00:00",
+      "expires_at": "2026-09-14T05:25:20.885130-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros"
@@ -426,8 +450,8 @@
       "avaliacoes": 30,
       "vendas": 2887,
       "nota_qualidade": 7,
-      "last_seen": "2026-09-13T08:05:08.275178+00:00",
-      "expires_at": "2026-09-14T05:05:08.275178-03:00",
+      "last_seen": "2026-09-13T08:25:20.885130+00:00",
+      "expires_at": "2026-09-14T05:25:20.885130-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda"
@@ -450,63 +474,11 @@
       "avaliacoes": 100,
       "vendas": 1439,
       "nota_qualidade": 9,
-      "last_seen": "2026-09-13T08:05:08.275178+00:00",
-      "expires_at": "2026-09-14T05:05:08.275178-03:00",
+      "last_seen": "2026-09-13T08:25:20.885130+00:00",
+      "expires_at": "2026-09-14T05:25:20.885130-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa"
-    },
-    {
-      "source_id": "22198437019",
-      "titulo": "IMPRESSORA MULTIFUNCIONAL JATO DE TINTA  ECOTANK  EPSON 3250  Bivolt",
-      "de": null,
-      "por": 1039.0,
-      "desconto": 35,
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-82612-ml5fu9rnsdu5fc",
-      "link": "https://s.shopee.com.br/4AzuLd3u40",
-      "cupom": null,
-      "loja": "shopee",
-      "categoria": "Informatica",
-      "data": "2026-09-12T07:30:38.079626-03:00",
-      "slug": "impressora-multifuncional-jato-de-tinta-ecotank-epson-3250-bivolt",
-      "page_url": "https://promoninjaofertas.github.io/produto/impressora-multifuncional-jato-de-tinta-ecotank-epson-3250-bivolt.html",
-      "avaliacao": 5.0,
-      "avaliacoes": null,
-      "vendas": 1342,
-      "nota_qualidade": 10,
-      "last_seen": "2026-09-13T08:05:08.275178+00:00",
-      "expires_at": "2026-09-14T05:05:08.275178-03:00",
-      "marca": "Epson",
-      "price_evidence": {
-        "checked_at": "2026-09-13T08:06:30.584401+00:00",
-        "identity": {
-          "brand": "Epson",
-          "model": "3250",
-          "family": "impressoras",
-          "kind": "produto",
-          "variant": "bivolt|kit:1",
-          "ambiguous": false,
-          "comparison_key": "epson|3250|bivolt|kit:1"
-        },
-        "previous_min": 1039.0,
-        "observed_min": 1039.0,
-        "since": "2026-09-12T13:31:01.433528+00:00",
-        "observations": 2,
-        "days": 2,
-        "history": [
-          {
-            "at": "2026-09-12T13:31:01.433528+00:00",
-            "price": 1099.0
-          },
-          {
-            "at": "2026-09-13T03:02:09.511401+00:00",
-            "price": 1039.0
-          }
-        ],
-        "advantage": false,
-        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
-      },
-      "grupo": "Tech"
     },
     {
       "source_id": "22897147575",
@@ -557,6 +529,58 @@
           {
             "at": "2026-09-13T03:11:25.974384+00:00",
             "price": 122.0
+          }
+        ],
+        "advantage": false,
+        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
+      },
+      "grupo": "Tech"
+    },
+    {
+      "source_id": "22198437019",
+      "titulo": "IMPRESSORA MULTIFUNCIONAL JATO DE TINTA  ECOTANK  EPSON 3250  Bivolt",
+      "de": null,
+      "por": 1039.0,
+      "desconto": 35,
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-82612-ml5fu9rnsdu5fc",
+      "link": "https://s.shopee.com.br/4AzuLd3u40",
+      "cupom": null,
+      "loja": "shopee",
+      "categoria": "Informatica",
+      "data": "2026-09-12T07:30:38.079626-03:00",
+      "slug": "impressora-multifuncional-jato-de-tinta-ecotank-epson-3250-bivolt",
+      "page_url": "https://promoninjaofertas.github.io/produto/impressora-multifuncional-jato-de-tinta-ecotank-epson-3250-bivolt.html",
+      "avaliacao": 5.0,
+      "avaliacoes": null,
+      "vendas": 1342,
+      "nota_qualidade": 10,
+      "last_seen": "2026-09-13T08:25:20.885130+00:00",
+      "expires_at": "2026-09-14T05:25:20.885130-03:00",
+      "marca": "Epson",
+      "price_evidence": {
+        "checked_at": "2026-09-13T08:26:25.330591+00:00",
+        "identity": {
+          "brand": "Epson",
+          "model": "3250",
+          "family": "impressoras",
+          "kind": "produto",
+          "variant": "bivolt|kit:1",
+          "ambiguous": false,
+          "comparison_key": "epson|3250|bivolt|kit:1"
+        },
+        "previous_min": 1039.0,
+        "observed_min": 1039.0,
+        "since": "2026-09-12T13:31:01.433528+00:00",
+        "observations": 2,
+        "days": 2,
+        "history": [
+          {
+            "at": "2026-09-12T13:31:01.433528+00:00",
+            "price": 1099.0
+          },
+          {
+            "at": "2026-09-13T03:02:09.511401+00:00",
+            "price": 1039.0
           }
         ],
         "advantage": false,
@@ -826,11 +850,11 @@
       "avaliacoes": null,
       "vendas": 479,
       "nota_qualidade": 10,
-      "last_seen": "2026-09-13T06:43:42.889833+00:00",
-      "expires_at": "2026-09-14T03:43:42.889833-03:00",
+      "last_seen": "2026-09-13T08:25:20.885130+00:00",
+      "expires_at": "2026-09-14T05:25:20.885130-03:00",
       "marca": "WAP",
       "price_evidence": {
-        "checked_at": "2026-09-13T06:44:52.928189+00:00",
+        "checked_at": "2026-09-13T08:26:25.330591+00:00",
         "identity": {
           "brand": "WAP",
           "model": "7metros",
@@ -859,110 +883,6 @@
         "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
       },
       "grupo": "Casa"
-    },
-    {
-      "source_id": "55214478888",
-      "titulo": "Caixa de Som Portátil JBL GO 5 Preto Original Bluetooth À Prova D'água Iluminação e Auracast",
-      "de": null,
-      "por": 309.9,
-      "desconto": 23,
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l7-mps2n1sv12wy66",
-      "link": "https://s.shopee.com.br/9zxeaPcnEa",
-      "cupom": null,
-      "loja": "shopee",
-      "categoria": "Audio",
-      "data": "2026-09-10T06:27:22.795034-03:00",
-      "slug": "caixa-de-som-portatil-jbl-go-5-preto-original-bluetooth-a-prova-d-agua",
-      "page_url": "https://promoninjaofertas.github.io/produto/caixa-de-som-portatil-jbl-go-5-preto-original-bluetooth-a-prova-d-agua.html",
-      "avaliacao": 4.9,
-      "avaliacoes": null,
-      "vendas": 124,
-      "nota_qualidade": 9,
-      "last_seen": "2026-09-12T23:27:20.715872+00:00",
-      "expires_at": "2026-09-13T20:27:20.715872-03:00",
-      "marca": "JBL",
-      "price_evidence": {
-        "checked_at": "2026-09-12T23:28:24.832718+00:00",
-        "identity": {
-          "brand": "JBL",
-          "model": null,
-          "family": "audio",
-          "kind": "produto",
-          "variant": "cor:preto|kit:1",
-          "ambiguous": false,
-          "comparison_key": null
-        },
-        "previous_min": 309.9,
-        "observed_min": 309.9,
-        "since": "2026-09-12T22:19:00.776474+00:00",
-        "observations": 1,
-        "days": 1,
-        "history": [
-          {
-            "at": "2026-09-12T22:19:00.776474+00:00",
-            "price": 309.9
-          }
-        ],
-        "advantage": false,
-        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
-      },
-      "grupo": "Tech"
-    },
-    {
-      "source_id": "46662348294",
-      "titulo": "Monitor Gamer Acer KG243Y 23.8\" Full HD 144Hz IPS HDMI P1bip - Preto - Bivolt",
-      "de": null,
-      "por": 657.9,
-      "desconto": 59,
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lt-mpjrkv9dzabnb3",
-      "link": "https://s.shopee.com.br/4qFb8V1B6v",
-      "cupom": null,
-      "loja": "shopee",
-      "categoria": "Hardware",
-      "data": "2026-09-10T06:27:22.795034-03:00",
-      "slug": "monitor-gamer-acer-kg243y-23-8-full-hd-144hz-ips-hdmi-p1bip-preto-bivolt",
-      "page_url": "https://promoninjaofertas.github.io/produto/monitor-gamer-acer-kg243y-23-8-full-hd-144hz-ips-hdmi-p1bip-preto-bivolt.html",
-      "avaliacao": 5.0,
-      "avaliacoes": null,
-      "vendas": 385,
-      "nota_qualidade": 10,
-      "last_seen": "2026-09-13T08:05:08.275178+00:00",
-      "expires_at": "2026-09-14T05:05:08.275178-03:00",
-      "marca": "Acer",
-      "price_evidence": {
-        "checked_at": "2026-09-13T08:06:30.584401+00:00",
-        "identity": {
-          "brand": "Acer",
-          "model": "kg243y",
-          "family": "monitores",
-          "kind": "produto",
-          "variant": "bivolt|codigo:p1bip|cor:preto|kit:1",
-          "ambiguous": false,
-          "comparison_key": "acer|kg243y|bivolt|codigo:p1bip|cor:preto|kit:1"
-        },
-        "previous_min": 657.9,
-        "observed_min": 657.9,
-        "since": "2026-09-12T13:31:01.433528+00:00",
-        "observations": 3,
-        "days": 2,
-        "history": [
-          {
-            "at": "2026-09-12T13:31:01.433528+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-12T22:28:39.914734+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-13T04:32:17.838111+00:00",
-            "price": 657.9
-          }
-        ],
-        "advantage": false,
-        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
-      },
-      "grupo": "Gamer"
     },
     {
       "source_id": "23293788558",
@@ -1017,6 +937,110 @@
       "grupo": "Gamer"
     },
     {
+      "source_id": "46662348294",
+      "titulo": "Monitor Gamer Acer KG243Y 23.8\" Full HD 144Hz IPS HDMI P1bip - Preto - Bivolt",
+      "de": null,
+      "por": 657.9,
+      "desconto": 59,
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lt-mpjrkv9dzabnb3",
+      "link": "https://s.shopee.com.br/4qFb8V1B6v",
+      "cupom": null,
+      "loja": "shopee",
+      "categoria": "Hardware",
+      "data": "2026-09-10T06:27:22.795034-03:00",
+      "slug": "monitor-gamer-acer-kg243y-23-8-full-hd-144hz-ips-hdmi-p1bip-preto-bivolt",
+      "page_url": "https://promoninjaofertas.github.io/produto/monitor-gamer-acer-kg243y-23-8-full-hd-144hz-ips-hdmi-p1bip-preto-bivolt.html",
+      "avaliacao": 5.0,
+      "avaliacoes": null,
+      "vendas": 385,
+      "nota_qualidade": 10,
+      "last_seen": "2026-09-13T08:25:20.885130+00:00",
+      "expires_at": "2026-09-14T05:25:20.885130-03:00",
+      "marca": "Acer",
+      "price_evidence": {
+        "checked_at": "2026-09-13T08:26:25.330591+00:00",
+        "identity": {
+          "brand": "Acer",
+          "model": "kg243y",
+          "family": "monitores",
+          "kind": "produto",
+          "variant": "bivolt|codigo:p1bip|cor:preto|kit:1",
+          "ambiguous": false,
+          "comparison_key": "acer|kg243y|bivolt|codigo:p1bip|cor:preto|kit:1"
+        },
+        "previous_min": 657.9,
+        "observed_min": 657.9,
+        "since": "2026-09-12T13:31:01.433528+00:00",
+        "observations": 3,
+        "days": 2,
+        "history": [
+          {
+            "at": "2026-09-12T13:31:01.433528+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-12T22:28:39.914734+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-13T04:32:17.838111+00:00",
+            "price": 657.9
+          }
+        ],
+        "advantage": false,
+        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
+      },
+      "grupo": "Gamer"
+    },
+    {
+      "source_id": "55214478888",
+      "titulo": "Caixa de Som Portátil JBL GO 5 Preto Original Bluetooth À Prova D'água Iluminação e Auracast",
+      "de": null,
+      "por": 309.9,
+      "desconto": 23,
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l7-mps2n1sv12wy66",
+      "link": "https://s.shopee.com.br/9zxeaPcnEa",
+      "cupom": null,
+      "loja": "shopee",
+      "categoria": "Audio",
+      "data": "2026-09-10T06:27:22.795034-03:00",
+      "slug": "caixa-de-som-portatil-jbl-go-5-preto-original-bluetooth-a-prova-d-agua",
+      "page_url": "https://promoninjaofertas.github.io/produto/caixa-de-som-portatil-jbl-go-5-preto-original-bluetooth-a-prova-d-agua.html",
+      "avaliacao": 4.9,
+      "avaliacoes": null,
+      "vendas": 124,
+      "nota_qualidade": 9,
+      "last_seen": "2026-09-12T23:27:20.715872+00:00",
+      "expires_at": "2026-09-13T20:27:20.715872-03:00",
+      "marca": "JBL",
+      "price_evidence": {
+        "checked_at": "2026-09-12T23:28:24.832718+00:00",
+        "identity": {
+          "brand": "JBL",
+          "model": null,
+          "family": "audio",
+          "kind": "produto",
+          "variant": "cor:preto|kit:1",
+          "ambiguous": false,
+          "comparison_key": null
+        },
+        "previous_min": 309.9,
+        "observed_min": 309.9,
+        "since": "2026-09-12T22:19:00.776474+00:00",
+        "observations": 1,
+        "days": 1,
+        "history": [
+          {
+            "at": "2026-09-12T22:19:00.776474+00:00",
+            "price": 309.9
+          }
+        ],
+        "advantage": false,
+        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
+      },
+      "grupo": "Tech"
+    },
+    {
       "source_id": "1005006965436436",
       "titulo": "Projetor Mini Smart para Home Theater BYINTEK U4 LOVE 1, Vídeo 4K 1080P, Android WIFI para Cinema em Smartphone",
       "de": 1596.93,
@@ -1047,7 +1071,7 @@
       "por": 165.35,
       "desconto": 59,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S19ef127e0d9b40f09802f5caad87851b9.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mLmqWqgZyrm2wdIQcimGRFvG3C6BbmIUTQwfgBCALZ5PHV8bytiVoPD51fwBp7lJx51r9ZYebVGtMaZEIpSAaODbAnlhKeOaFlIglJBWuhNuulmzw3TjuiwRAYzmeizfiPX5RVck2f7aJzEqgTZG477uZAv4GKwnNHYVIwB4GpZypX4jDK6EQ5SNyaGuNwYMbLDumtUuCsBktoxSRr9TKM7Ly6w4CYfIKd5RhEPWjrdxBmaOviDCwNynwdlvacBJkCkNmYhhgqlC76JvcFI76pHlEPFHk2etJ7wS5wfOuuWNkk4HRUY8PbSteMEGg4SZjMbN4QVPm1rRXWnBvxPqftfsdlV7JuA755TFmVOtPDH0fiNrXrrJOXxowSvGybaa3Fk7cpcOXm0Y8smdGVFAj9LzIvqHhSMfLqhnj4qpJMrH3alfHTMU9qd1EfbgHvUU5RFxDymdf2ygP7ysoRdKBYWYJK1vrAlmyRnMalw8VMzRewPZwksmLtNaWL2byUx4xtaBXnqJgLPyP6Gwa8IBe6pWIID4yxhCIk2ctHNv715RV9R9ofxfEodqyGTnKos5Q2LyO9QhxZGXHPnrT2uMnvE3oSE6bhdla1RgujjRnES78KVoWRvoaHdmUE0EMZcV15jSyRiCwyBb5ZEUgeNzicXD5zEywdXwsvVXUW8cYMF7BVQNkAdoYb9GJYaET5A5YXFkeLKtSm9bM",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mLmqWqgZyrm2wdIQcimGRFvG3C6BbmIUTQwfgBCALZ5PHV8bytiVoPD51fwBp7lJx51r9ZYebVGtMaZEIpSAaODbAnlhKeOaFlIglJBWuhNuulmzw3TjuiwRAYzmeizfiPX5RVck2f7aJzEqgTZG477uZAv4GKwnNHYVIwB4GpZypX4jDK6EQ5SNyaGuNwYMbLDumtUuCsBktoxSRr9TKM7Ly6w4CYfIKd5RhFabaii3Lth4Z5uVoTwUxhfN8pio0RUnTy4hUxQHv2zWsdtU0r5pJTSbn3mFWp7EIOFQirTHGwYn9TwbXlsgRXABm1gS5ciMOOEXRKq1T2F9IhUh6gV5SYQcpe7Rf4j4gMb04lQEThafXqpCft29PY3o3lj5VzdeoJlc0XfhMXizb0ZvuuyUDckd3CNze4eWKfgBZHQ4C4sEiJVxZ1YO2IrGWDBWGjcS29fr7tOwWcu1JHlgHAu4Q21xExXKmlcniNgjUDFlQIDmQ8YmG6m0eR0BHrG3rccrfJCEyTQzXi4dpteOxBa1k7gNVHTG1m4wsA09HWPEhlJZ6qLogEYledIMpQV1YaGGvkGuhsI6B5ofoMKrbvdMCRCUAk679oF8vLg3GI3BGXoRfK8FduHxJdRsGxHqx5RThW8FNgeRBIt3CJTugFYorJyvvhsP0y6loKn7ewVXD4RtHidtHtqR0yjd24cD5RKrk12kWhh0Q",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Audio",
@@ -1058,8 +1082,8 @@
       "avaliacoes": null,
       "vendas": 150,
       "nota_qualidade": 8,
-      "last_seen": "2026-09-13T03:21:14.574192+00:00",
-      "expires_at": "2026-09-14T00:21:14.574192-03:00",
+      "last_seen": "2026-09-13T08:25:20.885130+00:00",
+      "expires_at": "2026-09-14T05:25:20.885130-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Gamer"
@@ -1167,7 +1191,7 @@
       "por": 181.99,
       "desconto": 47,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sf379ba197820456e9fba958ae173e989l.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mKqvqIZBGrglfV1irtOA3Fj7ruAtipWlmszcqPyUpdXSWstwcfiTu0GBNTPJB99bReNJbxtI6nv1n5dsS54mMRCGptPkkdjlmZIiHDiwQGKC0llMSPTqscyHb8XSdZI4lXUp2qUeuU7nvY2n903qDehV3n0CL2dPQwayr5jiTnPCb02gl9ADtlixqT5ThZzgpYvVQpqehlM5fkDO7tN0a93bLXX1oHDnDWBX9XwRIRWbwDXVBItVwDkT0zQbQa8ZeMQYaJOpNs30luDPRpSASVgs7bvmZrKpCTxQcBJ4pKnfHcWDtnzLp6CS7jrtJPN2NMPDWsQmFuqxxgBbDFDXxUqwRoaAd5iMzocri378fH5UvYq63GV6KVBAfYpovnk2Z2qGFCxDN3KoLfIi6WneM3o9R3kAaKHbd9v4leVyDkkTP75HsKysPnGXW5RB2Xu3izTKEiu39ydmZsfW5PgEKaOF3DIzqMw0nbk6A9NOpjo0RJ8HRUFQtfzZmo9KYvObkyydKmiB42t50Qd6BgeZqDBhHOA4TwVTpSustHWpGYI7TDgWpJufKL0aFGxMnsF6ARgo2FzLA6yq1HOEXicFrwznBsxcvcjnaNxWDLMcRl6kyvz73RFdiVNlblVwQrAzUZr7EWbK7HDqjHA8C2gS9N3z0IpeQ8aqwuXH21btQTlzp2KY0FAmDdYn6jaug9MuDQ4rvW9docJyI",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mKqvqIZBGrglfV1irtOA3Fj7ruAtipWlmszcqPyUpdXSWstwcfiTu0GBNTPJB99bReNJbxtI6nv1n5dsS54mMRCGptPkkdjlmZIiHDiwQGKC0llMSPTqscyHb8XSdZI4lXUp2qUeuU7nvY2n903qDehV3n0CL2dPQwayr5jiTnPCb02gl9ADtlixqT5ThZzgpYvVQpqehlM5fkDO7tN0a93bLXX1oHDnDWBX9WvI3xTKmyR2bpBo5j4cPp6bRiNJDStb5ZuMKCwbjUU2CmyomNHUriFRZ7neKZT5YU7REEjiLgkwS1RuLMCkh4zgS4sFE9f9wtRJdvUIY6x0DLmnCYWb69JIq04ii90neb8UuEMCs3GWFxFlZa7xyhdMXNUfGeQRJQ2vPruTZTd3ps9Kuzcsf4bZqWPafeAMEgMkWvXRGhdnC2BMpIfYRscGlC92mo3YtGb4wUoswvoPewy62oKKfTUzZgH8AJduS6FufGC7Dv93UlWX1cbhMr4s1M67zR43xp9yQqvAs5TitNkqwPPHBccpfUWKBmiz1sCHu0IY357ecRh4Ol1svT1cm62tc3OExPuFkfbeY8s1wMAly17kBzCImVcM60XJefpYQcGvWkTDsXHK2PAoAgTl6JiCU3RugRqn1bWSgE2np4IswJPos09eya6bqpKUDwQqSoeMXG1KxNPfGkNaLZvbV4iYBB5QJ04vpq4jg",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Hardware",
@@ -1178,8 +1202,8 @@
       "avaliacoes": null,
       "vendas": 128,
       "nota_qualidade": 9,
-      "last_seen": "2026-09-13T08:05:08.275178+00:00",
-      "expires_at": "2026-09-14T05:05:08.275178-03:00",
+      "last_seen": "2026-09-13T08:25:20.885130+00:00",
+      "expires_at": "2026-09-14T05:25:20.885130-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech"
@@ -1370,11 +1394,11 @@
       "avaliacoes": null,
       "vendas": 279,
       "nota_qualidade": 10,
-      "last_seen": "2026-09-13T06:43:42.889833+00:00",
-      "expires_at": "2026-09-14T03:43:42.889833-03:00",
+      "last_seen": "2026-09-13T08:25:20.885130+00:00",
+      "expires_at": "2026-09-14T05:25:20.885130-03:00",
       "marca": "WAP",
       "price_evidence": {
-        "checked_at": "2026-09-13T06:44:52.928189+00:00",
+        "checked_at": "2026-09-13T08:26:25.330591+00:00",
         "identity": {
           "brand": "WAP",
           "model": null,
@@ -1411,7 +1435,7 @@
       "por": 359.99,
       "desconto": 47,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sf86cc8b7948b4924ab2e422fd62fa662n.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4k9hrkFwWoPoe3dx2yf0KB39wOjo26f3bATUbRK2tQmKPFeCcKTRp4wsUygS5LXvyIQkLoV4MmhAfzsbtlr6BS0ROfrG66OZNeTGlSMQIHhJYqLaENhCyf3pQYOgKzNQYsnYfEVZWKtquZbMtLvxVZIftR4KvK1U1XW8LjX0xdtMIaT6EwUo1j26tdkLxemR7NgGA3D8Oo2uMtYu05uwEDofIvU6dGN08uyWmKz9B3m63wJsrrmB3AISxoN2f84aeXql1qPa0pv9t4Zo5UnefxLjFiS9wwmkqGhu6hLVWffFecyiVZqJlRD9XYabUVbcY7AEV2hSiEHfnOD8DEy24iIUBxcfN8U2twSolAYxo37HKA1sbepFIaSDgCeAHQ5ArGHBbUdrXR3Kcmx6hajLWOe5DA0ejjZQH9Whrl9UgXAGTb3zinjhrkipxiDcqBLsDtHz4BhPqIXtQQaH44xCeiuHFrjumLQX96UHNde0JsZJyEMNtxb9gOmRYYJ4TeRoDlVXbVRtDB2ZWYp78IBpROMhX85Gin0e82Y9DP9R193wE74rBCpii0uZg4fmxb7PX2HM9o2OciFeF8yjXxzRYgtAoAxoswwvNt9GxEmtHlpOKZMhhFae3y9QIzgeX0JNF8LddXtpNNuQd3nSznrB1KIPnRtSYYx8VmBgyVFWFntkliAOIWG3sgqN3X4Xl8Z92GuCq6aQgtJFEp",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4k9hrkFwWoPoe3dx2yf0KB39wOjo26f3bATUbRK2tQmKPFeCcKTRp4wsUygS5LXvyIQkLoV4MmhAfzsbtlr6BS0ROfrG66OZNeTGlSMQIHhJYqLaENhCyf3pQYOgKzNQYsnYfEVZWKtquZbMtLvxVZIftR4KvK1U1XW8LjX0xdtMIaT6EwUo1j26tdkLxemR7NgGA3D8Oo2uMtYu05uwEDofIvU6dGN08uyWmKy7xAEX6n8gc2WiyES6MmAyfAdh46LTJ6KIIjgwHyTtEg5cjjXutPRqtKI0WITleRNwr0EmWjUX3QSV7gSzPhxQLl188gVA6G18o6flgih9IwE4a5Vn53MfnSATQGbDUCrDtYBLcPMknegVhUM6Q1cCqREGLsj2L08rp9bzLSLIjslyZtBSnqapMBBCliihLLnmhKnolQRQ0Dqh49Oks56LPX5bIrsME8zUEgC2CCWlcQTgNBurgfE6cNwh8R3hpdJDODUsOcW7MZpjdPL3LgEXsbbszxQPp6IMvYhrNYSfqTE9J3c4NRnveIE3K0pQAzCHkBUmElpnVBaZKokncLAqUPTIUMafHNIUEIkWRK3x1e6w1CoZjZil5CQM8f6HKYGoDR3NzEW4gBWUP79AwgeF5L8oPM3aFTLTz0us4Uy5eJKjFwVKbB9Ucy2dfopB4oUDID7CuMCtDWRkzeD3nWdfUfcwtEsO9P4pnHrGIV",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Hardware",
@@ -1422,8 +1446,8 @@
       "avaliacoes": null,
       "vendas": 113,
       "nota_qualidade": 9,
-      "last_seen": "2026-09-13T08:05:08.275178+00:00",
-      "expires_at": "2026-09-14T05:05:08.275178-03:00",
+      "last_seen": "2026-09-13T08:25:20.885130+00:00",
+      "expires_at": "2026-09-14T05:25:20.885130-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech"
