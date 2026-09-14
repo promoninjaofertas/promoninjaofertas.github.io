@@ -320,7 +320,7 @@
     <main class="catalog-panel">
       <div class="catalog-head">
         <svg class="catalog-head-icon" viewBox="0 0 24 24" fill="currentColor"><path d="m13 2-9 12h7l-1 8 9-12h-7l1-8Z"/></svg>
-        <h2>Ofertas em destaque</h2>
+        <h2>Ofertas de hoje</h2>
         <span class="result-count" id="resultCount">18 ofertas</span>
       </div>
       <section class="grid" id="grid"><article class="card">
@@ -704,7 +704,7 @@
         ${coupon}
         <div class="prices">${oldPrice}<strong class="current-price">${money(offer.por)}</strong></div>
         <span class="verified">${CHECK_ICON}Confira condições na loja</span>
-        <a class="buy-button" href="${link}" target="_blank" rel="nofollow sponsored noopener" data-store="${escapeHtml(offer.lojaN)}" data-title="${escapeHtml(offer.titulo)}" data-item-id="${escapeHtml(offer.slug||offer.source_id)}">${CART_ICON}Garantir oferta</a>
+        <a class="buy-button" href="${link}" target="_blank" rel="nofollow sponsored noopener" data-store="${escapeHtml(offer.lojaN)}" data-title="${escapeHtml(offer.titulo)}" data-item-id="${escapeHtml(offer.slug||offer.source_id)}">${CART_ICON}Pegar oferta</a>
       </div>
     </article>`;
   }
