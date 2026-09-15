@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-15T08:37:40.003896+00:00",
+  "atualizado": "2026-09-15T08:47:51.582153+00:00",
   "ofertas": [
     {
       "source_id": "pechinchou-151935",
@@ -19,8 +19,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 9,
-      "last_seen": "2026-09-15T08:37:40.003896+00:00",
-      "expires_at": "2026-09-16T05:37:40.003896-03:00",
+      "last_seen": "2026-09-15T08:47:51.582153+00:00",
+      "expires_at": "2026-09-16T05:47:51.582153-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech"
@@ -43,8 +43,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-09-15T08:37:40.003896+00:00",
-      "expires_at": "2026-09-16T05:37:40.003896-03:00",
+      "last_seen": "2026-09-15T08:47:51.582153+00:00",
+      "expires_at": "2026-09-16T05:47:51.582153-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda"
@@ -67,8 +67,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-09-15T08:37:40.003896+00:00",
-      "expires_at": "2026-09-16T05:37:40.003896-03:00",
+      "last_seen": "2026-09-15T08:47:51.582153+00:00",
+      "expires_at": "2026-09-16T05:47:51.582153-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros"
@@ -91,8 +91,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-09-15T08:37:40.003896+00:00",
-      "expires_at": "2026-09-16T05:37:40.003896-03:00",
+      "last_seen": "2026-09-15T08:47:51.582153+00:00",
+      "expires_at": "2026-09-16T05:47:51.582153-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros"
@@ -115,35 +115,11 @@
       "avaliacoes": 1,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-09-15T08:37:40.003896+00:00",
-      "expires_at": "2026-09-16T05:37:40.003896-03:00",
+      "last_seen": "2026-09-15T08:47:51.582153+00:00",
+      "expires_at": "2026-09-16T05:47:51.582153-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa"
-    },
-    {
-      "source_id": "pechinchou-142456",
-      "titulo": "Conjunto Suplex Blackout Zero Transparência Legging E Croppe",
-      "de": 77.0,
-      "por": 57.0,
-      "desconto": 26,
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_637972-MLB113662645207_062026-O.webp",
-      "link": "https://meli.la/1ayaGDx",
-      "cupom": "PAGUEMENOSJA",
-      "loja": "mercadolivre",
-      "categoria": "Beleza",
-      "data": "2026-09-14T22:22:29.882407-03:00",
-      "slug": "conjunto-suplex-blackout-zero-transparencia-legging-e-croppe",
-      "page_url": "https://promoninjaofertas.github.io/produto/conjunto-suplex-blackout-zero-transparencia-legging-e-croppe.html",
-      "avaliacao": null,
-      "avaliacoes": 10,
-      "vendas": null,
-      "nota_qualidade": 6,
-      "last_seen": "2026-09-15T08:37:40.003896+00:00",
-      "expires_at": "2026-09-16T05:37:40.003896-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Moda"
     },
     {
       "source_id": "pechinchou-101325",
@@ -163,8 +139,32 @@
       "avaliacoes": 3,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-09-15T08:37:40.003896+00:00",
-      "expires_at": "2026-09-16T05:37:40.003896-03:00",
+      "last_seen": "2026-09-15T08:47:51.582153+00:00",
+      "expires_at": "2026-09-16T05:47:51.582153-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Moda"
+    },
+    {
+      "source_id": "pechinchou-142456",
+      "titulo": "Conjunto Suplex Blackout Zero Transparência Legging E Croppe",
+      "de": 77.0,
+      "por": 57.0,
+      "desconto": 26,
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_637972-MLB113662645207_062026-O.webp",
+      "link": "https://meli.la/1ayaGDx",
+      "cupom": "PAGUEMENOSJA",
+      "loja": "mercadolivre",
+      "categoria": "Beleza",
+      "data": "2026-09-14T22:22:29.882407-03:00",
+      "slug": "conjunto-suplex-blackout-zero-transparencia-legging-e-croppe",
+      "page_url": "https://promoninjaofertas.github.io/produto/conjunto-suplex-blackout-zero-transparencia-legging-e-croppe.html",
+      "avaliacao": null,
+      "avaliacoes": 10,
+      "vendas": null,
+      "nota_qualidade": 6,
+      "last_seen": "2026-09-15T08:47:51.582153+00:00",
+      "expires_at": "2026-09-16T05:47:51.582153-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda"
@@ -187,8 +187,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 7,
-      "last_seen": "2026-09-15T08:37:40.003896+00:00",
-      "expires_at": "2026-09-16T05:37:40.003896-03:00",
+      "last_seen": "2026-09-15T08:47:51.582153+00:00",
+      "expires_at": "2026-09-16T05:47:51.582153-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros"
@@ -211,8 +211,8 @@
       "avaliacoes": 10,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-09-15T08:37:40.003896+00:00",
-      "expires_at": "2026-09-16T05:37:40.003896-03:00",
+      "last_seen": "2026-09-15T08:47:51.582153+00:00",
+      "expires_at": "2026-09-16T05:47:51.582153-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa"
@@ -235,8 +235,8 @@
       "avaliacoes": 3,
       "vendas": null,
       "nota_qualidade": 7,
-      "last_seen": "2026-09-15T08:37:40.003896+00:00",
-      "expires_at": "2026-09-16T05:37:40.003896-03:00",
+      "last_seen": "2026-09-15T08:47:51.582153+00:00",
+      "expires_at": "2026-09-16T05:47:51.582153-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech"
@@ -259,8 +259,8 @@
       "avaliacoes": 20,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-09-15T08:37:40.003896+00:00",
-      "expires_at": "2026-09-16T05:37:40.003896-03:00",
+      "last_seen": "2026-09-15T08:47:51.582153+00:00",
+      "expires_at": "2026-09-16T05:47:51.582153-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda"
@@ -283,8 +283,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 7,
-      "last_seen": "2026-09-15T08:37:40.003896+00:00",
-      "expires_at": "2026-09-16T05:37:40.003896-03:00",
+      "last_seen": "2026-09-15T08:47:51.582153+00:00",
+      "expires_at": "2026-09-16T05:47:51.582153-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda"
@@ -307,8 +307,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 7,
-      "last_seen": "2026-09-15T08:37:40.003896+00:00",
-      "expires_at": "2026-09-16T05:37:40.003896-03:00",
+      "last_seen": "2026-09-15T08:47:51.582153+00:00",
+      "expires_at": "2026-09-16T05:47:51.582153-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda"
@@ -331,8 +331,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 7,
-      "last_seen": "2026-09-15T08:37:40.003896+00:00",
-      "expires_at": "2026-09-16T05:37:40.003896-03:00",
+      "last_seen": "2026-09-15T08:47:51.582153+00:00",
+      "expires_at": "2026-09-16T05:47:51.582153-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda"
@@ -355,8 +355,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 7,
-      "last_seen": "2026-09-15T08:37:40.003896+00:00",
-      "expires_at": "2026-09-16T05:37:40.003896-03:00",
+      "last_seen": "2026-09-15T08:47:51.582153+00:00",
+      "expires_at": "2026-09-16T05:47:51.582153-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda"
@@ -379,8 +379,8 @@
       "avaliacoes": 2,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-09-15T08:37:40.003896+00:00",
-      "expires_at": "2026-09-16T05:37:40.003896-03:00",
+      "last_seen": "2026-09-15T08:47:51.582153+00:00",
+      "expires_at": "2026-09-16T05:47:51.582153-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa"
@@ -403,8 +403,8 @@
       "avaliacoes": 6,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-09-15T08:37:40.003896+00:00",
-      "expires_at": "2026-09-16T05:37:40.003896-03:00",
+      "last_seen": "2026-09-15T08:47:51.582153+00:00",
+      "expires_at": "2026-09-16T05:47:51.582153-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda"
@@ -427,8 +427,8 @@
       "avaliacoes": 5,
       "vendas": null,
       "nota_qualidade": 8,
-      "last_seen": "2026-09-15T08:37:40.003896+00:00",
-      "expires_at": "2026-09-16T05:37:40.003896-03:00",
+      "last_seen": "2026-09-15T08:47:51.582153+00:00",
+      "expires_at": "2026-09-16T05:47:51.582153-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech"
@@ -499,8 +499,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 8,
-      "last_seen": "2026-09-15T08:37:40.003896+00:00",
-      "expires_at": "2026-09-16T05:37:40.003896-03:00",
+      "last_seen": "2026-09-15T08:47:51.582153+00:00",
+      "expires_at": "2026-09-16T05:47:51.582153-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros"
@@ -523,8 +523,8 @@
       "avaliacoes": 10,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-09-15T08:37:40.003896+00:00",
-      "expires_at": "2026-09-16T05:37:40.003896-03:00",
+      "last_seen": "2026-09-15T08:47:51.582153+00:00",
+      "expires_at": "2026-09-16T05:47:51.582153-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech"
@@ -535,7 +535,7 @@
       "de": 119.9,
       "por": 99.9,
       "desconto": 17,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/resident-evil-4-playstation-5_R6jxWXi.png",
+      "imagem": "https://m.media-amazon.com/images/I/618eWcXm0EL._SL1500_.jpg",
       "link": "https://www.amazon.com.br/dp/B0FC32TQYS?tag=promoninja0b2-20",
       "cupom": null,
       "loja": "amazon",
@@ -547,8 +547,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-09-15T08:37:40.003896+00:00",
-      "expires_at": "2026-09-16T05:37:40.003896-03:00",
+      "last_seen": "2026-09-15T08:47:51.582153+00:00",
+      "expires_at": "2026-09-16T05:47:51.582153-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Gamer"
@@ -571,8 +571,8 @@
       "avaliacoes": 3,
       "vendas": null,
       "nota_qualidade": 8,
-      "last_seen": "2026-09-15T08:37:40.003896+00:00",
-      "expires_at": "2026-09-16T05:37:40.003896-03:00",
+      "last_seen": "2026-09-15T08:47:51.582153+00:00",
+      "expires_at": "2026-09-16T05:47:51.582153-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech"
@@ -595,8 +595,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-09-15T08:37:40.003896+00:00",
-      "expires_at": "2026-09-16T05:37:40.003896-03:00",
+      "last_seen": "2026-09-15T08:47:51.582153+00:00",
+      "expires_at": "2026-09-16T05:47:51.582153-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros"
@@ -619,8 +619,8 @@
       "avaliacoes": 2,
       "vendas": null,
       "nota_qualidade": 7,
-      "last_seen": "2026-09-15T08:37:40.003896+00:00",
-      "expires_at": "2026-09-16T05:37:40.003896-03:00",
+      "last_seen": "2026-09-15T08:47:51.582153+00:00",
+      "expires_at": "2026-09-16T05:47:51.582153-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa"
@@ -650,30 +650,6 @@
       "grupo": "Casa"
     },
     {
-      "source_id": "3041307",
-      "titulo": "Campainha Sem Fio sem Bateria CIB 101S Branca Intelbras",
-      "de": null,
-      "por": 59.14,
-      "desconto": 0,
-      "imagem": "https://m.media-amazon.com/images/I/41ko+0FhodL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0G2MFNXN5?tag=promoninja0b2-20",
-      "cupom": null,
-      "loja": "amazon",
-      "categoria": "Pet",
-      "data": "2026-09-14T22:42:37.995473-03:00",
-      "slug": "campainha-sem-fio-sem-bateria-cib-101s-branca-intelbras-7a5f8a",
-      "page_url": "https://promoninjaofertas.github.io/produto/campainha-sem-fio-sem-bateria-cib-101s-branca-intelbras-7a5f8a.html",
-      "avaliacao": null,
-      "avaliacoes": 2,
-      "vendas": 0,
-      "nota_qualidade": 6,
-      "last_seen": "2026-09-15T01:42:37.995473+00:00",
-      "expires_at": "2026-09-15T22:42:37.995473-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Casa"
-    },
-    {
       "source_id": "3041228",
       "titulo": "MONDIAL Liquidificador Turbo Power 550W, 110V, Vermelho, 1,6L - L-99 FR",
       "de": null,
@@ -693,6 +669,30 @@
       "nota_qualidade": 6,
       "last_seen": "2026-09-15T02:43:11.999936+00:00",
       "expires_at": "2026-09-15T23:43:11.999936-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Casa"
+    },
+    {
+      "source_id": "3041307",
+      "titulo": "Campainha Sem Fio sem Bateria CIB 101S Branca Intelbras",
+      "de": null,
+      "por": 59.14,
+      "desconto": 0,
+      "imagem": "https://m.media-amazon.com/images/I/41ko+0FhodL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0G2MFNXN5?tag=promoninja0b2-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Pet",
+      "data": "2026-09-14T22:42:37.995473-03:00",
+      "slug": "campainha-sem-fio-sem-bateria-cib-101s-branca-intelbras-7a5f8a",
+      "page_url": "https://promoninjaofertas.github.io/produto/campainha-sem-fio-sem-bateria-cib-101s-branca-intelbras-7a5f8a.html",
+      "avaliacao": null,
+      "avaliacoes": 2,
+      "vendas": 0,
+      "nota_qualidade": 6,
+      "last_seen": "2026-09-15T01:42:37.995473+00:00",
+      "expires_at": "2026-09-15T22:42:37.995473-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa"
@@ -842,30 +842,6 @@
       "grupo": "Tech"
     },
     {
-      "source_id": "3040134",
-      "titulo": "Jogo God of War Ragnarök - Edição Standard - PlayStation 4",
-      "de": 339.9,
-      "por": 89.9,
-      "desconto": 74,
-      "imagem": "https://m.media-amazon.com/images/I/819bwWHNMJL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0BH58QPYN?tag=promoninja0b2-20",
-      "cupom": null,
-      "loja": "amazon",
-      "categoria": "Games",
-      "data": "2026-09-14T14:59:53.130332-03:00",
-      "slug": "jogo-god-of-war-ragnarok-edicao-standard-playstation-4",
-      "page_url": "https://promoninjaofertas.github.io/produto/jogo-god-of-war-ragnarok-edicao-standard-playstation-4.html",
-      "avaliacao": null,
-      "avaliacoes": 15,
-      "vendas": 700,
-      "nota_qualidade": 7,
-      "last_seen": "2026-09-15T06:26:19.981648+00:00",
-      "expires_at": "2026-09-16T03:26:19.981648-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Gamer"
-    },
-    {
       "source_id": "3040102",
       "titulo": "GameSir Cyclone 2 Wireless PC Controller,1000Hz,TMR Joysticks",
       "de": 339.99,
@@ -885,6 +861,30 @@
       "nota_qualidade": 6,
       "last_seen": "2026-09-14T17:59:53.130332+00:00",
       "expires_at": "2026-09-15T14:59:53.130332-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Gamer"
+    },
+    {
+      "source_id": "3040134",
+      "titulo": "Jogo God of War Ragnarök - Edição Standard - PlayStation 4",
+      "de": 339.9,
+      "por": 89.9,
+      "desconto": 74,
+      "imagem": "https://m.media-amazon.com/images/I/819bwWHNMJL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0BH58QPYN?tag=promoninja0b2-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Games",
+      "data": "2026-09-14T14:59:53.130332-03:00",
+      "slug": "jogo-god-of-war-ragnarok-edicao-standard-playstation-4",
+      "page_url": "https://promoninjaofertas.github.io/produto/jogo-god-of-war-ragnarok-edicao-standard-playstation-4.html",
+      "avaliacao": null,
+      "avaliacoes": 15,
+      "vendas": 700,
+      "nota_qualidade": 7,
+      "last_seen": "2026-09-15T06:26:19.981648+00:00",
+      "expires_at": "2026-09-16T03:26:19.981648-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Gamer"
@@ -967,7 +967,7 @@
       "de": 49.9,
       "por": 37.99,
       "desconto": 24,
-      "imagem": "https://m.media-amazon.com/images/I/71Ze0qNh55L._SL1500_.jpg",
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/71kgmIRqvBL_dvnK5qP.__AC_SX300_SY300_QL70_ML2_.jpg",
       "link": "https://www.amazon.com.br/dp/B07ZQMBFMX?tag=promoninja0b2-20",
       "cupom": null,
       "loja": "amazon",
@@ -979,8 +979,8 @@
       "avaliacoes": 40,
       "vendas": 2013,
       "nota_qualidade": 6,
-      "last_seen": "2026-09-15T08:37:40.003896+00:00",
-      "expires_at": "2026-09-16T05:37:40.003896-03:00",
+      "last_seen": "2026-09-15T08:47:51.582153+00:00",
+      "expires_at": "2026-09-16T05:47:51.582153-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros"
@@ -991,7 +991,7 @@
       "de": 109.9,
       "por": 59.14,
       "desconto": 46,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/41ko0FhodL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "imagem": "https://m.media-amazon.com/images/I/41ko+0FhodL._SL1500_.jpg",
       "link": "https://www.amazon.com.br/dp/B0G2MFNXN5?tag=promoninja0b2-20",
       "cupom": null,
       "loja": "amazon",
@@ -1003,8 +1003,8 @@
       "avaliacoes": 4,
       "vendas": null,
       "nota_qualidade": 8,
-      "last_seen": "2026-09-15T08:37:40.003896+00:00",
-      "expires_at": "2026-09-16T05:37:40.003896-03:00",
+      "last_seen": "2026-09-15T08:47:51.582153+00:00",
+      "expires_at": "2026-09-16T05:47:51.582153-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech"
@@ -1397,6 +1397,86 @@
       "grupo": "Casa"
     },
     {
+      "source_id": "22897147575",
+      "titulo": "Leiteira Canecão Fervedor Indução Tramontina Allegra 2l Cor Inox 14 Cm Cabo de Baquelite",
+      "de": null,
+      "por": 122.0,
+      "desconto": 24,
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m94xb51l2z3t40",
+      "link": "https://s.shopee.com.br/2qUXFZzkiH",
+      "cupom": null,
+      "loja": "shopee",
+      "categoria": "Smartphones",
+      "data": "2026-09-12T07:30:38.079626-03:00",
+      "slug": "leiteira-canecao-fervedor-inducao-tramontina-allegra-2l-cor-inox-14-cm-cabo-de-baqueli",
+      "page_url": "https://promoninjaofertas.github.io/produto/leiteira-canecao-fervedor-inducao-tramontina-allegra-2l-cor-inox-14-cm-cabo-de-baqueli.html",
+      "avaliacao": 4.9,
+      "avaliacoes": null,
+      "vendas": 296,
+      "nota_qualidade": 9,
+      "last_seen": "2026-09-14T17:09:51.679620+00:00",
+      "expires_at": "2026-09-15T14:09:51.679620-03:00",
+      "marca": "Tramontina",
+      "price_evidence": {
+        "checked_at": "2026-09-14T17:11:13.541277+00:00",
+        "identity": {
+          "brand": "Tramontina",
+          "model": null,
+          "family": "acessorios",
+          "kind": "produto",
+          "variant": "14cm|2l|kit:1",
+          "ambiguous": false,
+          "comparison_key": null
+        },
+        "previous_min": 99.99,
+        "observed_min": 99.99,
+        "since": "2026-09-12T13:31:01.433528+00:00",
+        "observations": 9,
+        "days": 3,
+        "history": [
+          {
+            "at": "2026-09-12T13:31:01.433528+00:00",
+            "price": 99.99
+          },
+          {
+            "at": "2026-09-12T22:18:07.571383+00:00",
+            "price": 99.99
+          },
+          {
+            "at": "2026-09-13T03:11:25.974384+00:00",
+            "price": 122.0
+          },
+          {
+            "at": "2026-09-13T09:17:18.833118+00:00",
+            "price": 122.0
+          },
+          {
+            "at": "2026-09-13T15:22:57.846300+00:00",
+            "price": 122.0
+          },
+          {
+            "at": "2026-09-13T21:42:58.708265+00:00",
+            "price": 122.0
+          },
+          {
+            "at": "2026-09-14T03:49:44.063840+00:00",
+            "price": 122.0
+          },
+          {
+            "at": "2026-09-14T09:49:53.454953+00:00",
+            "price": 122.0
+          },
+          {
+            "at": "2026-09-14T15:51:05.170664+00:00",
+            "price": 122.0
+          }
+        ],
+        "advantage": false,
+        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
+      },
+      "grupo": "Tech"
+    },
+    {
       "source_id": "22198437019",
       "titulo": "IMPRESSORA MULTIFUNCIONAL JATO DE TINTA  ECOTANK  EPSON 3250  Bivolt",
       "de": null,
@@ -1473,86 +1553,6 @@
           {
             "at": "2026-09-15T07:52:48.856086+00:00",
             "price": 1099.0
-          }
-        ],
-        "advantage": false,
-        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
-      },
-      "grupo": "Tech"
-    },
-    {
-      "source_id": "22897147575",
-      "titulo": "Leiteira Canecão Fervedor Indução Tramontina Allegra 2l Cor Inox 14 Cm Cabo de Baquelite",
-      "de": null,
-      "por": 122.0,
-      "desconto": 24,
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m94xb51l2z3t40",
-      "link": "https://s.shopee.com.br/2qUXFZzkiH",
-      "cupom": null,
-      "loja": "shopee",
-      "categoria": "Smartphones",
-      "data": "2026-09-12T07:30:38.079626-03:00",
-      "slug": "leiteira-canecao-fervedor-inducao-tramontina-allegra-2l-cor-inox-14-cm-cabo-de-baqueli",
-      "page_url": "https://promoninjaofertas.github.io/produto/leiteira-canecao-fervedor-inducao-tramontina-allegra-2l-cor-inox-14-cm-cabo-de-baqueli.html",
-      "avaliacao": 4.9,
-      "avaliacoes": null,
-      "vendas": 296,
-      "nota_qualidade": 9,
-      "last_seen": "2026-09-14T17:09:51.679620+00:00",
-      "expires_at": "2026-09-15T14:09:51.679620-03:00",
-      "marca": "Tramontina",
-      "price_evidence": {
-        "checked_at": "2026-09-14T17:11:13.541277+00:00",
-        "identity": {
-          "brand": "Tramontina",
-          "model": null,
-          "family": "acessorios",
-          "kind": "produto",
-          "variant": "14cm|2l|kit:1",
-          "ambiguous": false,
-          "comparison_key": null
-        },
-        "previous_min": 99.99,
-        "observed_min": 99.99,
-        "since": "2026-09-12T13:31:01.433528+00:00",
-        "observations": 9,
-        "days": 3,
-        "history": [
-          {
-            "at": "2026-09-12T13:31:01.433528+00:00",
-            "price": 99.99
-          },
-          {
-            "at": "2026-09-12T22:18:07.571383+00:00",
-            "price": 99.99
-          },
-          {
-            "at": "2026-09-13T03:11:25.974384+00:00",
-            "price": 122.0
-          },
-          {
-            "at": "2026-09-13T09:17:18.833118+00:00",
-            "price": 122.0
-          },
-          {
-            "at": "2026-09-13T15:22:57.846300+00:00",
-            "price": 122.0
-          },
-          {
-            "at": "2026-09-13T21:42:58.708265+00:00",
-            "price": 122.0
-          },
-          {
-            "at": "2026-09-14T03:49:44.063840+00:00",
-            "price": 122.0
-          },
-          {
-            "at": "2026-09-14T09:49:53.454953+00:00",
-            "price": 122.0
-          },
-          {
-            "at": "2026-09-14T15:51:05.170664+00:00",
-            "price": 122.0
           }
         ],
         "advantage": false,
@@ -1909,66 +1909,6 @@
       "grupo": "Casa"
     },
     {
-      "source_id": "42565175368",
-      "titulo": "Aspirador de Pó Robô WAP Robot W100 3 em 1 Antiqueda Bivolt 17W",
-      "de": null,
-      "por": 409.99,
-      "desconto": 62,
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mi3iwgro7wg2ad",
-      "link": "https://s.shopee.com.br/4VcmpHDe8q",
-      "cupom": null,
-      "loja": "shopee",
-      "categoria": "Eletrodomesticos",
-      "data": "2026-09-10T06:37:32.505975-03:00",
-      "slug": "shopee-wap-w100-17w-bivolt-kit-1",
-      "page_url": "https://promoninjaofertas.github.io/produto/shopee-wap-w100-17w-bivolt-kit-1.html",
-      "avaliacao": 4.9,
-      "avaliacoes": null,
-      "vendas": 2984,
-      "nota_qualidade": 10,
-      "last_seen": "2026-09-15T08:07:24.180820+00:00",
-      "expires_at": "2026-09-16T05:07:24.180820-03:00",
-      "marca": "WAP",
-      "price_evidence": {
-        "checked_at": "2026-09-15T08:08:57.674296+00:00",
-        "identity": {
-          "brand": "WAP",
-          "model": "w100",
-          "family": "eletrodomesticos",
-          "kind": "produto",
-          "variant": "17w|bivolt|kit:1",
-          "ambiguous": false,
-          "comparison_key": "wap|w100|17w|bivolt|kit:1"
-        },
-        "previous_min": 409.99,
-        "observed_min": 409.99,
-        "since": "2026-09-14T10:35:25.526194+00:00",
-        "observations": 4,
-        "days": 2,
-        "history": [
-          {
-            "at": "2026-09-14T10:35:25.526194+00:00",
-            "price": 409.99
-          },
-          {
-            "at": "2026-09-14T16:49:57.371857+00:00",
-            "price": 409.99
-          },
-          {
-            "at": "2026-09-14T22:59:24.109553+00:00",
-            "price": 409.99
-          },
-          {
-            "at": "2026-09-15T05:10:41.132315+00:00",
-            "price": 409.99
-          }
-        ],
-        "advantage": false,
-        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
-      },
-      "grupo": "Casa"
-    },
-    {
       "source_id": "58204551307",
       "titulo": "Aspirador Portátil Wap Car Potente 180W Com Reservatório 420ml Bicos Extras Cabo 3,7metros 12v - WAP",
       "de": null,
@@ -1986,11 +1926,11 @@
       "avaliacoes": null,
       "vendas": 405,
       "nota_qualidade": 10,
-      "last_seen": "2026-09-15T08:07:24.180820+00:00",
-      "expires_at": "2026-09-16T05:07:24.180820-03:00",
+      "last_seen": "2026-09-15T08:47:51.582153+00:00",
+      "expires_at": "2026-09-16T05:47:51.582153-03:00",
       "marca": "WAP",
       "price_evidence": {
-        "checked_at": "2026-09-15T08:08:57.674296+00:00",
+        "checked_at": "2026-09-15T08:50:25.719329+00:00",
         "identity": {
           "brand": "WAP",
           "model": "7metros",
@@ -2051,6 +1991,218 @@
         "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
       },
       "grupo": "Casa"
+    },
+    {
+      "source_id": "42565175368",
+      "titulo": "Aspirador de Pó Robô WAP Robot W100 3 em 1 Antiqueda Bivolt 17W",
+      "de": null,
+      "por": 409.99,
+      "desconto": 62,
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-81z1k-mi3iwgro7wg2ad",
+      "link": "https://s.shopee.com.br/4VcmpHDe8q",
+      "cupom": null,
+      "loja": "shopee",
+      "categoria": "Eletrodomesticos",
+      "data": "2026-09-10T06:37:32.505975-03:00",
+      "slug": "shopee-wap-w100-17w-bivolt-kit-1",
+      "page_url": "https://promoninjaofertas.github.io/produto/shopee-wap-w100-17w-bivolt-kit-1.html",
+      "avaliacao": 4.9,
+      "avaliacoes": null,
+      "vendas": 2984,
+      "nota_qualidade": 10,
+      "last_seen": "2026-09-15T08:47:51.582153+00:00",
+      "expires_at": "2026-09-16T05:47:51.582153-03:00",
+      "marca": "WAP",
+      "price_evidence": {
+        "checked_at": "2026-09-15T08:50:25.719329+00:00",
+        "identity": {
+          "brand": "WAP",
+          "model": "w100",
+          "family": "eletrodomesticos",
+          "kind": "produto",
+          "variant": "17w|bivolt|kit:1",
+          "ambiguous": false,
+          "comparison_key": "wap|w100|17w|bivolt|kit:1"
+        },
+        "previous_min": 409.99,
+        "observed_min": 409.99,
+        "since": "2026-09-14T10:35:25.526194+00:00",
+        "observations": 4,
+        "days": 2,
+        "history": [
+          {
+            "at": "2026-09-14T10:35:25.526194+00:00",
+            "price": 409.99
+          },
+          {
+            "at": "2026-09-14T16:49:57.371857+00:00",
+            "price": 409.99
+          },
+          {
+            "at": "2026-09-14T22:59:24.109553+00:00",
+            "price": 409.99
+          },
+          {
+            "at": "2026-09-15T05:10:41.132315+00:00",
+            "price": 409.99
+          }
+        ],
+        "advantage": false,
+        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
+      },
+      "grupo": "Casa"
+    },
+    {
+      "source_id": "55214478888",
+      "titulo": "Caixa de Som Portátil JBL GO 5 Preto Original Bluetooth À Prova D'água Iluminação e Auracast",
+      "de": null,
+      "por": 309.9,
+      "desconto": 23,
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l7-mps2n1sv12wy66",
+      "link": "https://s.shopee.com.br/8pllzEoDHn",
+      "cupom": null,
+      "loja": "shopee",
+      "categoria": "Audio",
+      "data": "2026-09-10T06:27:22.795034-03:00",
+      "slug": "caixa-de-som-portatil-jbl-go-5-preto-original-bluetooth-a-prova-d-agua",
+      "page_url": "https://promoninjaofertas.github.io/produto/caixa-de-som-portatil-jbl-go-5-preto-original-bluetooth-a-prova-d-agua.html",
+      "avaliacao": 5.0,
+      "avaliacoes": null,
+      "vendas": 140,
+      "nota_qualidade": 9,
+      "last_seen": "2026-09-15T08:47:51.582153+00:00",
+      "expires_at": "2026-09-16T05:47:51.582153-03:00",
+      "marca": "JBL",
+      "price_evidence": {
+        "checked_at": "2026-09-15T08:50:25.719329+00:00",
+        "identity": {
+          "brand": "JBL",
+          "model": null,
+          "family": "audio",
+          "kind": "produto",
+          "variant": "cor:preto|kit:1",
+          "ambiguous": false,
+          "comparison_key": null
+        },
+        "previous_min": 309.9,
+        "observed_min": 309.9,
+        "since": "2026-09-12T22:19:00.776474+00:00",
+        "observations": 5,
+        "days": 3,
+        "history": [
+          {
+            "at": "2026-09-12T22:19:00.776474+00:00",
+            "price": 309.9
+          },
+          {
+            "at": "2026-09-14T10:35:25.526194+00:00",
+            "price": 309.9
+          },
+          {
+            "at": "2026-09-14T18:22:43.130393+00:00",
+            "price": 309.9
+          },
+          {
+            "at": "2026-09-15T00:25:25.837538+00:00",
+            "price": 309.9
+          },
+          {
+            "at": "2026-09-15T06:36:44.329917+00:00",
+            "price": 309.9
+          }
+        ],
+        "advantage": false,
+        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
+      },
+      "grupo": "Tech"
+    },
+    {
+      "source_id": "23293788558",
+      "titulo": "Placa-Mãe AMD AM4 Asus TUF GAMING B550M-Plus - 90MB14A0-C1BAY0",
+      "de": null,
+      "por": 849.0,
+      "desconto": 35,
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m71303iaqpuv88",
+      "link": "https://s.shopee.com.br/5foi874mnN",
+      "cupom": null,
+      "loja": "shopee",
+      "categoria": "Hardware",
+      "data": "2026-09-10T06:27:22.795034-03:00",
+      "slug": "placa-mae-amd-am4-asus-tuf-gaming-b550m-plus-90mb14a0-c1bay0",
+      "page_url": "https://promoninjaofertas.github.io/produto/placa-mae-amd-am4-asus-tuf-gaming-b550m-plus-90mb14a0-c1bay0.html",
+      "avaliacao": 4.9,
+      "avaliacoes": null,
+      "vendas": 668,
+      "nota_qualidade": 9,
+      "last_seen": "2026-09-15T08:47:51.582153+00:00",
+      "expires_at": "2026-09-16T05:47:51.582153-03:00",
+      "marca": "Asus",
+      "price_evidence": {
+        "checked_at": "2026-09-15T08:50:25.719329+00:00",
+        "identity": {
+          "brand": "Asus",
+          "model": "am4",
+          "family": "outros",
+          "kind": "produto",
+          "variant": "codigo:90mb14a0-c1bay0|codigo:b550m-plus|kit:1",
+          "ambiguous": false,
+          "comparison_key": "asus|am4|codigo:90mb14a0-c1bay0|codigo:b550m-plus|kit:1"
+        },
+        "previous_min": 821.0,
+        "observed_min": 821.0,
+        "since": "2026-09-12T22:19:00.776474+00:00",
+        "observations": 11,
+        "days": 4,
+        "history": [
+          {
+            "at": "2026-09-12T22:19:00.776474+00:00",
+            "price": 849.0
+          },
+          {
+            "at": "2026-09-13T04:37:21.869455+00:00",
+            "price": 849.0
+          },
+          {
+            "at": "2026-09-13T10:43:42.327069+00:00",
+            "price": 849.0
+          },
+          {
+            "at": "2026-09-13T16:44:47.609484+00:00",
+            "price": 849.0
+          },
+          {
+            "at": "2026-09-13T22:49:13.910822+00:00",
+            "price": 849.0
+          },
+          {
+            "at": "2026-09-14T03:09:29.900739+00:00",
+            "price": 821.0
+          },
+          {
+            "at": "2026-09-14T09:14:14.586525+00:00",
+            "price": 821.0
+          },
+          {
+            "at": "2026-09-14T15:23:51.649704+00:00",
+            "price": 821.0
+          },
+          {
+            "at": "2026-09-14T21:34:39.385174+00:00",
+            "price": 821.0
+          },
+          {
+            "at": "2026-09-15T03:44:30.038608+00:00",
+            "price": 821.0
+          },
+          {
+            "at": "2026-09-15T04:25:34.563600+00:00",
+            "price": 849.0
+          }
+        ],
+        "advantage": false,
+        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
+      },
+      "grupo": "Gamer"
     },
     {
       "source_id": "46662348294",
@@ -2133,158 +2285,6 @@
           {
             "at": "2026-09-15T05:05:44.078513+00:00",
             "price": 657.9
-          }
-        ],
-        "advantage": false,
-        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
-      },
-      "grupo": "Gamer"
-    },
-    {
-      "source_id": "55214478888",
-      "titulo": "Caixa de Som Portátil JBL GO 5 Preto Original Bluetooth À Prova D'água Iluminação e Auracast",
-      "de": null,
-      "por": 309.9,
-      "desconto": 23,
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l7-mps2n1sv12wy66",
-      "link": "https://s.shopee.com.br/8pllzEoDHn",
-      "cupom": null,
-      "loja": "shopee",
-      "categoria": "Audio",
-      "data": "2026-09-10T06:27:22.795034-03:00",
-      "slug": "caixa-de-som-portatil-jbl-go-5-preto-original-bluetooth-a-prova-d-agua",
-      "page_url": "https://promoninjaofertas.github.io/produto/caixa-de-som-portatil-jbl-go-5-preto-original-bluetooth-a-prova-d-agua.html",
-      "avaliacao": 5.0,
-      "avaliacoes": null,
-      "vendas": 140,
-      "nota_qualidade": 9,
-      "last_seen": "2026-09-15T08:07:24.180820+00:00",
-      "expires_at": "2026-09-16T05:07:24.180820-03:00",
-      "marca": "JBL",
-      "price_evidence": {
-        "checked_at": "2026-09-15T08:08:57.674296+00:00",
-        "identity": {
-          "brand": "JBL",
-          "model": null,
-          "family": "audio",
-          "kind": "produto",
-          "variant": "cor:preto|kit:1",
-          "ambiguous": false,
-          "comparison_key": null
-        },
-        "previous_min": 309.9,
-        "observed_min": 309.9,
-        "since": "2026-09-12T22:19:00.776474+00:00",
-        "observations": 5,
-        "days": 3,
-        "history": [
-          {
-            "at": "2026-09-12T22:19:00.776474+00:00",
-            "price": 309.9
-          },
-          {
-            "at": "2026-09-14T10:35:25.526194+00:00",
-            "price": 309.9
-          },
-          {
-            "at": "2026-09-14T18:22:43.130393+00:00",
-            "price": 309.9
-          },
-          {
-            "at": "2026-09-15T00:25:25.837538+00:00",
-            "price": 309.9
-          },
-          {
-            "at": "2026-09-15T06:36:44.329917+00:00",
-            "price": 309.9
-          }
-        ],
-        "advantage": false,
-        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
-      },
-      "grupo": "Tech"
-    },
-    {
-      "source_id": "23293788558",
-      "titulo": "Placa-Mãe AMD AM4 Asus TUF GAMING B550M-Plus - 90MB14A0-C1BAY0",
-      "de": null,
-      "por": 849.0,
-      "desconto": 35,
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m71303iaqpuv88",
-      "link": "https://s.shopee.com.br/5foi874mnN",
-      "cupom": null,
-      "loja": "shopee",
-      "categoria": "Hardware",
-      "data": "2026-09-10T06:27:22.795034-03:00",
-      "slug": "placa-mae-amd-am4-asus-tuf-gaming-b550m-plus-90mb14a0-c1bay0",
-      "page_url": "https://promoninjaofertas.github.io/produto/placa-mae-amd-am4-asus-tuf-gaming-b550m-plus-90mb14a0-c1bay0.html",
-      "avaliacao": 4.9,
-      "avaliacoes": null,
-      "vendas": 668,
-      "nota_qualidade": 9,
-      "last_seen": "2026-09-15T08:07:24.180820+00:00",
-      "expires_at": "2026-09-16T05:07:24.180820-03:00",
-      "marca": "Asus",
-      "price_evidence": {
-        "checked_at": "2026-09-15T08:08:57.674296+00:00",
-        "identity": {
-          "brand": "Asus",
-          "model": "am4",
-          "family": "outros",
-          "kind": "produto",
-          "variant": "codigo:90mb14a0-c1bay0|codigo:b550m-plus|kit:1",
-          "ambiguous": false,
-          "comparison_key": "asus|am4|codigo:90mb14a0-c1bay0|codigo:b550m-plus|kit:1"
-        },
-        "previous_min": 821.0,
-        "observed_min": 821.0,
-        "since": "2026-09-12T22:19:00.776474+00:00",
-        "observations": 11,
-        "days": 4,
-        "history": [
-          {
-            "at": "2026-09-12T22:19:00.776474+00:00",
-            "price": 849.0
-          },
-          {
-            "at": "2026-09-13T04:37:21.869455+00:00",
-            "price": 849.0
-          },
-          {
-            "at": "2026-09-13T10:43:42.327069+00:00",
-            "price": 849.0
-          },
-          {
-            "at": "2026-09-13T16:44:47.609484+00:00",
-            "price": 849.0
-          },
-          {
-            "at": "2026-09-13T22:49:13.910822+00:00",
-            "price": 849.0
-          },
-          {
-            "at": "2026-09-14T03:09:29.900739+00:00",
-            "price": 821.0
-          },
-          {
-            "at": "2026-09-14T09:14:14.586525+00:00",
-            "price": 821.0
-          },
-          {
-            "at": "2026-09-14T15:23:51.649704+00:00",
-            "price": 821.0
-          },
-          {
-            "at": "2026-09-14T21:34:39.385174+00:00",
-            "price": 821.0
-          },
-          {
-            "at": "2026-09-15T03:44:30.038608+00:00",
-            "price": 821.0
-          },
-          {
-            "at": "2026-09-15T04:25:34.563600+00:00",
-            "price": 849.0
           }
         ],
         "advantage": false,
@@ -2501,7 +2501,7 @@
       "por": 69.29,
       "desconto": 50,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sdcfa3bf15ccd429eaefb65c05ea50c782.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mo95ESHUdxUWgsaYiiU5h732j9LvV7Q5ZaJndOirbYpLiw9KNQxfycS9ND1gOYeBey8MUQ7pcR84aaTWRaGg3AL9bpzfx793jeJYipBeI4ATRxYhSyzaKS3tU3OnVwV3Q1a4IKmsmuaReDFj7gCNCezYzaTHdCsAQA4N1UpDutzcyEZKYaKHuzyZM5nscNISgSM655B98T9iqf6g1j7G667oJgq2EwAFPx1FtF33DHUquEpQPlgLGg6mA3bJnSZzPewjbnKQTiA4MLzAWGeJucfF4SKZ3ByGubIFND8B6VzfmWVLatKZbMdtJQrf6qYfoCC18yKUiiwdF8SNjeJP4qUH9B8XciEvgjM8lIbtzdSyE2k2a7LbEeO14iv2hrJSqh9O4Z9Far5wSeP9Zqt862Z5gYT5KR04MGNxYh4xV2tlv34BtCoBS0m4Hjlsm9qFiyLjDAFwI9qFrhKojn58FngRQhnLlUexpievtQSYFH3gFN0m0k1YNpaMgq6KQZXJmjW8eL9bm97xNFh9YCUVsANlgNb1gATl1xOh7fA8FXxhnE12XaHnbKObjMBBnZ6VdLGWAqLVorCGsXuLrEJLi6zeXxZrsNvUKcIHg1lzfLldEPpe5LPgdcGKiAaPGBrmtx7REai0PTix4cWBy3G5oLuUOoBn5z7KRgQltxOjZq9vJhYVWrqqT8HwTqAJnsuXSUTnRKUVJpxHO",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mo95ESHUdxUWgsaYiiU5h732j9LvV7Q5ZaJndOirbYpLiw9KNQxfycS9ND1gOYeBey8MUQ7pcR84aaTWRaGg3AL9bpzfx793jeJYipBeI4ATRxYhSyzaKS3tU3OnVwV3Q1a4IKmsmuaReDFj7gCNCezYzaTHdCsAQA4N1UpDutzcyEZKYaKHuzyZM5nscNISgSM655B98T9iqf6g1j7G667oJgq2EwAFPx1FtFWwgA7MPqO3IbNRukIuActYzvmU4PvbkGDxlbwtYvCtZcxbibHyV0w00qN45Oin7vUU1VEM0DDe9AK9x5fj04rCcKs5tiLTPh2hCUieGXmeEPBGXdH7neGnwBYPGGJLKs6CkLcarQ4FfGx2R2SouQpHUVdG4Meby6yLCO5qh2WxRzDKo8xie5qNdezroRBlxJJUMtPcItJqsAo8aDwL0prIg6UGJPQf9IuhVt6SAvBvoCy2dOxXT73nfMOP0nTmFU83KV5lUCVCIIem6WRlpUPWMSdoWnGaILlLxRbvDbz7fiWTgNMnboL4IXjfHebKcz8u7vs6FO1SQC953DZcqtdmetGBtUrFmwqNojS50czQch0FESLYvJxebhy7v4uzGrkQQ7RWgjtZDX3I5DrTBBZV9X2N1OPfnRvRsYrdFez2L04CaoQAaQh0YYPjpnuIahD71naNrNR5xFa4ekVpfQs4oiNdyezYhLf8100BW",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Audio",
@@ -2512,8 +2512,8 @@
       "avaliacoes": null,
       "vendas": 1490,
       "nota_qualidade": 10,
-      "last_seen": "2026-09-15T02:43:11.999936+00:00",
-      "expires_at": "2026-09-15T23:43:11.999936-03:00",
+      "last_seen": "2026-09-15T08:47:51.582153+00:00",
+      "expires_at": "2026-09-16T05:47:51.582153-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech"
@@ -2567,30 +2567,6 @@
       "grupo": "Gamer"
     },
     {
-      "source_id": "1005008639836335",
-      "titulo": "Towild dl1200s/dl1700 luz de bicicleta com linha de corte feixe1900lm recarregável luz dianteira banco potência mtb ciclismo faróis",
-      "de": 734.84,
-      "por": 276.44,
-      "desconto": 62,
-      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sf5de0b7841cd4a6796260e0ec198d1efH.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mUOAepjq71bmCAfdUIcSE89C6gvJUdJWImj7GMKsnH7sXqx7zDmKvW7xILWbvDH5yumUDIXxWSoaABPPjacVWyuGnmlzLEb7PnnBC0SOhBXdbNJO7zg1zWHh3VGtplf5Ai5JccVLLHQ5E09hG7FJLmjA6IO9MbWORwnteIV6Tr25qZzva2dC2p9IXuG5ylq0ko7qi2vK4M6gqLhArYMTGWvQWPBvFH1AuFFqd7lKLPmXPGW11fcj0UoVOYSlqk0fs6NksYZPTACxLSnhLv9Xp8ATbrzz9GsIhCID1YJaC3KFEBfF4D2ivk7FjRsO9ghq5chbmPUtdsETKItPgHXoZffp5dPz89w12c762TiYxom36fncQyBU1ql1GyQonlvUzEFEbbpMOK6iZzVKW16yAgbgOJMyvIespxuhAYFtNpYYwmZoofVPzcgXJNEQGevHe5GupTwAaFP7lqkOFjPACBBag2tZnzTyY2TurLLIse4J77gu0IERYcKmYUAngjmqJsud9pzevSwfKlUCoVkt2ExkxzsfQTYfbVyHRHgCoQdFKU76yEjrSarnyG2pynaZSTThT8uuK9GiawnvAaaENrYlN74UWTHKgh7oWqpOQCuDtztiKYDsHI5YzEMrlGhtugm1KY03HAVfsyqmME1R72KXHGF2vGTKzBQM23qshM5WY48sWCcpyFlGq2yPMC9LEzv8nKth0oI29",
-      "cupom": null,
-      "loja": "aliexpress",
-      "categoria": "Casa",
-      "data": "2026-09-07T05:12:37.105870-03:00",
-      "slug": "towild-dl1200s-dl1700-luz-de-bicicleta-com-linha-de-corte-feixe1900lm-recarregavel-luz",
-      "page_url": "https://promoninjaofertas.github.io/produto/towild-dl1200s-dl1700-luz-de-bicicleta-com-linha-de-corte-feixe1900lm-recarregavel-luz.html",
-      "avaliacao": 4.825,
-      "avaliacoes": null,
-      "vendas": 1065,
-      "nota_qualidade": 7,
-      "last_seen": "2026-09-15T03:13:34.947085+00:00",
-      "expires_at": "2026-09-16T00:13:34.947085-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Outros"
-    },
-    {
       "source_id": "1005009942973523",
       "titulo": "Carregador Portátil 20000mah，Power Bank Portátil，Pilhas Recarregáveis，Powerbank Portátil， TYPE-C, USB， Preto， Do Brasil",
       "de": 125.99,
@@ -2615,13 +2591,37 @@
       "grupo": "Tech"
     },
     {
+      "source_id": "1005008639836335",
+      "titulo": "Towild dl1200s/dl1700 luz de bicicleta com linha de corte feixe1900lm recarregável luz dianteira banco potência mtb ciclismo faróis",
+      "de": 734.84,
+      "por": 276.44,
+      "desconto": 62,
+      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sf5de0b7841cd4a6796260e0ec198d1efH.jpg",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mUOAepjq71bmCAfdUIcSE89C6gvJUdJWImj7GMKsnH7sXqx7zDmKvW7xILWbvDH5yumUDIXxWSoaABPPjacVWyuGnmlzLEb7PnnBC0SOhBXdbNJO7zg1zWHh3VGtplf5Ai5JccVLLHQ5E09hG7FJLmjA6IO9MbWORwnteIV6Tr25qZzva2dC2p9IXuG5ylq0ko7qi2vK4M6gqLhArYMTGWvQWPBvFH1AuFFqd7lKLPmXPGW11fcj0UoVOYSlqk0fs6NksYZPTACxLSnhLv9Xp8ATbrzz9GsIhCID1YJaC3KFEBfF4D2ivk7FjRsO9ghq5chbmPUtdsETKItPgHXoZffp5dPz89w12c762TiYxom36fncQyBU1ql1GyQonlvUzEFEbbpMOK6iZzVKW16yAgbgOJMyvIespxuhAYFtNpYYwmZoofVPzcgXJNEQGevHe5GupTwAaFP7lqkOFjPACBBag2tZnzTyY2TurLLIse4J77gu0IERYcKmYUAngjmqJsud9pzevSwfKlUCoVkt2ExkxzsfQTYfbVyHRHgCoQdFKU76yEjrSarnyG2pynaZSTThT8uuK9GiawnvAaaENrYlN74UWTHKgh7oWqpOQCuDtztiKYDsHI5YzEMrlGhtugm1KY03HAVfsyqmME1R72KXHGF2vGTKzBQM23qshM5WY48sWCcpyFlGq2yPMC9LEzv8nKth0oI29",
+      "cupom": null,
+      "loja": "aliexpress",
+      "categoria": "Casa",
+      "data": "2026-09-07T05:12:37.105870-03:00",
+      "slug": "towild-dl1200s-dl1700-luz-de-bicicleta-com-linha-de-corte-feixe1900lm-recarregavel-luz",
+      "page_url": "https://promoninjaofertas.github.io/produto/towild-dl1200s-dl1700-luz-de-bicicleta-com-linha-de-corte-feixe1900lm-recarregavel-luz.html",
+      "avaliacao": 4.825,
+      "avaliacoes": null,
+      "vendas": 1065,
+      "nota_qualidade": 7,
+      "last_seen": "2026-09-15T03:13:34.947085+00:00",
+      "expires_at": "2026-09-16T00:13:34.947085-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Outros"
+    },
+    {
       "source_id": "1005008868989146",
       "titulo": "Fones de Ouvido Sem Fio SOUNDPEATS Air5 Pro com ANC Híbrido Adaptativo de 55 dB, Bluetooth 5.4, Hi-Res LDAC AptX Sem Perdas, 6 Microfones AI ENC",
       "de": 749.17,
       "por": 304.41,
       "desconto": 59,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S599205138ef44482819b780c5ead1823V.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4ExZKHdZJmYhQRoDcm7qRnqfcKir2sd6BqaANVKp6w9oHq2XY9PODfZoqkJwcJ1hDkvlRZi087Rc9gz60kjgTlW0jbJU1OIVSKvnvWnKlHheEnjfr4GBMkbeicw5YxhyduTzLK9ZYwccA6FPCLhyFs8rw5TOeBenJAFcJ9d3K8BESvfJ4dHy5kT8zERh20cndC62PGpr8Cw55LFtLozek834cYTXSxbGnqABNiq3S1VElUeFCG2BUUpf1VhqbyQVe6pGroWH8su7q3IsmjplugnqfMzZ2SKXP9UGSeK8BHZp11zTMshrPvSZiNXAfhpnFv4sRBR3F2RbhGzRlvRjVN1jdWibF0NXVEzr4C0jHZXWRWKPc0PAACacsvKCHZC1GvUQzH8FxLuFYQsAhG0WFc3AfD5KToxCPEHDh0KijYgHfQ2GztpognzpsMgY9jBbJHGSluAZcIKkob8FOETKbXzYAcNNfb96RBpuBbB8h41AOuFZpLQXlGGDFds8ihT8gos8jKRn4SssrcdaXI929yHkMX5zGRYzmaAbcUw3qZyeXqtMZwpDE45GlmDaaZwRPKDTVFgZxA1wewP3go4Ns6BqoqsvPiFI88Wpr8aj8s1yTHby7xP9R55AGeLUd00zB5VmLcMN8gNy848vZNmKCp4R73z1nB3lemzzQJIO3YgYOx0IQ5jehWSjgM757xuBqR0FA9NUVOM0yt",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4ExZKHdZJmYhQRoDcm7qRnqfcKir2sd6BqaANVKp6w9oHq2XY9PODfZoqkJwcJ1hDkvlRZi087Rc9gz60kjgTlW0jbJU1OIVSKvnvWnKlHheEnjfr4GBMkbeicw5YxhyduTzLK9ZYwccA6FPCLhyFs8rw5TOeBenJAFcJ9d3K8BESvfJ4dHy5kT8zERh20cndC62PGpr8Cw55LFtLozek834cYTXSxbGnqABNiqtDVLLDbzEGU7lAUpgnVkkpzCHWrI57zPgXxCID5VXY0Si2QjpWLBSDdSLl8hVMTy7uJVoFsSd02Zoc6c3Qj8wSgzOrhalH5WmmvUXbI3FrJ3xjGQSS08jNLwZL75ro2ogfnz6ulafR5q96X3UOPTsNeCSit1wCoESzD4mO0frrSCtjmygLI6WYkcJCUeyJM2V3c9sxtKPyKvziOhoGPfrZAnm5Nvc75tbZfgiNPsOqyzu2s090XKURBktiCFOrZeSM4CrQpBYpZ2kseKGaYKuQ1grr0vEEgITDI9l5bkweDj20O3OzKyosEf7F4RjMfNngg1BRv1bf2Gz4kP1lqCZ5EC36D5yfakquux6MrEbCebNRseQwDX8SjjIOU4FgZTAse03qY5aaEKWliBVvMxGe61cUlgejaHsDcdnFk2k9NBYcNTTV96KprfqHxdNuezewUs5PoonSOIExHb85leJy2DTeZhuN46wffrNL7",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Audio",
@@ -2632,8 +2632,8 @@
       "avaliacoes": null,
       "vendas": 1516,
       "nota_qualidade": 8,
-      "last_seen": "2026-09-15T02:32:54.774118+00:00",
-      "expires_at": "2026-09-15T23:32:54.774118-03:00",
+      "last_seen": "2026-09-15T08:47:51.582153+00:00",
+      "expires_at": "2026-09-16T05:47:51.582153-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech"
@@ -2711,30 +2711,6 @@
       "grupo": "Outros"
     },
     {
-      "source_id": "1005010615674255",
-      "titulo": "Original sony sp180 fones de ouvido sem fio tws com microfone esportes clipe de orelha fones de ouvido estéreo display led",
-      "de": 158.65,
-      "por": 95.19,
-      "desconto": 40,
-      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sc8d75a047fbe47b9b19a6e0153a0f73fe.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4FecbGAXooSK8ICpajtx6FtqAI8h0WxA9WKOsZtWF7id4HRxTwZH1szi2KqCAiwSxR5qZeXhWmqNDUqwwUxqME87Z6EZxbw9mYaNXcGutZ9iL0gm56InzAkmwCVbeYFcnmljU01rf28DtcgYs1IGAnm6Q3KKBhXkpeURxwH8pB4JXCxqRysWM6GazQiCr6vi3SHQ5883aRCKEZWeO6kQn9WCJLCjzwSYp8jLVCc1CoTaJZWyxbCRJDsguQpd0MdcATF5tqviVk9Vtglt1R9l8a2yDQlZdKpADHoo1th7TMZJcVdsRilkuFNYScMA12DVVHa25ExDaUdzOl25LuAJiNMA28sVQsLDrHTF0BvJ9w8YDJYKpB27bqXZNTRpkTNPvFCFk6yVmRBGJGSiJzjxABlsPnwJRJeGgiRvvvDUtWVXMiHzaORvSRfyN4jaTyE35yq8tIaRNwnfB5PWDj6wKzAEjBCMy4zQPS8zdOTzk9FBI7INHBoCJWXOLZ4e5xMOpktzkseB3cIgBszFOjOtgo3rm42EG5e6psV1uoU6oN6x2RWLNf0sLhriyVHNPauHEKLPRLYyTwo6zPxBg8UqQyT5GCvv3R8avSd8Ont95Q45u2eVlUIUJ5Zrq2bNx2is4E1wr2VmcExpELg8NhOQxy44mcnlIzjFdOpLCqzzoAdqgezlUXHx9oYZ7UJs5V0zrgwqhk2WY8LKD1",
-      "cupom": null,
-      "loja": "aliexpress",
-      "categoria": "Audio",
-      "data": "2026-08-31T19:03:54.087698-03:00",
-      "slug": "original-sony-sp180-fones-de-ouvido-sem-fio-tws-com-microfone-esportes-clipe-de",
-      "page_url": "https://promoninjaofertas.github.io/produto/original-sony-sp180-fones-de-ouvido-sem-fio-tws-com-microfone-esportes-clipe-de.html",
-      "avaliacao": 4.5,
-      "avaliacoes": null,
-      "vendas": 1403,
-      "nota_qualidade": 7,
-      "last_seen": "2026-09-15T02:43:11.999936+00:00",
-      "expires_at": "2026-09-15T23:43:11.999936-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Tech"
-    },
-    {
       "source_id": "1005006967413964",
       "titulo": "Zeblaze-Btalk 3 Plus Smartwatch para Homens e Senhoras, Chamada De Voz, 1.39 \"Grande Display Colorido HD, Rastreamento De Fitness, Novo",
       "de": 167.99,
@@ -2754,6 +2730,30 @@
       "nota_qualidade": 8,
       "last_seen": "2026-09-15T02:53:21.189929+00:00",
       "expires_at": "2026-09-15T23:53:21.189929-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Tech"
+    },
+    {
+      "source_id": "1005010615674255",
+      "titulo": "Original sony sp180 fones de ouvido sem fio tws com microfone esportes clipe de orelha fones de ouvido estéreo display led",
+      "de": 158.65,
+      "por": 95.19,
+      "desconto": 40,
+      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sc8d75a047fbe47b9b19a6e0153a0f73fe.jpg",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4FecbGAXooSK8ICpajtx6FtqAI8h0WxA9WKOsZtWF7id4HRxTwZH1szi2KqCAiwSxR5qZeXhWmqNDUqwwUxqME87Z6EZxbw9mYaNXcGutZ9iL0gm56InzAkmwCVbeYFcnmljU01rf28DtcgYs1IGAnm6Q3KKBhXkpeURxwH8pB4JXCxqRysWM6GazQiCr6vi3SHQ5883aRCKEZWeO6kQn9WCJLCjzwSYp8jLVCc1CoTaJZWyxbCRJDsguQpd0MdcATF5tqviVk9Vtglt1R9l8a2yDQlZdKpADHoo1th7TMZJcVdsRilkuFNYScMA12DVVHa25ExDaUdzOl25LuAJiNMA28sVQsLDrHTF0BvJ9w8YDJYKpB27bqXZNTRpkTNPvFCFk6yVmRBGJGSiJzjxABlsPnwJRJeGgiRvvvDUtWVXMiHzaORvSRfyN4jaTyE35yq8tIaRNwnfB5PWDj6wKzAEjBCMy4zQPS8zdOTzk9FBI7INHBoCJWXOLZ4e5xMOpktzkseB3cIgBszFOjOtgo3rm42EG5e6psV1uoU6oN6x2RWLNf0sLhriyVHNPauHEKLPRLYyTwo6zPxBg8UqQyT5GCvv3R8avSd8Ont95Q45u2eVlUIUJ5Zrq2bNx2is4E1wr2VmcExpELg8NhOQxy44mcnlIzjFdOpLCqzzoAdqgezlUXHx9oYZ7UJs5V0zrgwqhk2WY8LKD1",
+      "cupom": null,
+      "loja": "aliexpress",
+      "categoria": "Audio",
+      "data": "2026-08-31T19:03:54.087698-03:00",
+      "slug": "original-sony-sp180-fones-de-ouvido-sem-fio-tws-com-microfone-esportes-clipe-de",
+      "page_url": "https://promoninjaofertas.github.io/produto/original-sony-sp180-fones-de-ouvido-sem-fio-tws-com-microfone-esportes-clipe-de.html",
+      "avaliacao": 4.5,
+      "avaliacoes": null,
+      "vendas": 1403,
+      "nota_qualidade": 7,
+      "last_seen": "2026-09-15T02:43:11.999936+00:00",
+      "expires_at": "2026-09-15T23:43:11.999936-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech"
@@ -2933,7 +2933,7 @@
       "por": 221.61,
       "desconto": 48,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S53096c2ac11442b9a8a71bfce0eb72245.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4kOW4yeR2LwodxHr8okLFMap1U94X3OzeNaKOloQealnLLxupZsaUh4YhmwM5omsuNrjcmZTO1Au3Y5uZp95azyNoHX3iaEdTbnFp8i1cDDy7kOSvhRlV4Z149IpcgtaYqM9aZWGSaj8FX04x7XVXIk2PH0eSz2aaZ3iWiOnMfO8fSbhimwVxABWMyZIKQ5A0q1QUW1OyD5UWA8vJWer6OSHjeEoKVz4C4MMBfboqKWIdssff84w7XgUIwKEtC1zjnosfBjwX5hsRLg3E8NYOWfGROHqnuI19NNJXc3VrHN1wyBAvXRJnUPIlh2rjW0AWYT5vYv0bd7Em3Q40YA2cCRynJ1g8V81FiO38iILsmtHNr1c366qunLjipW313xxDqzCc77XUeh4gocTRhVabmHbZ05Aqen0tGO4ZFw1UKTyL25e4nyO6thTt7wKkWYHj6lRTnPUbTHe62wtgObikAk3lFZ3bSLZldhnFv4VsuRp8HUnzaQblilhi1AA8djhcLjD87Ocdgte6NfhStq8wOpAqFlLaoSUYaxa1uPdIOglfbK2550v8QKcS4RhxnSgglibfOMuQGonO4gbhgIPQqg1OogIOo9hBmowx9mGRZKoJ08Vk9tORpIlhK09HPrmWiQ7YWFQlCeqLodzDkIiyHfG2WRC5eLSlqSuu0yj0GxDS3HI7ErSoihqSIO2Ey2i2IFZ89J5aTIr8D",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4kOW4yeR2LwodxHr8okLFMap1U94X3OzeNaKOloQealnLLxupZsaUh4YhmwM5omsuNrjcmZTO1Au3Y5uZp95azyNoHX3iaEdTbnFp8i1cDDy7kOSvhRlV4Z149IpcgtaYqM9aZWGSaj8FX04x7XVXIk2PH0eSz2aaZ3iWiOnMfO8fSbhimwVxABWMyZIKQ5A0q1QUW1OyD5UWA8vJWer6OSHjeEoKVz4C4MMBfbhgxQp9acdPimiMGC0tyHUFRZ6FfuvYe48jGXfjWhXdECT6eGZhPAQDxVT7PfkpkyE0zAd6WMbpbCJENAacT4Q4QRccHQLkoo81Vl7D53y6TVksKj4S1qSBN217DLty4s9PPVJYxqXJSpXz2tEfSFqNstf5KGIeiBBCrBYYmXYnCDJFCICUyyiMs4RMPL13eMLfZ5PXK2ulnKk4T0wADXNOmukRegxCcpF3mh84cJugwpjDX9Q0uvhXYZmVeCZJnD4vqCmjQNP3WW0l5L02xqoWzEWxMe8ZwIJVuemCxO2VVKVMSUzRuf2LqIGgua9dbiRYCok3KfwbgCv9pLiExSgQdXCe0m9jEvGLDTqVKvvc7VexI0geMqqcEQD30X5Fj9je80boRjG1CRoEQaD35wR2aHf9Hx5bxpITSLIzG6DksxadW40V81WTV5mWmjw90q06tAEDtemjIxNp4coNcjpsx6RGusdDJPeu3Q7t3",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Hardware",
@@ -2944,8 +2944,8 @@
       "avaliacoes": null,
       "vendas": 1203,
       "nota_qualidade": 7,
-      "last_seen": "2026-09-15T08:37:40.003896+00:00",
-      "expires_at": "2026-09-16T05:37:40.003896-03:00",
+      "last_seen": "2026-09-15T08:47:51.582153+00:00",
+      "expires_at": "2026-09-16T05:47:51.582153-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech"
@@ -2957,7 +2957,7 @@
       "por": 352.64,
       "desconto": 61,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S8ee37e50d33643a783e165383f422003x.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mSslS2jYyUuiz2ZYBMgcFLhqnmp8s1dYeefdLThnTpnoLACzukEc8rBAll1zjDHe1sH6Ln0iZ9Y62yl25Xyq1JB8nsJqrw3GZOlaC3Qwy1mG9Td8s3qijZQPtZoppzTw7Zv0xDqVQsc6KlxbzXtzJTzFNvAwH5GoQ4QmcP7dfvDKnvCCA5UAjmSadpuGMOFM4t6T3k4gBGuRG0qXikVbToT3dhTzWdm7WUMVP4gEa1owrEJ7HrmauLOtqgOfoQo38srrM13bUWL1uINUT5oLUqB4ky3QXIgoh1SDl3OlOjBkRoRlOgRa8jnfJ5b6QmfEzhfzOuHDqIz2zOFYDRXWdWbk2P8r9IVpuvZk130vzCc5ETj60fLh2ElI7xXX7fi2zxBHscUJK78TJQHzJSSl2dgN9BPSrPP1gfQyrxYovfNp1Yvo9Gl2mFRv8zcENoN20lDrxKvpJeQRo2TwFNc4NypRsyxUgAX8P0hIFNGXFPuY5dYqTbwwiR9W8eTZL1NpsZWnKyONxDeiYzQmcEICO1L5uyaybdo6k9q4go3UwVMAy4NPz2veSnpoCOORfC98akTCXcP9s5rZHA5xKKijs2pxhogagYNf9zK5bYq2L1kSjwf6rUo384fTrjVK0Jxa4AmEljNVnqtK40VMODmBa3cdb0hiIPCWfYr9ZyUgx5acgFUW2pE2TJOQeFnUcX55QWe2YgtJIAzB6",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mSslS2jYyUuiz2ZYBMgcFLhqnmp8s1dYeefdLThnTpnoLACzukEc8rBAll1zjDHe1sH6Ln0iZ9Y62yl25Xyq1JB8nsJqrw3GZOlaC3Qwy1mG9Td8s3qijZQPtZoppzTw7Zv0xDqVQsc6KlxbzXtzJTzFNvAwH5GoQ4QmcP7dfvDKnvCCA5UAjmSadpuGMOFM4t6T3k4gBGuRG0qXikVbToT3dhTzWdm7WUMVP3WKAMQlee55uhYQfyid8H1t4Dk2aa9JM3SA9M5xHqAlcth9qqS2iSEtog6U1glQGnNQBxerkVGldYPeBITu6yNS48c0XKhA1vz78bO1996mGVMDMWucjE1kJMBSmP9n6mX5JVE8FiOMtsTTIOQWvqV1zc4dgFKv6v8lDDGNXUYgB5SawgdpuzTBHacEE8IzTLpE3T9iBgdii3mOtwxg8EKRJML9NaTUxXFQyael9YHaAB6sX6z9pMbsGddIumMLDgUA2yM99k9CrZuPEcLftC0XwmRGxH0H6NbJsQ003aPBliBkV9nZd8hqnm1IboRCzAzipiulsRDaKnSfvQgQaheslN9DephOAA5SajcW7GGDWeLa53YAbyTGKX42DDtCvvvOfXAE1wKLH3KE7L3QFL8qESPXDZnnilqwrPZz4Z0q8DlVthpQ4yPnBj0AgJq0d7RuCtQtZ4oeEJWe4TxlfJQtuXtKbAXhPpTgm96be",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Audio",
@@ -2968,8 +2968,8 @@
       "avaliacoes": null,
       "vendas": 1290,
       "nota_qualidade": 7,
-      "last_seen": "2026-09-15T02:32:54.774118+00:00",
-      "expires_at": "2026-09-15T23:32:54.774118-03:00",
+      "last_seen": "2026-09-15T08:47:51.582153+00:00",
+      "expires_at": "2026-09-16T05:47:51.582153-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech"
