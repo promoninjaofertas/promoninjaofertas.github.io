@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 Disallow: /share.html
+Disallow: /*?q=
 Sitemap: https://promoninjaofertas.github.io/sitemap-index.xml

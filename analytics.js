@@ -16,8 +16,13 @@
     if (!utmSource && referrer === ownHost && previous) ({source, medium, campaign} = previous);
     else sessionStorage.setItem('promo-acquisition', JSON.stringify({source, medium, campaign}));
   } catch (_) {}
-  const pageType = location.pathname.startsWith('/produto/') ? 'product' : location.pathname.startsWith('/guias/') ? 'guide' : 'catalog';
-  const productId = pageType === 'product' ? location.pathname.split('/').pop().replace(/\.html$/, '') : '';
+  const path = location.pathname;
+  const pageType = path.startsWith('/produto/') ? 'product'
+    : path.startsWith('/guias/') ? 'guide'
+    : path.startsWith('/quem-somos') ? 'about'
+    : path.endsWith('/404.html') ? 'not_found'
+    : 'catalog';
+  const productId = pageType === 'product' ? path.split('/').pop().replace(/\.html$/, '') : '';
   function track(name, values = {}) {
     const data = {...values, acquisition_source: safe(source), acquisition_medium: safe(medium), campaign_name: safe(campaign),
       page_type: pageType, page_path: location.pathname, item_id: values.item_id || productId, transport_type: 'beacon'};
@@ -46,6 +51,28 @@
     if (typeof window.gtag === 'function') window.gtag('event', name, data);
   }
   window.PromoNinjaAnalytics = {track};
+
+  // view_product: disparado uma vez por página de produto, a partir do que já
+  // está no JSON-LD renderizado — sem dado novo e sem informação pessoal.
+  if (pageType === 'product') {
+    const fire = () => {
+      let name = document.title.replace(' | Promo Ninja', '');
+      let price = '';
+      let store = '';
+      try {
+        const node = document.querySelector('script[type="application/ld+json"]');
+        const data = JSON.parse(node.textContent);
+        if (data['@type'] === 'Product') {
+          name = data.name || name;
+          price = (data.offers && data.offers.price) || '';
+          store = (data.offers && data.offers.seller && data.offers.seller.name) || '';
+        }
+      } catch (_) {}
+      track('view_product', {item_id: productId, item_name: name, price, store});
+    };
+    if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', fire, {once: true});
+    else fire();
+  }
   let inviteLinks = {};
   const origin = source === 'google' ? 'google' : ['x','twitter','t.co'].includes(source) ? 'x' : 'site';
   function updateInvite(anchor) {

@@ -3,13 +3,24 @@
   "short_name": "Promo Ninja",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#08090b",
-  "theme_color": "#08090b",
+  "background_color": "#070809",
+  "theme_color": "#070809",
+  "description": "Ofertas e cupons das melhores lojas do Brasil, reunidos em um só lugar.",
+  "categories": [
+    "shopping"
+  ],
+  "lang": "pt-BR",
   "icons": [
     {
       "src": "/favicon-192.png",
       "sizes": "192x192",
       "type": "image/png"
+    },
+    {
+      "src": "/favicon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
     }
   ]
 }
