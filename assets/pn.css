@@ -1036,7 +1036,7 @@ body > * {
   justify-content: center;
   gap: var(--space-2);
   flex: 0 0 auto;
-  min-width: 128px;
+  min-width: 136px;
   min-height: 96px;
   padding: var(--space-4);
   border: 1px solid var(--border);
@@ -1053,13 +1053,13 @@ body > * {
   box-shadow: var(--shadow);
 }
 
-.store-card[aria-pressed="true"] {
+.store-card[aria-current="page"] {
   border-color: var(--border-gold);
   background: var(--surface-raised);
   box-shadow: 0 0 0 1px var(--gold-dim), 0 0 22px rgba(213, 174, 85, 0.1);
 }
 
-.store-card[aria-pressed="true"]::after {
+.store-card[aria-current="page"]::after {
   content: "";
   position: absolute;
   top: 10px;
@@ -1071,55 +1071,66 @@ body > * {
     center / 11px no-repeat;
 }
 
-/* Wordmark da loja. Para usar o logotipo oficial, troque .store-name por
-   <img class="store-logo" src="/assets/lojas/<slug>.svg" alt="<Loja>">. */
+/* Área da marca com altura fixa: logos de proporções diferentes ficam
+   alinhadas na mesma linha de base, e o contador sempre cai no mesmo lugar. */
+.store-mark {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--space-2);
+  height: 38px;
+  max-width: 100%;
+}
+
+/* Logos oficiais em branco (assets/lojas/*.svg). Alturas ajustadas por loja
+   para equilíbrio óptico — o Mercado Livre é texto em duas linhas e precisa
+   de mais altura para ter o mesmo peso visual das outras. */
+.store-logo {
+  display: block;
+  height: 24px;
+  width: auto;
+  max-width: 100%;
+  object-fit: contain;
+  opacity: 0.92;
+  transition: opacity var(--transition);
+}
+
+.store-card:hover .store-logo,
+.store-card[aria-current="page"] .store-logo {
+  opacity: 1;
+}
+
+.store-card[data-store="aliexpress"] .store-logo {
+  height: 21px;
+}
+
+.store-card[data-store="shopee"] .store-logo {
+  height: 27px;
+}
+
+.store-card[data-store="mercadolivre"] .store-logo {
+  height: 36px;
+}
+
+.store-all-icon {
+  width: 20px;
+  height: 20px;
+  color: var(--gold);
+  flex-shrink: 0;
+}
+
 .store-name {
-  font-size: 14.5px;
+  font-size: 15px;
   font-weight: 700;
   letter-spacing: -0.01em;
   color: var(--text-primary);
-  text-align: center;
   white-space: nowrap;
-}
-
-.store-logo {
-  height: 22px;
-  width: auto;
-  object-fit: contain;
-}
-
-.store-dot {
-  width: 30px;
-  height: 30px;
-  border-radius: 9px;
-  display: grid;
-  place-items: center;
-  font-size: 14px;
-  font-weight: 800;
-  color: #0a0a0a;
-  background: var(--store-color, var(--text-muted));
 }
 
 .store-count {
   font-size: 11.5px;
   font-weight: 500;
   color: var(--text-muted);
-}
-
-.store-card[data-store="amazon"] {
-  --store-color: var(--store-amazon);
-}
-.store-card[data-store="mercadolivre"] {
-  --store-color: var(--store-mercadolivre);
-}
-.store-card[data-store="shopee"] {
-  --store-color: var(--store-shopee);
-}
-.store-card[data-store="aliexpress"] {
-  --store-color: var(--store-aliexpress);
-}
-.store-card[data-store="todas"] .store-dot {
-  background: linear-gradient(135deg, var(--gold-light), var(--gold));
 }
 
 /* Indicação de que há mais lojas ao lado (mobile) */

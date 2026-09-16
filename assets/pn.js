@@ -762,10 +762,19 @@
     const stores = [...counts.entries()].sort((a, b) => b[1] - a[1]);
     const current = lockedStore;
 
+    // Logos oficiais em versão branca (assets/lojas/*.svg, origem no comentário
+    // de cada arquivo). O alt carrega o nome da loja para leitores de tela.
+    // Os cards são links de navegação, então o selecionado usa aria-current.
+    const ALL_ICON =
+      '<svg class="store-all-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><rect x="3" y="3" width="7" height="7" rx="1.5"/><rect x="14" y="3" width="7" height="7" rx="1.5"/><rect x="3" y="14" width="7" height="7" rx="1.5"/><rect x="14" y="14" width="7" height="7" rx="1.5"/></svg>';
+
     const card = (slug, label, href, count, selected) =>
-      `<a class="store-card" data-store="${slug}" href="${href}" aria-pressed="${selected}" data-store-label="${escapeHtml(label)}">
-        <span class="store-dot" aria-hidden="true">${escapeHtml(label.charAt(0))}</span>
-        <span class="store-name">${escapeHtml(label)}</span>
+      `<a class="store-card" data-store="${slug}" href="${href}"${selected ? ' aria-current="page"' : ''} data-store-label="${escapeHtml(label)}">
+        <span class="store-mark">${
+          slug === 'todas'
+            ? `${ALL_ICON}<span class="store-name">${escapeHtml(label)}</span>`
+            : `<img class="store-logo" src="/assets/lojas/${slug}.svg" alt="${escapeHtml(label)}" decoding="async">`
+        }</span>
         ${count ? `<span class="store-count">${count} ofertas</span>` : ''}
       </a>`;
 
