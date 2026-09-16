@@ -1,6 +1,30 @@
 {
-  "atualizado": "2026-09-16T10:08:21.375301+00:00",
+  "atualizado": "2026-09-16T10:18:41.700166+00:00",
   "ofertas": [
+    {
+      "source_id": "pechinchou-131989",
+      "titulo": "Chaleira Elétrica Inox 1,8l Ferve Água Rápido Café 127v 220v Inox 127v",
+      "de": 39.9,
+      "por": 33.07,
+      "desconto": 17,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/external-image_JO2KfVA.jpg",
+      "link": "https://meli.la/2HRf875",
+      "cupom": null,
+      "loja": "mercadolivre",
+      "categoria": "Eletroportáteis",
+      "data": "2026-09-16T07:18:41.700166-03:00",
+      "slug": "chaleira-eletrica-inox-1-8l-ferve-agua-rapido-cafe-127v-220v-inox-127v",
+      "page_url": "https://promoninjaofertas.github.io/produto/chaleira-eletrica-inox-1-8l-ferve-agua-rapido-cafe-127v-220v-inox-127v.html",
+      "avaliacao": null,
+      "avaliacoes": 1,
+      "vendas": null,
+      "nota_qualidade": 5,
+      "last_seen": "2026-09-16T10:18:41.700166+00:00",
+      "expires_at": "2026-09-17T07:18:41.700166-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Outros"
+    },
     {
       "source_id": "pechinchou-151862",
       "titulo": "Conjunto Kit 10 Marmitas Potes Hermetico 640ml Com 4 Travas Vidro Vedação De Silicone Refratário Jogo Fit Top Vai Ao Forno",
@@ -19,8 +43,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-09-16T10:08:21.375301+00:00",
-      "expires_at": "2026-09-17T07:08:21.375301-03:00",
+      "last_seen": "2026-09-16T10:18:41.700166+00:00",
+      "expires_at": "2026-09-17T07:18:41.700166-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa"
@@ -43,32 +67,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-09-16T10:08:21.375301+00:00",
-      "expires_at": "2026-09-17T07:08:21.375301-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Outros"
-    },
-    {
-      "source_id": "pechinchou-152039",
-      "titulo": "Pneu Onyx Aro 14 Ny-806 175/75r14 86t T",
-      "de": 299.0,
-      "por": 191.0,
-      "desconto": 36,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/D_NQ_NP_843855-MLA112555236926_062026-F.jpg",
-      "link": "https://meli.la/2eE7UQo",
-      "cupom": "MLDEBOA",
-      "loja": "mercadolivre",
-      "categoria": "Automotivo",
-      "data": "2026-09-15T23:52:12.224051-03:00",
-      "slug": "pneu-onyx-aro-14-ny-806-175-75r14-86t-t",
-      "page_url": "https://promoninjaofertas.github.io/produto/pneu-onyx-aro-14-ny-806-175-75r14-86t-t.html",
-      "avaliacao": null,
-      "avaliacoes": null,
-      "vendas": null,
-      "nota_qualidade": 6,
-      "last_seen": "2026-09-16T10:08:21.375301+00:00",
-      "expires_at": "2026-09-17T07:08:21.375301-03:00",
+      "last_seen": "2026-09-16T10:18:41.700166+00:00",
+      "expires_at": "2026-09-17T07:18:41.700166-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros"
@@ -91,11 +91,35 @@
       "avaliacoes": 4,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-09-16T10:08:21.375301+00:00",
-      "expires_at": "2026-09-17T07:08:21.375301-03:00",
+      "last_seen": "2026-09-16T10:18:41.700166+00:00",
+      "expires_at": "2026-09-17T07:18:41.700166-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa"
+    },
+    {
+      "source_id": "pechinchou-152039",
+      "titulo": "Pneu Onyx Aro 14 Ny-806 175/75r14 86t T",
+      "de": 299.0,
+      "por": 191.0,
+      "desconto": 36,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/D_NQ_NP_843855-MLA112555236926_062026-F.jpg",
+      "link": "https://meli.la/2eE7UQo",
+      "cupom": "MLDEBOA",
+      "loja": "mercadolivre",
+      "categoria": "Automotivo",
+      "data": "2026-09-15T23:52:12.224051-03:00",
+      "slug": "pneu-onyx-aro-14-ny-806-175-75r14-86t-t",
+      "page_url": "https://promoninjaofertas.github.io/produto/pneu-onyx-aro-14-ny-806-175-75r14-86t-t.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": null,
+      "nota_qualidade": 6,
+      "last_seen": "2026-09-16T10:18:41.700166+00:00",
+      "expires_at": "2026-09-17T07:18:41.700166-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Outros"
     },
     {
       "source_id": "pechinchou-94318",
@@ -115,8 +139,8 @@
       "avaliacoes": 1,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-09-16T10:08:21.375301+00:00",
-      "expires_at": "2026-09-17T07:08:21.375301-03:00",
+      "last_seen": "2026-09-16T10:18:41.700166+00:00",
+      "expires_at": "2026-09-17T07:18:41.700166-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda"
@@ -139,8 +163,8 @@
       "avaliacoes": 10,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-09-16T10:08:21.375301+00:00",
-      "expires_at": "2026-09-17T07:08:21.375301-03:00",
+      "last_seen": "2026-09-16T10:18:41.700166+00:00",
+      "expires_at": "2026-09-17T07:18:41.700166-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda"
@@ -163,8 +187,8 @@
       "avaliacoes": 10,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-09-16T10:08:21.375301+00:00",
-      "expires_at": "2026-09-17T07:08:21.375301-03:00",
+      "last_seen": "2026-09-16T10:18:41.700166+00:00",
+      "expires_at": "2026-09-17T07:18:41.700166-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros"
@@ -187,8 +211,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-09-16T10:08:21.375301+00:00",
-      "expires_at": "2026-09-17T07:08:21.375301-03:00",
+      "last_seen": "2026-09-16T10:18:41.700166+00:00",
+      "expires_at": "2026-09-17T07:18:41.700166-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa"
@@ -208,11 +232,11 @@
       "slug": "kit-furadeira-parafusadera-esmerilhadeira-lixadeira-110v",
       "page_url": "https://promoninjaofertas.github.io/produto/kit-furadeira-parafusadera-esmerilhadeira-lixadeira-110v.html",
       "avaliacao": null,
-      "avaliacoes": 10,
+      "avaliacoes": 20,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-09-16T10:08:21.375301+00:00",
-      "expires_at": "2026-09-17T07:08:21.375301-03:00",
+      "last_seen": "2026-09-16T10:18:41.700166+00:00",
+      "expires_at": "2026-09-17T07:18:41.700166-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa"
@@ -235,35 +259,11 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 7,
-      "last_seen": "2026-09-16T10:08:21.375301+00:00",
-      "expires_at": "2026-09-17T07:08:21.375301-03:00",
+      "last_seen": "2026-09-16T10:18:41.700166+00:00",
+      "expires_at": "2026-09-17T07:18:41.700166-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech"
-    },
-    {
-      "source_id": "pechinchou-130428",
-      "titulo": "Conjunto De 6 Cadeiras Gruvyer Pretas Para Escritório/sala De Jantar E Área Gourmet",
-      "de": 489.9,
-      "por": 354.82,
-      "desconto": 28,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/D_NQ_NP_616959-MLU77235234109_062024-O.jpg",
-      "link": "https://meli.la/294uAhA",
-      "cupom": "DESCONTOEMCASA",
-      "loja": "mercadolivre",
-      "categoria": "Pet",
-      "data": "2026-09-15T22:20:17.105741-03:00",
-      "slug": "conjunto-de-6-cadeiras-gruvyer-pretas-para-escritorio-sala-de-jantar-e-area-gourmet",
-      "page_url": "https://promoninjaofertas.github.io/produto/conjunto-de-6-cadeiras-gruvyer-pretas-para-escritorio-sala-de-jantar-e-area-gourmet.html",
-      "avaliacao": null,
-      "avaliacoes": 10,
-      "vendas": null,
-      "nota_qualidade": 5,
-      "last_seen": "2026-09-16T10:08:21.375301+00:00",
-      "expires_at": "2026-09-17T07:08:21.375301-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Outros"
     },
     {
       "source_id": "pechinchou-143696",
@@ -283,8 +283,8 @@
       "avaliacoes": 10,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-09-16T10:08:21.375301+00:00",
-      "expires_at": "2026-09-17T07:08:21.375301-03:00",
+      "last_seen": "2026-09-16T10:18:41.700166+00:00",
+      "expires_at": "2026-09-17T07:18:41.700166-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda"
@@ -307,8 +307,8 @@
       "avaliacoes": 2,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-09-16T10:08:21.375301+00:00",
-      "expires_at": "2026-09-17T07:08:21.375301-03:00",
+      "last_seen": "2026-09-16T10:18:41.700166+00:00",
+      "expires_at": "2026-09-17T07:18:41.700166-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros"
@@ -331,35 +331,11 @@
       "avaliacoes": 20,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-09-16T10:08:21.375301+00:00",
-      "expires_at": "2026-09-17T07:08:21.375301-03:00",
+      "last_seen": "2026-09-16T10:18:41.700166+00:00",
+      "expires_at": "2026-09-17T07:18:41.700166-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa"
-    },
-    {
-      "source_id": "pechinchou-150180",
-      "titulo": "Pneu Wanli Sp203 175/75r14 Aro 14 86t Kit2",
-      "de": 879.04,
-      "por": 483.84,
-      "desconto": 45,
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_654256-MLB85304160977_052025-O.webp",
-      "link": "https://meli.la/2JqirYh",
-      "cupom": "MLDEBOA",
-      "loja": "mercadolivre",
-      "categoria": "Automotivo",
-      "data": "2026-08-17T15:12:21.692018-03:00",
-      "slug": "pneu-wanli-sp203-175-75r14-aro-14-86t-kit2",
-      "page_url": "https://promoninjaofertas.github.io/produto/pneu-wanli-sp203-175-75r14-aro-14-86t-kit2.html",
-      "avaliacao": null,
-      "avaliacoes": null,
-      "vendas": null,
-      "nota_qualidade": 6,
-      "last_seen": "2026-09-16T10:08:21.375301+00:00",
-      "expires_at": "2026-09-17T07:08:21.375301-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Outros"
     },
     {
       "source_id": "pechinchou-105246",
@@ -379,8 +355,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-09-16T10:08:21.375301+00:00",
-      "expires_at": "2026-09-17T07:08:21.375301-03:00",
+      "last_seen": "2026-09-16T10:18:41.700166+00:00",
+      "expires_at": "2026-09-17T07:18:41.700166-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda"
@@ -403,8 +379,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-09-16T10:08:21.375301+00:00",
-      "expires_at": "2026-09-17T07:08:21.375301-03:00",
+      "last_seen": "2026-09-16T10:18:41.700166+00:00",
+      "expires_at": "2026-09-17T07:18:41.700166-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda"
@@ -523,8 +499,32 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-09-16T10:08:21.375301+00:00",
-      "expires_at": "2026-09-17T07:08:21.375301-03:00",
+      "last_seen": "2026-09-16T10:18:41.700166+00:00",
+      "expires_at": "2026-09-17T07:18:41.700166-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Moda"
+    },
+    {
+      "source_id": "3043641",
+      "titulo": "L'Oréal Paris Elseve Sérum Leave-in Liso dos Sonhos com Tecnologia Ativada por Calor, Antifrizz, Protetor Térmico e Barreira Contra Umidade, 100ml",
+      "de": 49.9,
+      "por": 33.5,
+      "desconto": 33,
+      "imagem": "https://m.media-amazon.com/images/I/71E7jaMsugL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0DV1JZFXS?tag=promoninja0b2-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Beleza",
+      "data": "2026-09-15T21:50:03.927301-03:00",
+      "slug": "l-oreal-paris-elseve-serum-leave-in-liso-dos-sonhos-com-tecnologia-ativada-por-42923a",
+      "page_url": "https://promoninjaofertas.github.io/produto/l-oreal-paris-elseve-serum-leave-in-liso-dos-sonhos-com-tecnologia-ativada-por-42923a.html",
+      "avaliacao": null,
+      "avaliacoes": 1,
+      "vendas": 0,
+      "nota_qualidade": 6,
+      "last_seen": "2026-09-16T01:00:05.988936+00:00",
+      "expires_at": "2026-09-16T22:00:05.988936-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda"
@@ -559,7 +559,7 @@
       "de": 139.0,
       "por": 55.56,
       "desconto": 60,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/6162CgGP0L_w7N1P43._AC_SY300_SX300_.jpg",
+      "imagem": "https://m.media-amazon.com/images/I/71z-3rqPaUL._SL1500_.jpg",
       "link": "https://www.amazon.com.br/dp/B07NQ9PFKN?tag=promoninja0b2-20",
       "cupom": null,
       "loja": "amazon",
@@ -571,35 +571,11 @@
       "avaliacoes": 6,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-09-16T10:08:21.375301+00:00",
-      "expires_at": "2026-09-17T07:08:21.375301-03:00",
+      "last_seen": "2026-09-16T10:18:41.700166+00:00",
+      "expires_at": "2026-09-17T07:18:41.700166-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros"
-    },
-    {
-      "source_id": "3043641",
-      "titulo": "L'Oréal Paris Elseve Sérum Leave-in Liso dos Sonhos com Tecnologia Ativada por Calor, Antifrizz, Protetor Térmico e Barreira Contra Umidade, 100ml",
-      "de": 49.9,
-      "por": 33.5,
-      "desconto": 33,
-      "imagem": "https://m.media-amazon.com/images/I/71E7jaMsugL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0DV1JZFXS?tag=promoninja0b2-20",
-      "cupom": null,
-      "loja": "amazon",
-      "categoria": "Beleza",
-      "data": "2026-09-15T21:50:03.927301-03:00",
-      "slug": "l-oreal-paris-elseve-serum-leave-in-liso-dos-sonhos-com-tecnologia-ativada-por-42923a",
-      "page_url": "https://promoninjaofertas.github.io/produto/l-oreal-paris-elseve-serum-leave-in-liso-dos-sonhos-com-tecnologia-ativada-por-42923a.html",
-      "avaliacao": null,
-      "avaliacoes": 1,
-      "vendas": 0,
-      "nota_qualidade": 6,
-      "last_seen": "2026-09-16T01:00:05.988936+00:00",
-      "expires_at": "2026-09-16T22:00:05.988936-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Moda"
     },
     {
       "source_id": "3043601",
@@ -643,8 +619,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-09-16T10:08:21.375301+00:00",
-      "expires_at": "2026-09-17T07:08:21.375301-03:00",
+      "last_seen": "2026-09-16T10:18:41.700166+00:00",
+      "expires_at": "2026-09-17T07:18:41.700166-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros"
@@ -667,35 +643,11 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-09-16T10:08:21.375301+00:00",
-      "expires_at": "2026-09-17T07:08:21.375301-03:00",
+      "last_seen": "2026-09-16T10:18:41.700166+00:00",
+      "expires_at": "2026-09-17T07:18:41.700166-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros"
-    },
-    {
-      "source_id": "3043478",
-      "titulo": "Tablet Samsung Galaxy TAB A11 +Samsung Galaxy Buds Core, Fone de Ouvido, sem fio, cancelamento de ruído, interprete inteligente",
-      "de": 1798.0,
-      "por": 1298.0,
-      "desconto": 28,
-      "imagem": "https://m.media-amazon.com/images/I/51M71JHWbmL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0G1TVJWRR?tag=promoninja0b2-20",
-      "cupom": null,
-      "loja": "amazon",
-      "categoria": "Smartphones",
-      "data": "2026-09-15T20:18:44.829174-03:00",
-      "slug": "tablet-samsung-galaxy-tab-a11-samsung-galaxy-buds-core-fone-de-ouvido-sem-fio",
-      "page_url": "https://promoninjaofertas.github.io/produto/tablet-samsung-galaxy-tab-a11-samsung-galaxy-buds-core-fone-de-ouvido-sem-fio.html",
-      "avaliacao": null,
-      "avaliacoes": 2,
-      "vendas": 120,
-      "nota_qualidade": 8,
-      "last_seen": "2026-09-16T05:14:41.990019+00:00",
-      "expires_at": "2026-09-17T02:14:41.990019-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Tech"
     },
     {
       "source_id": "3043480",
@@ -717,6 +669,30 @@
       "nota_qualidade": 7,
       "last_seen": "2026-09-15T23:18:44.829174+00:00",
       "expires_at": "2026-09-16T20:18:44.829174-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Tech"
+    },
+    {
+      "source_id": "3043478",
+      "titulo": "Tablet Samsung Galaxy TAB A11 +Samsung Galaxy Buds Core, Fone de Ouvido, sem fio, cancelamento de ruído, interprete inteligente",
+      "de": 1798.0,
+      "por": 1298.0,
+      "desconto": 28,
+      "imagem": "https://m.media-amazon.com/images/I/51M71JHWbmL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0G1TVJWRR?tag=promoninja0b2-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Smartphones",
+      "data": "2026-09-15T20:18:44.829174-03:00",
+      "slug": "tablet-samsung-galaxy-tab-a11-samsung-galaxy-buds-core-fone-de-ouvido-sem-fio",
+      "page_url": "https://promoninjaofertas.github.io/produto/tablet-samsung-galaxy-tab-a11-samsung-galaxy-buds-core-fone-de-ouvido-sem-fio.html",
+      "avaliacao": null,
+      "avaliacoes": 2,
+      "vendas": 120,
+      "nota_qualidade": 8,
+      "last_seen": "2026-09-16T05:14:41.990019+00:00",
+      "expires_at": "2026-09-17T02:14:41.990019-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech"
@@ -955,8 +931,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-09-16T10:08:21.375301+00:00",
-      "expires_at": "2026-09-17T07:08:21.375301-03:00",
+      "last_seen": "2026-09-16T10:18:41.700166+00:00",
+      "expires_at": "2026-09-17T07:18:41.700166-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros"
@@ -979,8 +955,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 7,
-      "last_seen": "2026-09-16T10:08:21.375301+00:00",
-      "expires_at": "2026-09-17T07:08:21.375301-03:00",
+      "last_seen": "2026-09-16T10:18:41.700166+00:00",
+      "expires_at": "2026-09-17T07:18:41.700166-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros"
@@ -1098,106 +1074,6 @@
       "grupo": "Casa"
     },
     {
-      "source_id": "23594959395",
-      "titulo": "Furadeira Parafusadeira de Impacto Bosch 48V – 2 Baterias Inclusas | Ferramenta Elétrica",
-      "de": null,
-      "por": 399.33,
-      "desconto": 55,
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lk-mo9dpk20zg1w51",
-      "link": "https://s.shopee.com.br/4Azz8kxuDp",
-      "cupom": null,
-      "loja": "shopee",
-      "categoria": "Smartphones",
-      "data": "2026-09-12T19:16:34.813595-03:00",
-      "slug": "furadeira-parafusadeira-de-impacto-bosch-48v-2-baterias-inclusas-ferramenta-eletrica",
-      "page_url": "https://promoninjaofertas.github.io/produto/furadeira-parafusadeira-de-impacto-bosch-48v-2-baterias-inclusas-ferramenta-eletrica.html",
-      "avaliacao": 4.8,
-      "avaliacoes": null,
-      "vendas": 229,
-      "nota_qualidade": 10,
-      "last_seen": "2026-09-16T10:08:21.375301+00:00",
-      "expires_at": "2026-09-17T07:08:21.375301-03:00",
-      "marca": "Bosch",
-      "price_evidence": {
-        "checked_at": "2026-09-16T10:11:38.660190+00:00",
-        "identity": {
-          "brand": "Bosch",
-          "model": null,
-          "family": "ferramentas",
-          "kind": "produto",
-          "variant": "48v|kit:1",
-          "ambiguous": false,
-          "comparison_key": null
-        },
-        "previous_min": 399.33,
-        "observed_min": 399.33,
-        "since": "2026-09-12T22:18:07.571383+00:00",
-        "observations": 14,
-        "days": 5,
-        "history": [
-          {
-            "at": "2026-09-12T22:18:07.571383+00:00",
-            "price": 399.33
-          },
-          {
-            "at": "2026-09-13T04:37:21.869455+00:00",
-            "price": 399.33
-          },
-          {
-            "at": "2026-09-13T10:39:08.576434+00:00",
-            "price": 399.33
-          },
-          {
-            "at": "2026-09-13T16:44:47.609484+00:00",
-            "price": 399.33
-          },
-          {
-            "at": "2026-09-13T22:46:15.182184+00:00",
-            "price": 399.33
-          },
-          {
-            "at": "2026-09-14T05:00:50.612551+00:00",
-            "price": 399.33
-          },
-          {
-            "at": "2026-09-14T11:00:57.218474+00:00",
-            "price": 399.33
-          },
-          {
-            "at": "2026-09-14T17:11:13.541277+00:00",
-            "price": 399.33
-          },
-          {
-            "at": "2026-09-14T23:24:39.301203+00:00",
-            "price": 399.33
-          },
-          {
-            "at": "2026-09-15T05:36:59.855900+00:00",
-            "price": 399.33
-          },
-          {
-            "at": "2026-09-15T11:45:13.616965+00:00",
-            "price": 399.33
-          },
-          {
-            "at": "2026-09-15T17:48:18.058633+00:00",
-            "price": 399.33
-          },
-          {
-            "at": "2026-09-15T23:50:33.501804+00:00",
-            "price": 399.33
-          },
-          {
-            "at": "2026-09-16T05:59:01.742184+00:00",
-            "price": 399.33
-          }
-        ],
-        "advantage": false,
-        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
-      },
-      "grupo": "Casa"
-    },
-    {
       "source_id": "18199337362",
       "titulo": "Parafusadeira e Furadeira à Bateria 12V GSR 120-LI com 1 Bateria e Maleta BOSCH Bivolt",
       "de": null,
@@ -1290,6 +1166,106 @@
           {
             "at": "2026-09-16T05:59:01.742184+00:00",
             "price": 409.0
+          }
+        ],
+        "advantage": false,
+        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
+      },
+      "grupo": "Casa"
+    },
+    {
+      "source_id": "23594959395",
+      "titulo": "Furadeira Parafusadeira de Impacto Bosch 48V – 2 Baterias Inclusas | Ferramenta Elétrica",
+      "de": null,
+      "por": 399.33,
+      "desconto": 55,
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lk-mo9dpk20zg1w51",
+      "link": "https://s.shopee.com.br/4Azz8kxuDp",
+      "cupom": null,
+      "loja": "shopee",
+      "categoria": "Smartphones",
+      "data": "2026-09-12T19:16:34.813595-03:00",
+      "slug": "furadeira-parafusadeira-de-impacto-bosch-48v-2-baterias-inclusas-ferramenta-eletrica",
+      "page_url": "https://promoninjaofertas.github.io/produto/furadeira-parafusadeira-de-impacto-bosch-48v-2-baterias-inclusas-ferramenta-eletrica.html",
+      "avaliacao": 4.8,
+      "avaliacoes": null,
+      "vendas": 229,
+      "nota_qualidade": 10,
+      "last_seen": "2026-09-16T10:08:21.375301+00:00",
+      "expires_at": "2026-09-17T07:08:21.375301-03:00",
+      "marca": "Bosch",
+      "price_evidence": {
+        "checked_at": "2026-09-16T10:11:38.660190+00:00",
+        "identity": {
+          "brand": "Bosch",
+          "model": null,
+          "family": "ferramentas",
+          "kind": "produto",
+          "variant": "48v|kit:1",
+          "ambiguous": false,
+          "comparison_key": null
+        },
+        "previous_min": 399.33,
+        "observed_min": 399.33,
+        "since": "2026-09-12T22:18:07.571383+00:00",
+        "observations": 14,
+        "days": 5,
+        "history": [
+          {
+            "at": "2026-09-12T22:18:07.571383+00:00",
+            "price": 399.33
+          },
+          {
+            "at": "2026-09-13T04:37:21.869455+00:00",
+            "price": 399.33
+          },
+          {
+            "at": "2026-09-13T10:39:08.576434+00:00",
+            "price": 399.33
+          },
+          {
+            "at": "2026-09-13T16:44:47.609484+00:00",
+            "price": 399.33
+          },
+          {
+            "at": "2026-09-13T22:46:15.182184+00:00",
+            "price": 399.33
+          },
+          {
+            "at": "2026-09-14T05:00:50.612551+00:00",
+            "price": 399.33
+          },
+          {
+            "at": "2026-09-14T11:00:57.218474+00:00",
+            "price": 399.33
+          },
+          {
+            "at": "2026-09-14T17:11:13.541277+00:00",
+            "price": 399.33
+          },
+          {
+            "at": "2026-09-14T23:24:39.301203+00:00",
+            "price": 399.33
+          },
+          {
+            "at": "2026-09-15T05:36:59.855900+00:00",
+            "price": 399.33
+          },
+          {
+            "at": "2026-09-15T11:45:13.616965+00:00",
+            "price": 399.33
+          },
+          {
+            "at": "2026-09-15T17:48:18.058633+00:00",
+            "price": 399.33
+          },
+          {
+            "at": "2026-09-15T23:50:33.501804+00:00",
+            "price": 399.33
+          },
+          {
+            "at": "2026-09-16T05:59:01.742184+00:00",
+            "price": 399.33
           }
         ],
         "advantage": false,
@@ -1615,11 +1591,11 @@
       "avaliacoes": null,
       "vendas": 111,
       "nota_qualidade": 10,
-      "last_seen": "2026-09-16T09:58:10.538463+00:00",
-      "expires_at": "2026-09-17T06:58:10.538463-03:00",
+      "last_seen": "2026-09-16T10:18:41.700166+00:00",
+      "expires_at": "2026-09-17T07:18:41.700166-03:00",
       "marca": "LG",
       "price_evidence": {
-        "checked_at": "2026-09-16T10:01:12.333169+00:00",
+        "checked_at": "2026-09-16T10:22:02.872655+00:00",
         "identity": {
           "brand": "LG",
           "model": "24gs60f-b",
@@ -2074,78 +2050,6 @@
       "grupo": "Casa"
     },
     {
-      "source_id": "55214478888",
-      "titulo": "Caixa de Som Portátil JBL GO 5 Preto Original Bluetooth À Prova D'água Iluminação e Auracast",
-      "de": null,
-      "por": 309.9,
-      "desconto": 23,
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l7-mps2n1sv12wy66",
-      "link": "https://s.shopee.com.br/8pllzEoDHn",
-      "cupom": null,
-      "loja": "shopee",
-      "categoria": "Audio",
-      "data": "2026-09-10T06:27:22.795034-03:00",
-      "slug": "caixa-de-som-portatil-jbl-go-5-preto-original-bluetooth-a-prova-d-agua",
-      "page_url": "https://promoninjaofertas.github.io/produto/caixa-de-som-portatil-jbl-go-5-preto-original-bluetooth-a-prova-d-agua.html",
-      "avaliacao": 5.0,
-      "avaliacoes": null,
-      "vendas": 155,
-      "nota_qualidade": 9,
-      "last_seen": "2026-09-16T02:41:51.803811+00:00",
-      "expires_at": "2026-09-16T23:41:51.803811-03:00",
-      "marca": "JBL",
-      "price_evidence": {
-        "checked_at": "2026-09-16T02:43:12.919306+00:00",
-        "identity": {
-          "brand": "JBL",
-          "model": null,
-          "family": "audio",
-          "kind": "produto",
-          "variant": "cor:preto|kit:1",
-          "ambiguous": false,
-          "comparison_key": null
-        },
-        "previous_min": 309.9,
-        "observed_min": 309.9,
-        "since": "2026-09-12T22:19:00.776474+00:00",
-        "observations": 7,
-        "days": 4,
-        "history": [
-          {
-            "at": "2026-09-12T22:19:00.776474+00:00",
-            "price": 309.9
-          },
-          {
-            "at": "2026-09-14T10:35:25.526194+00:00",
-            "price": 309.9
-          },
-          {
-            "at": "2026-09-14T18:22:43.130393+00:00",
-            "price": 309.9
-          },
-          {
-            "at": "2026-09-15T00:25:25.837538+00:00",
-            "price": 309.9
-          },
-          {
-            "at": "2026-09-15T06:36:44.329917+00:00",
-            "price": 309.9
-          },
-          {
-            "at": "2026-09-15T12:43:21.327829+00:00",
-            "price": 309.9
-          },
-          {
-            "at": "2026-09-16T01:39:06.395970+00:00",
-            "price": 309.9
-          }
-        ],
-        "advantage": false,
-        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
-      },
-      "grupo": "Tech"
-    },
-    {
       "source_id": "23293788558",
       "titulo": "Placa-Mãe AMD AM4 Asus TUF GAMING B550M-Plus - 90MB14A0-C1BAY0",
       "de": null,
@@ -2254,6 +2158,78 @@
       "grupo": "Gamer"
     },
     {
+      "source_id": "55214478888",
+      "titulo": "Caixa de Som Portátil JBL GO 5 Preto Original Bluetooth À Prova D'água Iluminação e Auracast",
+      "de": null,
+      "por": 309.9,
+      "desconto": 23,
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l7-mps2n1sv12wy66",
+      "link": "https://s.shopee.com.br/8pllzEoDHn",
+      "cupom": null,
+      "loja": "shopee",
+      "categoria": "Audio",
+      "data": "2026-09-10T06:27:22.795034-03:00",
+      "slug": "caixa-de-som-portatil-jbl-go-5-preto-original-bluetooth-a-prova-d-agua",
+      "page_url": "https://promoninjaofertas.github.io/produto/caixa-de-som-portatil-jbl-go-5-preto-original-bluetooth-a-prova-d-agua.html",
+      "avaliacao": 5.0,
+      "avaliacoes": null,
+      "vendas": 155,
+      "nota_qualidade": 9,
+      "last_seen": "2026-09-16T02:41:51.803811+00:00",
+      "expires_at": "2026-09-16T23:41:51.803811-03:00",
+      "marca": "JBL",
+      "price_evidence": {
+        "checked_at": "2026-09-16T02:43:12.919306+00:00",
+        "identity": {
+          "brand": "JBL",
+          "model": null,
+          "family": "audio",
+          "kind": "produto",
+          "variant": "cor:preto|kit:1",
+          "ambiguous": false,
+          "comparison_key": null
+        },
+        "previous_min": 309.9,
+        "observed_min": 309.9,
+        "since": "2026-09-12T22:19:00.776474+00:00",
+        "observations": 7,
+        "days": 4,
+        "history": [
+          {
+            "at": "2026-09-12T22:19:00.776474+00:00",
+            "price": 309.9
+          },
+          {
+            "at": "2026-09-14T10:35:25.526194+00:00",
+            "price": 309.9
+          },
+          {
+            "at": "2026-09-14T18:22:43.130393+00:00",
+            "price": 309.9
+          },
+          {
+            "at": "2026-09-15T00:25:25.837538+00:00",
+            "price": 309.9
+          },
+          {
+            "at": "2026-09-15T06:36:44.329917+00:00",
+            "price": 309.9
+          },
+          {
+            "at": "2026-09-15T12:43:21.327829+00:00",
+            "price": 309.9
+          },
+          {
+            "at": "2026-09-16T01:39:06.395970+00:00",
+            "price": 309.9
+          }
+        ],
+        "advantage": false,
+        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
+      },
+      "grupo": "Tech"
+    },
+    {
       "source_id": "46662348294",
       "titulo": "Monitor Gamer Acer KG243Y 23.8\" Full HD 144Hz IPS HDMI P1bip - Preto - Bivolt",
       "de": null,
@@ -2271,11 +2247,11 @@
       "avaliacoes": null,
       "vendas": 381,
       "nota_qualidade": 10,
-      "last_seen": "2026-09-16T09:58:10.538463+00:00",
-      "expires_at": "2026-09-17T06:58:10.538463-03:00",
+      "last_seen": "2026-09-16T10:18:41.700166+00:00",
+      "expires_at": "2026-09-17T07:18:41.700166-03:00",
       "marca": "Acer",
       "price_evidence": {
-        "checked_at": "2026-09-16T10:01:12.333169+00:00",
+        "checked_at": "2026-09-16T10:22:02.872655+00:00",
         "identity": {
           "brand": "Acer",
           "model": "kg243y",
@@ -2479,11 +2455,11 @@
       "avaliacoes": null,
       "vendas": 538,
       "nota_qualidade": 10,
-      "last_seen": "2026-09-16T09:28:40.190633+00:00",
-      "expires_at": "2026-09-17T06:28:40.190633-03:00",
+      "last_seen": "2026-09-16T10:18:41.700166+00:00",
+      "expires_at": "2026-09-17T07:18:41.700166-03:00",
       "marca": "Kingston",
       "price_evidence": {
-        "checked_at": "2026-09-16T09:31:46.606205+00:00",
+        "checked_at": "2026-09-16T10:22:02.872655+00:00",
         "identity": {
           "brand": "Kingston",
           "model": "kvr16n11/8",
@@ -2646,7 +2622,7 @@
       "por": 159.87,
       "desconto": 61,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S19ef127e0d9b40f09802f5caad87851b9.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mLmqWqgZyrm2wdIQcimGRFvG3C6BbmIUTQwfgBCALZ5PHV8bytiVoPD51fwBp7lJx51r9ZYebVGtMaZEIpSAaODbAnlhKeOaFlIglJBWuhNuulmzw3TjuiwRAYzmeizfiPX5RVck2f7aJzEqgTZG477uZAv4GKwnNHYVIwB4GpZypX4jDK6EQ5SNyaGuNwYMbLDumtUuCsBktoxSRr9TKM7Ly6w4CYfIKd5RhFa3EvmnYHxYsTbnE5VbRXezWCgXJRRVpkAoJUAxwFboyFO3P3N0R0aewBgUV7CqTxk0IM0E2CifW98MEZPJ4BRssOeA1QZwjckfNWVEKFuSnxmfx3q8k6peME0G8QNrcwUaJp9VveymjUFlLNLa8nnsp4UmMntNUYwy2tNtUj1Ze8MckcKJqjNVVQ0ONw4G1qDc3NCVMq335i5n0Iayqk4pfCM7a4yakWWedbycKAEJ541UHZzjxbVItsExXHHpeGTCUHuDbr3SdMVEEnBPi5jDFTfmGnMhRnc1SPbHMLF6fgORXaLsFu98q6UnYp8Yu3AExU2ViE4zrIIPwLnyQ3hrwoa9I5gkRcQsrYcQKMH5bM7TAule6LJgSTLWjBg9b5kPyMpwGZFYmqbzCCRgkuCKFgnVTHWkRCNtDSQyuYANSU0VDsaFXxcNHr30GZ9LsewzrbV7tc8YOQZCs2oWS3H6RUO8TwaZE8TCzADzo",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mLmqWqgZyrm2wdIQcimGRFvG3C6BbmIUTQwfgBCALZ5PHV8bytiVoPD51fwBp7lJx51r9ZYebVGtMaZEIpSAaODbAnlhKeOaFlIglJBWuhNuulmzw3TjuiwRAYzmeizfiPX5RVck2f7aJzEqgTZG477uZAv4GKwnNHYVIwB4GpZypX4jDK6EQ5SNyaGuNwYMbLDumtUuCsBktoxSRr9TKM7Ly6w4CYfIKd5RhExNScdFx9N9Db0zA93lqj0lTccaoH0VYw6PHMsdif8AJNPTeYRJ7dNPx0wOsFktGBOsPwC8kA1QlIENvyNJtEnCfN9WEnK7rbFIX3ygnpM0VrMaCC1whYEDXJo8bxBfNiBv1MRAwFT8vp0Y4t2wd62qKljBEc0uYOQ4dUS5issQ2u2ezy8omi3sRShpd1F0QnhBh1jfDzsaYfCezbk0W04JiBVwAYfB6aFHWVVMewSonR8gpmWKTLbCwFUGVwc6SUZkfd2BJyqxcY2PEwnADL59846Xl6iTdrXQwULyH6TAPqn3ThoBdvaJQoYOqvrhVFp5koWsWYSNQkaTrKN9Y07FSTHh5ozfrEJZd3SsxDUc21WdthLfW9bVXmXQnY05sIgLU9EGQjkDcqw7hQla9J0rEE5af3jWIiV6gi1MZIGql8VCWkDQrJBMziDbTrMO6CSW5TURQx47pgxNTRnMGVHEE7UBlNTPfN7j5dR9g",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Audio",
@@ -2657,35 +2633,11 @@
       "avaliacoes": null,
       "vendas": 158,
       "nota_qualidade": 8,
-      "last_seen": "2026-09-16T10:08:21.375301+00:00",
-      "expires_at": "2026-09-17T07:08:21.375301-03:00",
+      "last_seen": "2026-09-16T10:18:41.700166+00:00",
+      "expires_at": "2026-09-17T07:18:41.700166-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Gamer"
-    },
-    {
-      "source_id": "1005009942973523",
-      "titulo": "Carregador Portátil 20000mah，Power Bank Portátil，Pilhas Recarregáveis，Powerbank Portátil， TYPE-C, USB， Preto， Do Brasil",
-      "de": 125.99,
-      "por": 100.74,
-      "desconto": 20,
-      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sde41ee2d147445a1b782ea99ce2a2690d.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mrbupromK6mYSbuqYR50sQXn1xnxQjsn6UD8OFDTyuzx58lNGuFICzNShe5N91FWyj99Bjco621BLld2shUA6bbCdRDv1GHnnfJZ8tM6Lj4yciaQ8Xk4apPeYKsjg2f5W5ZPnPzLN0DjmTaB4uBJ58pdrflFq1JZFHRM3yN5MpADtVg48Rsx39Bj7t3IofRJLiNvg34SqV6zHVOtUXsvrUuzoZWsPBhVCw0jsU6M5ApMhw8lUKW4cUzmsHQVCalsniAESKPnCAZPGELRP5wTTqIwuhqHPCfzcQNSXqyepRzpuXsk5zQ2V20br6qmWmcibsZC7ArGY2t54wp5jmjSonmNUKjx6j5hTVr4RcKwkgteggp33KmTVyTEn4FlM2Gp7QqnhAo8T2v2dSSjuCGCuLSkfQT2RKc3jBi5zXowB9rbOnZ2Z73EWBQDH5q3nhM70JoXbPfCEDCP1T8VnKSmbBKnG5pY40uTD3S97WdVTx3fW9gioFhuCIWKACrZPys4RKh0EiRYCJVD2SPpJkzGYqMhvyEBdgxuJrCIzBlKjPhsmEc3CdY7gmgYuaCnwhlAGfh9NICAPhE0jCHVXLJZstZIS9Dm1NhuwhUTVd5bBumV2wwgGD8fLmn4IZfOysugsZkyxuHfZzdQJAlhZTWV2Jp5oTEovhiNZY3e7Lz9d7jRNBFhlVvgC4h5yivfY5iNOta1yoOa5MbKd",
-      "cupom": null,
-      "loja": "aliexpress",
-      "categoria": "Acessórios para telefones e telecomunicações",
-      "data": "2026-09-07T05:12:37.105870-03:00",
-      "slug": "carregador-portatil-20000mah-power-bank-portatil-pilhas-recarregaveis-powerbank-portat",
-      "page_url": "https://promoninjaofertas.github.io/produto/carregador-portatil-20000mah-power-bank-portatil-pilhas-recarregaveis-powerbank-portat.html",
-      "avaliacao": 4.87,
-      "avaliacoes": null,
-      "vendas": 2041,
-      "nota_qualidade": 7,
-      "last_seen": "2026-09-16T05:24:47.710028+00:00",
-      "expires_at": "2026-09-17T02:24:47.710028-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Tech"
     },
     {
       "source_id": "1005008639836335",
@@ -2710,6 +2662,30 @@
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros"
+    },
+    {
+      "source_id": "1005009942973523",
+      "titulo": "Carregador Portátil 20000mah，Power Bank Portátil，Pilhas Recarregáveis，Powerbank Portátil， TYPE-C, USB， Preto， Do Brasil",
+      "de": 125.99,
+      "por": 100.74,
+      "desconto": 20,
+      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sde41ee2d147445a1b782ea99ce2a2690d.jpg",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mrbupromK6mYSbuqYR50sQXn1xnxQjsn6UD8OFDTyuzx58lNGuFICzNShe5N91FWyj99Bjco621BLld2shUA6bbCdRDv1GHnnfJZ8tM6Lj4yciaQ8Xk4apPeYKsjg2f5W5ZPnPzLN0DjmTaB4uBJ58pdrflFq1JZFHRM3yN5MpADtVg48Rsx39Bj7t3IofRJLiNvg34SqV6zHVOtUXsvrUuzoZWsPBhVCw0jsU6M5ApMhw8lUKW4cUzmsHQVCalsniAESKPnCAZPGELRP5wTTqIwuhqHPCfzcQNSXqyepRzpuXsk5zQ2V20br6qmWmcibsZC7ArGY2t54wp5jmjSonmNUKjx6j5hTVr4RcKwkgteggp33KmTVyTEn4FlM2Gp7QqnhAo8T2v2dSSjuCGCuLSkfQT2RKc3jBi5zXowB9rbOnZ2Z73EWBQDH5q3nhM70JoXbPfCEDCP1T8VnKSmbBKnG5pY40uTD3S97WdVTx3fW9gioFhuCIWKACrZPys4RKh0EiRYCJVD2SPpJkzGYqMhvyEBdgxuJrCIzBlKjPhsmEc3CdY7gmgYuaCnwhlAGfh9NICAPhE0jCHVXLJZstZIS9Dm1NhuwhUTVd5bBumV2wwgGD8fLmn4IZfOysugsZkyxuHfZzdQJAlhZTWV2Jp5oTEovhiNZY3e7Lz9d7jRNBFhlVvgC4h5yivfY5iNOta1yoOa5MbKd",
+      "cupom": null,
+      "loja": "aliexpress",
+      "categoria": "Acessórios para telefones e telecomunicações",
+      "data": "2026-09-07T05:12:37.105870-03:00",
+      "slug": "carregador-portatil-20000mah-power-bank-portatil-pilhas-recarregaveis-powerbank-portat",
+      "page_url": "https://promoninjaofertas.github.io/produto/carregador-portatil-20000mah-power-bank-portatil-pilhas-recarregaveis-powerbank-portat.html",
+      "avaliacao": 4.87,
+      "avaliacoes": null,
+      "vendas": 2041,
+      "nota_qualidade": 7,
+      "last_seen": "2026-09-16T05:24:47.710028+00:00",
+      "expires_at": "2026-09-17T02:24:47.710028-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Tech"
     },
     {
       "source_id": "1005008868989146",
@@ -2982,7 +2958,7 @@
       "por": 60.09,
       "desconto": 55,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Hc3a48e471c9842ee8fb13ff649875daed.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4ml4ewOlFOrBpzwT8IIYGdKWurJu0vUOWkmI5T7DTziboOKqiC9pMmoP1FfozDuhK3bbaqnvgc0gaTgcKS5Yq757yYwBbqzjHHG14QIAs9zU6mjP2G2sONoh3wVS7SjR2qGAXwZtLLv6lhfFEqHEPviWxIXOQlaRihUwAsZsl57AZNOYpUhI7qNhpdNyU0oQYiiWq8NxlGEXvtWB4dhtSDCW7QMz8KJfAYVz6Fu1iKVHlxnnzhgWVDZKcHBerhWNGZ19ytPH4KWELvGyCRYYvtJu0TYrvYzOdHCCK6tEPQBQ6zVbhhagEhTE4FVIGwfAjra9aAohchphnnvCT5b7lgrTN155rJ8QPjN49DNkanFGLoPjRVKHlzD5nWP2urCXuTWhzt2vwZI0NihiGh4AT7oF8FCCkfzB4yD95XHfsk3L54WFoWgODdLusnrJU78TwHs3xS9x4jRKzylFHHjPGBLEVPFq4Zds1tLD8brDuTPxcR4NVWrw8ybtP1GssYGOQiI5lWeV4GQUCiZ6uD7OHoMG0bPyaM56zSPqTgFVuCYom8WUEHEtAnDYJ4AqTGK9KvIzIv53yZrJ5kCxEIiuOKquJkAX50Kwiuj5AAEP4Cn4G4EkXYrJyqQmm4zjXzICRh3kPbVI8YyIavVJoGwE3kgg71YGjVRJyLo35fIbqnEyZCX2Xw0eRGWybWbxqAh7ip4AeDXiGkuKpS",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4ml4ewOlFOrBpzwT8IIYGdKWurJu0vUOWkmI5T7DTziboOKqiC9pMmoP1FfozDuhK3bbaqnvgc0gaTgcKS5Yq757yYwBbqzjHHG14QIAs9zU6mjP2G2sONoh3wVS7SjR2qGAXwZtLLv6lhfFEqHEPviWxIXOQlaRihUwAsZsl57AZNOYpUhI7qNhpdNyU0oQYiiWq8NxlGEXvtWB4dhtSDCW7QMz8KJfAYVz6FulQUDtyUKIb8rxV6RztMb6SdcWruFjF66hVvBmgBJelMgn5NGOBBFo7nyv95Yv3aww3JEgRrTe70IX6a6WrsbpPwYNu1bIkPNCHBUCQm2oef6Q5lxOJ50X5mlZ2Ekf4IBFrw3jIq6wauFXJsxw5YLDxSYUI6gGHzYqbt4D1kEjVQPDi2uwmIQsisWxp4pEpSA8x067VI0ZbnJBriJ5jrQ8VhsI6veka6cdNzy2uP3Lqg5kdZGF3CId1CRXXGAC8ApAnocqnJ3e9RAnY513xHTEMFLq5P9Q2CTgZN76qz9ZFWJ5NE42PiGfMXn8KEn9YFzINPCuT2c1jH2prPJLbr454UIjQQxvaMwRvXwQhPJacUqZaIyoCn2oS3kUUZ8RFfnNedyIUYPq74wY9J2ywzAJ52qrAZ1WegK5vxBPdqfi5pqwjl7O2Ib1F9B9gqeK195vAAHL3GVOYibRIYFr49S7VIplRFs09sxTGDFBoG",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Hardware",
@@ -2993,8 +2969,8 @@
       "avaliacoes": null,
       "vendas": 354,
       "nota_qualidade": 8,
-      "last_seen": "2026-09-16T10:08:21.375301+00:00",
-      "expires_at": "2026-09-17T07:08:21.375301-03:00",
+      "last_seen": "2026-09-16T10:18:41.700166+00:00",
+      "expires_at": "2026-09-17T07:18:41.700166-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Gamer"
