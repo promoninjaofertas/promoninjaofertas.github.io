@@ -54,6 +54,50 @@
   const safeUrl = (value, fallback = '#') =>
     /^https:\/\//i.test(String(value || '')) ? String(value) : fallback;
 
+  /* --------------------------------------------------------------- Imagens
+     Espelho de services/site_images.py (VPS) — mantenha os dois em sincronia.
+     Direto da loja (tamanho pedido à CDN quando suportado) -> proxy weserv ->
+     placeholder. O proxy sozinho quebrava as imagens do Pechinchou (403).     */
+  const CARD_IMAGE_SIZE = 480;
+  const IMAGE_ONERROR =
+    "var p=this.parentElement,f=this.getAttribute('data-fallback');" +
+    "if(f){this.removeAttribute('data-fallback');this.src=f;}" +
+    "else{this.remove();if(p)p.classList.add('no-image');}";
+
+  const proxyImageUrl = url =>
+    'https://images.weserv.nl/?url=' +
+    encodeURIComponent('ssl:' + url.replace(/^https?:\/\//, '')) +
+    '&w=1100&h=950&fit=contain&output=webp';
+
+  function resizedImageUrl(url, size) {
+    let host = '';
+    try {
+      host = new URL(url).hostname.toLowerCase();
+    } catch (_) {
+      return url;
+    }
+    if (host.endsWith('media-amazon.com'))
+      return url.replace(
+        /(\/images\/I\/[^./]+)(?:\.[^/]*?)?(\.(?:jpe?g|png|webp))$/,
+        `$1._SL${size}_$2`
+      );
+    if (host.endsWith('aliexpress-media.com') || host.endsWith('alicdn.com')) {
+      const base = url.replace(/(\.jpe?g)_\d+x\d+(?:q\d+)?\.jpe?g$/i, '$1');
+      if (/\.jpe?g$/i.test(base)) return `${base}_${size}x${size}.jpg`;
+    }
+    return url;
+  }
+
+  function imageTag(url, { size, width, height, alt = '' }) {
+    if (!/^https:\/\//i.test(String(url || ''))) return '';
+    return (
+      `<img src="${escapeHtml(resizedImageUrl(url, size))}" ` +
+      `data-fallback="${escapeHtml(proxyImageUrl(url))}" alt="${escapeHtml(alt)}" ` +
+      `width="${width}" height="${height}" loading="lazy" decoding="async" ` +
+      `referrerpolicy="no-referrer" onerror="${IMAGE_ONERROR}">`
+    );
+  }
+
   const money = value => {
     const number = Number(value);
     if (!Number.isFinite(number) || number <= 0) return '';
@@ -465,7 +509,7 @@
     const page = safeUrl(offer.page_url || offer.link, SITE_URL);
     const link = safeUrl(offer.link, page);
     const title = escapeHtml(offer.titulo || 'Oferta selecionada');
-    const image = safeUrl(offer.imagem, '');
+    const image = imageTag(safeUrl(offer.imagem, ''), { size: CARD_IMAGE_SIZE, width: 300, height: 300 });
     const discount = Number(offer.desconto || 0);
     const posted = relativeTime(offer.data);
 
@@ -476,11 +520,7 @@
       </div>
       <a class="product-image${image ? '' : ' no-image'}" href="${page}" tabindex="-1" aria-hidden="true">
         ${discount > 0 ? `<span class="discount">-${discount}%</span>` : ''}
-        ${
-          image
-            ? `<img src="${escapeHtml(image)}" alt="" loading="lazy" decoding="async" width="300" height="300" referrerpolicy="no-referrer" onerror="this.remove();this.parentElement.classList.add('no-image')">`
-            : ''
-        }
+        ${image}
       </a>
       <div class="card-body">
         <a class="product-title-link" href="${page}"><h3 class="product-title">${title}</h3></a>
