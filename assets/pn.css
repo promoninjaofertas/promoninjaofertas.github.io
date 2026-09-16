@@ -915,65 +915,26 @@ body > * {
   }
 }
 
-.radar-core {
+/* Radar minimalista: só anéis, varredura e o ponto central. */
+.hero-visual::after {
+  content: "";
   position: absolute;
   top: 50%;
   left: 50%;
-  width: 112px;
-  height: 112px;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
   transform: translate(-50%, -50%);
-  object-fit: contain;
-  filter: drop-shadow(0 0 24px rgba(213, 174, 85, 0.25));
+  background: var(--gold);
+  box-shadow: 0 0 0 5px var(--gold-dim), 0 0 18px var(--gold-glow);
 }
 
+/* Transição: a logo central e os blips saíram do template. Esconde a marcação
+   antiga enquanto alguma página gerada antes da mudança ainda estiver no ar.
+   Pode ser removido depois que a VPS regenerar tudo. */
+.radar-core,
 .radar-blip {
-  position: absolute;
-  display: flex;
-  align-items: center;
-  gap: 7px;
-  padding: 7px 12px;
-  border: 1px solid var(--border-strong);
-  border-radius: var(--radius-pill);
-  background: rgba(16, 18, 22, 0.92);
-  font-size: 12px;
-  font-weight: 600;
-  color: var(--text-secondary);
-  box-shadow: var(--shadow);
-  animation: pn-float 5s ease-in-out infinite;
-}
-
-.radar-blip b {
-  color: var(--gold);
-}
-
-/* nth-of-type (e não nth-child): conta só os <span>, então não quebra se a
-   ordem de .radar / .radar-core mudar no template. Offsets ficam dentro da
-   caixa para não vazar para a gutter. */
-.radar-blip:nth-of-type(1) {
-  top: 9%;
-  right: 0;
-}
-
-.radar-blip:nth-of-type(2) {
-  bottom: 24%;
-  left: 0;
-  animation-delay: -1.7s;
-}
-
-.radar-blip:nth-of-type(3) {
-  bottom: 3%;
-  right: 12%;
-  animation-delay: -3.2s;
-}
-
-@keyframes pn-float {
-  0%,
-  100% {
-    transform: translateY(0);
-  }
-  50% {
-    transform: translateY(-9px);
-  }
+  display: none;
 }
 
 /* ==========================================================================
@@ -1812,17 +1773,27 @@ body.no-scroll {
 /* ==========================================================================
    09. CUPOM
    ========================================================================== */
+/* O código NUNCA é cortado. Nos cards ele ganha uma linha própria com a
+   largura inteira do cupom (o maior código real, DESCONTOEMCASA, tem ~116px):
+     CUPOM            [COPIAR]
+     DESCONTOEMCASA
+   A ordem no DOM continua rótulo -> código -> botão (leitores de tela). */
 .coupon {
-  display: flex;
+  display: grid;
+  grid-template-columns: 1fr auto;
+  grid-template-areas:
+    "label copy"
+    "code  code";
   align-items: center;
-  gap: var(--space-2);
-  padding: 8px 8px 8px 12px;
+  gap: 4px var(--space-2);
+  padding: 8px 8px 10px 12px;
   border: 1px dashed var(--border-gold);
   border-radius: var(--radius-sm);
   background: rgba(213, 174, 85, 0.07);
 }
 
 .coupon-label {
+  grid-area: label;
   font-size: 10px;
   font-weight: 700;
   letter-spacing: 0.12em;
@@ -1831,21 +1802,40 @@ body.no-scroll {
 }
 
 .coupon-code {
-  flex: 1;
+  grid-area: code;
   min-width: 0;
   font-family: ui-monospace, "SF Mono", "Cascadia Mono", Menlo, monospace;
   font-size: 13px;
   font-weight: 700;
   letter-spacing: 0.04em;
+  line-height: 1.35;
   color: var(--gold-light);
-  overflow: hidden;
-  text-overflow: ellipsis;
-  white-space: nowrap;
+  /* Rede de segurança para códigos futuros muito longos: quebra, não corta. */
+  overflow-wrap: anywhere;
+  /* Um toque seleciona o código inteiro, caso a cópia automática falhe. */
+  -webkit-user-select: all;
+  user-select: all;
+}
+
+/* Na página de produto há espaço: tudo numa linha só. */
+@media (min-width: 400px) {
+  .product-info .coupon {
+    grid-template-columns: auto 1fr auto;
+    grid-template-areas: "label code copy";
+    gap: var(--space-3);
+    padding: 10px 10px 10px 14px;
+  }
+
+  .product-info .coupon-code {
+    font-size: 15px;
+  }
 }
 
 .coupon-copy {
+  grid-area: copy;
   display: inline-flex;
   align-items: center;
+  justify-content: center;
   gap: 5px;
   flex-shrink: 0;
   min-height: 30px;
@@ -1873,6 +1863,29 @@ body.no-scroll {
 .coupon-copy.is-copied {
   border-color: var(--success);
   color: var(--success);
+}
+
+/* Cards em 2 colunas no celular (~110px úteis): o botão vira só ícone para o
+   rótulo caber ao lado, e o código fica em 12px — suficiente para os 14
+   caracteres do maior cupom sem quebrar. O aria-label mantém o "Copiar cupom X". */
+@media (max-width: 639px) {
+  .card .coupon {
+    padding: 7px 7px 9px 9px;
+  }
+
+  .card .coupon-code {
+    font-size: 12px;
+    letter-spacing: 0.02em;
+  }
+
+  .card .coupon-copy {
+    width: 30px;
+    padding: 0;
+  }
+
+  .card .coupon-copy span {
+    display: none;
+  }
 }
 
 /* ==========================================================================
@@ -3000,15 +3013,6 @@ body.no-scroll {
   .buy-button {
     font-size: 13px;
   }
-
-  .coupon {
-    flex-wrap: wrap;
-    row-gap: 6px;
-  }
-
-  .coupon-code {
-    flex-basis: 100%;
-  }
 }
 
 /* ==========================================================================
@@ -3036,8 +3040,7 @@ body.no-scroll {
     transform: none;
   }
 
-  .radar-sweep,
-  .radar-blip {
+  .radar-sweep {
     animation: none;
   }
 }

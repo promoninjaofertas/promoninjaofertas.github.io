@@ -927,9 +927,6 @@
       loaded = true;
       renderStoreStrip();
       render();
-      $$('[data-offer-total]').forEach(node => {
-        node.textContent = String(allOffers.length);
-      });
     })
     .catch(showError);
 
