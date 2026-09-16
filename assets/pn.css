@@ -849,9 +849,13 @@ body > * {
 }
 
 /* --- Radar visual do hero ------------------------------------------------ */
+/* `width: 100%` é obrigatório: com `margin-inline: auto` o item perde o
+   stretch do grid e, como todo o conteúdo aqui é absoluto, a largura
+   intrínseca seria 0 — o radar colapsava para 0x0. */
 .hero-visual {
   display: none;
   position: relative;
+  width: 100%;
   aspect-ratio: 1;
   max-width: 420px;
   margin-inline: auto;
@@ -942,20 +946,23 @@ body > * {
   color: var(--gold);
 }
 
-.radar-blip:nth-child(3) {
-  top: 12%;
-  right: -6%;
+/* nth-of-type (e não nth-child): conta só os <span>, então não quebra se a
+   ordem de .radar / .radar-core mudar no template. Offsets ficam dentro da
+   caixa para não vazar para a gutter. */
+.radar-blip:nth-of-type(1) {
+  top: 9%;
+  right: 0;
 }
 
-.radar-blip:nth-child(4) {
-  bottom: 22%;
-  left: -10%;
+.radar-blip:nth-of-type(2) {
+  bottom: 24%;
+  left: 0;
   animation-delay: -1.7s;
 }
 
-.radar-blip:nth-child(5) {
-  bottom: 2%;
-  right: 8%;
+.radar-blip:nth-of-type(3) {
+  bottom: 3%;
+  right: 12%;
   animation-delay: -3.2s;
 }
 
