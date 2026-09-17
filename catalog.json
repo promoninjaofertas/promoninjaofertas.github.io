@@ -1,6 +1,31 @@
 {
-  "atualizado": "2026-09-17T21:21:08.988069+00:00",
+  "atualizado": "2026-09-17T21:31:09.124789+00:00",
   "ofertas": [
+    {
+      "source_id": "pechinchou-110436",
+      "titulo": "Sapatenis Tenis Casual Masculino Polo Vili",
+      "de": 79.9,
+      "por": 59.99,
+      "desconto": 25,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/D_NQ_NP_789577-MLB74295303529_012024-O.jpg",
+      "link": "https://meli.la/1trfMN8",
+      "cupom": "PAGUEMENOSJA",
+      "loja": "mercadolivre",
+      "categoria": "Beleza",
+      "data": "2026-09-17T18:31:09.124789-03:00",
+      "slug": "sapatenis-tenis-casual-masculino-polo-vili",
+      "page_url": "https://promoninjaofertas.github.io/produto/sapatenis-tenis-casual-masculino-polo-vili.html",
+      "avaliacao": null,
+      "avaliacoes": 5,
+      "vendas": null,
+      "nota_qualidade": 6,
+      "last_seen": "2026-09-17T21:31:09.124789+00:00",
+      "expires_at": "2026-09-18T18:31:09.124789-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Moda",
+      "cupom_no_telegram": true
+    },
     {
       "source_id": "pechinchou-111259",
       "titulo": "Bota Coturno Montaria Mooncity Feminino 72188",
@@ -19,8 +44,8 @@
       "avaliacoes": 2,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-09-17T21:21:08.988069+00:00",
-      "expires_at": "2026-09-18T18:21:08.988069-03:00",
+      "last_seen": "2026-09-17T21:31:09.124789+00:00",
+      "expires_at": "2026-09-18T18:31:09.124789-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
@@ -44,8 +69,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-09-17T21:21:08.988069+00:00",
-      "expires_at": "2026-09-18T18:21:08.988069-03:00",
+      "last_seen": "2026-09-17T21:31:09.124789+00:00",
+      "expires_at": "2026-09-18T18:31:09.124789-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
@@ -69,37 +94,12 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-09-17T21:21:08.988069+00:00",
-      "expires_at": "2026-09-18T18:21:08.988069-03:00",
+      "last_seen": "2026-09-17T21:31:09.124789+00:00",
+      "expires_at": "2026-09-18T18:31:09.124789-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
       "cupom_no_telegram": true
-    },
-    {
-      "source_id": "pechinchou-134970",
-      "titulo": "Truss Uso Obrigatório Reconstrutor Capilar 260ml Truss Uso Obrigatório Reconstrução Restauração",
-      "de": 79.9,
-      "por": 66.0,
-      "desconto": 17,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/51RyIsR6rIL_KNrCp6n.__AC_SY445_SX342_QL70_ML2_.jpg",
-      "link": "https://meli.la/1bfoz2L",
-      "cupom": null,
-      "loja": "mercadolivre",
-      "categoria": "Saúde",
-      "data": "2026-09-17T17:50:43.987324-03:00",
-      "slug": "truss-uso-obrigatorio-reconstrutor-capilar-260ml-truss-uso-obrigatorio-reconstrucao-re",
-      "page_url": "https://promoninjaofertas.github.io/produto/truss-uso-obrigatorio-reconstrutor-capilar-260ml-truss-uso-obrigatorio-reconstrucao-re.html",
-      "avaliacao": null,
-      "avaliacoes": 10,
-      "vendas": null,
-      "nota_qualidade": 5,
-      "last_seen": "2026-09-17T21:21:08.988069+00:00",
-      "expires_at": "2026-09-18T18:21:08.988069-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Outros",
-      "cupom_no_telegram": false
     },
     {
       "source_id": "pechinchou-135031",
@@ -119,11 +119,36 @@
       "avaliacoes": 1,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-09-17T21:21:08.988069+00:00",
-      "expires_at": "2026-09-18T18:21:08.988069-03:00",
+      "last_seen": "2026-09-17T21:31:09.124789+00:00",
+      "expires_at": "2026-09-18T18:31:09.124789-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
+      "cupom_no_telegram": false
+    },
+    {
+      "source_id": "pechinchou-134970",
+      "titulo": "Truss Uso Obrigatório Reconstrutor Capilar 260ml Truss Uso Obrigatório Reconstrução Restauração",
+      "de": 79.9,
+      "por": 66.0,
+      "desconto": 17,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/51RyIsR6rIL_KNrCp6n.__AC_SY445_SX342_QL70_ML2_.jpg",
+      "link": "https://meli.la/1bfoz2L",
+      "cupom": null,
+      "loja": "mercadolivre",
+      "categoria": "Saúde",
+      "data": "2026-09-17T17:50:43.987324-03:00",
+      "slug": "truss-uso-obrigatorio-reconstrutor-capilar-260ml-truss-uso-obrigatorio-reconstrucao-re",
+      "page_url": "https://promoninjaofertas.github.io/produto/truss-uso-obrigatorio-reconstrutor-capilar-260ml-truss-uso-obrigatorio-reconstrucao-re.html",
+      "avaliacao": null,
+      "avaliacoes": 10,
+      "vendas": null,
+      "nota_qualidade": 5,
+      "last_seen": "2026-09-17T21:31:09.124789+00:00",
+      "expires_at": "2026-09-18T18:31:09.124789-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Outros",
       "cupom_no_telegram": false
     },
     {
@@ -144,58 +169,8 @@
       "avaliacoes": 10,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-09-17T21:21:08.988069+00:00",
-      "expires_at": "2026-09-18T18:21:08.988069-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Casa",
-      "cupom_no_telegram": true
-    },
-    {
-      "source_id": "pechinchou-136998",
-      "titulo": "Tênis Converse Feminino Taylor Ct2834 Curto T",
-      "de": 259.9,
-      "por": 129.19,
-      "desconto": 50,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/external-image_VChn3hZ.jpg",
-      "link": "https://meli.la/1LRHEt2",
-      "cupom": null,
-      "loja": "mercadolivre",
-      "categoria": "Beleza",
-      "data": "2026-09-17T17:30:21.788462-03:00",
-      "slug": "tenis-converse-feminino-taylor-ct2834-curto-t",
-      "page_url": "https://promoninjaofertas.github.io/produto/tenis-converse-feminino-taylor-ct2834-curto-t.html",
-      "avaliacao": null,
-      "avaliacoes": 3,
-      "vendas": null,
-      "nota_qualidade": 5,
-      "last_seen": "2026-09-17T21:21:08.988069+00:00",
-      "expires_at": "2026-09-18T18:21:08.988069-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Moda",
-      "cupom_no_telegram": false
-    },
-    {
-      "source_id": "pechinchou-70085",
-      "titulo": "Microondas Panasonic Dupla Refeição 34L Black Glass - NN-ST66NBRU",
-      "de": 759.9,
-      "por": 628.0,
-      "desconto": 17,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/D_NQ_NP_988154-MLA99938073705_112025-F.jpg",
-      "link": "https://meli.la/15UEQBH",
-      "cupom": "BAIXOUTUDO",
-      "loja": "mercadolivre",
-      "categoria": "Eletrodomesticos",
-      "data": "2026-09-17T17:30:21.788462-03:00",
-      "slug": "microondas-panasonic-dupla-refeicao-34l-black-glass-nn-st66nbru",
-      "page_url": "https://promoninjaofertas.github.io/produto/microondas-panasonic-dupla-refeicao-34l-black-glass-nn-st66nbru.html",
-      "avaliacao": null,
-      "avaliacoes": 10,
-      "vendas": null,
-      "nota_qualidade": 5,
-      "last_seen": "2026-09-17T21:21:08.988069+00:00",
-      "expires_at": "2026-09-18T18:21:08.988069-03:00",
+      "last_seen": "2026-09-17T21:31:09.124789+00:00",
+      "expires_at": "2026-09-18T18:31:09.124789-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
@@ -219,37 +194,12 @@
       "avaliacoes": 10,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-09-17T21:21:08.988069+00:00",
-      "expires_at": "2026-09-18T18:21:08.988069-03:00",
+      "last_seen": "2026-09-17T21:31:09.124789+00:00",
+      "expires_at": "2026-09-18T18:31:09.124789-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
       "cupom_no_telegram": true
-    },
-    {
-      "source_id": "pechinchou-130542",
-      "titulo": "Perfume Natura Kaiak extremo deo colônia 100 ml",
-      "de": 139.9,
-      "por": 78.36,
-      "desconto": 44,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/D_NQ_NP_964055-MLA84536043026_052025-O.webp",
-      "link": "https://meli.la/2x1pst6",
-      "cupom": null,
-      "loja": "mercadolivre",
-      "categoria": "Beleza",
-      "data": "2026-09-15T11:12:08.185719-03:00",
-      "slug": "perfume-natura-kaiak-extremo-deo-colonia-100-ml",
-      "page_url": "https://promoninjaofertas.github.io/produto/perfume-natura-kaiak-extremo-deo-colonia-100-ml.html",
-      "avaliacao": null,
-      "avaliacoes": 10,
-      "vendas": null,
-      "nota_qualidade": 7,
-      "last_seen": "2026-09-17T21:21:08.988069+00:00",
-      "expires_at": "2026-09-18T18:21:08.988069-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Moda",
-      "cupom_no_telegram": false
     },
     {
       "source_id": "pechinchou-98058",
@@ -269,11 +219,86 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-09-17T21:21:08.988069+00:00",
-      "expires_at": "2026-09-18T18:21:08.988069-03:00",
+      "last_seen": "2026-09-17T21:31:09.124789+00:00",
+      "expires_at": "2026-09-18T18:31:09.124789-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
+      "cupom_no_telegram": false
+    },
+    {
+      "source_id": "pechinchou-93639",
+      "titulo": "Cafeteira Espresso Primalatte Bvstem6801r Touch Red Oster Cor Preto/Vermelho",
+      "de": 1819.9,
+      "por": 745.12,
+      "desconto": 59,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/external-image_wUdbWWq.jpg",
+      "link": "https://meli.la/2XZBmsS",
+      "cupom": "BAIXOUTUDO",
+      "loja": "mercadolivre",
+      "categoria": "Eletrodomesticos",
+      "data": "2026-09-09T22:19:49.075351-03:00",
+      "slug": "cafeteira-espresso-primalatte-bvstem6801r-touch-red-oster-cor-preto-vermelho",
+      "page_url": "https://promoninjaofertas.github.io/produto/cafeteira-espresso-primalatte-bvstem6801r-touch-red-oster-cor-preto-vermelho.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": null,
+      "nota_qualidade": 9,
+      "last_seen": "2026-09-17T21:31:09.124789+00:00",
+      "expires_at": "2026-09-18T18:31:09.124789-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Casa",
+      "cupom_no_telegram": true
+    },
+    {
+      "source_id": "pechinchou-146464",
+      "titulo": "Smart TV LG UHD AI UA75 50 polegadas HDR10 Pro Processador α7 AI Ger8 webOS 25",
+      "de": 2989.9,
+      "por": 2031.29,
+      "desconto": 32,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/image-removebg-preview_43_IW4i8rd.png",
+      "link": "https://meli.la/2SDe1pr",
+      "cupom": "BAIXOUTUDO",
+      "loja": "mercadolivre",
+      "categoria": "Hardware",
+      "data": "2026-08-25T09:39:09.096223-03:00",
+      "slug": "smart-tv-lg-uhd-ai-ua75-50-polegadas-hdr10-pro-processador-7-ai-ger8",
+      "page_url": "https://promoninjaofertas.github.io/produto/smart-tv-lg-uhd-ai-ua75-50-polegadas-hdr10-pro-processador-7-ai-ger8.html",
+      "avaliacao": null,
+      "avaliacoes": 3,
+      "vendas": null,
+      "nota_qualidade": 6,
+      "last_seen": "2026-09-17T21:31:09.124789+00:00",
+      "expires_at": "2026-09-18T18:31:09.124789-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Tech",
+      "cupom_no_telegram": true
+    },
+    {
+      "source_id": "pechinchou-150450",
+      "titulo": "Power Bank Basike 30000mAh de Carregamento Rápido 22.5W para iPhone e Android com Cabos Integrados",
+      "de": 149.9,
+      "por": 125.0,
+      "desconto": 17,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/61D6Zc5hctL_LMFhwXI_21kUMwH._AC_SY300_SX300_QL70_ML2_.jpg",
+      "link": "https://meli.la/2bxMcLt",
+      "cupom": null,
+      "loja": "mercadolivre",
+      "categoria": "Smartphones",
+      "data": "2026-08-20T17:15:18.997036-03:00",
+      "slug": "power-bank-basike-30000mah-de-carregamento-rapido-22-5w-para-iphone-e-android-com",
+      "page_url": "https://promoninjaofertas.github.io/produto/power-bank-basike-30000mah-de-carregamento-rapido-22-5w-para-iphone-e-android-com.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": null,
+      "nota_qualidade": 5,
+      "last_seen": "2026-09-17T21:31:09.124789+00:00",
+      "expires_at": "2026-09-18T18:31:09.124789-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Tech",
       "cupom_no_telegram": false
     },
     {
@@ -294,8 +319,8 @@
       "avaliacoes": 10,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-09-17T21:21:08.988069+00:00",
-      "expires_at": "2026-09-18T18:21:08.988069-03:00",
+      "last_seen": "2026-09-17T21:31:09.124789+00:00",
+      "expires_at": "2026-09-18T18:31:09.124789-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -319,8 +344,8 @@
       "avaliacoes": 1,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-09-17T21:21:08.988069+00:00",
-      "expires_at": "2026-09-18T18:21:08.988069-03:00",
+      "last_seen": "2026-09-17T21:31:09.124789+00:00",
+      "expires_at": "2026-09-18T18:31:09.124789-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -344,8 +369,8 @@
       "avaliacoes": 10,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-09-17T21:21:08.988069+00:00",
-      "expires_at": "2026-09-18T18:21:08.988069-03:00",
+      "last_seen": "2026-09-17T21:31:09.124789+00:00",
+      "expires_at": "2026-09-18T18:31:09.124789-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
@@ -369,33 +394,58 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 7,
-      "last_seen": "2026-09-17T21:21:08.988069+00:00",
-      "expires_at": "2026-09-18T18:21:08.988069-03:00",
+      "last_seen": "2026-09-17T21:31:09.124789+00:00",
+      "expires_at": "2026-09-18T18:31:09.124789-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
       "cupom_no_telegram": false
     },
     {
-      "source_id": "3048122",
-      "titulo": "LEGO Disney Pixar WALL-E e EVA 43279 (811 Peças)",
-      "de": 699.99,
-      "por": 474.0,
+      "source_id": "pechinchou-114408",
+      "titulo": "Modus Garrafa Térmica 950ml - Parede Dupla De Isolamento 24horas Gelado",
+      "de": 78.99,
+      "por": 53.97,
       "desconto": 32,
-      "imagem": "https://m.media-amazon.com/images/I/81kXjIO+uCL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0DRW6LQTN?tag=promoninja0b2-20",
-      "cupom": "JOGBLO20",
+      "imagem": "https://m.media-amazon.com/images/I/51Hzi1o7dfL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0GS56VW48?tag=promoninja0b2-20",
+      "cupom": null,
       "loja": "amazon",
-      "categoria": "Brinquedos e Hobbies",
-      "data": "2026-09-17T18:21:08.988069-03:00",
-      "slug": "lego-disney-pixar-wall-e-e-eva-43279-811-pecas",
-      "page_url": "https://promoninjaofertas.github.io/produto/lego-disney-pixar-wall-e-e-eva-43279-811-pecas.html",
+      "categoria": "Utilidades Domésticas",
+      "data": "2026-09-17T18:31:09.124789-03:00",
+      "slug": "modus-garrafa-termica-950ml-parede-dupla-de-isolamento-24horas-gelado",
+      "page_url": "https://promoninjaofertas.github.io/produto/modus-garrafa-termica-950ml-parede-dupla-de-isolamento-24horas-gelado.html",
       "avaliacao": null,
-      "avaliacoes": 1,
-      "vendas": 10,
-      "nota_qualidade": 5,
-      "last_seen": "2026-09-17T21:21:08.988069+00:00",
-      "expires_at": "2026-09-18T18:21:08.988069-03:00",
+      "avaliacoes": null,
+      "vendas": null,
+      "nota_qualidade": 6,
+      "last_seen": "2026-09-17T21:31:09.124789+00:00",
+      "expires_at": "2026-09-18T18:31:09.124789-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Casa",
+      "cupom_no_telegram": false
+    },
+    {
+      "source_id": "pechinchou-152287",
+      "titulo": "Vasagle Armário Alto Para Banheiro, Armário Estreito, Com Prateleira Aberta, Porta De Vidro, Pés Resistentes À Água, Prateleiras Com Altura Ajustável, Que Economiza Espaço, Branco Brbbk163w01",
+      "de": 619.9,
+      "por": 411.51,
+      "desconto": 34,
+      "imagem": "https://m.media-amazon.com/images/I/51FvHGi95UL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0CPXZY718?tag=promoninja0b2-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Móveis e Decoração",
+      "data": "2026-09-17T18:31:09.124789-03:00",
+      "slug": "vasagle-armario-alto-para-banheiro-armario-estreito-com-prateleira-aberta-porta-de-vid",
+      "page_url": "https://promoninjaofertas.github.io/produto/vasagle-armario-alto-para-banheiro-armario-estreito-com-prateleira-aberta-porta-de-vid.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": null,
+      "nota_qualidade": 6,
+      "last_seen": "2026-09-17T21:31:09.124789+00:00",
+      "expires_at": "2026-09-18T18:31:09.124789-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -419,8 +469,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-09-17T21:21:08.988069+00:00",
-      "expires_at": "2026-09-18T18:21:08.988069-03:00",
+      "last_seen": "2026-09-17T21:31:09.124789+00:00",
+      "expires_at": "2026-09-18T18:31:09.124789-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech",
@@ -500,31 +550,6 @@
       "price_evidence": {},
       "grupo": "Tech",
       "cupom_no_telegram": true
-    },
-    {
-      "source_id": "pechinchou-77272",
-      "titulo": "Lápis de Cor, Faber-Castell, Ecolápis Triangular Jumbo + Apontador com Depósito, 12.3024AP, 24 Cores",
-      "de": 79.9,
-      "por": 58.55,
-      "desconto": 27,
-      "imagem": "https://m.media-amazon.com/images/I/61QW5fpwMYL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B072M2YNYS?tag=promoninja0b2-20",
-      "cupom": null,
-      "loja": "amazon",
-      "categoria": "Papelaria e Escritório",
-      "data": "2026-09-17T17:10:23.697515-03:00",
-      "slug": "lapis-de-cor-faber-castell-ecolapis-triangular-jumbo-apontador-com-deposito-12-3024ap",
-      "page_url": "https://promoninjaofertas.github.io/produto/lapis-de-cor-faber-castell-ecolapis-triangular-jumbo-apontador-com-deposito-12-3024ap.html",
-      "avaliacao": null,
-      "avaliacoes": null,
-      "vendas": null,
-      "nota_qualidade": 6,
-      "last_seen": "2026-09-17T21:21:08.988069+00:00",
-      "expires_at": "2026-09-18T18:21:08.988069-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Outros",
-      "cupom_no_telegram": false
     },
     {
       "source_id": "3047790",
@@ -927,31 +952,6 @@
       "cupom_no_telegram": false
     },
     {
-      "source_id": "pechinchou-137414",
-      "titulo": "Moob Caixa de Som 400W Urban Com Dois Alto Falantes de 6,5\" PMPO Iluminação em LED Bluetooth TWS",
-      "de": 809.9,
-      "por": 541.39,
-      "desconto": 33,
-      "imagem": "https://m.media-amazon.com/images/I/610FKzL2M0L._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B096SYWFJB?tag=promoninja0b2-20",
-      "cupom": null,
-      "loja": "amazon",
-      "categoria": "Audio",
-      "data": "2026-09-15T18:07:40.299031-03:00",
-      "slug": "moob-caixa-de-som-400w-urban-com-dois-alto-falantes-de-6-5-pmpo",
-      "page_url": "https://promoninjaofertas.github.io/produto/moob-caixa-de-som-400w-urban-com-dois-alto-falantes-de-6-5-pmpo.html",
-      "avaliacao": null,
-      "avaliacoes": 10,
-      "vendas": null,
-      "nota_qualidade": 6,
-      "last_seen": "2026-09-17T21:21:08.988069+00:00",
-      "expires_at": "2026-09-18T18:21:08.988069-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Tech",
-      "cupom_no_telegram": false
-    },
-    {
       "source_id": "3040134",
       "titulo": "Jogo God of War Ragnarök - Edição Standard - PlayStation 4",
       "de": 339.9,
@@ -971,6 +971,31 @@
       "nota_qualidade": 8,
       "last_seen": "2026-09-17T20:30:21.788462+00:00",
       "expires_at": "2026-09-18T17:30:21.788462-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Gamer",
+      "cupom_no_telegram": false
+    },
+    {
+      "source_id": "pechinchou-143695",
+      "titulo": "Cadeira Gamer Python Fly Em Tecido, Respirável E Ecológica, Ângulo Ajustável (cinza Claro)",
+      "de": 619.9,
+      "por": 374.23,
+      "desconto": 40,
+      "imagem": "https://m.media-amazon.com/images/I/714s0-e1cmL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0D78TTV94?tag=promoninja0b2-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Games",
+      "data": "2026-09-09T22:29:58.898849-03:00",
+      "slug": "cadeira-gamer-python-fly-em-tecido-respiravel-e-ecologica-angulo-ajustavel-cinza-claro",
+      "page_url": "https://promoninjaofertas.github.io/produto/cadeira-gamer-python-fly-em-tecido-respiravel-e-ecologica-angulo-ajustavel-cinza-claro.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": null,
+      "nota_qualidade": 7,
+      "last_seen": "2026-09-17T21:31:09.124789+00:00",
+      "expires_at": "2026-09-18T18:31:09.124789-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Gamer",
@@ -1113,131 +1138,6 @@
       "cupom_no_telegram": false
     },
     {
-      "source_id": "23594959395",
-      "titulo": "Furadeira Parafusadeira de Impacto Bosch 48V – 2 Baterias Inclusas | Ferramenta Elétrica",
-      "de": null,
-      "por": 399.33,
-      "desconto": 55,
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lk-mo9dpk20zg1w51",
-      "link": "https://s.shopee.com.br/2gBCwE7HV8",
-      "cupom": null,
-      "loja": "shopee",
-      "categoria": "Smartphones",
-      "data": "2026-09-12T19:16:34.813595-03:00",
-      "slug": "furadeira-parafusadeira-de-impacto-bosch-48v-2-baterias-inclusas-ferramenta-eletrica",
-      "page_url": "https://promoninjaofertas.github.io/produto/furadeira-parafusadeira-de-impacto-bosch-48v-2-baterias-inclusas-ferramenta-eletrica.html",
-      "avaliacao": 4.8,
-      "avaliacoes": null,
-      "vendas": 261,
-      "nota_qualidade": 10,
-      "last_seen": "2026-09-17T21:00:43.715568+00:00",
-      "expires_at": "2026-09-18T18:00:43.715568-03:00",
-      "marca": "Bosch",
-      "price_evidence": {
-        "checked_at": "2026-09-17T21:02:00.185209+00:00",
-        "identity": {
-          "brand": "Bosch",
-          "model": null,
-          "family": "ferramentas",
-          "kind": "produto",
-          "variant": "48v|kit:1",
-          "ambiguous": false,
-          "comparison_key": null
-        },
-        "previous_min": 399.33,
-        "observed_min": 399.33,
-        "since": "2026-09-12T22:18:07.571383+00:00",
-        "observations": 20,
-        "days": 6,
-        "history": [
-          {
-            "at": "2026-09-12T22:18:07.571383+00:00",
-            "price": 399.33
-          },
-          {
-            "at": "2026-09-13T04:37:21.869455+00:00",
-            "price": 399.33
-          },
-          {
-            "at": "2026-09-13T10:39:08.576434+00:00",
-            "price": 399.33
-          },
-          {
-            "at": "2026-09-13T16:44:47.609484+00:00",
-            "price": 399.33
-          },
-          {
-            "at": "2026-09-13T22:46:15.182184+00:00",
-            "price": 399.33
-          },
-          {
-            "at": "2026-09-14T05:00:50.612551+00:00",
-            "price": 399.33
-          },
-          {
-            "at": "2026-09-14T11:00:57.218474+00:00",
-            "price": 399.33
-          },
-          {
-            "at": "2026-09-14T17:11:13.541277+00:00",
-            "price": 399.33
-          },
-          {
-            "at": "2026-09-14T23:24:39.301203+00:00",
-            "price": 399.33
-          },
-          {
-            "at": "2026-09-15T05:36:59.855900+00:00",
-            "price": 399.33
-          },
-          {
-            "at": "2026-09-15T11:45:13.616965+00:00",
-            "price": 399.33
-          },
-          {
-            "at": "2026-09-15T17:48:18.058633+00:00",
-            "price": 399.33
-          },
-          {
-            "at": "2026-09-15T23:50:33.501804+00:00",
-            "price": 399.33
-          },
-          {
-            "at": "2026-09-16T05:59:01.742184+00:00",
-            "price": 399.33
-          },
-          {
-            "at": "2026-09-16T12:01:21.428735+00:00",
-            "price": 399.33
-          },
-          {
-            "at": "2026-09-16T18:19:34.010799+00:00",
-            "price": 399.33
-          },
-          {
-            "at": "2026-09-17T00:38:48.280737+00:00",
-            "price": 399.33
-          },
-          {
-            "at": "2026-09-17T06:43:01.412550+00:00",
-            "price": 399.33
-          },
-          {
-            "at": "2026-09-17T12:43:47.490155+00:00",
-            "price": 399.33
-          },
-          {
-            "at": "2026-09-17T18:45:34.395170+00:00",
-            "price": 399.33
-          }
-        ],
-        "advantage": false,
-        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
-      },
-      "grupo": "Casa",
-      "cupom_no_telegram": false
-    },
-    {
       "source_id": "18199337362",
       "titulo": "Parafusadeira e Furadeira à Bateria 12V GSR 120-LI com 1 Bateria e Maleta BOSCH Bivolt",
       "de": null,
@@ -1354,6 +1254,131 @@
           {
             "at": "2026-09-17T18:45:34.395170+00:00",
             "price": 409.0
+          }
+        ],
+        "advantage": false,
+        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
+      },
+      "grupo": "Casa",
+      "cupom_no_telegram": false
+    },
+    {
+      "source_id": "23594959395",
+      "titulo": "Furadeira Parafusadeira de Impacto Bosch 48V – 2 Baterias Inclusas | Ferramenta Elétrica",
+      "de": null,
+      "por": 399.33,
+      "desconto": 55,
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lk-mo9dpk20zg1w51",
+      "link": "https://s.shopee.com.br/2gBCwE7HV8",
+      "cupom": null,
+      "loja": "shopee",
+      "categoria": "Smartphones",
+      "data": "2026-09-12T19:16:34.813595-03:00",
+      "slug": "furadeira-parafusadeira-de-impacto-bosch-48v-2-baterias-inclusas-ferramenta-eletrica",
+      "page_url": "https://promoninjaofertas.github.io/produto/furadeira-parafusadeira-de-impacto-bosch-48v-2-baterias-inclusas-ferramenta-eletrica.html",
+      "avaliacao": 4.8,
+      "avaliacoes": null,
+      "vendas": 261,
+      "nota_qualidade": 10,
+      "last_seen": "2026-09-17T21:00:43.715568+00:00",
+      "expires_at": "2026-09-18T18:00:43.715568-03:00",
+      "marca": "Bosch",
+      "price_evidence": {
+        "checked_at": "2026-09-17T21:02:00.185209+00:00",
+        "identity": {
+          "brand": "Bosch",
+          "model": null,
+          "family": "ferramentas",
+          "kind": "produto",
+          "variant": "48v|kit:1",
+          "ambiguous": false,
+          "comparison_key": null
+        },
+        "previous_min": 399.33,
+        "observed_min": 399.33,
+        "since": "2026-09-12T22:18:07.571383+00:00",
+        "observations": 20,
+        "days": 6,
+        "history": [
+          {
+            "at": "2026-09-12T22:18:07.571383+00:00",
+            "price": 399.33
+          },
+          {
+            "at": "2026-09-13T04:37:21.869455+00:00",
+            "price": 399.33
+          },
+          {
+            "at": "2026-09-13T10:39:08.576434+00:00",
+            "price": 399.33
+          },
+          {
+            "at": "2026-09-13T16:44:47.609484+00:00",
+            "price": 399.33
+          },
+          {
+            "at": "2026-09-13T22:46:15.182184+00:00",
+            "price": 399.33
+          },
+          {
+            "at": "2026-09-14T05:00:50.612551+00:00",
+            "price": 399.33
+          },
+          {
+            "at": "2026-09-14T11:00:57.218474+00:00",
+            "price": 399.33
+          },
+          {
+            "at": "2026-09-14T17:11:13.541277+00:00",
+            "price": 399.33
+          },
+          {
+            "at": "2026-09-14T23:24:39.301203+00:00",
+            "price": 399.33
+          },
+          {
+            "at": "2026-09-15T05:36:59.855900+00:00",
+            "price": 399.33
+          },
+          {
+            "at": "2026-09-15T11:45:13.616965+00:00",
+            "price": 399.33
+          },
+          {
+            "at": "2026-09-15T17:48:18.058633+00:00",
+            "price": 399.33
+          },
+          {
+            "at": "2026-09-15T23:50:33.501804+00:00",
+            "price": 399.33
+          },
+          {
+            "at": "2026-09-16T05:59:01.742184+00:00",
+            "price": 399.33
+          },
+          {
+            "at": "2026-09-16T12:01:21.428735+00:00",
+            "price": 399.33
+          },
+          {
+            "at": "2026-09-16T18:19:34.010799+00:00",
+            "price": 399.33
+          },
+          {
+            "at": "2026-09-17T00:38:48.280737+00:00",
+            "price": 399.33
+          },
+          {
+            "at": "2026-09-17T06:43:01.412550+00:00",
+            "price": 399.33
+          },
+          {
+            "at": "2026-09-17T12:43:47.490155+00:00",
+            "price": 399.33
+          },
+          {
+            "at": "2026-09-17T18:45:34.395170+00:00",
+            "price": 399.33
           }
         ],
         "advantage": false,
@@ -1727,11 +1752,11 @@
       "avaliacoes": null,
       "vendas": 150,
       "nota_qualidade": 9,
-      "last_seen": "2026-09-17T21:11:14.586203+00:00",
-      "expires_at": "2026-09-18T18:11:14.586203-03:00",
+      "last_seen": "2026-09-17T21:31:09.124789+00:00",
+      "expires_at": "2026-09-18T18:31:09.124789-03:00",
       "marca": "Oster",
       "price_evidence": {
-        "checked_at": "2026-09-17T21:12:54.120076+00:00",
+        "checked_at": "2026-09-17T21:32:32.387048+00:00",
         "identity": {
           "brand": "Oster",
           "model": "ocaf650",
@@ -1856,11 +1881,11 @@
       "avaliacoes": null,
       "vendas": 111,
       "nota_qualidade": 10,
-      "last_seen": "2026-09-17T21:11:14.586203+00:00",
-      "expires_at": "2026-09-18T18:11:14.586203-03:00",
+      "last_seen": "2026-09-17T21:31:09.124789+00:00",
+      "expires_at": "2026-09-18T18:31:09.124789-03:00",
       "marca": "LG",
       "price_evidence": {
-        "checked_at": "2026-09-17T21:12:54.120076+00:00",
+        "checked_at": "2026-09-17T21:32:32.387048+00:00",
         "identity": {
           "brand": "LG",
           "model": "24gs60f-b",
@@ -2452,6 +2477,135 @@
       "cupom_no_telegram": false
     },
     {
+      "source_id": "46662348294",
+      "titulo": "Monitor Gamer Acer KG243Y 23.8\" Full HD 144Hz IPS HDMI P1bip - Preto - Bivolt",
+      "de": null,
+      "por": 657.9,
+      "desconto": 59,
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lt-mpjrkv9dzabnb3",
+      "link": "https://s.shopee.com.br/9peNTHwAAH",
+      "cupom": null,
+      "loja": "shopee",
+      "categoria": "Hardware",
+      "data": "2026-09-10T06:27:22.795034-03:00",
+      "slug": "shopee-acer-kg243y-bivolt-codigo-p1bip-cor-preto-kit-1",
+      "page_url": "https://promoninjaofertas.github.io/produto/shopee-acer-kg243y-bivolt-codigo-p1bip-cor-preto-kit-1.html",
+      "avaliacao": 5.0,
+      "avaliacoes": null,
+      "vendas": 360,
+      "nota_qualidade": 10,
+      "last_seen": "2026-09-17T21:31:09.124789+00:00",
+      "expires_at": "2026-09-18T18:31:09.124789-03:00",
+      "marca": "Acer",
+      "price_evidence": {
+        "checked_at": "2026-09-17T21:32:32.387048+00:00",
+        "identity": {
+          "brand": "Acer",
+          "model": "kg243y",
+          "family": "monitores",
+          "kind": "produto",
+          "variant": "bivolt|codigo:p1bip|cor:preto|kit:1",
+          "ambiguous": false,
+          "comparison_key": "acer|kg243y|bivolt|codigo:p1bip|cor:preto|kit:1"
+        },
+        "previous_min": 657.9,
+        "observed_min": 657.9,
+        "since": "2026-09-12T13:31:01.433528+00:00",
+        "observations": 21,
+        "days": 6,
+        "history": [
+          {
+            "at": "2026-09-12T13:31:01.433528+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-12T22:28:39.914734+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-13T04:32:17.838111+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-13T10:33:24.527186+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-13T16:35:21.955780+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-13T22:35:56.424990+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-14T04:41:13.417906+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-14T10:50:33.818573+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-14T16:54:57.723465+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-14T22:59:24.109553+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-15T05:05:44.078513+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-15T11:10:24.479586+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-15T17:18:37.084203+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-15T23:19:31.340169+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-16T05:20:14.579066+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-16T11:24:45.471431+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-16T17:29:26.031175+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-16T23:32:34.186245+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-17T05:37:24.555562+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-17T11:38:39.137600+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-17T17:40:22.552592+00:00",
+            "price": 657.9
+          }
+        ],
+        "advantage": false,
+        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
+      },
+      "grupo": "Gamer",
+      "cupom_no_telegram": false
+    },
+    {
       "source_id": "23293788558",
       "titulo": "Placa-Mãe AMD AM4 Asus TUF GAMING B550M-Plus - 90MB14A0-C1BAY0",
       "de": null,
@@ -2469,11 +2623,11 @@
       "avaliacoes": null,
       "vendas": 700,
       "nota_qualidade": 9,
-      "last_seen": "2026-09-17T20:50:43.987324+00:00",
-      "expires_at": "2026-09-18T17:50:43.987324-03:00",
+      "last_seen": "2026-09-17T21:31:09.124789+00:00",
+      "expires_at": "2026-09-18T18:31:09.124789-03:00",
       "marca": "Asus",
       "price_evidence": {
-        "checked_at": "2026-09-17T20:52:10.928988+00:00",
+        "checked_at": "2026-09-17T21:32:32.387048+00:00",
         "identity": {
           "brand": "Asus",
           "model": "am4",
@@ -2576,135 +2730,6 @@
           {
             "at": "2026-09-17T18:20:44.796448+00:00",
             "price": 819.0
-          }
-        ],
-        "advantage": false,
-        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
-      },
-      "grupo": "Gamer",
-      "cupom_no_telegram": false
-    },
-    {
-      "source_id": "46662348294",
-      "titulo": "Monitor Gamer Acer KG243Y 23.8\" Full HD 144Hz IPS HDMI P1bip - Preto - Bivolt",
-      "de": null,
-      "por": 657.9,
-      "desconto": 59,
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lt-mpjrkv9dzabnb3",
-      "link": "https://s.shopee.com.br/9peNTHwAAH",
-      "cupom": null,
-      "loja": "shopee",
-      "categoria": "Hardware",
-      "data": "2026-09-10T06:27:22.795034-03:00",
-      "slug": "shopee-acer-kg243y-bivolt-codigo-p1bip-cor-preto-kit-1",
-      "page_url": "https://promoninjaofertas.github.io/produto/shopee-acer-kg243y-bivolt-codigo-p1bip-cor-preto-kit-1.html",
-      "avaliacao": 5.0,
-      "avaliacoes": null,
-      "vendas": 360,
-      "nota_qualidade": 10,
-      "last_seen": "2026-09-17T21:11:14.586203+00:00",
-      "expires_at": "2026-09-18T18:11:14.586203-03:00",
-      "marca": "Acer",
-      "price_evidence": {
-        "checked_at": "2026-09-17T21:12:54.120076+00:00",
-        "identity": {
-          "brand": "Acer",
-          "model": "kg243y",
-          "family": "monitores",
-          "kind": "produto",
-          "variant": "bivolt|codigo:p1bip|cor:preto|kit:1",
-          "ambiguous": false,
-          "comparison_key": "acer|kg243y|bivolt|codigo:p1bip|cor:preto|kit:1"
-        },
-        "previous_min": 657.9,
-        "observed_min": 657.9,
-        "since": "2026-09-12T13:31:01.433528+00:00",
-        "observations": 21,
-        "days": 6,
-        "history": [
-          {
-            "at": "2026-09-12T13:31:01.433528+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-12T22:28:39.914734+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-13T04:32:17.838111+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-13T10:33:24.527186+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-13T16:35:21.955780+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-13T22:35:56.424990+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-14T04:41:13.417906+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-14T10:50:33.818573+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-14T16:54:57.723465+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-14T22:59:24.109553+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-15T05:05:44.078513+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-15T11:10:24.479586+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-15T17:18:37.084203+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-15T23:19:31.340169+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-16T05:20:14.579066+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-16T11:24:45.471431+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-16T17:29:26.031175+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-16T23:32:34.186245+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-17T05:37:24.555562+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-17T11:38:39.137600+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-17T17:40:22.552592+00:00",
-            "price": 657.9
           }
         ],
         "advantage": false,
@@ -3130,7 +3155,7 @@
       "por": 183.99,
       "desconto": 48,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sf379ba197820456e9fba958ae173e989l.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mKqvqIZBGrglfV1irtOA3Fj7ruAtipWlmszcqPyUpdXSWstwcfiTu0GBNTPJB99bReNJbxtI6nv1n5dsS54mMRCGptPkkdjlmZIiHDiwQGKC0llMSPTqscyHb8XSdZI4lXUp2qUeuU7nvY2n903qDehV3n0CL2dPQwayr5jiTnPCb02gl9ADtlixqT5ThZzgpYvVQpqehlM5fkDO7tN0a93bLXX1oHDnDWBX9XwXjNFNi2lYtZVLwDKj7iLQrqk7mCWzfo5KX7bXmxwDzSNL4Loq7SblKYv4EdKP869SabBlcyqmSBtwIBevYgrjeTwL7x7FVaST9ww6jsv3GIgUe64Ub2nop6K0H047j86Zrmi891rSuKjj0SK5eTuCKo5ZKdMzozbS8MML1NpZyIzNcQjVEsbwMmhfQRwLXlzb32JYqTeXmAIU4mcsDqS5lf0ziAWYIrGX5Cdo2ho0dLdQGUYNUQTQ02s3cgtGojfFf3G1vgx1BbIgTtr5zioWyQ2vvRVrCDyofIvVORVhzNsiq4s4bx15AC2Z1JOxun79XJp1fyWpOQnnvMi2GD2uyQJrlXLPZHSy019xeDUvRPCquwq9gqrIQ3tprFVRzOXOd1GfL8qfbQADmJSJk8HJOMYkE4qaUIqZpLRuhyT2aILbwCMFwnGaRwwvYQrWEmhOzCOMfn7OkO9yFn5kG5BMbuAizjFRZBjMFq4c2",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mKqvqIZBGrglfV1irtOA3Fj7ruAtipWlmszcqPyUpdXSWstwcfiTu0GBNTPJB99bReNJbxtI6nv1n5dsS54mMRCGptPkkdjlmZIiHDiwQGKC0llMSPTqscyHb8XSdZI4lXUp2qUeuU7nvY2n903qDehV3n0CL2dPQwayr5jiTnPCb02gl9ADtlixqT5ThZzgpYvVQpqehlM5fkDO7tN0a93bLXX1oHDnDWBX9XOalwY2Gr0r4cyzPBrxDC0rewlk3zsdGjBHN2kFKhTDhL1SEK8stOLv1Y2rMK1ACTPUsI1LTVWY78UY90A9qnlGm1TLFmmPRMfS9yNfS5VlmdM4aUX5p54tCA5yKeRH8jbMFVW9jD2yaiKNSijZGBM23QphUYf0Yub8USMHHkHXJj7lRvDrL5tQ3QeIlEOWRUtBghz4mGS89F5ZhKJSwZGqOTcO5iYH1adkKDbhPB1aFrGYjHQqHmnbp9lU4ygZSy6UUYHsJlQ5g13fx6IUCkvvHrQwaC7M63KSXoQcePDl4xQgR0eBvkEIknbBf72v3C1uMaAEJFFmBBo95qFdwtTq1ZSVz925OTIQVwtmMoTQ9wAs0PNCh6WaJgbBIJA59JwgvzgjDBSHcSsT0EW0JOOjogqFWpSbcezMfuUGxqi8hLdLdPFxMtX5S2DW81jJQl5NJph7NX1EgQ7v9P5v8zaC5OjiIDbbqnDS36tiw",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Hardware",
@@ -3141,8 +3166,8 @@
       "avaliacoes": null,
       "vendas": 129,
       "nota_qualidade": 9,
-      "last_seen": "2026-09-17T21:21:08.988069+00:00",
-      "expires_at": "2026-09-18T18:21:08.988069-03:00",
+      "last_seen": "2026-09-17T21:31:09.124789+00:00",
+      "expires_at": "2026-09-18T18:31:09.124789-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech",
@@ -3355,7 +3380,7 @@
       "por": 364.4,
       "desconto": 47,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sf86cc8b7948b4924ab2e422fd62fa662n.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4k9hrkFwWoPoe3dx2yf0KB39wOjo26f3bATUbRK2tQmKPFeCcKTRp4wsUygS5LXvyIQkLoV4MmhAfzsbtlr6BS0ROfrG66OZNeTGlSMQIHhJYqLaENhCyf3pQYOgKzNQYsnYfEVZWKtquZbMtLvxVZIftR4KvK1U1XW8LjX0xdtMIaT6EwUo1j26tdkLxemR7NgGA3D8Oo2uMtYu05uwEDofIvU6dGN08uyWmKyRHOSL0t6nLTr7Uu29ntURsGLBLnxsr5qFw0xwqBFUX6CusUyPCBkboKALUJSuJZOwRSHJv9Na8VikfmrTH5PcoZR758PFlQVOn2vKcn3qhX5LgOzI6ywQBr8oPacbw9ABFcpFyD2xHciPEnBEX6vUNFyxXjoBmT8OQh6JT8YT99YVou2Z40FMdJNhaAJjtGodp1KGiRr3TAatGlQeiwVesVi8hwdDH8RcdKVqIN4fRNyk3wSCJjZVc3m7ul8krzozvQzLyuAFX6OzF6LTkDhhNEaz6EQy1Kgi57ZYCvyyZA6Z3qD2mtNkrzDXVGU5Q77rfrJ7cLkUEKgsMNTAZShLmPaIRrs8XfS1yBkdc9zSDXhA1hNLHtyUT0I1Uv95ZzRzlzTxaWf7OIyvaPnv97SeJn9tiEq2D6NTYu0hk3wlwXdmHfG5HLmb4EsB6eAKdTAPzpfZINnKuwwN7aUU7BFYpussbJ2t358LoI7YuD",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4k9hrkFwWoPoe3dx2yf0KB39wOjo26f3bATUbRK2tQmKPFeCcKTRp4wsUygS5LXvyIQkLoV4MmhAfzsbtlr6BS0ROfrG66OZNeTGlSMQIHhJYqLaENhCyf3pQYOgKzNQYsnYfEVZWKtquZbMtLvxVZIftR4KvK1U1XW8LjX0xdtMIaT6EwUo1j26tdkLxemR7NgGA3D8Oo2uMtYu05uwEDofIvU6dGN08uyWmKzoBYD8SHBpDTK673GA4IVjcjl0XGIURSYyOiSuQAVbLDPTLxBk0wZGsL94jDI9FhKTiK05rFOEUOg8sSbNSIrY5uXQeyK07tIEZ1Ad7KI4dhmE9Gc9hyA0lV1WzsbmfY2x5YQhhxffueXNg0xNCalrIhKMZXhB5NqnUHAMspdwJIFOD6ZMfkU9TFJB3Z5oY1IT8bZrhSrPz6F7msP7VKj857RbVtMthCznK3yl9IRYuYpS8O93qqfdMk4lVXOSGBWzse1pLIqBJUumViK5fFPcuKLeOGoIiUZBaregvRldOYELo6p2OkPVTyD0PkkWatjKbC2MROhg8nwIAFvG3yOUDuDYV634iExLZiv6G88OedrRv5WUfTe3QNMUADnED5hn1Y2teWQCiakUuLjoJU1VDjfOSNCwwhN4ds6X2l5xJmsQL7mBvUUtCyYoTUfODdpSB3Y1lfAiKtjdJFbBrouCCRs76Wfee35ViieES9",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Hardware",
@@ -3366,8 +3391,8 @@
       "avaliacoes": null,
       "vendas": 110,
       "nota_qualidade": 9,
-      "last_seen": "2026-09-17T15:17:59.777673+00:00",
-      "expires_at": "2026-09-18T12:17:59.777673-03:00",
+      "last_seen": "2026-09-17T21:31:09.124789+00:00",
+      "expires_at": "2026-09-18T18:31:09.124789-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech",
