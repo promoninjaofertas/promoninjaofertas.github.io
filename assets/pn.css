@@ -928,15 +928,6 @@ body > * {
   background: var(--gold);
   box-shadow: 0 0 0 5px var(--gold-dim), 0 0 18px var(--gold-glow);
 }
-
-/* Transição: a logo central e os blips saíram do template. Esconde a marcação
-   antiga enquanto alguma página gerada antes da mudança ainda estiver no ar.
-   Pode ser removido depois que a VPS regenerar tudo. */
-.radar-core,
-.radar-blip {
-  display: none;
-}
-
 /* ==========================================================================
    06. FILTRO VISUAL DE LOJAS
    ========================================================================== */
@@ -2987,6 +2978,169 @@ body.no-scroll {
 }
 
 /* ==========================================================================
+   15. PÁGINA DE CUPONS (/categorias/cupons.html e /cupons/<loja>/)
+   Só cupons, sem produtos. O gerador marca a página com
+   <body data-category="Cupons">, então nada disso afeta as outras páginas.
+   ========================================================================== */
+body[data-category="Cupons"] .filter-desktop,
+body[data-category="Cupons"] .filter-mobile,
+body[data-category="Cupons"] .active-filters,
+body[data-category="Cupons"] .load-more-wrap {
+  display: none;
+}
+
+body[data-category="Cupons"] #grid {
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+}
+
+@media (max-width: 559px) {
+  body[data-category="Cupons"] #grid {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}
+
+.coupon-card {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-4);
+  padding: var(--space-4);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  background: var(--surface);
+  color: var(--text-primary);
+  transition: transform var(--transition), border-color var(--transition),
+    box-shadow var(--transition);
+}
+
+@media (hover: hover) {
+  .coupon-card:hover {
+    transform: translateY(-4px);
+    border-color: var(--border-gold);
+    box-shadow: var(--shadow-lg);
+  }
+
+  .coupon-card:hover .coupon-card-cta {
+    filter: brightness(1.07);
+    box-shadow: 0 0 20px rgba(213, 174, 85, 0.28);
+  }
+}
+
+.coupon-card-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--space-2);
+  min-height: 28px;
+}
+
+.coupon-card-logo {
+  display: block;
+  height: 20px;
+  width: auto;
+  opacity: 0.92;
+}
+
+.coupon-card[data-store="aliexpress"] .coupon-card-logo {
+  height: 17px;
+}
+
+.coupon-card[data-store="shopee"] .coupon-card-logo {
+  height: 22px;
+}
+
+.coupon-card[data-store="mercadolivre"] .coupon-card-logo {
+  height: 28px;
+}
+
+.coupon-card-store {
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.coupon-card-time {
+  font-size: 11.5px;
+  color: var(--text-muted);
+  white-space: nowrap;
+}
+
+/* "Ticket": borda tracejada com dois recortes laterais. */
+.coupon-card-ticket {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+  padding: var(--space-4) var(--space-6);
+  border: 1px dashed var(--border-gold);
+  border-radius: var(--radius-sm);
+  background: rgba(213, 174, 85, 0.07);
+}
+
+.coupon-card-ticket::before,
+.coupon-card-ticket::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  width: 16px;
+  height: 16px;
+  border: 1px dashed var(--border-gold);
+  border-radius: 50%;
+  background: var(--surface);
+  transform: translateY(-50%);
+}
+
+.coupon-card-ticket::before {
+  left: -9px;
+  clip-path: inset(0 0 0 50%);
+}
+
+.coupon-card-ticket::after {
+  right: -9px;
+  clip-path: inset(0 50% 0 0);
+}
+
+.coupon-card-label {
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+}
+
+.coupon-card-code {
+  font-family: ui-monospace, "SF Mono", "Cascadia Mono", Menlo, monospace;
+  font-size: 22px;
+  font-weight: 800;
+  letter-spacing: 0.06em;
+  color: var(--gold-light);
+  white-space: nowrap;
+}
+
+.coupon-card-mask {
+  color: var(--text-muted);
+  letter-spacing: 0.1em;
+}
+
+.coupon-card-cta {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--space-2);
+  min-height: 46px;
+  border-radius: var(--radius-sm);
+  background: linear-gradient(135deg, var(--gold-light), var(--gold));
+  color: #1a1408;
+  font-size: 14.5px;
+  font-weight: 700;
+  transition: filter var(--transition), box-shadow var(--transition);
+}
+
+.coupon-card-cta svg {
+  width: 16px;
+  height: 16px;
+}
+
+/* ==========================================================================
    TELAS ESTREITAS (320–380px)
    Ajustes para caber sem scroll horizontal e sem texto minúsculo.
    ========================================================================== */
@@ -3047,7 +3201,8 @@ body.no-scroll {
   .btn:hover,
   .store-card:hover,
   .related-card:hover,
-  .card-link:hover {
+  .card-link:hover,
+  .coupon-card:hover {
     transform: none;
   }
 

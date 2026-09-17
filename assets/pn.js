@@ -346,6 +346,14 @@
         link_url: social.href || ''
       });
 
+    const couponLink = target.closest('.coupon-card');
+    if (couponLink)
+      track('click_coupon', {
+        store: couponLink.dataset.store || '',
+        placement: 'coupon_page',
+        link_url: couponLink.href
+      });
+
     const storeCard = target.closest('.store-card');
     if (storeCard) track('filter_store', { store: storeCard.dataset.storeLabel || '' });
   });
@@ -374,6 +382,8 @@
   const lockedCategory = body.dataset.category || '';
   const lockedQuery = body.dataset.query || '';
   const isHome = !lockedStore && !lockedCategory && !lockedQuery;
+  // /categorias/cupons.html e /cupons/<loja>/: só cupons, sem produtos.
+  const isCouponPage = lockedCategory === 'Cupons';
 
   // Busca vinda do Google (SearchAction do schema) ou de outra página do site.
   const initialQuery = new URLSearchParams(location.search).get('q') || '';
@@ -643,8 +653,91 @@
     renderSection('sectionDiscounts', discounts, 4);
   }
 
+  /* ------------------------------------------------------ Página de cupons
+     Só cupons, sem produto, com o código parcialmente oculto. O código
+     completo fica no Telegram. Espelho de services/site_coupons.py (VPS):
+     mesma máscara, mesmo agrupamento, mesma marcação.                        */
+  const TELEGRAM_URL = 'https://t.me/promoninjaofertas';
+  const COUPON_MASK = '••••••'; // tamanho fixo: não revela o comprimento do código
+  const COUPON_PATHS = {
+    amazon: '/cupons/amazon/',
+    aliexpress: '/cupons/aliexpress/',
+    shopee: '/cupons/shopee/',
+    mercadolivre: '/cupons/mercado-livre/'
+  };
+  const LOGO_SIZES = { amazon: [66, 20], aliexpress: [92, 20], shopee: [63, 20], mercadolivre: [51, 20] };
+  const TELEGRAM_ICON =
+    '<svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M21.5 4.3 2.9 11.5c-1 .4-1 1.8.1 2.1l4.7 1.5 1.8 5.6c.3.8 1.3 1 1.9.4l2.6-2.4 4.8 3.5c.7.5 1.7.1 1.9-.7L23.9 5.6c.2-1-.8-1.8-1.7-1.4Z"/></svg>';
+
+  const couponPrefix = code =>
+    code.slice(0, Math.min(3, Math.max(1, Math.floor(code.length / 2))));
+
+  /** Um item por (loja, código), verificado mais recentemente primeiro.
+      Usa last_seen (última confirmação), não data (primeira aparição): "há 40
+      dias" num cupom confirmado há minutos faria parecer vencido.
+      O código completo não sai daqui. */
+  function uniqueCoupons(offers) {
+    const grouped = new Map();
+    offers.forEach(offer => {
+      const code = String(offer.cupom || '').trim();
+      if (!code) return;
+      const store = String(offer.loja || '').trim().toLowerCase();
+      const key = `${store}|${code.toUpperCase()}`;
+      const checked = String(offer.last_seen || offer.data || '');
+      const current = grouped.get(key);
+      if (!current || checked > current.checked)
+        grouped.set(key, { store, storeLabel: storeName(store), prefix: couponPrefix(code), checked });
+    });
+    return [...grouped.values()].sort((a, b) =>
+      a.checked < b.checked ? 1 : a.checked > b.checked ? -1 : 0
+    );
+  }
+
+  function couponCard(coupon) {
+    const label = escapeHtml(coupon.storeLabel);
+    const prefix = escapeHtml(coupon.prefix);
+    const size = LOGO_SIZES[coupon.store];
+    const brand = size
+      ? `<img class="coupon-card-logo" src="/assets/lojas/${coupon.store}.svg" alt="" width="${size[0]}" height="${size[1]}" decoding="async">`
+      : `<span class="coupon-card-store">${label}</span>`;
+    const checked = relativeTime(coupon.checked);
+    return (
+      `<a class="coupon-card" data-store="${escapeHtml(coupon.store)}" href="${TELEGRAM_URL}" target="_blank" rel="noopener" ` +
+      `aria-label="Ver no Telegram o cupom da ${label} que começa com ${prefix}">` +
+      `<span class="coupon-card-top">${brand}<span class="coupon-card-time">${checked ? `verificado ${escapeHtml(checked)}` : 'Cupom ativo'}</span></span>` +
+      '<span class="coupon-card-ticket">' +
+      '<span class="coupon-card-label">Cupom</span>' +
+      `<span class="coupon-card-code">${prefix}<span class="coupon-card-mask">${COUPON_MASK}</span></span>` +
+      '</span>' +
+      `<span class="coupon-card-cta">${TELEGRAM_ICON}Ver cupom completo</span>` +
+      '</a>'
+    );
+  }
+
+  function renderCoupons() {
+    const coupons = uniqueCoupons(scopedOffers());
+    if (resultCount)
+      resultCount.innerHTML = coupons.length
+        ? `<b>${coupons.length}</b> ${coupons.length === 1 ? 'cupom' : 'cupons'}`
+        : 'Nenhum cupom';
+    grid.innerHTML = coupons.length
+      ? coupons.map(couponCard).join('')
+      : `<div class="state">
+          <img src="/favicon-192.png" alt="" width="76" height="76">
+          <h3>Nenhum cupom ativo aqui agora</h3>
+          <p>Os cupons mudam várias vezes por dia. Entre no canal para receber os próximos assim que aparecerem.</p>
+          <a class="btn btn-primary" href="${TELEGRAM_URL}" target="_blank" rel="noopener">${TELEGRAM_ICON}Entrar no Telegram</a>
+        </div>`;
+    const loadMore = $('#loadMore');
+    if (loadMore) loadMore.hidden = true;
+  }
+
   /* ------------------------------------------------------------ Renderiza */
   function render() {
+    if (isCouponPage) {
+      renderCoupons();
+      return;
+    }
     const offers = filteredOffers();
     const shown = offers.slice(0, state.visible);
 
@@ -752,13 +845,22 @@
   function renderStoreStrip() {
     const list = $('#storeList');
     if (!list) return;
+    // Na página de cupons a faixa conta cupons únicos e leva às páginas de
+    // cupom de cada loja; no resto do site conta ofertas e leva às lojas.
     const counts = new Map();
-    allOffers.forEach(offer => {
-      const slug = String(offer.loja || '').toLowerCase();
+    const items = isCouponPage
+      ? uniqueCoupons(allOffers).map(coupon => coupon.store)
+      : allOffers.map(offer => String(offer.loja || '').toLowerCase());
+    items.forEach(slug => {
       if (STORE_NAMES[slug]) counts.set(slug, (counts.get(slug) || 0) + 1);
     });
+    const total = items.length;
+    const unit = count =>
+      isCouponPage ? (count === 1 ? 'cupom' : 'cupons') : count === 1 ? 'oferta' : 'ofertas';
+    const allHref = isCouponPage ? '/categorias/cupons.html' : '/';
+    const storeHref = slug => (isCouponPage ? COUPON_PATHS[slug] : STORE_PATHS[slug]);
 
-    // Só entram lojas que realmente têm oferta no catálogo agora.
+    // Só entram lojas que realmente têm oferta (ou cupom) no catálogo agora.
     const stores = [...counts.entries()].sort((a, b) => b[1] - a[1]);
     const current = lockedStore;
 
@@ -775,20 +877,14 @@
             ? `${ALL_ICON}<span class="store-name">${escapeHtml(label)}</span>`
             : `<img class="store-logo" src="/assets/lojas/${slug}.svg" alt="${escapeHtml(label)}" decoding="async">`
         }</span>
-        ${count ? `<span class="store-count">${count} ofertas</span>` : ''}
+        ${count ? `<span class="store-count">${count} ${unit(count)}</span>` : ''}
       </a>`;
 
     list.innerHTML =
-      card('todas', 'Todas', '/', allOffers.length, !current) +
+      card('todas', 'Todas', allHref, total, !current) +
       stores
         .map(([slug, count]) =>
-          card(
-            slug,
-            STORE_NAMES[slug],
-            STORE_PATHS[slug],
-            count,
-            current === STORE_NAMES[slug]
-          )
+          card(slug, STORE_NAMES[slug], storeHref(slug), count, current === STORE_NAMES[slug])
         )
         .join('');
   }
