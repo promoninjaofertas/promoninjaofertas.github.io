@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="robots" content="noindex,nofollow">
   <meta name="referrer" content="no-referrer">
-  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; base-uri 'self'; object-src 'none'; form-action 'self'; img-src 'self' https: data:; connect-src 'self' https://images.weserv.nl; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; script-src 'self' 'unsafe-inline'; upgrade-insecure-requests">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; base-uri 'self'; object-src 'none'; form-action 'self'; img-src 'self' https: data:; connect-src 'self' https://images.weserv.nl https://*.pechinchou.com.br https://*.mlstatic.com https://*.media-amazon.com https://*.ssl-images-amazon.com https://*.aliexpress-media.com https://*.alicdn.com https://*.shopee.com.br https://*.susercontent.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; script-src 'self' 'unsafe-inline'; upgrade-insecure-requests">
   <title>Compartilhar promoção | Promo Ninja</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -49,17 +49,43 @@
     const footer = params.get('footer') || '';
     const imageUrl = params.get('image') || '';
     const fullText = [text, targetUrl, footer].filter(Boolean).join('\n\n');
-    const proxyUrl = imageUrl
-      ? 'https://images.weserv.nl/?url=' + encodeURIComponent('ssl:' + imageUrl.replace(/^https?:\/\//, '')) + '&w=1200&output=jpg'
+    // Imagem: o proxy sozinho falhava para o Pechinchou (403 para o weserv).
+    // Exibição tenta direto e cai para o proxy; o arquivo compartilhado tenta o
+    // proxy (JPG, caminho já validado) e cai para o direto. As CDNs das lojas
+    // enviam Access-Control-Allow-Origin: * (verificado em 16/09/2026).
+    const directUrl = /^https?:\/\//i.test(imageUrl) ? imageUrl : '';
+    const proxyUrl = directUrl
+      ? 'https://images.weserv.nl/?url=' + encodeURIComponent('ssl:' + directUrl.replace(/^https?:\/\//, '')) + '&w=1200&output=jpg'
       : '';
+
+    async function imageFile() {
+      for (const source of [proxyUrl, directUrl]) {
+        if (!source) continue;
+        try {
+          const response = await fetch(source);
+          if (!response.ok) continue;
+          const blob = await response.blob();
+          if (!blob.type.startsWith('image/')) continue;
+          const ext = (blob.type.split('/')[1] || 'jpg').replace('jpeg', 'jpg').replace(/[^a-z0-9]/g, '');
+          return new File([blob], 'promo-ninja.' + ext, { type: blob.type });
+        } catch (_) {}
+      }
+      return null;
+    }
 
     document.querySelector('#copy').textContent = [text, footer].filter(Boolean).join('\n\n');
     const link = document.querySelector('#link');
     link.textContent = targetUrl;
     link.href = targetUrl || '#';
     const photo = document.querySelector('#photo');
-    if (proxyUrl) photo.src = proxyUrl;
-    else photo.closest('.media').style.display = 'none';
+    if (directUrl) {
+      photo.addEventListener('error', () => {
+        if (photo.dataset.fallback === 'done') { photo.closest('.media').style.display = 'none'; return; }
+        photo.dataset.fallback = 'done';
+        photo.src = proxyUrl;
+      });
+      photo.src = directUrl;
+    } else photo.closest('.media').style.display = 'none';
 
     const button = document.querySelector('#share');
     const status = document.querySelector('#status');
@@ -80,11 +106,9 @@
       try {
         if (!navigator.share) return openFallback();
         let shareData = { title: 'Promo Ninja', text: fullText };
-        if (proxyUrl) {
-          const response = await fetch(proxyUrl);
-          if (!response.ok) throw new Error('imagem indisponível');
-          const blob = await response.blob();
-          const file = new File([blob], 'promo-ninja.jpg', { type: blob.type || 'image/jpeg' });
+        if (directUrl) {
+          const file = await imageFile();
+          if (!file) throw new Error('imagem indisponível');
           const withFile = { ...shareData, files: [file] };
           if (!navigator.canShare || navigator.canShare(withFile)) shareData = withFile;
         }
