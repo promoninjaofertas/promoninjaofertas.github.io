@@ -658,6 +658,12 @@
      completo fica no Telegram. Espelho de services/site_coupons.py (VPS):
      mesma máscara, mesmo agrupamento, mesma marcação.                        */
   const TELEGRAM_URL = 'https://t.me/promoninjaofertas';
+  const telegramCouponUrl = value => {
+    const candidate = String(value || '').trim();
+    return /^https:\/\/t\.me\/promoninjaofertas\/[1-9][0-9]*$/.test(candidate)
+      ? candidate
+      : TELEGRAM_URL;
+  };
   const COUPON_MASK = '••••••'; // tamanho fixo: não revela o comprimento do código
   const COUPON_PATHS = {
     amazon: '/cupons/amazon/',
@@ -692,7 +698,13 @@
       const checked = String(offer.last_seen || offer.data || '');
       const current = grouped.get(key);
       if (!current || checked > current.checked)
-        grouped.set(key, { store, storeLabel: storeName(store), prefix: couponPrefix(code), checked });
+        grouped.set(key, {
+          store,
+          storeLabel: storeName(store),
+          prefix: couponPrefix(code),
+          checked,
+          telegramUrl: telegramCouponUrl(offer.cupom_telegram_url)
+        });
     });
     return [...grouped.values()].sort((a, b) =>
       a.checked < b.checked ? 1 : a.checked > b.checked ? -1 : 0
@@ -708,7 +720,7 @@
       : `<span class="coupon-card-store">${label}</span>`;
     const checked = relativeTime(coupon.checked);
     return (
-      `<a class="coupon-card" data-store="${escapeHtml(coupon.store)}" href="${TELEGRAM_URL}" target="_blank" rel="noopener" ` +
+      `<a class="coupon-card" data-store="${escapeHtml(coupon.store)}" href="${escapeHtml(coupon.telegramUrl)}" target="_blank" rel="noopener" ` +
       `aria-label="Ver no Telegram o cupom da ${label} que começa com ${prefix}">` +
       `<span class="coupon-card-top">${brand}<span class="coupon-card-time">${checked ? `verificado ${escapeHtml(checked)}` : 'Cupom ativo'}</span></span>` +
       '<span class="coupon-card-ticket">' +
