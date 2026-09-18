@@ -997,6 +997,9 @@ body > * {
 .store-list {
   display: flex;
   gap: var(--space-3);
+  /* Reserva a altura antes de o catalog.json carregar. Sem isso, a faixa
+     nasce vazia e empurra todo o catalogo quando os cards de loja entram. */
+  min-height: 110px;
   overflow-x: auto;
   scroll-snap-type: x mandatory;
   padding-bottom: var(--space-3);

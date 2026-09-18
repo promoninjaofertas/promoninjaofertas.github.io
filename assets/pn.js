@@ -666,6 +666,12 @@
     mercadolivre: '/cupons/mercado-livre/'
   };
   const LOGO_SIZES = { amazon: [66, 20], aliexpress: [92, 20], shopee: [63, 20], mercadolivre: [51, 20] };
+  const STORE_LOGO_SIZES = {
+    amazon: [80, 24],
+    aliexpress: [97, 21],
+    shopee: [84, 27],
+    mercadolivre: [91, 36]
+  };
   const TELEGRAM_ICON =
     '<svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M21.5 4.3 2.9 11.5c-1 .4-1 1.8.1 2.1l4.7 1.5 1.8 5.6c.3.8 1.3 1 1.9.4l2.6-2.4 4.8 3.5c.7.5 1.7.1 1.9-.7L23.9 5.6c.2-1-.8-1.8-1.7-1.4Z"/></svg>';
 
@@ -870,15 +876,22 @@
     const ALL_ICON =
       '<svg class="store-all-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><rect x="3" y="3" width="7" height="7" rx="1.5"/><rect x="14" y="3" width="7" height="7" rx="1.5"/><rect x="3" y="14" width="7" height="7" rx="1.5"/><rect x="14" y="14" width="7" height="7" rx="1.5"/></svg>';
 
-    const card = (slug, label, href, count, selected) =>
+    const card = (slug, label, href, count, selected) => {
+      const logoSize = STORE_LOGO_SIZES[slug];
+      const logoDimensions = logoSize
+        ? ` width="${logoSize[0]}" height="${logoSize[1]}"`
+        : '';
+      return (
       `<a class="store-card" data-store="${slug}" href="${href}"${selected ? ' aria-current="page"' : ''} data-store-label="${escapeHtml(label)}">
         <span class="store-mark">${
           slug === 'todas'
             ? `${ALL_ICON}<span class="store-name">${escapeHtml(label)}</span>`
-            : `<img class="store-logo" src="/assets/lojas/${slug}.svg" alt="${escapeHtml(label)}" decoding="async">`
+            : `<img class="store-logo" src="/assets/lojas/${slug}.svg" alt="${escapeHtml(label)}"${logoDimensions} decoding="async">`
         }</span>
         ${count ? `<span class="store-count">${count} ${unit(count)}</span>` : ''}
-      </a>`;
+      </a>`
+      );
+    };
 
     list.innerHTML =
       card('todas', 'Todas', allHref, total, !current) +
