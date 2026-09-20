@@ -1,6 +1,32 @@
 {
-  "atualizado": "2026-09-20T14:05:30.698607+00:00",
+  "atualizado": "2026-09-20T14:25:28.877487+00:00",
   "ofertas": [
+    {
+      "source_id": "pechinchou-152635",
+      "titulo": "Perfume Hawas For Him Rasasi Edp 100ml Original Lacrado",
+      "de": 239.9,
+      "por": 199.0,
+      "desconto": 17,
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_705531-MLA94662432274_102025-O.webp",
+      "link": "https://meli.la/2zdCAHc",
+      "cupom": null,
+      "loja": "mercadolivre",
+      "categoria": "Beleza",
+      "data": "2026-09-20T11:15:28.998684-03:00",
+      "slug": "perfume-hawas-for-him-rasasi-edp-100ml-original-lacrado",
+      "page_url": "https://promoninjaofertas.github.io/produto/perfume-hawas-for-him-rasasi-edp-100ml-original-lacrado.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": null,
+      "nota_qualidade": 5,
+      "last_seen": "2026-09-20T14:25:28.877487+00:00",
+      "expires_at": "2026-09-21T11:25:28.877487-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Moda",
+      "cupom_no_telegram": false,
+      "cupom_telegram_url": null
+    },
     {
       "source_id": "pechinchou-152634",
       "titulo": "Calça Cargo Para Homem Slim Com Elastano Esportiva Preto G 44",
@@ -19,34 +45,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-09-20T14:05:30.698607+00:00",
-      "expires_at": "2026-09-21T11:05:30.698607-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Moda",
-      "cupom_no_telegram": true,
-      "cupom_telegram_url": "https://t.me/promoninjaofertas/13351"
-    },
-    {
-      "source_id": "pechinchou-94270",
-      "titulo": "Casaco Couro Masculina Forrada Slim",
-      "de": 119.9,
-      "por": 92.0,
-      "desconto": 23,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/D_NQ_NP_806982-MLB77184054187_062024-O_ekMc6ov_Iyo2haZ_jZBDTz1.jpg",
-      "link": "https://meli.la/1zGuiJu",
-      "cupom": "MELHORCUPOM",
-      "loja": "mercadolivre",
-      "categoria": "Beleza",
-      "data": "2026-09-20T10:45:21.022617-03:00",
-      "slug": "casaco-couro-masculina-forrada-slim",
-      "page_url": "https://promoninjaofertas.github.io/produto/casaco-couro-masculina-forrada-slim.html",
-      "avaliacao": null,
-      "avaliacoes": 9,
-      "vendas": null,
-      "nota_qualidade": 5,
-      "last_seen": "2026-09-20T14:05:30.698607+00:00",
-      "expires_at": "2026-09-21T11:05:30.698607-03:00",
+      "last_seen": "2026-09-20T14:25:28.877487+00:00",
+      "expires_at": "2026-09-21T11:25:28.877487-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
@@ -71,8 +71,8 @@
       "avaliacoes": 10,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-09-20T14:05:30.698607+00:00",
-      "expires_at": "2026-09-21T11:05:30.698607-03:00",
+      "last_seen": "2026-09-20T14:25:28.877487+00:00",
+      "expires_at": "2026-09-21T11:25:28.877487-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
@@ -97,13 +97,39 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-09-20T14:05:30.698607+00:00",
-      "expires_at": "2026-09-21T11:05:30.698607-03:00",
+      "last_seen": "2026-09-20T14:25:28.877487+00:00",
+      "expires_at": "2026-09-21T11:25:28.877487-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
       "cupom_no_telegram": false,
       "cupom_telegram_url": null
+    },
+    {
+      "source_id": "pechinchou-94270",
+      "titulo": "Casaco Couro Masculina Forrada Slim",
+      "de": 119.9,
+      "por": 92.0,
+      "desconto": 23,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/D_NQ_NP_806982-MLB77184054187_062024-O_ekMc6ov_Iyo2haZ_jZBDTz1.jpg",
+      "link": "https://meli.la/1zGuiJu",
+      "cupom": "MELHORCUPOM",
+      "loja": "mercadolivre",
+      "categoria": "Beleza",
+      "data": "2026-09-20T10:45:21.022617-03:00",
+      "slug": "casaco-couro-masculina-forrada-slim",
+      "page_url": "https://promoninjaofertas.github.io/produto/casaco-couro-masculina-forrada-slim.html",
+      "avaliacao": null,
+      "avaliacoes": 9,
+      "vendas": null,
+      "nota_qualidade": 5,
+      "last_seen": "2026-09-20T14:25:28.877487+00:00",
+      "expires_at": "2026-09-21T11:25:28.877487-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Moda",
+      "cupom_no_telegram": true,
+      "cupom_telegram_url": "https://t.me/promoninjaofertas/13351"
     },
     {
       "source_id": "pechinchou-149727",
@@ -123,8 +149,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-09-20T14:05:30.698607+00:00",
-      "expires_at": "2026-09-21T11:05:30.698607-03:00",
+      "last_seen": "2026-09-20T14:25:28.877487+00:00",
+      "expires_at": "2026-09-21T11:25:28.877487-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
@@ -149,34 +175,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-09-20T14:05:30.698607+00:00",
-      "expires_at": "2026-09-21T11:05:30.698607-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Moda",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
-    },
-    {
-      "source_id": "pechinchou-152629",
-      "titulo": "Relógio Masculino Preto Saint Germain Houston Full Black 40mm Fundo Preto",
-      "de": 139.9,
-      "por": 113.0,
-      "desconto": 19,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/D_NQ_NP_956846-MLA99963696157_112025-F.jpg",
-      "link": "https://meli.la/1BJHfbY",
-      "cupom": null,
-      "loja": "mercadolivre",
-      "categoria": "Beleza",
-      "data": "2026-09-20T10:24:59.934419-03:00",
-      "slug": "relogio-masculino-preto-saint-germain-houston-full-black-40mm-fundo-preto",
-      "page_url": "https://promoninjaofertas.github.io/produto/relogio-masculino-preto-saint-germain-houston-full-black-40mm-fundo-preto.html",
-      "avaliacao": null,
-      "avaliacoes": null,
-      "vendas": null,
-      "nota_qualidade": 5,
-      "last_seen": "2026-09-20T14:05:30.698607+00:00",
-      "expires_at": "2026-09-21T11:05:30.698607-03:00",
+      "last_seen": "2026-09-20T14:25:28.877487+00:00",
+      "expires_at": "2026-09-21T11:25:28.877487-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
@@ -201,8 +201,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-09-20T14:05:30.698607+00:00",
-      "expires_at": "2026-09-21T11:05:30.698607-03:00",
+      "last_seen": "2026-09-20T14:25:28.877487+00:00",
+      "expires_at": "2026-09-21T11:25:28.877487-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
@@ -227,11 +227,37 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-09-20T14:05:30.698607+00:00",
-      "expires_at": "2026-09-21T11:05:30.698607-03:00",
+      "last_seen": "2026-09-20T14:25:28.877487+00:00",
+      "expires_at": "2026-09-21T11:25:28.877487-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech",
+      "cupom_no_telegram": false,
+      "cupom_telegram_url": null
+    },
+    {
+      "source_id": "pechinchou-152629",
+      "titulo": "Relógio Masculino Preto Saint Germain Houston Full Black 40mm Fundo Preto",
+      "de": 139.9,
+      "por": 113.0,
+      "desconto": 19,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/D_NQ_NP_956846-MLA99963696157_112025-F.jpg",
+      "link": "https://meli.la/1BJHfbY",
+      "cupom": null,
+      "loja": "mercadolivre",
+      "categoria": "Beleza",
+      "data": "2026-09-20T10:24:59.934419-03:00",
+      "slug": "relogio-masculino-preto-saint-germain-houston-full-black-40mm-fundo-preto",
+      "page_url": "https://promoninjaofertas.github.io/produto/relogio-masculino-preto-saint-germain-houston-full-black-40mm-fundo-preto.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": null,
+      "nota_qualidade": 5,
+      "last_seen": "2026-09-20T14:25:28.877487+00:00",
+      "expires_at": "2026-09-21T11:25:28.877487-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Moda",
       "cupom_no_telegram": false,
       "cupom_telegram_url": null
     },
@@ -253,65 +279,13 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-09-20T14:05:30.698607+00:00",
-      "expires_at": "2026-09-21T11:05:30.698607-03:00",
+      "last_seen": "2026-09-20T14:25:28.877487+00:00",
+      "expires_at": "2026-09-21T11:25:28.877487-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
       "cupom_no_telegram": true,
       "cupom_telegram_url": "https://t.me/promoninjaofertas/13351"
-    },
-    {
-      "source_id": "pechinchou-150096",
-      "titulo": "Camiseta Algodão Pica Pau Selo Reserva",
-      "de": 89.9,
-      "por": 67.0,
-      "desconto": 25,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/external-image_fxf4yHD.jpg",
-      "link": "https://meli.la/1caE2re",
-      "cupom": "MELHORCUPOM",
-      "loja": "mercadolivre",
-      "categoria": "Beleza",
-      "data": "2026-09-20T10:04:39.319652-03:00",
-      "slug": "camiseta-algodao-pica-pau-selo-reserva",
-      "page_url": "https://promoninjaofertas.github.io/produto/camiseta-algodao-pica-pau-selo-reserva.html",
-      "avaliacao": null,
-      "avaliacoes": null,
-      "vendas": null,
-      "nota_qualidade": 7,
-      "last_seen": "2026-09-20T14:05:30.698607+00:00",
-      "expires_at": "2026-09-21T11:05:30.698607-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Moda",
-      "cupom_no_telegram": true,
-      "cupom_telegram_url": "https://t.me/promoninjaofertas/13351"
-    },
-    {
-      "source_id": "pechinchou-92277",
-      "titulo": "Creatina Creapure Dux Nutrition Monohidratada 300g - Sem Sabor",
-      "de": 79.9,
-      "por": 59.76,
-      "desconto": 25,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/external-image_pFxqnXL.jpg",
-      "link": "https://meli.la/1MkUFbD",
-      "cupom": null,
-      "loja": "mercadolivre",
-      "categoria": "Esporte e Lazer",
-      "data": "2026-09-20T10:04:39.319652-03:00",
-      "slug": "creatina-creapure-dux-nutrition-monohidratada-300g-sem-sabor",
-      "page_url": "https://promoninjaofertas.github.io/produto/creatina-creapure-dux-nutrition-monohidratada-300g-sem-sabor.html",
-      "avaliacao": null,
-      "avaliacoes": null,
-      "vendas": null,
-      "nota_qualidade": 5,
-      "last_seen": "2026-09-20T14:05:30.698607+00:00",
-      "expires_at": "2026-09-21T11:05:30.698607-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Outros",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
     },
     {
       "source_id": "pechinchou-135996",
@@ -331,8 +305,8 @@
       "avaliacoes": 3,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-09-20T14:05:30.698607+00:00",
-      "expires_at": "2026-09-21T11:05:30.698607-03:00",
+      "last_seen": "2026-09-20T14:25:28.877487+00:00",
+      "expires_at": "2026-09-21T11:25:28.877487-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech",
@@ -357,8 +331,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-09-20T14:05:30.698607+00:00",
-      "expires_at": "2026-09-21T11:05:30.698607-03:00",
+      "last_seen": "2026-09-20T14:25:28.877487+00:00",
+      "expires_at": "2026-09-21T11:25:28.877487-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -383,13 +357,39 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-09-20T14:05:30.698607+00:00",
-      "expires_at": "2026-09-21T11:05:30.698607-03:00",
+      "last_seen": "2026-09-20T14:25:28.877487+00:00",
+      "expires_at": "2026-09-21T11:25:28.877487-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
       "cupom_no_telegram": true,
       "cupom_telegram_url": "https://t.me/promoninjaofertas/13354"
+    },
+    {
+      "source_id": "pechinchou-147512",
+      "titulo": "3 Luminárias Emergência Elgin Recarregável Lampada 30 Leds",
+      "de": 49.9,
+      "por": 36.0,
+      "desconto": 28,
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_728815-MLA100081720055_122025-O.webp",
+      "link": "https://meli.la/2EEBtnq",
+      "cupom": null,
+      "loja": "mercadolivre",
+      "categoria": "Casa",
+      "data": "2026-09-12T15:29:38.290624-03:00",
+      "slug": "3-luminarias-emergencia-elgin-recarregavel-lampada-30-leds",
+      "page_url": "https://promoninjaofertas.github.io/produto/3-luminarias-emergencia-elgin-recarregavel-lampada-30-leds.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": null,
+      "nota_qualidade": 8,
+      "last_seen": "2026-09-20T14:25:28.877487+00:00",
+      "expires_at": "2026-09-21T11:25:28.877487-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Casa",
+      "cupom_no_telegram": false,
+      "cupom_telegram_url": null
     },
     {
       "source_id": "pechinchou-146866",
@@ -409,11 +409,37 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-09-20T14:05:30.698607+00:00",
-      "expires_at": "2026-09-21T11:05:30.698607-03:00",
+      "last_seen": "2026-09-20T14:25:28.877487+00:00",
+      "expires_at": "2026-09-21T11:25:28.877487-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
+      "cupom_no_telegram": false,
+      "cupom_telegram_url": null
+    },
+    {
+      "source_id": "3052409",
+      "titulo": "Wolff - Garrafa Térmica De Plástico Com Cabo De Madeira Nórdica 1l Rosa - Mesa Posta - Itens Para Casa - Utensílios De Cozinha - Perfeita Para Caf",
+      "de": 91.6,
+      "por": 56.0,
+      "desconto": 39,
+      "imagem": "https://m.media-amazon.com/images/I/61pKKvoWtSL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B09CBVVM44?tag=promoninja0b2-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Casa",
+      "data": "2026-09-20T11:25:28.877487-03:00",
+      "slug": "wolff-garrafa-termica-de-plastico-com-cabo-de-madeira-nordica-1l-rosa-mesa-posta",
+      "page_url": "https://promoninjaofertas.github.io/produto/wolff-garrafa-termica-de-plastico-com-cabo-de-madeira-nordica-1l-rosa-mesa-posta.html",
+      "avaliacao": null,
+      "avaliacoes": 5,
+      "vendas": 0,
+      "nota_qualidade": 5,
+      "last_seen": "2026-09-20T14:25:28.877487+00:00",
+      "expires_at": "2026-09-21T11:25:28.877487-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Casa",
       "cupom_no_telegram": false,
       "cupom_telegram_url": null
     },
@@ -435,8 +461,8 @@
       "avaliacoes": 2,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-09-20T14:05:30.698607+00:00",
-      "expires_at": "2026-09-21T11:05:30.698607-03:00",
+      "last_seen": "2026-09-20T14:25:28.877487+00:00",
+      "expires_at": "2026-09-21T11:25:28.877487-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
@@ -461,8 +487,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-09-20T14:05:30.698607+00:00",
-      "expires_at": "2026-09-21T11:05:30.698607-03:00",
+      "last_seen": "2026-09-20T14:25:28.877487+00:00",
+      "expires_at": "2026-09-21T11:25:28.877487-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -496,6 +522,58 @@
       "cupom_telegram_url": null
     },
     {
+      "source_id": "3052255",
+      "titulo": "Frigideira Funda Antiaderente Wok Com Tampa- Tramontina (Grafite 24 Cm)",
+      "de": 98.99,
+      "por": 74.95,
+      "desconto": 24,
+      "imagem": "https://m.media-amazon.com/images/I/31LULXXt0VL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0C5GGSN66?tag=promoninja0b2-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Casa",
+      "data": "2026-09-20T09:33:54.882996-03:00",
+      "slug": "frigideira-funda-antiaderente-wok-com-tampa-tramontina-grafite-24-cm",
+      "page_url": "https://promoninjaofertas.github.io/produto/frigideira-funda-antiaderente-wok-com-tampa-tramontina-grafite-24-cm.html",
+      "avaliacao": null,
+      "avaliacoes": 1,
+      "vendas": 5,
+      "nota_qualidade": 5,
+      "last_seen": "2026-09-20T14:25:28.877487+00:00",
+      "expires_at": "2026-09-21T11:25:28.877487-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Casa",
+      "cupom_no_telegram": false,
+      "cupom_telegram_url": null
+    },
+    {
+      "source_id": "3052256",
+      "titulo": "Redragon Controle Gamer Sempiten G712 Gamepad Sem Fio Bluetooth USB-C 2.4GHz Compatível c PC Xbox PlayStation Andro",
+      "de": 191.88,
+      "por": 139.99,
+      "desconto": 27,
+      "imagem": "https://m.media-amazon.com/images/I/614nokT7KXL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0G2MN8YF9?tag=promoninja0b2-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Audio",
+      "data": "2026-09-20T09:33:54.882996-03:00",
+      "slug": "redragon-controle-gamer-sempiten-g712-gamepad-sem-fio-bluetooth-usb-c-2-4ghz-compative",
+      "page_url": "https://promoninjaofertas.github.io/produto/redragon-controle-gamer-sempiten-g712-gamepad-sem-fio-bluetooth-usb-c-2-4ghz-compative.html",
+      "avaliacao": null,
+      "avaliacoes": 1,
+      "vendas": 10,
+      "nota_qualidade": 5,
+      "last_seen": "2026-09-20T14:25:28.877487+00:00",
+      "expires_at": "2026-09-21T11:25:28.877487-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Gamer",
+      "cupom_no_telegram": false,
+      "cupom_telegram_url": null
+    },
+    {
       "source_id": "3052258",
       "titulo": "Mouse gamer Razer DeathAdder Essential sensor óptico de 6400 DPI Mercury White",
       "de": 220.02,
@@ -518,58 +596,6 @@
       "marca": null,
       "price_evidence": {},
       "grupo": "Gamer",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
-    },
-    {
-      "source_id": "3052256",
-      "titulo": "Redragon Controle Gamer Sempiten G712 Gamepad Sem Fio Bluetooth USB-C 2.4GHz Compatível c PC Xbox PlayStation Andro",
-      "de": 191.88,
-      "por": 139.99,
-      "desconto": 27,
-      "imagem": "https://m.media-amazon.com/images/I/614nokT7KXL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0G2MN8YF9?tag=promoninja0b2-20",
-      "cupom": null,
-      "loja": "amazon",
-      "categoria": "Audio",
-      "data": "2026-09-20T09:33:54.882996-03:00",
-      "slug": "redragon-controle-gamer-sempiten-g712-gamepad-sem-fio-bluetooth-usb-c-2-4ghz-compative",
-      "page_url": "https://promoninjaofertas.github.io/produto/redragon-controle-gamer-sempiten-g712-gamepad-sem-fio-bluetooth-usb-c-2-4ghz-compative.html",
-      "avaliacao": null,
-      "avaliacoes": 1,
-      "vendas": 0,
-      "nota_qualidade": 6,
-      "last_seen": "2026-09-20T12:33:54.882996+00:00",
-      "expires_at": "2026-09-21T09:33:54.882996-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Gamer",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
-    },
-    {
-      "source_id": "3052255",
-      "titulo": "Frigideira Funda Antiaderente Wok Com Tampa- Tramontina (Grafite 24 Cm)",
-      "de": 98.99,
-      "por": 74.95,
-      "desconto": 24,
-      "imagem": "https://m.media-amazon.com/images/I/31LULXXt0VL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0C5GGSN66?tag=promoninja0b2-20",
-      "cupom": null,
-      "loja": "amazon",
-      "categoria": "Casa",
-      "data": "2026-09-20T09:33:54.882996-03:00",
-      "slug": "frigideira-funda-antiaderente-wok-com-tampa-tramontina-grafite-24-cm",
-      "page_url": "https://promoninjaofertas.github.io/produto/frigideira-funda-antiaderente-wok-com-tampa-tramontina-grafite-24-cm.html",
-      "avaliacao": null,
-      "avaliacoes": 1,
-      "vendas": 0,
-      "nota_qualidade": 7,
-      "last_seen": "2026-09-20T12:33:54.882996+00:00",
-      "expires_at": "2026-09-21T09:33:54.882996-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Casa",
       "cupom_no_telegram": false,
       "cupom_telegram_url": null
     },
@@ -617,8 +643,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-09-20T14:05:30.698607+00:00",
-      "expires_at": "2026-09-21T11:05:30.698607-03:00",
+      "last_seen": "2026-09-20T14:25:28.877487+00:00",
+      "expires_at": "2026-09-21T11:25:28.877487-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -678,32 +704,6 @@
       "cupom_telegram_url": null
     },
     {
-      "source_id": "pechinchou-152590",
-      "titulo": "Modelador De Cachos Profissional 25mm Cerâmico Bivolt Cabo Giratório",
-      "de": 79.9,
-      "por": 63.0,
-      "desconto": 21,
-      "imagem": "https://m.media-amazon.com/images/I/614-sZZm05L._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0GWMTK2D1?tag=promoninja0b2-20",
-      "cupom": null,
-      "loja": "amazon",
-      "categoria": "Beleza",
-      "data": "2026-09-20T03:56:47.912787-03:00",
-      "slug": "modelador-de-cachos-profissional-25mm-ceramico-bivolt-cabo-giratorio",
-      "page_url": "https://promoninjaofertas.github.io/produto/modelador-de-cachos-profissional-25mm-ceramico-bivolt-cabo-giratorio.html",
-      "avaliacao": null,
-      "avaliacoes": null,
-      "vendas": null,
-      "nota_qualidade": 5,
-      "last_seen": "2026-09-20T14:05:30.698607+00:00",
-      "expires_at": "2026-09-21T11:05:30.698607-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Tech",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
-    },
-    {
       "source_id": "3052137",
       "titulo": "Câmera Segurança TP-Link Tapo C500 Wi-Fi Externa",
       "de": 299.0,
@@ -718,11 +718,11 @@
       "slug": "camera-seguranca-tp-link-tapo-c500-wi-fi-externa",
       "page_url": "https://promoninjaofertas.github.io/produto/camera-seguranca-tp-link-tapo-c500-wi-fi-externa.html",
       "avaliacao": null,
-      "avaliacoes": 2,
-      "vendas": 425,
+      "avaliacoes": 4,
+      "vendas": 460,
       "nota_qualidade": 8,
-      "last_seen": "2026-09-20T12:33:54.882996+00:00",
-      "expires_at": "2026-09-21T09:33:54.882996-03:00",
+      "last_seen": "2026-09-20T14:25:28.877487+00:00",
+      "expires_at": "2026-09-21T11:25:28.877487-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech",
@@ -773,8 +773,8 @@
       "avaliacoes": 1,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-09-20T14:05:30.698607+00:00",
-      "expires_at": "2026-09-21T11:05:30.698607-03:00",
+      "last_seen": "2026-09-20T14:25:28.877487+00:00",
+      "expires_at": "2026-09-21T11:25:28.877487-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
@@ -979,10 +979,10 @@
       "page_url": "https://promoninjaofertas.github.io/produto/frigobar-hisense-115-litros-porta-reversivel-branco-1-porta-rr157nw3a-220-volts.html",
       "avaliacao": null,
       "avaliacoes": 2,
-      "vendas": 315,
+      "vendas": 360,
       "nota_qualidade": 5,
-      "last_seen": "2026-09-20T06:16:23.929736+00:00",
-      "expires_at": "2026-09-21T03:16:23.929736-03:00",
+      "last_seen": "2026-09-20T14:25:28.877487+00:00",
+      "expires_at": "2026-09-21T11:25:28.877487-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
@@ -1031,10 +1031,10 @@
       "page_url": "https://promoninjaofertas.github.io/produto/jogo-god-of-war-ragnarok-edicao-standard-playstation-4.html",
       "avaliacao": null,
       "avaliacoes": 26,
-      "vendas": 2525,
+      "vendas": 2535,
       "nota_qualidade": 8,
-      "last_seen": "2026-09-20T12:33:54.882996+00:00",
-      "expires_at": "2026-09-21T09:33:54.882996-03:00",
+      "last_seen": "2026-09-20T14:25:28.877487+00:00",
+      "expires_at": "2026-09-21T11:25:28.877487-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Gamer",
@@ -2209,11 +2209,11 @@
       "avaliacoes": null,
       "vendas": 173,
       "nota_qualidade": 9,
-      "last_seen": "2026-09-20T13:45:21.022617+00:00",
-      "expires_at": "2026-09-21T10:45:21.022617-03:00",
+      "last_seen": "2026-09-20T14:15:28.998684+00:00",
+      "expires_at": "2026-09-21T11:15:28.998684-03:00",
       "marca": "Oster",
       "price_evidence": {
-        "checked_at": "2026-09-20T13:49:49.782773+00:00",
+        "checked_at": "2026-09-20T14:19:22.393771+00:00",
         "identity": {
           "brand": "Oster",
           "model": "ocaf650",
@@ -2383,11 +2383,11 @@
       "avaliacoes": null,
       "vendas": 109,
       "nota_qualidade": 10,
-      "last_seen": "2026-09-20T14:05:30.698607+00:00",
-      "expires_at": "2026-09-21T11:05:30.698607-03:00",
+      "last_seen": "2026-09-20T14:15:28.998684+00:00",
+      "expires_at": "2026-09-21T11:15:28.998684-03:00",
       "marca": "LG",
       "price_evidence": {
-        "checked_at": "2026-09-20T14:10:39.578758+00:00",
+        "checked_at": "2026-09-20T14:19:22.393771+00:00",
         "identity": {
           "brand": "LG",
           "model": "24gs60f-b",
@@ -2897,11 +2897,11 @@
       "avaliacoes": null,
       "vendas": 2874,
       "nota_qualidade": 10,
-      "last_seen": "2026-09-20T13:45:21.022617+00:00",
-      "expires_at": "2026-09-21T10:45:21.022617-03:00",
+      "last_seen": "2026-09-20T14:15:28.998684+00:00",
+      "expires_at": "2026-09-21T11:15:28.998684-03:00",
       "marca": "WAP",
       "price_evidence": {
-        "checked_at": "2026-09-20T13:49:49.782773+00:00",
+        "checked_at": "2026-09-20T14:19:22.393771+00:00",
         "identity": {
           "brand": "WAP",
           "model": "w100",
@@ -3043,11 +3043,11 @@
       "avaliacoes": null,
       "vendas": 298,
       "nota_qualidade": 10,
-      "last_seen": "2026-09-20T13:45:21.022617+00:00",
-      "expires_at": "2026-09-21T10:45:21.022617-03:00",
+      "last_seen": "2026-09-20T14:15:28.998684+00:00",
+      "expires_at": "2026-09-21T11:15:28.998684-03:00",
       "marca": "WAP",
       "price_evidence": {
-        "checked_at": "2026-09-20T13:49:49.782773+00:00",
+        "checked_at": "2026-09-20T14:19:22.393771+00:00",
         "identity": {
           "brand": "WAP",
           "model": "7metros",
@@ -3188,6 +3188,184 @@
         "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
       },
       "grupo": "Casa",
+      "cupom_no_telegram": false,
+      "cupom_telegram_url": null
+    },
+    {
+      "source_id": "23293788558",
+      "titulo": "Placa-Mãe AMD AM4 Asus TUF GAMING B550M-Plus - 90MB14A0-C1BAY0",
+      "de": null,
+      "por": 819.0,
+      "desconto": 37,
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m71303iaqpuv88",
+      "link": "https://s.shopee.com.br/1AWY1h2Ai",
+      "cupom": null,
+      "loja": "shopee",
+      "categoria": "Hardware",
+      "data": "2026-09-10T06:27:22.795034-03:00",
+      "slug": "placa-mae-amd-am4-asus-tuf-gaming-b550m-plus-90mb14a0-c1bay0",
+      "page_url": "https://promoninjaofertas.github.io/produto/placa-mae-amd-am4-asus-tuf-gaming-b550m-plus-90mb14a0-c1bay0.html",
+      "avaliacao": 4.9,
+      "avaliacoes": null,
+      "vendas": 705,
+      "nota_qualidade": 9,
+      "last_seen": "2026-09-20T14:15:28.998684+00:00",
+      "expires_at": "2026-09-21T11:15:28.998684-03:00",
+      "marca": "Asus",
+      "price_evidence": {
+        "checked_at": "2026-09-20T14:19:22.393771+00:00",
+        "identity": {
+          "brand": "Asus",
+          "model": "am4",
+          "family": "outros",
+          "kind": "produto",
+          "variant": "codigo:90mb14a0-c1bay0|codigo:b550m-plus|kit:1",
+          "ambiguous": false,
+          "comparison_key": "asus|am4|codigo:90mb14a0-c1bay0|codigo:b550m-plus|kit:1"
+        },
+        "previous_min": 819.0,
+        "observed_min": 819.0,
+        "since": "2026-09-12T22:19:00.776474+00:00",
+        "observations": 33,
+        "days": 9,
+        "history": [
+          {
+            "at": "2026-09-12T22:19:00.776474+00:00",
+            "price": 849.0
+          },
+          {
+            "at": "2026-09-13T04:37:21.869455+00:00",
+            "price": 849.0
+          },
+          {
+            "at": "2026-09-13T10:43:42.327069+00:00",
+            "price": 849.0
+          },
+          {
+            "at": "2026-09-13T16:44:47.609484+00:00",
+            "price": 849.0
+          },
+          {
+            "at": "2026-09-13T22:49:13.910822+00:00",
+            "price": 849.0
+          },
+          {
+            "at": "2026-09-14T03:09:29.900739+00:00",
+            "price": 821.0
+          },
+          {
+            "at": "2026-09-14T09:14:14.586525+00:00",
+            "price": 821.0
+          },
+          {
+            "at": "2026-09-14T15:23:51.649704+00:00",
+            "price": 821.0
+          },
+          {
+            "at": "2026-09-14T21:34:39.385174+00:00",
+            "price": 821.0
+          },
+          {
+            "at": "2026-09-15T03:44:30.038608+00:00",
+            "price": 821.0
+          },
+          {
+            "at": "2026-09-15T04:25:34.563600+00:00",
+            "price": 849.0
+          },
+          {
+            "at": "2026-09-15T10:39:35.201157+00:00",
+            "price": 849.0
+          },
+          {
+            "at": "2026-09-15T16:49:32.881782+00:00",
+            "price": 849.0
+          },
+          {
+            "at": "2026-09-15T22:59:26.316040+00:00",
+            "price": 849.0
+          },
+          {
+            "at": "2026-09-15T23:10:40.611142+00:00",
+            "price": 819.0
+          },
+          {
+            "at": "2026-09-16T05:15:01.887732+00:00",
+            "price": 819.0
+          },
+          {
+            "at": "2026-09-16T11:20:56.822270+00:00",
+            "price": 819.0
+          },
+          {
+            "at": "2026-09-16T17:24:22.383543+00:00",
+            "price": 819.0
+          },
+          {
+            "at": "2026-09-16T23:37:32.252120+00:00",
+            "price": 819.0
+          },
+          {
+            "at": "2026-09-17T05:52:24.361304+00:00",
+            "price": 819.0
+          },
+          {
+            "at": "2026-09-17T12:02:38.291278+00:00",
+            "price": 819.0
+          },
+          {
+            "at": "2026-09-17T18:20:44.796448+00:00",
+            "price": 819.0
+          },
+          {
+            "at": "2026-09-18T00:24:19.611366+00:00",
+            "price": 819.0
+          },
+          {
+            "at": "2026-09-18T06:28:02.291001+00:00",
+            "price": 819.0
+          },
+          {
+            "at": "2026-09-18T12:32:04.278958+00:00",
+            "price": 819.0
+          },
+          {
+            "at": "2026-09-18T18:37:10.789747+00:00",
+            "price": 819.0
+          },
+          {
+            "at": "2026-09-19T00:46:15.994045+00:00",
+            "price": 819.0
+          },
+          {
+            "at": "2026-09-19T06:52:49.265343+00:00",
+            "price": 819.0
+          },
+          {
+            "at": "2026-09-19T13:05:23.284462+00:00",
+            "price": 819.0
+          },
+          {
+            "at": "2026-09-19T19:07:41.711883+00:00",
+            "price": 819.0
+          },
+          {
+            "at": "2026-09-20T01:22:17.265650+00:00",
+            "price": 819.0
+          },
+          {
+            "at": "2026-09-20T07:32:50.748896+00:00",
+            "price": 819.0
+          },
+          {
+            "at": "2026-09-20T13:37:53.438987+00:00",
+            "price": 819.0
+          }
+        ],
+        "advantage": false,
+        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
+      },
+      "grupo": "Gamer",
       "cupom_no_telegram": false,
       "cupom_telegram_url": null
     },
@@ -3356,184 +3534,6 @@
           {
             "at": "2026-09-20T12:27:21.800181+00:00",
             "price": 657.9
-          }
-        ],
-        "advantage": false,
-        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
-      },
-      "grupo": "Gamer",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
-    },
-    {
-      "source_id": "23293788558",
-      "titulo": "Placa-Mãe AMD AM4 Asus TUF GAMING B550M-Plus - 90MB14A0-C1BAY0",
-      "de": null,
-      "por": 819.0,
-      "desconto": 37,
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m71303iaqpuv88",
-      "link": "https://s.shopee.com.br/1AWY1h2Ai",
-      "cupom": null,
-      "loja": "shopee",
-      "categoria": "Hardware",
-      "data": "2026-09-10T06:27:22.795034-03:00",
-      "slug": "placa-mae-amd-am4-asus-tuf-gaming-b550m-plus-90mb14a0-c1bay0",
-      "page_url": "https://promoninjaofertas.github.io/produto/placa-mae-amd-am4-asus-tuf-gaming-b550m-plus-90mb14a0-c1bay0.html",
-      "avaliacao": 4.9,
-      "avaliacoes": null,
-      "vendas": 705,
-      "nota_qualidade": 9,
-      "last_seen": "2026-09-20T13:45:21.022617+00:00",
-      "expires_at": "2026-09-21T10:45:21.022617-03:00",
-      "marca": "Asus",
-      "price_evidence": {
-        "checked_at": "2026-09-20T13:49:49.782773+00:00",
-        "identity": {
-          "brand": "Asus",
-          "model": "am4",
-          "family": "outros",
-          "kind": "produto",
-          "variant": "codigo:90mb14a0-c1bay0|codigo:b550m-plus|kit:1",
-          "ambiguous": false,
-          "comparison_key": "asus|am4|codigo:90mb14a0-c1bay0|codigo:b550m-plus|kit:1"
-        },
-        "previous_min": 819.0,
-        "observed_min": 819.0,
-        "since": "2026-09-12T22:19:00.776474+00:00",
-        "observations": 33,
-        "days": 9,
-        "history": [
-          {
-            "at": "2026-09-12T22:19:00.776474+00:00",
-            "price": 849.0
-          },
-          {
-            "at": "2026-09-13T04:37:21.869455+00:00",
-            "price": 849.0
-          },
-          {
-            "at": "2026-09-13T10:43:42.327069+00:00",
-            "price": 849.0
-          },
-          {
-            "at": "2026-09-13T16:44:47.609484+00:00",
-            "price": 849.0
-          },
-          {
-            "at": "2026-09-13T22:49:13.910822+00:00",
-            "price": 849.0
-          },
-          {
-            "at": "2026-09-14T03:09:29.900739+00:00",
-            "price": 821.0
-          },
-          {
-            "at": "2026-09-14T09:14:14.586525+00:00",
-            "price": 821.0
-          },
-          {
-            "at": "2026-09-14T15:23:51.649704+00:00",
-            "price": 821.0
-          },
-          {
-            "at": "2026-09-14T21:34:39.385174+00:00",
-            "price": 821.0
-          },
-          {
-            "at": "2026-09-15T03:44:30.038608+00:00",
-            "price": 821.0
-          },
-          {
-            "at": "2026-09-15T04:25:34.563600+00:00",
-            "price": 849.0
-          },
-          {
-            "at": "2026-09-15T10:39:35.201157+00:00",
-            "price": 849.0
-          },
-          {
-            "at": "2026-09-15T16:49:32.881782+00:00",
-            "price": 849.0
-          },
-          {
-            "at": "2026-09-15T22:59:26.316040+00:00",
-            "price": 849.0
-          },
-          {
-            "at": "2026-09-15T23:10:40.611142+00:00",
-            "price": 819.0
-          },
-          {
-            "at": "2026-09-16T05:15:01.887732+00:00",
-            "price": 819.0
-          },
-          {
-            "at": "2026-09-16T11:20:56.822270+00:00",
-            "price": 819.0
-          },
-          {
-            "at": "2026-09-16T17:24:22.383543+00:00",
-            "price": 819.0
-          },
-          {
-            "at": "2026-09-16T23:37:32.252120+00:00",
-            "price": 819.0
-          },
-          {
-            "at": "2026-09-17T05:52:24.361304+00:00",
-            "price": 819.0
-          },
-          {
-            "at": "2026-09-17T12:02:38.291278+00:00",
-            "price": 819.0
-          },
-          {
-            "at": "2026-09-17T18:20:44.796448+00:00",
-            "price": 819.0
-          },
-          {
-            "at": "2026-09-18T00:24:19.611366+00:00",
-            "price": 819.0
-          },
-          {
-            "at": "2026-09-18T06:28:02.291001+00:00",
-            "price": 819.0
-          },
-          {
-            "at": "2026-09-18T12:32:04.278958+00:00",
-            "price": 819.0
-          },
-          {
-            "at": "2026-09-18T18:37:10.789747+00:00",
-            "price": 819.0
-          },
-          {
-            "at": "2026-09-19T00:46:15.994045+00:00",
-            "price": 819.0
-          },
-          {
-            "at": "2026-09-19T06:52:49.265343+00:00",
-            "price": 819.0
-          },
-          {
-            "at": "2026-09-19T13:05:23.284462+00:00",
-            "price": 819.0
-          },
-          {
-            "at": "2026-09-19T19:07:41.711883+00:00",
-            "price": 819.0
-          },
-          {
-            "at": "2026-09-20T01:22:17.265650+00:00",
-            "price": 819.0
-          },
-          {
-            "at": "2026-09-20T07:32:50.748896+00:00",
-            "price": 819.0
-          },
-          {
-            "at": "2026-09-20T13:37:53.438987+00:00",
-            "price": 819.0
           }
         ],
         "advantage": false,
@@ -3909,11 +3909,11 @@
       "avaliacoes": null,
       "vendas": 484,
       "nota_qualidade": 10,
-      "last_seen": "2026-09-20T14:05:30.698607+00:00",
-      "expires_at": "2026-09-21T11:05:30.698607-03:00",
+      "last_seen": "2026-09-20T14:25:28.877487+00:00",
+      "expires_at": "2026-09-21T11:25:28.877487-03:00",
       "marca": "Kingston",
       "price_evidence": {
-        "checked_at": "2026-09-20T14:10:39.578758+00:00",
+        "checked_at": "2026-09-20T14:27:21.403170+00:00",
         "identity": {
           "brand": "Kingston",
           "model": "kvr16n11/8",
@@ -4438,7 +4438,7 @@
       "por": 175.99,
       "desconto": 40,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sdc5a76b0d97c4855a4940525453d3659x.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4EIT9oCSCWqNgvDUUkdXOv8VE8DV3Pckq9zdQJruCP6x2iSgF5x8NK5BcM3LCgQPCvnVA31hoFlXT92RuY6d97ttMmUIYDi8s5yYv4U8hY3d34RfyUmll2O6Ucv1tziVSQPqV0mVM9puS5G4Sm4dD24PM5TKGpu8J667E6a5bYuWT4ox2sncXxlK5oQV4wn1K4AmoioDGKzP1ictNotVayjakgLZRxtrhXu3c5Od6LiyqMh3B9GPjJeT3is79WhRR7Pdk2R5oIYqRNR0euDFKXl9fFOVgE11JUM8jH4GcjjcTLMvBD2JfFFqWv9Zw3cmgae2S388u16x1gPnHxWW9UXSX0vCWBHflfo5Ip3DzyYJJtn9fYcYSU2LQsFwGYdBO8Ds7uF4W1dXLW89SWV4BP52T5Xn3P9W0ABMrWi7FMK6T79qLhEn7pJLhsX8WVKiMJDC2uD7TeZctvL9Qr43iCPxUNU2BQyHUEhARDotzisb2pUPhjY8mFw1wtBXEGnHCzdOOvN3rBiuflMYx57bd7OZcBkY33dGdJLNtmbyMVPjhsFF5hGUbWuABgoM51xkQWige7Fd9Z0oDPfgPlrPTxMmkjzE0NpOsydnJ7uNu2Ys2b0ankWe2B6kMl8wKiGxXRkRQFFfhD3eC3FaUByypXwuU06W5Mef3OTIaZsh21uurQSuJ8iivFY7nfndls0J0pOEMfnaHa07Mt",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4EIT9oCSCWqNgvDUUkdXOv8VE8DV3Pckq9zdQJruCP6x2iSgF5x8NK5BcM3LCgQPCvnVA31hoFlXT92RuY6d97ttMmUIYDi8s5yYv4U8hY3d34RfyUmll2O6Ucv1tziVSQPqV0mVM9puS5G4Sm4dD24PM5TKGpu8J667E6a5bYuWT4ox2sncXxlK5oQV4wn1K4AmoioDGKzP1ictNotVayjakgLZRxtrhXu3c5NsHCESeltaLrNuNeCYJ73ONZwB5EOhthc4zc8MWfa0F1WPTpja28MzA1V9KDegOScus7Wa2ACVfQStNO6iLVCsVPI89Pm9HrHwL4SjTpvvR7wQJ3lr94Xyur35jww2L1IIOcXlC0rEJxjTvEqPvg5Vew46IkTi1zZoOzeTc38yFgD6dRrxvlVLx9llmIPrFjysBIQ6hU6k9vDu5xeDKJhHc9nLP29DKVB0LkpHeWooahYwbZJQI0nQoKLPXCedCW4VM9V8SITuQkaqRzcv9EZcVZhcwCivKsSmD7bdbKA9Jrxu6lO0SN749dqvmKaRv5i5gwdfw5ZBde1yRtt4kkwCggLO0iBriE3a0KcXlu6giUA5WNzd0tzVEVTe5ONMue1rTjJLcdVyFwyndTQZM8jcWK0w9YZTW9qibSa6lBUHuXsdSBQKVlAgWwMb0W31IzpfKaInKYC5iHV7E5ztV7GdPR352SleW1iiEDE90t",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Ferramentas",
@@ -4447,10 +4447,10 @@
       "page_url": "https://promoninjaofertas.github.io/produto/alientek-t80-t80p-ferro-de-solda-inteligente-pd-65w-qc-temperatura-constante-ajustavel.html",
       "avaliacao": 4.875,
       "avaliacoes": null,
-      "vendas": 1126,
+      "vendas": 1129,
       "nota_qualidade": 7,
-      "last_seen": "2026-09-20T14:05:30.698607+00:00",
-      "expires_at": "2026-09-21T11:05:30.698607-03:00",
+      "last_seen": "2026-09-20T14:25:28.877487+00:00",
+      "expires_at": "2026-09-21T11:25:28.877487-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
