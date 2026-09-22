@@ -120,8 +120,8 @@
     STORE_NAMES[String(value || '').toLowerCase()] || String(value || 'Oferta');
 
   /* ------------------------------------------------------ Cupons bloqueados
-     O clique abre o post no Telegram e libera o código neste navegador. Abrir
-     o canal principal libera todos, inclusive nas próximas visitas.           */
+     O clique abre o canal oficial do Telegram e libera o código neste navegador.
+     Ao voltar ao site, o cupom clicado aparece completo.                        */
   const TELEGRAM_URL = 'https://t.me/promoninjaofertas';
   const COUPON_MASK = '••••••';
   const COUPON_UNLOCK_STORAGE = 'promoNinjaCouponUnlocksV1';
@@ -129,10 +129,8 @@
     '<svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M21.5 4.3 2.9 11.5c-1 .4-1 1.8.1 2.1l4.7 1.5 1.8 5.6c.3.8 1.3 1 1.9.4l2.6-2.4 4.8 3.5c.7.5 1.7.1 1.9-.7L23.9 5.6c.2-1-.8-1.8-1.7-1.4Z"/></svg>';
 
   const telegramCouponUrl = value => {
-    const candidate = String(value || '').trim();
-    return /^https:\/\/t\.me\/promoninjaofertas\/[1-9][0-9]*$/.test(candidate)
-      ? candidate
-      : TELEGRAM_URL;
+    void value;
+    return TELEGRAM_URL;
   };
   const couponPrefix = code =>
     code.slice(0, Math.min(3, Math.max(1, Math.floor(code.length / 2))));
