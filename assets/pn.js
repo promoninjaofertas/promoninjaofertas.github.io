@@ -119,6 +119,97 @@
   const storeName = value =>
     STORE_NAMES[String(value || '').toLowerCase()] || String(value || 'Oferta');
 
+  /* ------------------------------------------------------ Cupons bloqueados
+     O clique abre o post no Telegram e libera o código neste navegador. Abrir
+     o canal principal libera todos, inclusive nas próximas visitas.           */
+  const TELEGRAM_URL = 'https://t.me/promoninjaofertas';
+  const COUPON_MASK = '••••••';
+  const COUPON_UNLOCK_STORAGE = 'promoNinjaCouponUnlocksV1';
+  const TELEGRAM_ICON =
+    '<svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M21.5 4.3 2.9 11.5c-1 .4-1 1.8.1 2.1l4.7 1.5 1.8 5.6c.3.8 1.3 1 1.9.4l2.6-2.4 4.8 3.5c.7.5 1.7.1 1.9-.7L23.9 5.6c.2-1-.8-1.8-1.7-1.4Z"/></svg>';
+
+  const telegramCouponUrl = value => {
+    const candidate = String(value || '').trim();
+    return /^https:\/\/t\.me\/promoninjaofertas\/[1-9][0-9]*$/.test(candidate)
+      ? candidate
+      : TELEGRAM_URL;
+  };
+  const couponPrefix = code =>
+    code.slice(0, Math.min(3, Math.max(1, Math.floor(code.length / 2))));
+  const couponToken = code => {
+    try {
+      return btoa(unescape(encodeURIComponent(String(code || '').trim())))
+        .replace(/\+/g, '-')
+        .replace(/\//g, '_')
+        .replace(/=+$/g, '');
+    } catch (_) {
+      return '';
+    }
+  };
+  const couponFromToken = token => {
+    try {
+      const normalized = String(token || '').replace(/-/g, '+').replace(/_/g, '/');
+      const padded = normalized + '='.repeat((4 - (normalized.length % 4)) % 4);
+      return decodeURIComponent(escape(atob(padded)));
+    } catch (_) {
+      return '';
+    }
+  };
+  function couponUnlockState() {
+    try {
+      const parsed = JSON.parse(localStorage.getItem(COUPON_UNLOCK_STORAGE) || '{}');
+      return {
+        all: parsed.all === true,
+        tokens: Array.isArray(parsed.tokens) ? parsed.tokens.filter(Boolean) : []
+      };
+    } catch (_) {
+      return { all: false, tokens: [] };
+    }
+  }
+  function saveCouponUnlockState(state) {
+    try {
+      localStorage.setItem(COUPON_UNLOCK_STORAGE, JSON.stringify(state));
+    } catch (_) {
+      // O site continua funcional quando o navegador bloqueia armazenamento.
+    }
+  }
+  const couponIsUnlocked = token => {
+    const state = couponUnlockState();
+    return state.all || state.tokens.includes(token);
+  };
+  function unlockCoupon(token) {
+    if (!token) return;
+    const state = couponUnlockState();
+    if (!state.tokens.includes(token)) state.tokens.push(token);
+    saveCouponUnlockState(state);
+  }
+  function unlockAllCoupons() {
+    const state = couponUnlockState();
+    state.all = true;
+    saveCouponUnlockState(state);
+  }
+  function applyCouponUnlocks(scope = document) {
+    $$('[data-coupon-token]', scope).forEach(action => {
+      const token = action.dataset.couponToken || '';
+      if (!couponIsUnlocked(token)) return;
+      const code = couponFromToken(token);
+      if (!code) return;
+      const container = action.classList.contains('coupon-card') ? action : action.closest('.coupon');
+      const codeNode = container && $('.coupon-code,.coupon-card-code', container);
+      if (codeNode) codeNode.textContent = code;
+      action.dataset.coupon = code;
+      action.removeAttribute('data-coupon-unlock');
+      action.setAttribute('aria-label', `Copiar cupom ${code}`);
+      const label = action.classList.contains('coupon-card')
+        ? $('.coupon-card-cta', action)
+        : $('span', action);
+      if (label) {
+        if (action.classList.contains('coupon-card')) label.innerHTML = `${ICON.copy}Copiar cupom`;
+        else label.textContent = 'Copiar';
+      }
+    });
+  }
+
   const toDate = value => {
     if (!value) return null;
     const text = String(value).trim();
@@ -301,6 +392,18 @@
       return;
     }
 
+    const unlock = target.closest('[data-coupon-unlock]');
+    if (unlock) {
+      unlockCoupon(unlock.dataset.couponToken || '');
+      applyCouponUnlocks();
+      track('unlock_coupon', {
+        store: unlock.dataset.store || '',
+        placement: unlock.dataset.placement || (unlock.classList.contains('coupon-card') ? 'coupon_page' : ''),
+        link_url: unlock.href || ''
+      });
+      return;
+    }
+
     const copyLink = target.closest('[data-copy]');
     if (copyLink) {
       event.preventDefault();
@@ -338,13 +441,18 @@
 
     const social = target.closest(
       '.footer-social a,.header-telegram,.floating-telegram,.share-row a,.channel-cta,' +
-        '.hero-actions a[href*="t.me"],.mobile-menu-foot a'
+        '.hero-actions a[href*="t.me"],.mobile-menu-foot a,a[href="https://t.me/promoninjaofertas"]'
     );
-    if (social)
+    if (social) {
+      if ((social.href || '').replace(/\/$/, '') === TELEGRAM_URL) {
+        unlockAllCoupons();
+        applyCouponUnlocks();
+      }
       track('click_social', {
         link_text: (social.textContent || social.getAttribute('aria-label') || '').trim(),
         link_url: social.href || ''
       });
+    }
 
     const couponLink = target.closest('.coupon-card');
     if (couponLink)
@@ -356,6 +464,11 @@
 
     const storeCard = target.closest('.store-card');
     if (storeCard) track('filter_store', { store: storeCard.dataset.storeLabel || '' });
+  });
+
+  applyCouponUnlocks();
+  addEventListener('storage', event => {
+    if (event.key === COUPON_UNLOCK_STORAGE) applyCouponUnlocks();
   });
 
   /* ======================================================================
@@ -506,12 +619,22 @@
 
   /* ------------------------------------------------------------ Marcação */
   function renderCoupon(offer) {
-    if (!offer.cupom) return '';
-    const code = escapeHtml(offer.cupom);
+    if (!offer.cupom || offer.cupom_no_telegram !== true) return '';
+    const rawCode = String(offer.cupom).trim();
+    const code = escapeHtml(rawCode);
+    const token = couponToken(rawCode);
+    const unlocked = couponIsUnlocked(token);
+    const target = escapeHtml(telegramCouponUrl(offer.cupom_telegram_url));
+    const shownCode = unlocked
+      ? code
+      : `${escapeHtml(couponPrefix(rawCode))}<span class="coupon-mask">${COUPON_MASK}</span>`;
+    const action = unlocked
+      ? `<a class="coupon-copy coupon-telegram" href="${target}" target="_blank" rel="noopener" data-coupon-token="${token}" data-coupon="${code}" aria-label="Copiar cupom ${code}">${ICON.copy}<span>Copiar</span></a>`
+      : `<a class="coupon-copy coupon-telegram" href="${target}" target="_blank" rel="noopener" data-coupon-token="${token}" data-coupon-unlock="true" data-store="${escapeHtml(offer.loja || '')}" data-placement="card" aria-label="Ver cupom completo no Telegram">${TELEGRAM_ICON}<span>Ver cupom</span></a>`;
     return `<div class="coupon">
       <span class="coupon-label">Cupom</span>
-      <span class="coupon-code">${code}</span>
-      <button type="button" class="coupon-copy" data-coupon="${code}" aria-label="Copiar cupom ${code}">${ICON.copy}<span>Copiar</span></button>
+      <span class="coupon-code">${shownCode}</span>
+      ${action}
     </div>`;
   }
 
@@ -657,14 +780,6 @@
      Só cupons, sem produto, com o código parcialmente oculto. O código
      completo fica no Telegram. Espelho de services/site_coupons.py (VPS):
      mesma máscara, mesmo agrupamento, mesma marcação.                        */
-  const TELEGRAM_URL = 'https://t.me/promoninjaofertas';
-  const telegramCouponUrl = value => {
-    const candidate = String(value || '').trim();
-    return /^https:\/\/t\.me\/promoninjaofertas\/[1-9][0-9]*$/.test(candidate)
-      ? candidate
-      : TELEGRAM_URL;
-  };
-  const COUPON_MASK = '••••••'; // tamanho fixo: não revela o comprimento do código
   const COUPON_PATHS = {
     amazon: '/cupons/amazon/',
     aliexpress: '/cupons/aliexpress/',
@@ -678,12 +793,6 @@
     shopee: [84, 27],
     mercadolivre: [91, 36]
   };
-  const TELEGRAM_ICON =
-    '<svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M21.5 4.3 2.9 11.5c-1 .4-1 1.8.1 2.1l4.7 1.5 1.8 5.6c.3.8 1.3 1 1.9.4l2.6-2.4 4.8 3.5c.7.5 1.7.1 1.9-.7L23.9 5.6c.2-1-.8-1.8-1.7-1.4Z"/></svg>';
-
-  const couponPrefix = code =>
-    code.slice(0, Math.min(3, Math.max(1, Math.floor(code.length / 2))));
-
   /** Um item por (loja, código), verificado mais recentemente primeiro.
       Usa last_seen (última confirmação), não data (primeira aparição): "há 40
       dias" num cupom confirmado há minutos faria parecer vencido.
@@ -695,6 +804,7 @@
       if (!code) return;
       const store = String(offer.loja || '').trim().toLowerCase();
       const key = `${store}|${code.toUpperCase()}`;
+      const token = couponToken(code);
       const checked = String(offer.last_seen || offer.data || '');
       const current = grouped.get(key);
       if (!current || checked > current.checked)
@@ -702,6 +812,8 @@
           store,
           storeLabel: storeName(store),
           prefix: couponPrefix(code),
+          code,
+          token,
           checked,
           telegramUrl: telegramCouponUrl(offer.cupom_telegram_url)
         });
@@ -714,20 +826,28 @@
   function couponCard(coupon) {
     const label = escapeHtml(coupon.storeLabel);
     const prefix = escapeHtml(coupon.prefix);
+    const code = escapeHtml(coupon.code);
+    const token = escapeHtml(coupon.token);
+    const unlocked = couponIsUnlocked(coupon.token);
     const size = LOGO_SIZES[coupon.store];
     const brand = size
       ? `<img class="coupon-card-logo" src="/assets/lojas/${coupon.store}.svg" alt="" width="${size[0]}" height="${size[1]}" decoding="async">`
       : `<span class="coupon-card-store">${label}</span>`;
     const checked = relativeTime(coupon.checked);
+    const shownCode = unlocked ? code : `${prefix}<span class="coupon-card-mask">${COUPON_MASK}</span>`;
+    const actionAttributes = unlocked
+      ? `data-coupon="${code}"`
+      : 'data-coupon-unlock="true"';
+    const actionLabel = unlocked ? `${ICON.copy}Copiar cupom` : `${TELEGRAM_ICON}Ver cupom completo`;
     return (
-      `<a class="coupon-card" data-store="${escapeHtml(coupon.store)}" href="${escapeHtml(coupon.telegramUrl)}" target="_blank" rel="noopener" ` +
+      `<a class="coupon-card" data-store="${escapeHtml(coupon.store)}" data-coupon-token="${token}" ${actionAttributes} href="${escapeHtml(coupon.telegramUrl)}" target="_blank" rel="noopener" ` +
       `aria-label="Ver no Telegram o cupom da ${label} que começa com ${prefix}">` +
       `<span class="coupon-card-top">${brand}<span class="coupon-card-time">${checked ? `verificado ${escapeHtml(checked)}` : 'Cupom ativo'}</span></span>` +
       '<span class="coupon-card-ticket">' +
       '<span class="coupon-card-label">Cupom</span>' +
-      `<span class="coupon-card-code">${prefix}<span class="coupon-card-mask">${COUPON_MASK}</span></span>` +
+      `<span class="coupon-card-code">${shownCode}</span>` +
       '</span>' +
-      `<span class="coupon-card-cta">${TELEGRAM_ICON}Ver cupom completo</span>` +
+      `<span class="coupon-card-cta">${actionLabel}</span>` +
       '</a>'
     );
   }
@@ -744,7 +864,7 @@
           <img src="/favicon-192.png" alt="" width="76" height="76">
           <h3>Nenhum cupom ativo aqui agora</h3>
           <p>Os cupons mudam várias vezes por dia. Entre no canal para receber os próximos assim que aparecerem.</p>
-          <a class="btn btn-primary" href="${TELEGRAM_URL}" target="_blank" rel="noopener">${TELEGRAM_ICON}Entrar no Telegram</a>
+          <a class="btn btn-primary" href="${TELEGRAM_URL}" target="_blank" rel="noopener">${TELEGRAM_ICON}Entrar no Telegram e liberar cupons</a>
         </div>`;
     const loadMore = $('#loadMore');
     if (loadMore) loadMore.hidden = true;
@@ -1057,6 +1177,7 @@
       loaded = true;
       renderStoreStrip();
       render();
+      applyCouponUnlocks();
     })
     .catch(showError);
 
