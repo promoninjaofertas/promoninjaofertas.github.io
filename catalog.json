@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-23T05:16:04.194494+00:00",
+  "atualizado": "2026-09-23T05:36:21.171726+00:00",
   "ofertas": [
     {
       "source_id": "pechinchou-95705",
@@ -19,8 +19,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-09-23T05:16:04.194494+00:00",
-      "expires_at": "2026-09-24T02:16:04.194494-03:00",
+      "last_seen": "2026-09-23T05:36:21.171726+00:00",
+      "expires_at": "2026-09-24T02:36:21.171726-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -45,8 +45,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-09-23T05:16:04.194494+00:00",
-      "expires_at": "2026-09-24T02:16:04.194494-03:00",
+      "last_seen": "2026-09-23T05:36:21.171726+00:00",
+      "expires_at": "2026-09-24T02:36:21.171726-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -71,8 +71,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-09-23T05:16:04.194494+00:00",
-      "expires_at": "2026-09-24T02:16:04.194494-03:00",
+      "last_seen": "2026-09-23T05:36:21.171726+00:00",
+      "expires_at": "2026-09-24T02:36:21.171726-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
@@ -97,8 +97,8 @@
       "avaliacoes": 10,
       "vendas": null,
       "nota_qualidade": 8,
-      "last_seen": "2026-09-23T05:16:04.194494+00:00",
-      "expires_at": "2026-09-24T02:16:04.194494-03:00",
+      "last_seen": "2026-09-23T05:36:21.171726+00:00",
+      "expires_at": "2026-09-24T02:36:21.171726-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech",
@@ -123,8 +123,34 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 9,
-      "last_seen": "2026-09-23T05:16:04.194494+00:00",
-      "expires_at": "2026-09-24T02:16:04.194494-03:00",
+      "last_seen": "2026-09-23T05:36:21.171726+00:00",
+      "expires_at": "2026-09-24T02:36:21.171726-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Moda",
+      "cupom_no_telegram": true,
+      "cupom_telegram_url": "https://t.me/promoninjaofertas"
+    },
+    {
+      "source_id": "pechinchou-92587",
+      "titulo": "Blusão Básico Masculino Em Tricô De Algodão Hering",
+      "de": 179.0,
+      "por": 96.0,
+      "desconto": 46,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/image-removebg-preview_70_PdJlq9D_8RC5YXH_DKtvQqY_0ulMisH_SvxXoxw.png",
+      "link": "https://meli.la/1d5m8Sk",
+      "cupom": "MELHORCUPOM",
+      "loja": "mercadolivre",
+      "categoria": "Beleza",
+      "data": "2026-09-22T22:22:43.991096-03:00",
+      "slug": "blusao-basico-masculino-em-trico-de-algodao-hering",
+      "page_url": "https://promoninjaofertas.github.io/produto/blusao-basico-masculino-em-trico-de-algodao-hering.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": null,
+      "nota_qualidade": 6,
+      "last_seen": "2026-09-23T05:36:21.171726+00:00",
+      "expires_at": "2026-09-24T02:36:21.171726-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
@@ -149,39 +175,13 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 8,
-      "last_seen": "2026-09-23T05:16:04.194494+00:00",
-      "expires_at": "2026-09-24T02:16:04.194494-03:00",
+      "last_seen": "2026-09-23T05:36:21.171726+00:00",
+      "expires_at": "2026-09-24T02:36:21.171726-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
       "cupom_no_telegram": false,
       "cupom_telegram_url": null
-    },
-    {
-      "source_id": "pechinchou-92587",
-      "titulo": "Blusão Básico Masculino Em Tricô De Algodão Hering",
-      "de": 179.0,
-      "por": 96.0,
-      "desconto": 46,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/image-removebg-preview_70_PdJlq9D_8RC5YXH_DKtvQqY_0ulMisH_SvxXoxw.png",
-      "link": "https://meli.la/1d5m8Sk",
-      "cupom": "MELHORCUPOM",
-      "loja": "mercadolivre",
-      "categoria": "Beleza",
-      "data": "2026-09-22T22:22:43.991096-03:00",
-      "slug": "blusao-basico-masculino-em-trico-de-algodao-hering",
-      "page_url": "https://promoninjaofertas.github.io/produto/blusao-basico-masculino-em-trico-de-algodao-hering.html",
-      "avaliacao": null,
-      "avaliacoes": null,
-      "vendas": null,
-      "nota_qualidade": 6,
-      "last_seen": "2026-09-23T05:16:04.194494+00:00",
-      "expires_at": "2026-09-24T02:16:04.194494-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Moda",
-      "cupom_no_telegram": true,
-      "cupom_telegram_url": "https://t.me/promoninjaofertas"
     },
     {
       "source_id": "pechinchou-152961",
@@ -201,8 +201,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-09-23T05:16:04.194494+00:00",
-      "expires_at": "2026-09-24T02:16:04.194494-03:00",
+      "last_seen": "2026-09-23T05:36:21.171726+00:00",
+      "expires_at": "2026-09-24T02:36:21.171726-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
@@ -227,8 +227,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-09-23T05:16:04.194494+00:00",
-      "expires_at": "2026-09-24T02:16:04.194494-03:00",
+      "last_seen": "2026-09-23T05:36:21.171726+00:00",
+      "expires_at": "2026-09-24T02:36:21.171726-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -253,8 +253,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 7,
-      "last_seen": "2026-09-23T05:16:04.194494+00:00",
-      "expires_at": "2026-09-24T02:16:04.194494-03:00",
+      "last_seen": "2026-09-23T05:36:21.171726+00:00",
+      "expires_at": "2026-09-24T02:36:21.171726-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
@@ -279,39 +279,13 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-09-23T05:16:04.194494+00:00",
-      "expires_at": "2026-09-24T02:16:04.194494-03:00",
+      "last_seen": "2026-09-23T05:36:21.171726+00:00",
+      "expires_at": "2026-09-24T02:36:21.171726-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
       "cupom_no_telegram": true,
       "cupom_telegram_url": "https://t.me/promoninjaofertas"
-    },
-    {
-      "source_id": "pechinchou-147101",
-      "titulo": "Óculos Esportivo De Sol Ciclismo Corrida Beach Tennis Uv400",
-      "de": 49.9,
-      "por": 40.99,
-      "desconto": 18,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/D_NQ_NP_2X_762398-MLB90979715488_082025-F-oculos-esportivo-d.png",
-      "link": "https://meli.la/164PhBB",
-      "cupom": null,
-      "loja": "mercadolivre",
-      "categoria": "Moda",
-      "data": "2026-09-16T16:44:41.607617-03:00",
-      "slug": "oculos-esportivo-de-sol-ciclismo-corrida-beach-tennis-uv400",
-      "page_url": "https://promoninjaofertas.github.io/produto/oculos-esportivo-de-sol-ciclismo-corrida-beach-tennis-uv400.html",
-      "avaliacao": null,
-      "avaliacoes": null,
-      "vendas": null,
-      "nota_qualidade": 5,
-      "last_seen": "2026-09-23T05:16:04.194494+00:00",
-      "expires_at": "2026-09-24T02:16:04.194494-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Moda",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
     },
     {
       "source_id": "pechinchou-132346",
@@ -331,8 +305,8 @@
       "avaliacoes": 30,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-09-23T05:16:04.194494+00:00",
-      "expires_at": "2026-09-24T02:16:04.194494-03:00",
+      "last_seen": "2026-09-23T05:36:21.171726+00:00",
+      "expires_at": "2026-09-24T02:36:21.171726-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -357,8 +331,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-09-23T05:16:04.194494+00:00",
-      "expires_at": "2026-09-24T02:16:04.194494-03:00",
+      "last_seen": "2026-09-23T05:36:21.171726+00:00",
+      "expires_at": "2026-09-24T02:36:21.171726-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
@@ -383,8 +357,8 @@
       "avaliacoes": 10,
       "vendas": null,
       "nota_qualidade": 7,
-      "last_seen": "2026-09-23T05:16:04.194494+00:00",
-      "expires_at": "2026-09-24T02:16:04.194494-03:00",
+      "last_seen": "2026-09-23T05:36:21.171726+00:00",
+      "expires_at": "2026-09-24T02:36:21.171726-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
@@ -409,8 +383,8 @@
       "avaliacoes": 9,
       "vendas": null,
       "nota_qualidade": 7,
-      "last_seen": "2026-09-23T05:16:04.194494+00:00",
-      "expires_at": "2026-09-24T02:16:04.194494-03:00",
+      "last_seen": "2026-09-23T05:36:21.171726+00:00",
+      "expires_at": "2026-09-24T02:36:21.171726-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
@@ -435,11 +409,37 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-09-23T05:16:04.194494+00:00",
-      "expires_at": "2026-09-24T02:16:04.194494-03:00",
+      "last_seen": "2026-09-23T05:36:21.171726+00:00",
+      "expires_at": "2026-09-24T02:36:21.171726-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
+      "cupom_no_telegram": false,
+      "cupom_telegram_url": null
+    },
+    {
+      "source_id": "pechinchou-152965",
+      "titulo": "Logitech Headset Gamer Sem Fio G321 Preto Lightspeed Bluetooth Microfone Boom 16kHz Bateria 20H Compatível c/ PC PS4 PS5 Nintendo Switch e Smartphone",
+      "de": 449.9,
+      "por": 349.9,
+      "desconto": 22,
+      "imagem": "https://m.media-amazon.com/images/I/71yLbvA4jrL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0FFM18D66?tag=promoninja0b2-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Smartphones",
+      "data": "2026-09-22T22:53:09.324112-03:00",
+      "slug": "logitech-headset-gamer-sem-fio-g321-preto-lightspeed-bluetooth-microfone-boom-16khz-ba",
+      "page_url": "https://promoninjaofertas.github.io/produto/logitech-headset-gamer-sem-fio-g321-preto-lightspeed-bluetooth-microfone-boom-16khz-ba.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": null,
+      "nota_qualidade": 8,
+      "last_seen": "2026-09-23T05:36:21.171726+00:00",
+      "expires_at": "2026-09-24T02:36:21.171726-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Gamer",
       "cupom_no_telegram": false,
       "cupom_telegram_url": null
     },
@@ -466,32 +466,6 @@
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
-    },
-    {
-      "source_id": "pechinchou-152965",
-      "titulo": "Logitech Headset Gamer Sem Fio G321 Preto Lightspeed Bluetooth Microfone Boom 16kHz Bateria 20H Compatível c/ PC PS4 PS5 Nintendo Switch e Smartphone",
-      "de": 449.9,
-      "por": 349.9,
-      "desconto": 22,
-      "imagem": "https://m.media-amazon.com/images/I/71yLbvA4jrL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0FFM18D66?tag=promoninja0b2-20",
-      "cupom": null,
-      "loja": "amazon",
-      "categoria": "Smartphones",
-      "data": "2026-09-22T22:53:09.324112-03:00",
-      "slug": "logitech-headset-gamer-sem-fio-g321-preto-lightspeed-bluetooth-microfone-boom-16khz-ba",
-      "page_url": "https://promoninjaofertas.github.io/produto/logitech-headset-gamer-sem-fio-g321-preto-lightspeed-bluetooth-microfone-boom-16khz-ba.html",
-      "avaliacao": null,
-      "avaliacoes": null,
-      "vendas": null,
-      "nota_qualidade": 8,
-      "last_seen": "2026-09-23T05:16:04.194494+00:00",
-      "expires_at": "2026-09-24T02:16:04.194494-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Gamer",
       "cupom_no_telegram": false,
       "cupom_telegram_url": null
     },
@@ -539,8 +513,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 7,
-      "last_seen": "2026-09-23T05:16:04.194494+00:00",
-      "expires_at": "2026-09-24T02:16:04.194494-03:00",
+      "last_seen": "2026-09-23T05:36:21.171726+00:00",
+      "expires_at": "2026-09-24T02:36:21.171726-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Gamer",
@@ -617,8 +591,8 @@
       "avaliacoes": 10,
       "vendas": null,
       "nota_qualidade": 8,
-      "last_seen": "2026-09-23T05:16:04.194494+00:00",
-      "expires_at": "2026-09-24T02:16:04.194494-03:00",
+      "last_seen": "2026-09-23T05:36:21.171726+00:00",
+      "expires_at": "2026-09-24T02:36:21.171726-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech",
@@ -1059,11 +1033,11 @@
       "avaliacoes": null,
       "vendas": 301,
       "nota_qualidade": 9,
-      "last_seen": "2026-09-23T05:05:56.909907+00:00",
-      "expires_at": "2026-09-24T02:05:56.909907-03:00",
+      "last_seen": "2026-09-23T05:26:04.104182+00:00",
+      "expires_at": "2026-09-24T02:26:04.104182-03:00",
       "marca": "Bosch",
       "price_evidence": {
-        "checked_at": "2026-09-23T05:08:04.890191+00:00",
+        "checked_at": "2026-09-23T05:27:00.204086+00:00",
         "identity": {
           "brand": "Bosch",
           "model": null,
@@ -1265,11 +1239,11 @@
       "avaliacoes": null,
       "vendas": 179,
       "nota_qualidade": 9,
-      "last_seen": "2026-09-23T05:05:56.909907+00:00",
-      "expires_at": "2026-09-24T02:05:56.909907-03:00",
+      "last_seen": "2026-09-23T05:26:04.104182+00:00",
+      "expires_at": "2026-09-24T02:26:04.104182-03:00",
       "marca": "Tramontina",
       "price_evidence": {
-        "checked_at": "2026-09-23T05:08:04.890191+00:00",
+        "checked_at": "2026-09-23T05:27:00.204086+00:00",
         "identity": {
           "brand": "Tramontina",
           "model": null,
@@ -1471,11 +1445,11 @@
       "avaliacoes": null,
       "vendas": 309,
       "nota_qualidade": 10,
-      "last_seen": "2026-09-23T05:05:56.909907+00:00",
-      "expires_at": "2026-09-24T02:05:56.909907-03:00",
+      "last_seen": "2026-09-23T05:26:04.104182+00:00",
+      "expires_at": "2026-09-24T02:26:04.104182-03:00",
       "marca": "Bosch",
       "price_evidence": {
-        "checked_at": "2026-09-23T05:08:04.890191+00:00",
+        "checked_at": "2026-09-23T05:27:00.204086+00:00",
         "identity": {
           "brand": "Bosch",
           "model": null,
@@ -1677,11 +1651,11 @@
       "avaliacoes": null,
       "vendas": 325,
       "nota_qualidade": 10,
-      "last_seen": "2026-09-23T05:05:56.909907+00:00",
-      "expires_at": "2026-09-24T02:05:56.909907-03:00",
+      "last_seen": "2026-09-23T05:26:04.104182+00:00",
+      "expires_at": "2026-09-24T02:26:04.104182-03:00",
       "marca": "Tramontina",
       "price_evidence": {
-        "checked_at": "2026-09-23T05:08:04.890191+00:00",
+        "checked_at": "2026-09-23T05:27:00.204086+00:00",
         "identity": {
           "brand": "Tramontina",
           "model": null,
@@ -1855,11 +1829,11 @@
       "avaliacoes": null,
       "vendas": 188,
       "nota_qualidade": 9,
-      "last_seen": "2026-09-23T05:05:56.909907+00:00",
-      "expires_at": "2026-09-24T02:05:56.909907-03:00",
+      "last_seen": "2026-09-23T05:26:04.104182+00:00",
+      "expires_at": "2026-09-24T02:26:04.104182-03:00",
       "marca": "Tramontina",
       "price_evidence": {
-        "checked_at": "2026-09-23T05:08:04.890191+00:00",
+        "checked_at": "2026-09-23T05:27:00.204086+00:00",
         "identity": {
           "brand": "Tramontina",
           "model": null,
@@ -2061,11 +2035,11 @@
       "avaliacoes": null,
       "vendas": 825,
       "nota_qualidade": 9,
-      "last_seen": "2026-09-23T05:05:56.909907+00:00",
-      "expires_at": "2026-09-24T02:05:56.909907-03:00",
+      "last_seen": "2026-09-23T05:26:04.104182+00:00",
+      "expires_at": "2026-09-24T02:26:04.104182-03:00",
       "marca": "Mondial",
       "price_evidence": {
-        "checked_at": "2026-09-23T05:08:04.890191+00:00",
+        "checked_at": "2026-09-23T05:27:00.204086+00:00",
         "identity": {
           "brand": "Mondial",
           "model": "afn-50",
@@ -2473,11 +2447,11 @@
       "avaliacoes": null,
       "vendas": 1183,
       "nota_qualidade": 9,
-      "last_seen": "2026-09-23T05:05:56.909907+00:00",
-      "expires_at": "2026-09-24T02:05:56.909907-03:00",
+      "last_seen": "2026-09-23T05:26:04.104182+00:00",
+      "expires_at": "2026-09-24T02:26:04.104182-03:00",
       "marca": "Tramontina",
       "price_evidence": {
-        "checked_at": "2026-09-23T05:08:04.890191+00:00",
+        "checked_at": "2026-09-23T05:27:00.204086+00:00",
         "identity": {
           "brand": "Tramontina",
           "model": null,
@@ -2535,11 +2509,11 @@
       "avaliacoes": null,
       "vendas": 141,
       "nota_qualidade": 9,
-      "last_seen": "2026-09-23T05:05:56.909907+00:00",
-      "expires_at": "2026-09-24T02:05:56.909907-03:00",
+      "last_seen": "2026-09-23T05:26:04.104182+00:00",
+      "expires_at": "2026-09-24T02:26:04.104182-03:00",
       "marca": "Logitech",
       "price_evidence": {
-        "checked_at": "2026-09-23T05:08:04.890191+00:00",
+        "checked_at": "2026-09-23T05:27:00.204086+00:00",
         "identity": {
           "brand": "Logitech",
           "model": "m220",
@@ -2741,11 +2715,11 @@
       "avaliacoes": null,
       "vendas": 1329,
       "nota_qualidade": 10,
-      "last_seen": "2026-09-23T05:05:56.909907+00:00",
-      "expires_at": "2026-09-24T02:05:56.909907-03:00",
+      "last_seen": "2026-09-23T05:26:04.104182+00:00",
+      "expires_at": "2026-09-24T02:26:04.104182-03:00",
       "marca": "Tramontina",
       "price_evidence": {
-        "checked_at": "2026-09-23T05:08:04.890191+00:00",
+        "checked_at": "2026-09-23T05:27:00.204086+00:00",
         "identity": {
           "brand": "Tramontina",
           "model": null,
@@ -3136,212 +3110,6 @@
       "cupom_telegram_url": null
     },
     {
-      "source_id": "46662348294",
-      "titulo": "Monitor Gamer Acer KG243Y 23.8\" Full HD 144Hz IPS HDMI P1bip - Preto - Bivolt",
-      "de": null,
-      "por": 657.9,
-      "desconto": 59,
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lt-mpjrkv9dzabnb3",
-      "link": "https://s.shopee.com.br/5foy6cFftr",
-      "cupom": null,
-      "loja": "shopee",
-      "categoria": "Hardware",
-      "data": "2026-09-10T06:27:22.795034-03:00",
-      "slug": "shopee-acer-kg243y-bivolt-codigo-p1bip-cor-preto-kit-1",
-      "page_url": "https://promoninjaofertas.github.io/produto/shopee-acer-kg243y-bivolt-codigo-p1bip-cor-preto-kit-1.html",
-      "avaliacao": 5.0,
-      "avaliacoes": null,
-      "vendas": 317,
-      "nota_qualidade": 10,
-      "last_seen": "2026-09-23T04:55:49.199130+00:00",
-      "expires_at": "2026-09-24T01:55:49.199130-03:00",
-      "marca": "Acer",
-      "price_evidence": {
-        "checked_at": "2026-09-23T04:56:52.830402+00:00",
-        "identity": {
-          "brand": "Acer",
-          "model": "kg243y",
-          "family": "monitores",
-          "kind": "produto",
-          "variant": "bivolt|codigo:p1bip|cor:preto|kit:1",
-          "ambiguous": false,
-          "comparison_key": "acer|kg243y|bivolt|codigo:p1bip|cor:preto|kit:1"
-        },
-        "previous_min": 657.9,
-        "observed_min": 657.9,
-        "since": "2026-09-12T13:31:01.433528+00:00",
-        "observations": 42,
-        "days": 12,
-        "history": [
-          {
-            "at": "2026-09-13T04:32:17.838111+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-13T10:33:24.527186+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-13T16:35:21.955780+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-13T22:35:56.424990+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-14T04:41:13.417906+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-14T10:50:33.818573+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-14T16:54:57.723465+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-14T22:59:24.109553+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-15T05:05:44.078513+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-15T11:10:24.479586+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-15T17:18:37.084203+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-15T23:19:31.340169+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-16T05:20:14.579066+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-16T11:24:45.471431+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-16T17:29:26.031175+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-16T23:32:34.186245+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-17T05:37:24.555562+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-17T11:38:39.137600+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-17T17:40:22.552592+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-17T23:43:48.818866+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-18T05:48:58.359817+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-18T11:51:58.274337+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-18T18:01:30.833281+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-19T00:10:28.130923+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-19T06:15:00.140993+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-19T12:19:04.509014+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-19T18:19:53.503024+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-20T00:22:21.087799+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-20T06:26:51.850984+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-20T12:27:21.800181+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-20T18:29:36.499733+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-21T00:34:47.291316+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-21T06:40:35.471457+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-21T12:46:24.803839+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-21T18:52:20.994893+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-22T00:55:42.492343+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-22T07:02:26.579924+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-22T13:05:21.187476+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-22T19:09:14.278381+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-23T01:18:36.299694+00:00",
-            "price": 657.9
-          }
-        ],
-        "advantage": false,
-        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
-      },
-      "grupo": "Gamer",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
-    },
-    {
       "source_id": "23293788558",
       "titulo": "Placa-Mãe AMD AM4 Asus TUF GAMING B550M-Plus - 90MB14A0-C1BAY0",
       "de": null,
@@ -3548,6 +3316,212 @@
       "cupom_telegram_url": null
     },
     {
+      "source_id": "46662348294",
+      "titulo": "Monitor Gamer Acer KG243Y 23.8\" Full HD 144Hz IPS HDMI P1bip - Preto - Bivolt",
+      "de": null,
+      "por": 657.9,
+      "desconto": 59,
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lt-mpjrkv9dzabnb3",
+      "link": "https://s.shopee.com.br/5foy6cFftr",
+      "cupom": null,
+      "loja": "shopee",
+      "categoria": "Hardware",
+      "data": "2026-09-10T06:27:22.795034-03:00",
+      "slug": "shopee-acer-kg243y-bivolt-codigo-p1bip-cor-preto-kit-1",
+      "page_url": "https://promoninjaofertas.github.io/produto/shopee-acer-kg243y-bivolt-codigo-p1bip-cor-preto-kit-1.html",
+      "avaliacao": 5.0,
+      "avaliacoes": null,
+      "vendas": 317,
+      "nota_qualidade": 10,
+      "last_seen": "2026-09-23T05:36:21.171726+00:00",
+      "expires_at": "2026-09-24T02:36:21.171726-03:00",
+      "marca": "Acer",
+      "price_evidence": {
+        "checked_at": "2026-09-23T05:37:24.803836+00:00",
+        "identity": {
+          "brand": "Acer",
+          "model": "kg243y",
+          "family": "monitores",
+          "kind": "produto",
+          "variant": "bivolt|codigo:p1bip|cor:preto|kit:1",
+          "ambiguous": false,
+          "comparison_key": "acer|kg243y|bivolt|codigo:p1bip|cor:preto|kit:1"
+        },
+        "previous_min": 657.9,
+        "observed_min": 657.9,
+        "since": "2026-09-12T13:31:01.433528+00:00",
+        "observations": 42,
+        "days": 12,
+        "history": [
+          {
+            "at": "2026-09-13T04:32:17.838111+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-13T10:33:24.527186+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-13T16:35:21.955780+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-13T22:35:56.424990+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-14T04:41:13.417906+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-14T10:50:33.818573+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-14T16:54:57.723465+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-14T22:59:24.109553+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-15T05:05:44.078513+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-15T11:10:24.479586+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-15T17:18:37.084203+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-15T23:19:31.340169+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-16T05:20:14.579066+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-16T11:24:45.471431+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-16T17:29:26.031175+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-16T23:32:34.186245+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-17T05:37:24.555562+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-17T11:38:39.137600+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-17T17:40:22.552592+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-17T23:43:48.818866+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-18T05:48:58.359817+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-18T11:51:58.274337+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-18T18:01:30.833281+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-19T00:10:28.130923+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-19T06:15:00.140993+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-19T12:19:04.509014+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-19T18:19:53.503024+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-20T00:22:21.087799+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-20T06:26:51.850984+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-20T12:27:21.800181+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-20T18:29:36.499733+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-21T00:34:47.291316+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-21T06:40:35.471457+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-21T12:46:24.803839+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-21T18:52:20.994893+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-22T00:55:42.492343+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-22T07:02:26.579924+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-22T13:05:21.187476+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-22T19:09:14.278381+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-23T01:18:36.299694+00:00",
+            "price": 657.9
+          }
+        ],
+        "advantage": false,
+        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
+      },
+      "grupo": "Gamer",
+      "cupom_no_telegram": false,
+      "cupom_telegram_url": null
+    },
+    {
       "source_id": "21896948903",
       "titulo": "Jogo De Panelas Antiaderente Tramontina 12 Peças Turim Com Utensílios",
       "de": null,
@@ -3565,11 +3539,11 @@
       "avaliacoes": null,
       "vendas": 254,
       "nota_qualidade": 9,
-      "last_seen": "2026-09-23T05:05:56.909907+00:00",
-      "expires_at": "2026-09-24T02:05:56.909907-03:00",
+      "last_seen": "2026-09-23T05:26:04.104182+00:00",
+      "expires_at": "2026-09-24T02:26:04.104182-03:00",
       "marca": "Tramontina",
       "price_evidence": {
-        "checked_at": "2026-09-23T05:08:04.890191+00:00",
+        "checked_at": "2026-09-23T05:27:00.204086+00:00",
         "identity": {
           "brand": "Tramontina",
           "model": null,
@@ -4432,7 +4406,7 @@
       "por": 161.49,
       "desconto": 59,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S19ef127e0d9b40f09802f5caad87851b9.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mLmqWqgZyrm2wdIQcimGRFvG3C6BbmIUTQwfgBCALZ5PHV8bytiVoPD51fwBp7lJx51r9ZYebVGtMaZEIpSAaODbAnlhKeOaFlIglJBWuhNuulmzw3TjuiwRAYzmeizfiPX5RVck2f7aJzEqgTZG477uZAv4GKwnNHYVIwB4GpZypX4jDK6EQ5SNyaGuNwYMbLDumtUuCsBktoxSRr9TKM7Ly6w4CYfIKd5RhFBRpH1qKKQPpufbMchXl5G1bD4v1Djo5l9R2HvJWukbkTP5vGPon8iLdAEt0i4PLL8CCBegD9U5bMEyh5GYXfnqciiYnWUj7PfRX7CGaebbaFoa5f2uXt6RlIGxmtChE1EANqYeLLy9vp8b6FmwxNMRee3fMP0viMpgjib1dqIOFwKC4x32m5ooWko62m8a1v3D8nQkSNd9NPSbp0hF5bMynF9XDqhSuqSbC0jqCy6tOamX5ARCFgfALapooJOYGHNGgu3fra4UbjWahNTVPr7wwoOu8EFxkKff6hDa6hu3aEUYt4ltPwnDQ1OgXtDU73yeB1DN29QcqvdYK3z2ygKmAiBneM0SKVHSYN0guzY4Lp2eADf04vZi9lRc2d87Rs27hdsdK1HiiXDFa1NZ8z7ockGbzAYNCkLP3HPDAB8vnG9b9AlktHOvECsL5iqbmzLIauvKanKXJXo2LAuKYOAi6L1Bmne4uALg0LRw6",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mLmqWqgZyrm2wdIQcimGRFvG3C6BbmIUTQwfgBCALZ5PHV8bytiVoPD51fwBp7lJx51r9ZYebVGtMaZEIpSAaODbAnlhKeOaFlIglJBWuhNuulmzw3TjuiwRAYzmeizfiPX5RVck2f7aJzEqgTZG477uZAv4GKwnNHYVIwB4GpZypX4jDK6EQ5SNyaGuNwYMbLDumtUuCsBktoxSRr9TKM7Ly6w4CYfIKd5RhFFTZz75WQUfX65GIKdQbvKXFzoxijT7omEMUptCWS9LVCyUQkkHHYrJFc56BoBtzPfQlzSIPiBT3pJZsl9DHw5lsulKJLX4WMwAZvw9b3tOfm0RQKWuOAP2HvsqTxvSWY6MCzuiBG8bwzGwzu30C9r7W8KVCAGV2P1YPM5i6YIybunE8YtDvfIXqMMnlUrAANmj6MpDKjNBILNTFvrv9DRYxjLlf0QiLur4M5ti9sPz96pF1H2oWDmRJBDLssD5z0mZHJZuNJtD4xtLR4OOndD5al2iPXiJSJeWwUI5dwcRnACeRTuihZtagLGJEjoSyZ33LA0eeX06yZBeLVu5DNlAvvt8biHirRi7rSDCHYBXAPczhdV8TboniI8ogXBO22hBj8w3YiwmYNJ7TQR1qzbHFp4wI92VgxBCWdyOqB8WcoB5N5c2kYmnvXioVOuyChx7shp8taQrHac5FP91qSKXaB41fYZP7d71cDYR0",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Audio",
@@ -4443,8 +4417,8 @@
       "avaliacoes": null,
       "vendas": 168,
       "nota_qualidade": 8,
-      "last_seen": "2026-09-23T05:16:04.194494+00:00",
-      "expires_at": "2026-09-24T02:16:04.194494-03:00",
+      "last_seen": "2026-09-23T05:26:04.104182+00:00",
+      "expires_at": "2026-09-24T02:26:04.104182-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Gamer",
@@ -4686,32 +4660,6 @@
       "cupom_telegram_url": null
     },
     {
-      "source_id": "1005006967413964",
-      "titulo": "Zeblaze-Btalk 3 Plus Smartwatch para Homens e Senhoras, Chamada De Voz, 1.39 \"Grande Display Colorido HD, Rastreamento De Fitness, Novo",
-      "de": 169.3,
-      "por": 80.9,
-      "desconto": 52,
-      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S15c2d01242b84313a612744d1251f53aS.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4EHgM1WQTLyNb6JGpbPqfJ2eiLrTCAFG6rH3J4Zkt5nba7fDD1NmSY9z4xOcFgzIDUe6yeur8iGIEVuLjihfbixZnTmeqwl0wrlPnuG4pOT3y3zsf43cwL3ccy0DkUAetc2VjrPHbIFjrv4sANQjXER3BmIEn9QGzmY9sEcWIrgnitASSOBoVluqhzfTC4FOUzaO0Ewxr61yOb0Y4eAXukGyV5szfLXdVee5MjoIJQzykaEgRRbq5a9KXFMACABWrfW3HpvM3VyvT8JtITE0SQeyayrow4mTbEnVdQNTAgBSULhABJ4d04hxKJWriaTQZirNzqxoZ9IUF06djT2TkWbULCVkWMEDJswub9eW8CIDYQ2F348aNhAP5FPxUFi04pMwQYKDiBPXk8HQhMjMz5BYy5dW2vgQsHovIhZmtlvXX7sYvOOnZYy9EtcdTqgqCFEHkWhqsendHbzuzkIhiBafoQDffx1Eo7LfCkHNvj02qNwTFkP9DLTsvA9d9csQnKp406fT5oz7ELvNGJ9NvbunuZ3DlHliSWUUMLngIO0pqmfqJnLHNifZS1rdZQNi9xlIUSObUTyI7OzOCxWWF8pX44d3bHbQ4k1Kmg6KajDTuzfxFQrOTCtPxDF7gv06z8veP68D2NSYQ9GXcO399abAijTEzt62JTwO8piVTvLfGNTwwURpkn7Yhv5LCP8rkr9W2PkHRKJr2Y",
-      "cupom": null,
-      "loja": "aliexpress",
-      "categoria": "Eletrônicos",
-      "data": "2026-08-31T19:03:54.087698-03:00",
-      "slug": "zeblaze-btalk-3-plus-smartwatch-para-homens-e-senhoras-chamada-de-voz-1-39",
-      "page_url": "https://promoninjaofertas.github.io/produto/zeblaze-btalk-3-plus-smartwatch-para-homens-e-senhoras-chamada-de-voz-1-39.html",
-      "avaliacao": 4.8950000000000005,
-      "avaliacoes": null,
-      "vendas": 1596,
-      "nota_qualidade": 8,
-      "last_seen": "2026-09-22T23:57:12.774003+00:00",
-      "expires_at": "2026-09-23T20:57:12.774003-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Tech",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
-    },
-    {
       "source_id": "1005010615674255",
       "titulo": "Original sony sp180 fones de ouvido sem fio tws com microfone esportes clipe de orelha fones de ouvido estéreo display led",
       "de": 157.48,
@@ -4731,6 +4679,32 @@
       "nota_qualidade": 7,
       "last_seen": "2026-09-22T23:46:58.677030+00:00",
       "expires_at": "2026-09-23T20:46:58.677030-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Tech",
+      "cupom_no_telegram": false,
+      "cupom_telegram_url": null
+    },
+    {
+      "source_id": "1005006967413964",
+      "titulo": "Zeblaze-Btalk 3 Plus Smartwatch para Homens e Senhoras, Chamada De Voz, 1.39 \"Grande Display Colorido HD, Rastreamento De Fitness, Novo",
+      "de": 169.3,
+      "por": 80.9,
+      "desconto": 52,
+      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S15c2d01242b84313a612744d1251f53aS.jpg",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4EHgM1WQTLyNb6JGpbPqfJ2eiLrTCAFG6rH3J4Zkt5nba7fDD1NmSY9z4xOcFgzIDUe6yeur8iGIEVuLjihfbixZnTmeqwl0wrlPnuG4pOT3y3zsf43cwL3ccy0DkUAetc2VjrPHbIFjrv4sANQjXER3BmIEn9QGzmY9sEcWIrgnitASSOBoVluqhzfTC4FOUzaO0Ewxr61yOb0Y4eAXukGyV5szfLXdVee5MjoIJQzykaEgRRbq5a9KXFMACABWrfW3HpvM3VyvT8JtITE0SQeyayrow4mTbEnVdQNTAgBSULhABJ4d04hxKJWriaTQZirNzqxoZ9IUF06djT2TkWbULCVkWMEDJswub9eW8CIDYQ2F348aNhAP5FPxUFi04pMwQYKDiBPXk8HQhMjMz5BYy5dW2vgQsHovIhZmtlvXX7sYvOOnZYy9EtcdTqgqCFEHkWhqsendHbzuzkIhiBafoQDffx1Eo7LfCkHNvj02qNwTFkP9DLTsvA9d9csQnKp406fT5oz7ELvNGJ9NvbunuZ3DlHliSWUUMLngIO0pqmfqJnLHNifZS1rdZQNi9xlIUSObUTyI7OzOCxWWF8pX44d3bHbQ4k1Kmg6KajDTuzfxFQrOTCtPxDF7gv06z8veP68D2NSYQ9GXcO399abAijTEzt62JTwO8piVTvLfGNTwwURpkn7Yhv5LCP8rkr9W2PkHRKJr2Y",
+      "cupom": null,
+      "loja": "aliexpress",
+      "categoria": "Eletrônicos",
+      "data": "2026-08-31T19:03:54.087698-03:00",
+      "slug": "zeblaze-btalk-3-plus-smartwatch-para-homens-e-senhoras-chamada-de-voz-1-39",
+      "page_url": "https://promoninjaofertas.github.io/produto/zeblaze-btalk-3-plus-smartwatch-para-homens-e-senhoras-chamada-de-voz-1-39.html",
+      "avaliacao": 4.8950000000000005,
+      "avaliacoes": null,
+      "vendas": 1596,
+      "nota_qualidade": 8,
+      "last_seen": "2026-09-22T23:57:12.774003+00:00",
+      "expires_at": "2026-09-23T20:57:12.774003-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech",
@@ -4848,7 +4822,7 @@
       "por": 60.0,
       "desconto": 55,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Hc3a48e471c9842ee8fb13ff649875daed.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4ml4ewOlFOrBpzwT8IIYGdKWurJu0vUOWkmI5T7DTziboOKqiC9pMmoP1FfozDuhK3bbaqnvgc0gaTgcKS5Yq757yYwBbqzjHHG14QIAs9zU6mjP2G2sONoh3wVS7SjR2qGAXwZtLLv6lhfFEqHEPviWxIXOQlaRihUwAsZsl57AZNOYpUhI7qNhpdNyU0oQYiiWq8NxlGEXvtWB4dhtSDCW7QMz8KJfAYVz6FJuIIkKaWja7BHl6Gz7WcDEF81trVNsXCO9nEQ7tTyFgWssSSZKZGizfRDX5hqvvCLNNzdny9snsKSeABCc4xXZsadrBtflUvb7b6tDj3a6BMO63Hhn0sP64Qf1Tfev9i0Fh249mWhIeAxjrzz0Nbr0aa0uWGZQvT4OsVn3HmF74tq0W3if7K0TeqmcLvCWqe9umGHNHwDSJfUveg3ZE3sVFlfb6tHok3tjaU7WInQ6DYk57p61DYzqcyXgKqewIRzn9cvq8AZsO20YlYAmTyvWmj70DdcuqtGZOlUoa36fftXAdIzXbtNepeCtWXqhkunpuRjUnto8y625EtQNxn7hHFmmzRrnoEIgJCfyI8Bbwn5wcSUSaDwvUdSSl1rKcRLJDLLsFMJZmV7WTXmxfcH9intBGhGlYyw5QaE5VvDcrkjeAV5OhdLKjBljSCmWElshPmJD4XR6cZ3WIeczepUBITkHmFBk2FgxS2dBLE",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4ml4ewOlFOrBpzwT8IIYGdKWurJu0vUOWkmI5T7DTziboOKqiC9pMmoP1FfozDuhK3bbaqnvgc0gaTgcKS5Yq757yYwBbqzjHHG14QIAs9zU6mjP2G2sONoh3wVS7SjR2qGAXwZtLLv6lhfFEqHEPviWxIXOQlaRihUwAsZsl57AZNOYpUhI7qNhpdNyU0oQYiiWq8NxlGEXvtWB4dhtSDCW7QMz8KJfAYVz6FuMe8daCn7zekQgMi8gkDDUx7zj3MDwfWRSLPbtjiQqnad5ztVYxXiBrMqZl5K59rlPogazPlZrJazQ1h3c7wWYixfR1jju0G2UNdXmuevnKv394hDCvNZMPCo7YoN6fVSxBAz66rQKrH4pNqzilXShjal3eCKt6B07VcP7lNKS7oSlxL5kvEWU7ITzXEVEhkQjAfjY1ma0kRpMamySYKHeajofOCVaqiNqYspRRVPe7SEf3HBH7E7KWExB6mWhST0uRgE8jcEVqXG0074Qy3vImBkVPp74ZFGTPuJb4TvreA2i8VFXNohIUNIeZYXhSOvPyfiEohGksoMDmIeZLxBwalpoc5DCt02LFiqi1o7oqOb2pIj2fzpgDT1sQLIVMdZMnNOv2Mw1aMwi9YwmHvPdWXNsuxWWtdZZR5EM28WMXSc99dvI4ZEAQHrMafmP2ElDshco9JJuDWNYKWPsWYpZ5cMs2BfRxhvExQxlWs",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Hardware",
@@ -4859,8 +4833,8 @@
       "avaliacoes": null,
       "vendas": 348,
       "nota_qualidade": 8,
-      "last_seen": "2026-09-23T05:16:04.194494+00:00",
-      "expires_at": "2026-09-24T02:16:04.194494-03:00",
+      "last_seen": "2026-09-23T05:26:04.104182+00:00",
+      "expires_at": "2026-09-24T02:26:04.104182-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Gamer",
@@ -4900,7 +4874,7 @@
       "por": 232.83,
       "desconto": 45,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S53096c2ac11442b9a8a71bfce0eb72245.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4kOW4yeR2LwodxHr8okLFMap1U94X3OzeNaKOloQealnLLxupZsaUh4YhmwM5omsuNrjcmZTO1Au3Y5uZp95azyNoHX3iaEdTbnFp8i1cDDy7kOSvhRlV4Z149IpcgtaYqM9aZWGSaj8FX04x7XVXIk2PH0eSz2aaZ3iWiOnMfO8fSbhimwVxABWMyZIKQ5A0q1QUW1OyD5UWA8vJWer6OSHjeEoKVz4C4MMBfbY5ecKJ7RNmiwvlgpB5479W1SPezSkTTCU31H9B1lAaqawlo7V3UCZoGIYKbpv9x71t088kurSyJ0cWdD4P07pKp7ZmWZanJGHjv94gJX9vedrQl6ngcEhSAAB9vyQ0BoCIdSVqs1NrWunXnmHEqwz090zjnbbjsaXtPD7ATPwg2s3rczgGeaCfplt6Rr5RhRgrsoPxYCzJR4ePXfrCWP0uXPSiVlNxtOpSEmjvSbeXBLnpwGeYxRKm77TOSIwdrkKuYATsuUq1BmtJrbMlHBZPEMzkmW1HRi7GMBDasQz7Z8R0LEShHwLjWnT5Z2grUDQovR8aRfNumYNZj8HRNrenObjcyo3EKVWMOFnMUkoIC9lBghZESizfN30cGho44W1OPmlbl7csB0fHDK0kCkqA0rjDVZ7Es90dE0HHgS925Qoq4j7aFhDGQSTjwNVycgvrtlPXk9OXvKkAc3kEri1aq6LJEkQYQ2jgTcTXR",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4kOW4yeR2LwodxHr8okLFMap1U94X3OzeNaKOloQealnLLxupZsaUh4YhmwM5omsuNrjcmZTO1Au3Y5uZp95azyNoHX3iaEdTbnFp8i1cDDy7kOSvhRlV4Z149IpcgtaYqM9aZWGSaj8FX04x7XVXIk2PH0eSz2aaZ3iWiOnMfO8fSbhimwVxABWMyZIKQ5A0q1QUW1OyD5UWA8vJWer6OSHjeEoKVz4C4MMBfb5pT18fbW8Ool63vTG4VAaBU6XZ1PFFQOMSvNE85WX61fCrmCzbsXaz6Zt6NlfeMwl6VLiLStd0tMM0QS1NjPaKO8YTxy2ATxrkAtWkL0rgmAIaJFON79Bfefa6QjZkCpUwgAF2vjC4m9wmPQtNXiLt1PxGm7aiRPo49PwluY3jAn05tMoQ3iCvTMLW41ZEaEQdFiI4QMx5Mq7tKZ8KmMl4z9AXkpfkEa0Km3vF3pbUo1H7y3U9Ek1KeljGqyMCCZTGqjr7yrrnQ5NkpvLPCxO2wFVpDeeADSNIfp2z2Rlo1uXttTrlgpNET2ZzfGWxXdPIsq3tlMZSeTRPmu4a9KdkEoDoTuRYZ2gM8kzzqKjOXRMlw9HD9XtiDoe1mikh14u4XRDMWuuyI0lMOxlksl7wu2mEe4hZ2DaA2oRY6bvUy4s4q5F4rD01USXmCCWD93doXk27fgIL98Q5w5zGZdYqVCqDwoydtxLA758UN",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Hardware",
@@ -4911,8 +4885,8 @@
       "avaliacoes": null,
       "vendas": 1160,
       "nota_qualidade": 7,
-      "last_seen": "2026-09-22T23:06:31.302998+00:00",
-      "expires_at": "2026-09-23T20:06:31.302998-03:00",
+      "last_seen": "2026-09-23T05:36:21.171726+00:00",
+      "expires_at": "2026-09-24T02:36:21.171726-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech",
