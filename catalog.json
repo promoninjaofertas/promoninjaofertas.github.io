@@ -1,6 +1,32 @@
 {
-  "atualizado": "2026-09-26T00:51:15.217328+00:00",
+  "atualizado": "2026-09-26T01:05:12.995128+00:00",
   "ofertas": [
+    {
+      "source_id": "pechinchou-94498",
+      "titulo": "Camiseta Tommy Hilfiger Masculina Azul Marinho - Original",
+      "de": 279.0,
+      "por": 129.0,
+      "desconto": 54,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/external-image_LQcQcKM.jpg",
+      "link": "https://meli.la/2e67SWW",
+      "cupom": "MELHORCUPOM",
+      "loja": "mercadolivre",
+      "categoria": "Beleza",
+      "data": "2026-09-25T22:05:12.995128-03:00",
+      "slug": "camiseta-tommy-hilfiger-masculina-azul-marinho-original",
+      "page_url": "https://promoninjaofertas.github.io/produto/camiseta-tommy-hilfiger-masculina-azul-marinho-original.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": null,
+      "nota_qualidade": 7,
+      "last_seen": "2026-09-26T01:05:12.995128+00:00",
+      "expires_at": "2026-09-26T22:05:12.995128-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Moda",
+      "cupom_no_telegram": true,
+      "cupom_telegram_url": "https://t.me/promoninjaofertas"
+    },
     {
       "source_id": "pechinchou-153276",
       "titulo": "Escada Telescopica 3,8m 13 Degraus Antiderrapante Algori",
@@ -19,8 +45,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 7,
-      "last_seen": "2026-09-26T00:51:15.217328+00:00",
-      "expires_at": "2026-09-26T21:51:15.217328-03:00",
+      "last_seen": "2026-09-26T01:05:12.995128+00:00",
+      "expires_at": "2026-09-26T22:05:12.995128-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
@@ -45,39 +71,13 @@
       "avaliacoes": 10,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-09-26T00:51:15.217328+00:00",
-      "expires_at": "2026-09-26T21:51:15.217328-03:00",
+      "last_seen": "2026-09-26T01:05:12.995128+00:00",
+      "expires_at": "2026-09-26T22:05:12.995128-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
       "cupom_no_telegram": true,
       "cupom_telegram_url": "https://t.me/promoninjaofertas"
-    },
-    {
-      "source_id": "pechinchou-141221",
-      "titulo": "Creatina 100g Creatina Monohidratada Max Titanium Sem Sabor Alta Pureza",
-      "de": 47.88,
-      "por": 21.46,
-      "desconto": 55,
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_674079-MLA111959549378_062026-O.webp",
-      "link": "https://meli.la/1c88vsg",
-      "cupom": null,
-      "loja": "mercadolivre",
-      "categoria": "Esporte e Lazer",
-      "data": "2026-09-25T21:37:18.378731-03:00",
-      "slug": "creatina-100g-creatina-monohidratada-max-titanium-sem-sabor-alta-pureza",
-      "page_url": "https://promoninjaofertas.github.io/produto/creatina-100g-creatina-monohidratada-max-titanium-sem-sabor-alta-pureza.html",
-      "avaliacao": null,
-      "avaliacoes": 1,
-      "vendas": null,
-      "nota_qualidade": 5,
-      "last_seen": "2026-09-26T00:51:15.217328+00:00",
-      "expires_at": "2026-09-26T21:51:15.217328-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Outros",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
     },
     {
       "source_id": "pechinchou-144708",
@@ -97,11 +97,37 @@
       "avaliacoes": 2,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-09-26T00:51:15.217328+00:00",
-      "expires_at": "2026-09-26T21:51:15.217328-03:00",
+      "last_seen": "2026-09-26T01:05:12.995128+00:00",
+      "expires_at": "2026-09-26T22:05:12.995128-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
+      "cupom_no_telegram": false,
+      "cupom_telegram_url": null
+    },
+    {
+      "source_id": "pechinchou-141221",
+      "titulo": "Creatina 100g Creatina Monohidratada Max Titanium Sem Sabor Alta Pureza",
+      "de": 47.88,
+      "por": 21.46,
+      "desconto": 55,
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_674079-MLA111959549378_062026-O.webp",
+      "link": "https://meli.la/1c88vsg",
+      "cupom": null,
+      "loja": "mercadolivre",
+      "categoria": "Esporte e Lazer",
+      "data": "2026-09-25T21:37:18.378731-03:00",
+      "slug": "creatina-100g-creatina-monohidratada-max-titanium-sem-sabor-alta-pureza",
+      "page_url": "https://promoninjaofertas.github.io/produto/creatina-100g-creatina-monohidratada-max-titanium-sem-sabor-alta-pureza.html",
+      "avaliacao": null,
+      "avaliacoes": 1,
+      "vendas": null,
+      "nota_qualidade": 5,
+      "last_seen": "2026-09-26T01:05:12.995128+00:00",
+      "expires_at": "2026-09-26T22:05:12.995128-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Outros",
       "cupom_no_telegram": false,
       "cupom_telegram_url": null
     },
@@ -123,8 +149,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 7,
-      "last_seen": "2026-09-26T00:51:15.217328+00:00",
-      "expires_at": "2026-09-26T21:51:15.217328-03:00",
+      "last_seen": "2026-09-26T01:05:12.995128+00:00",
+      "expires_at": "2026-09-26T22:05:12.995128-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -149,8 +175,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 7,
-      "last_seen": "2026-09-26T00:51:15.217328+00:00",
-      "expires_at": "2026-09-26T21:51:15.217328-03:00",
+      "last_seen": "2026-09-26T01:05:12.995128+00:00",
+      "expires_at": "2026-09-26T22:05:12.995128-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
@@ -175,8 +201,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-09-26T00:51:15.217328+00:00",
-      "expires_at": "2026-09-26T21:51:15.217328-03:00",
+      "last_seen": "2026-09-26T01:05:12.995128+00:00",
+      "expires_at": "2026-09-26T22:05:12.995128-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -184,25 +210,25 @@
       "cupom_telegram_url": null
     },
     {
-      "source_id": "pechinchou-152595",
-      "titulo": "Camiseta Vans Masculina Full Patch Back Preta",
-      "de": 169.0,
-      "por": 96.0,
-      "desconto": 43,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/external-image_DJ861gb.jpg",
-      "link": "https://meli.la/16SPwt6",
+      "source_id": "pechinchou-72442",
+      "titulo": "Kit 10 Pares De Meias Lupo Soquete Invisível Sport",
+      "de": 159.0,
+      "por": 61.67,
+      "desconto": 61,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/external-image_yXqvPfV.jpg",
+      "link": "https://meli.la/2zsmgBx",
       "cupom": "MELHORCUPOM",
       "loja": "mercadolivre",
       "categoria": "Beleza",
-      "data": "2026-09-19T18:47:31.303354-03:00",
-      "slug": "camiseta-vans-masculina-full-patch-back-preta",
-      "page_url": "https://promoninjaofertas.github.io/produto/camiseta-vans-masculina-full-patch-back-preta.html",
+      "data": "2026-09-18T18:59:00.869931-03:00",
+      "slug": "kit-10-pares-de-meias-lupo-soquete-invisivel-sport",
+      "page_url": "https://promoninjaofertas.github.io/produto/kit-10-pares-de-meias-lupo-soquete-invisivel-sport.html",
       "avaliacao": null,
-      "avaliacoes": null,
+      "avaliacoes": 1,
       "vendas": null,
-      "nota_qualidade": 7,
-      "last_seen": "2026-09-26T00:51:15.217328+00:00",
-      "expires_at": "2026-09-26T21:51:15.217328-03:00",
+      "nota_qualidade": 6,
+      "last_seen": "2026-09-26T01:05:12.995128+00:00",
+      "expires_at": "2026-09-26T22:05:12.995128-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
@@ -227,8 +253,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-09-26T00:51:15.217328+00:00",
-      "expires_at": "2026-09-26T21:51:15.217328-03:00",
+      "last_seen": "2026-09-26T01:05:12.995128+00:00",
+      "expires_at": "2026-09-26T22:05:12.995128-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -253,8 +279,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 7,
-      "last_seen": "2026-09-26T00:51:15.217328+00:00",
-      "expires_at": "2026-09-26T21:51:15.217328-03:00",
+      "last_seen": "2026-09-26T01:05:12.995128+00:00",
+      "expires_at": "2026-09-26T22:05:12.995128-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
@@ -279,8 +305,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 7,
-      "last_seen": "2026-09-26T00:51:15.217328+00:00",
-      "expires_at": "2026-09-26T21:51:15.217328-03:00",
+      "last_seen": "2026-09-26T01:05:12.995128+00:00",
+      "expires_at": "2026-09-26T22:05:12.995128-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
@@ -305,11 +331,37 @@
       "avaliacoes": 3,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-09-26T00:51:15.217328+00:00",
-      "expires_at": "2026-09-26T21:51:15.217328-03:00",
+      "last_seen": "2026-09-26T01:05:12.995128+00:00",
+      "expires_at": "2026-09-26T22:05:12.995128-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
+      "cupom_no_telegram": true,
+      "cupom_telegram_url": "https://t.me/promoninjaofertas"
+    },
+    {
+      "source_id": "pechinchou-98642",
+      "titulo": "Jaqueta De Couro Masculina Slim Forrada Sem Capuz",
+      "de": 296.0,
+      "por": 116.0,
+      "desconto": 61,
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_947582-MLB108560307405_032026-O.webp",
+      "link": "https://meli.la/1mqLDsr",
+      "cupom": "MELHORCUPOM",
+      "loja": "mercadolivre",
+      "categoria": "Beleza",
+      "data": "2026-09-10T21:20:41.302054-03:00",
+      "slug": "jaqueta-de-couro-masculina-slim-forrada-sem-capuz",
+      "page_url": "https://promoninjaofertas.github.io/produto/jaqueta-de-couro-masculina-slim-forrada-sem-capuz.html",
+      "avaliacao": null,
+      "avaliacoes": 2,
+      "vendas": null,
+      "nota_qualidade": 6,
+      "last_seen": "2026-09-26T01:05:12.995128+00:00",
+      "expires_at": "2026-09-26T22:05:12.995128-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Moda",
       "cupom_no_telegram": true,
       "cupom_telegram_url": "https://t.me/promoninjaofertas"
     },
@@ -331,8 +383,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 8,
-      "last_seen": "2026-09-26T00:51:15.217328+00:00",
-      "expires_at": "2026-09-26T21:51:15.217328-03:00",
+      "last_seen": "2026-09-26T01:05:12.995128+00:00",
+      "expires_at": "2026-09-26T22:05:12.995128-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech",
@@ -357,8 +409,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 8,
-      "last_seen": "2026-09-26T00:51:15.217328+00:00",
-      "expires_at": "2026-09-26T21:51:15.217328-03:00",
+      "last_seen": "2026-09-26T01:05:12.995128+00:00",
+      "expires_at": "2026-09-26T22:05:12.995128-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
@@ -383,8 +435,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 7,
-      "last_seen": "2026-09-26T00:51:15.217328+00:00",
-      "expires_at": "2026-09-26T21:51:15.217328-03:00",
+      "last_seen": "2026-09-26T01:05:12.995128+00:00",
+      "expires_at": "2026-09-26T22:05:12.995128-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
@@ -392,30 +444,56 @@
       "cupom_telegram_url": "https://t.me/promoninjaofertas"
     },
     {
-      "source_id": "pechinchou-83271",
-      "titulo": "4 Travesseiros Antialérgico Impermeável 50x70 Super Macio Branco",
-      "de": 109.9,
-      "por": 87.0,
-      "desconto": 21,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/D_NQ_NP_998675-MLB72098223701_102023-O_iKre4k9.webp",
-      "link": "https://meli.la/1DmKyPQ",
-      "cupom": "TEMAQUI",
-      "loja": "mercadolivre",
-      "categoria": "Casa",
-      "data": "2026-07-07T07:37:36.886222-03:00",
-      "slug": "4-travesseiros-antialergico-impermeavel-50x70-super-macio-branco",
-      "page_url": "https://promoninjaofertas.github.io/produto/4-travesseiros-antialergico-impermeavel-50x70-super-macio-branco.html",
+      "source_id": "pechinchou-38856",
+      "titulo": "Danone Nutricia - Aptanutri Premium 3, 1-3 anos, Fórmula de Seguimento, 800g",
+      "de": 89.9,
+      "por": 56.0,
+      "desconto": 38,
+      "imagem": "https://m.media-amazon.com/images/I/61LK0Z8R8TL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B07M73V8JD?tag=promoninja0b2-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Esporte e Lazer",
+      "data": "2026-09-25T22:05:12.995128-03:00",
+      "slug": "danone-nutricia-aptanutri-premium-3-1-3-anos-formula-de-seguimento-800g",
+      "page_url": "https://promoninjaofertas.github.io/produto/danone-nutricia-aptanutri-premium-3-1-3-anos-formula-de-seguimento-800g.html",
       "avaliacao": null,
-      "avaliacoes": 4,
+      "avaliacoes": null,
       "vendas": null,
-      "nota_qualidade": 5,
-      "last_seen": "2026-09-26T00:51:15.217328+00:00",
-      "expires_at": "2026-09-26T21:51:15.217328-03:00",
+      "nota_qualidade": 6,
+      "last_seen": "2026-09-26T01:05:12.995128+00:00",
+      "expires_at": "2026-09-26T22:05:12.995128-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
-      "cupom_no_telegram": true,
-      "cupom_telegram_url": "https://t.me/promoninjaofertas"
+      "cupom_no_telegram": false,
+      "cupom_telegram_url": null
+    },
+    {
+      "source_id": "pechinchou-153274",
+      "titulo": "Gabinete Gamer Lian Li Vector V100 Preto Sem Fans V100X",
+      "de": 499.0,
+      "por": 406.8,
+      "desconto": 18,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/81D0aiqeIBL._AC_SX300_SY300_QL70_ML2_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0FDQ7TTKX?tag=promoninja0b2-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Hardware",
+      "data": "2026-09-25T22:05:12.995128-03:00",
+      "slug": "gabinete-gamer-lian-li-vector-v100-preto-sem-fans-v100x",
+      "page_url": "https://promoninjaofertas.github.io/produto/gabinete-gamer-lian-li-vector-v100-preto-sem-fans-v100x.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": null,
+      "nota_qualidade": 6,
+      "last_seen": "2026-09-26T01:05:12.995128+00:00",
+      "expires_at": "2026-09-26T22:05:12.995128-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Gamer",
+      "cupom_no_telegram": false,
+      "cupom_telegram_url": null
     },
     {
       "source_id": "3064880",
@@ -463,58 +541,6 @@
       "nota_qualidade": 6,
       "last_seen": "2026-09-26T00:37:18.378731+00:00",
       "expires_at": "2026-09-26T21:37:18.378731-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Casa",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
-    },
-    {
-      "source_id": "pechinchou-32908",
-      "titulo": "Brilhante Lava-Roupas em Pó Roupas Brancas e Coloridas Limpeza Total Tamanho Família 4 kg",
-      "de": 46.99,
-      "por": 34.54,
-      "desconto": 26,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/717s6xdoosL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0B1379VWF?tag=promoninja0b2-20",
-      "cupom": null,
-      "loja": "amazon",
-      "categoria": "Supermercado",
-      "data": "2026-09-25T21:37:18.378731-03:00",
-      "slug": "brilhante-lava-roupas-em-po-roupas-brancas-e-coloridas-limpeza-total-tamanho-familia-4",
-      "page_url": "https://promoninjaofertas.github.io/produto/brilhante-lava-roupas-em-po-roupas-brancas-e-coloridas-limpeza-total-tamanho-familia-4.html",
-      "avaliacao": null,
-      "avaliacoes": null,
-      "vendas": null,
-      "nota_qualidade": 6,
-      "last_seen": "2026-09-26T00:51:15.217328+00:00",
-      "expires_at": "2026-09-26T21:51:15.217328-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Outros",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
-    },
-    {
-      "source_id": "pechinchou-145437",
-      "titulo": "Ou Organizador de Temperos 1,5L Transparente Linha Clear Fresh",
-      "de": 44.9,
-      "por": 33.24,
-      "desconto": 26,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/51OfHUtiFL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0CKLSNBPW?tag=promoninja0b2-20",
-      "cupom": "LAR10",
-      "loja": "amazon",
-      "categoria": "Casa",
-      "data": "2026-09-25T21:24:08.223453-03:00",
-      "slug": "ou-organizador-de-temperos-1-5l-transparente-linha-clear-fresh",
-      "page_url": "https://promoninjaofertas.github.io/produto/ou-organizador-de-temperos-1-5l-transparente-linha-clear-fresh.html",
-      "avaliacao": null,
-      "avaliacoes": 2,
-      "vendas": null,
-      "nota_qualidade": 6,
-      "last_seen": "2026-09-26T00:51:15.217328+00:00",
-      "expires_at": "2026-09-26T21:51:15.217328-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
@@ -579,7 +605,7 @@
       "de": 499.99,
       "por": 208.53,
       "desconto": 58,
-      "imagem": "https://m.media-amazon.com/images/I/71-NV05maHL._SL1500_.jpg",
+      "imagem": "https://i.promobit.com.br/static/p/200/818197559017903800207690797454.jpg",
       "link": "https://www.amazon.com.br/dp/B0DJ9859GP?tag=promoninja0b2-20",
       "cupom": null,
       "loja": "amazon",
@@ -591,8 +617,8 @@
       "avaliacoes": 1,
       "vendas": 20,
       "nota_qualidade": 6,
-      "last_seen": "2026-09-26T00:37:18.378731+00:00",
-      "expires_at": "2026-09-26T21:37:18.378731-03:00",
+      "last_seen": "2026-09-26T01:05:12.995128+00:00",
+      "expires_at": "2026-09-26T22:05:12.995128-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
@@ -990,54 +1016,54 @@
       "cupom_telegram_url": null
     },
     {
-      "source_id": "pechinchou-128027",
-      "titulo": "L'Oréal Paris Elseve Liso dos Sonhos Kit Shampoo, Condicionador e Sérum, com Tecnologia Ativada por Calor para um Liso por 1 Semana, Efeito Antifrizz e Barreira Protetora Contra Umidade",
-      "de": 121.0,
-      "por": 77.9,
-      "desconto": 36,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/817zLg0L03L._AC_SX425_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0F67MQCGQ?tag=promoninja0b2-20",
+      "source_id": "pechinchou-97794",
+      "titulo": "MONDIAL Panela Elétrica de Arroz, Vermelho/Inox, 700W, 110V - PE-46-10X",
+      "de": 289.9,
+      "por": 182.4,
+      "desconto": 37,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/81MOAxrf7ZL._AC_SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B082DN77HV?tag=promoninja0b2-20",
       "cupom": null,
       "loja": "amazon",
-      "categoria": "Saúde",
-      "data": "2026-09-18T08:01:21.106266-03:00",
-      "slug": "l-oreal-paris-elseve-liso-dos-sonhos-kit-shampoo-condicionador-e-serum-com-tecnologia",
-      "page_url": "https://promoninjaofertas.github.io/produto/l-oreal-paris-elseve-liso-dos-sonhos-kit-shampoo-condicionador-e-serum-com-tecnologia.html",
+      "categoria": "Casa",
+      "data": "2026-08-26T08:06:23.992397-03:00",
+      "slug": "mondial-panela-eletrica-de-arroz-vermelho-inox-700w-110v-pe-46-10x",
+      "page_url": "https://promoninjaofertas.github.io/produto/mondial-panela-eletrica-de-arroz-vermelho-inox-700w-110v-pe-46-10x.html",
       "avaliacao": null,
-      "avaliacoes": 4,
+      "avaliacoes": 2,
       "vendas": null,
-      "nota_qualidade": 6,
-      "last_seen": "2026-09-26T00:51:15.217328+00:00",
-      "expires_at": "2026-09-26T21:51:15.217328-03:00",
+      "nota_qualidade": 7,
+      "last_seen": "2026-09-26T01:05:12.995128+00:00",
+      "expires_at": "2026-09-26T22:05:12.995128-03:00",
       "marca": null,
       "price_evidence": {},
-      "grupo": "Outros",
+      "grupo": "Casa",
       "cupom_no_telegram": false,
       "cupom_telegram_url": null
     },
     {
-      "source_id": "pechinchou-14765",
-      "titulo": "OMO Tira-Manchas Ultra Espuma Extra Poder Frasco 135Ml",
-      "de": 39.9,
-      "por": 21.99,
-      "desconto": 45,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/51Ni4HtWlYL.__AC_SX300_SY300_QL70_ML2_.jpg",
-      "link": "https://www.amazon.com.br/exec/obidos/ASIN/B07Q4FXBR5/?tag=promoninja0b2-20",
-      "cupom": null,
+      "source_id": "pechinchou-1543",
+      "titulo": "I2GO, Caixa De Som Bluetooth Essential Sound Go, 10W RMS, Resistente à Água, Preto",
+      "de": 99.0,
+      "por": 78.54,
+      "desconto": 21,
+      "imagem": "https://m.media-amazon.com/images/I/71OoV05kdyL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B085YDLGFR?tag=promoninja0b2-20",
+      "cupom": "I2GO15",
       "loja": "amazon",
-      "categoria": "Supermercado",
-      "data": "2026-09-17T19:47:01.773012-03:00",
-      "slug": "omo-tira-manchas-ultra-espuma-extra-poder-frasco-135ml",
-      "page_url": "https://promoninjaofertas.github.io/produto/omo-tira-manchas-ultra-espuma-extra-poder-frasco-135ml.html",
+      "categoria": "Audio",
+      "data": "2026-07-03T14:44:57.493560-03:00",
+      "slug": "i2go-caixa-de-som-bluetooth-essential-sound-go-10w-rms-resistente-a-agua-preto",
+      "page_url": "https://promoninjaofertas.github.io/produto/i2go-caixa-de-som-bluetooth-essential-sound-go-10w-rms-resistente-a-agua-preto.html",
       "avaliacao": null,
-      "avaliacoes": null,
+      "avaliacoes": 2,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-09-26T00:51:15.217328+00:00",
-      "expires_at": "2026-09-26T21:51:15.217328-03:00",
+      "last_seen": "2026-09-26T01:05:12.995128+00:00",
+      "expires_at": "2026-09-26T22:05:12.995128-03:00",
       "marca": null,
       "price_evidence": {},
-      "grupo": "Outros",
+      "grupo": "Tech",
       "cupom_no_telegram": false,
       "cupom_telegram_url": null
     },
@@ -3019,11 +3045,11 @@
       "avaliacoes": null,
       "vendas": 184,
       "nota_qualidade": 10,
-      "last_seen": "2026-09-26T00:51:15.217328+00:00",
-      "expires_at": "2026-09-26T21:51:15.217328-03:00",
+      "last_seen": "2026-09-26T01:05:12.995128+00:00",
+      "expires_at": "2026-09-26T22:05:12.995128-03:00",
       "marca": "WAP",
       "price_evidence": {
-        "checked_at": "2026-09-26T00:54:29.413553+00:00",
+        "checked_at": "2026-09-26T01:07:41.601602+00:00",
         "identity": {
           "brand": "WAP",
           "model": "7metros",
@@ -3208,6 +3234,212 @@
       "cupom_telegram_url": null
     },
     {
+      "source_id": "46662348294",
+      "titulo": "Monitor Gamer Acer KG243Y 23.8\" Full HD 144Hz IPS HDMI P1bip - Preto - Bivolt",
+      "de": null,
+      "por": 657.9,
+      "desconto": 59,
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lt-mpjrkv9dzabnb3",
+      "link": "https://s.shopee.com.br/50ZIsNZemu",
+      "cupom": null,
+      "loja": "shopee",
+      "categoria": "Hardware",
+      "data": "2026-09-10T06:27:22.795034-03:00",
+      "slug": "shopee-acer-kg243y-bivolt-codigo-p1bip-cor-preto-kit-1",
+      "page_url": "https://promoninjaofertas.github.io/produto/shopee-acer-kg243y-bivolt-codigo-p1bip-cor-preto-kit-1.html",
+      "avaliacao": 4.9,
+      "avaliacoes": null,
+      "vendas": 303,
+      "nota_qualidade": 10,
+      "last_seen": "2026-09-26T01:05:12.995128+00:00",
+      "expires_at": "2026-09-26T22:05:12.995128-03:00",
+      "marca": "Acer",
+      "price_evidence": {
+        "checked_at": "2026-09-26T01:07:41.601602+00:00",
+        "identity": {
+          "brand": "Acer",
+          "model": "kg243y",
+          "family": "monitores",
+          "kind": "produto",
+          "variant": "bivolt|codigo:p1bip|cor:preto|kit:1",
+          "ambiguous": false,
+          "comparison_key": "acer|kg243y|bivolt|codigo:p1bip|cor:preto|kit:1"
+        },
+        "previous_min": 657.9,
+        "observed_min": 657.9,
+        "since": "2026-09-12T13:31:01.433528+00:00",
+        "observations": 53,
+        "days": 14,
+        "history": [
+          {
+            "at": "2026-09-15T23:19:31.340169+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-16T05:20:14.579066+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-16T11:24:45.471431+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-16T17:29:26.031175+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-16T23:32:34.186245+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-17T05:37:24.555562+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-17T11:38:39.137600+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-17T17:40:22.552592+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-17T23:43:48.818866+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-18T05:48:58.359817+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-18T11:51:58.274337+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-18T18:01:30.833281+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-19T00:10:28.130923+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-19T06:15:00.140993+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-19T12:19:04.509014+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-19T18:19:53.503024+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-20T00:22:21.087799+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-20T06:26:51.850984+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-20T12:27:21.800181+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-20T18:29:36.499733+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-21T00:34:47.291316+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-21T06:40:35.471457+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-21T12:46:24.803839+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-21T18:52:20.994893+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-22T00:55:42.492343+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-22T07:02:26.579924+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-22T13:05:21.187476+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-22T19:09:14.278381+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-23T01:18:36.299694+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-23T07:20:37.926950+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-23T13:23:25.212887+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-23T19:29:09.551876+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-24T01:36:33.187921+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-24T07:38:27.471967+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-24T13:40:41.347230+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-24T19:42:48.787828+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-25T01:43:02.568191+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-25T07:47:19.448748+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-25T13:54:26.519470+00:00",
+            "price": 657.9
+          },
+          {
+            "at": "2026-09-25T19:56:25.315091+00:00",
+            "price": 657.9
+          }
+        ],
+        "advantage": false,
+        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
+      },
+      "grupo": "Gamer",
+      "cupom_no_telegram": false,
+      "cupom_telegram_url": null
+    },
+    {
       "source_id": "55214478888",
       "titulo": "Caixa de Som Portátil JBL GO 5 Preto Original Bluetooth À Prova D'água Iluminação e Auracast",
       "de": null,
@@ -3225,11 +3457,11 @@
       "avaliacoes": null,
       "vendas": 215,
       "nota_qualidade": 9,
-      "last_seen": "2026-09-25T23:44:49.192449+00:00",
-      "expires_at": "2026-09-26T20:44:49.192449-03:00",
+      "last_seen": "2026-09-26T01:05:12.995128+00:00",
+      "expires_at": "2026-09-26T22:05:12.995128-03:00",
       "marca": "JBL",
       "price_evidence": {
-        "checked_at": "2026-09-25T23:46:09.372241+00:00",
+        "checked_at": "2026-09-26T01:07:41.601602+00:00",
         "identity": {
           "brand": "JBL",
           "model": null,
@@ -3516,212 +3748,6 @@
       "cupom_telegram_url": null
     },
     {
-      "source_id": "46662348294",
-      "titulo": "Monitor Gamer Acer KG243Y 23.8\" Full HD 144Hz IPS HDMI P1bip - Preto - Bivolt",
-      "de": null,
-      "por": 657.9,
-      "desconto": 59,
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lt-mpjrkv9dzabnb3",
-      "link": "https://s.shopee.com.br/50ZIsNZemu",
-      "cupom": null,
-      "loja": "shopee",
-      "categoria": "Hardware",
-      "data": "2026-09-10T06:27:22.795034-03:00",
-      "slug": "shopee-acer-kg243y-bivolt-codigo-p1bip-cor-preto-kit-1",
-      "page_url": "https://promoninjaofertas.github.io/produto/shopee-acer-kg243y-bivolt-codigo-p1bip-cor-preto-kit-1.html",
-      "avaliacao": 4.9,
-      "avaliacoes": null,
-      "vendas": 303,
-      "nota_qualidade": 10,
-      "last_seen": "2026-09-26T00:51:15.217328+00:00",
-      "expires_at": "2026-09-26T21:51:15.217328-03:00",
-      "marca": "Acer",
-      "price_evidence": {
-        "checked_at": "2026-09-26T00:54:29.413553+00:00",
-        "identity": {
-          "brand": "Acer",
-          "model": "kg243y",
-          "family": "monitores",
-          "kind": "produto",
-          "variant": "bivolt|codigo:p1bip|cor:preto|kit:1",
-          "ambiguous": false,
-          "comparison_key": "acer|kg243y|bivolt|codigo:p1bip|cor:preto|kit:1"
-        },
-        "previous_min": 657.9,
-        "observed_min": 657.9,
-        "since": "2026-09-12T13:31:01.433528+00:00",
-        "observations": 53,
-        "days": 14,
-        "history": [
-          {
-            "at": "2026-09-15T23:19:31.340169+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-16T05:20:14.579066+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-16T11:24:45.471431+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-16T17:29:26.031175+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-16T23:32:34.186245+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-17T05:37:24.555562+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-17T11:38:39.137600+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-17T17:40:22.552592+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-17T23:43:48.818866+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-18T05:48:58.359817+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-18T11:51:58.274337+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-18T18:01:30.833281+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-19T00:10:28.130923+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-19T06:15:00.140993+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-19T12:19:04.509014+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-19T18:19:53.503024+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-20T00:22:21.087799+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-20T06:26:51.850984+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-20T12:27:21.800181+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-20T18:29:36.499733+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-21T00:34:47.291316+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-21T06:40:35.471457+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-21T12:46:24.803839+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-21T18:52:20.994893+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-22T00:55:42.492343+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-22T07:02:26.579924+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-22T13:05:21.187476+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-22T19:09:14.278381+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-23T01:18:36.299694+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-23T07:20:37.926950+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-23T13:23:25.212887+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-23T19:29:09.551876+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-24T01:36:33.187921+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-24T07:38:27.471967+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-24T13:40:41.347230+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-24T19:42:48.787828+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-25T01:43:02.568191+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-25T07:47:19.448748+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-25T13:54:26.519470+00:00",
-            "price": 657.9
-          },
-          {
-            "at": "2026-09-25T19:56:25.315091+00:00",
-            "price": 657.9
-          }
-        ],
-        "advantage": false,
-        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
-      },
-      "grupo": "Gamer",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
-    },
-    {
       "source_id": "21896948903",
       "titulo": "Jogo De Panelas Antiaderente Tramontina 12 Peças Turim Com Utensílios",
       "de": null,
@@ -3945,11 +3971,11 @@
       "avaliacoes": null,
       "vendas": 140,
       "nota_qualidade": 10,
-      "last_seen": "2026-09-26T00:51:15.217328+00:00",
-      "expires_at": "2026-09-26T21:51:15.217328-03:00",
+      "last_seen": "2026-09-26T01:05:12.995128+00:00",
+      "expires_at": "2026-09-26T22:05:12.995128-03:00",
       "marca": "WAP",
       "price_evidence": {
-        "checked_at": "2026-09-26T00:54:29.413553+00:00",
+        "checked_at": "2026-09-26T01:07:41.601602+00:00",
         "identity": {
           "brand": "WAP",
           "model": null,
@@ -4420,32 +4446,6 @@
       "cupom_telegram_url": null
     },
     {
-      "source_id": "1005008639836335",
-      "titulo": "Towild dl1200s/dl1700 luz de bicicleta com linha de corte feixe1900lm recarregável luz dianteira banco potência mtb ciclismo faróis",
-      "de": 738.71,
-      "por": 263.86,
-      "desconto": 64,
-      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sf5de0b7841cd4a6796260e0ec198d1efH.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mUOAepjq71bmCAfdUIcSE89C6gvJUdJWImj7GMKsnH7sXqx7zDmKvW7xILWbvDH5yumUDIXxWSoaABPPjacVWyuGnmlzLEb7PnnBC0SOhBXdbNJO7zg1zWHh3VGtplf5Ai5JccVLLHQ5E09hG7FJLmjA6IO9MbWORwnteIV6Tr25qZzva2dC2p9IXuG5ylq0ko7qi2vK4M6gqLhArYMTGWvQWPBvFH1AuFFqd7lNxUeUiFGgffrjbCX6dyrygdqhX2zOOe0KiKXKX7N77ukmqZIJo5vG3eG8yWMwzRZnN5EbHJpmxvjQcWOv5ZkiwuF7yqEVKqK4H9utzlrxkfj6L7evitlZCgXOKs46Oi2BxwQg2VCImZD8LZ1Qa1QcbITyhtakgA9FIQQZ1Hr1h8wd8WIknP9RVMD3dxlcHLPCg3SIWXhF1j49O2Sfx5h0S0weVZ09oqMmJ5CaHFiI8UQp8PJcfkHO1cueb85lKjqtJh3SeI1HX4SnE5nMTqX14JzbD1mCqHWpK5kzqJVqo4vpuECZj3PL7W555nQK9vmoBr7U8V4L6EbJgmllLsu0CvNLVmTR2dAPZVHG2QRINuRDhR9g1KkapaLKdDyBmoIEFRSFWuuiQTPlT8ehdCeX3Z6EmHIJmGkPowGzU6xsXS011fzpfBuGE3VHMlI7oXZjGsi1EpC3S4kZrYJ8klKKQhMfoUsvfRampWgid",
-      "cupom": null,
-      "loja": "aliexpress",
-      "categoria": "Casa",
-      "data": "2026-09-07T05:12:37.105870-03:00",
-      "slug": "towild-dl1200s-dl1700-luz-de-bicicleta-com-linha-de-corte-feixe1900lm-recarregavel-luz",
-      "page_url": "https://promoninjaofertas.github.io/produto/towild-dl1200s-dl1700-luz-de-bicicleta-com-linha-de-corte-feixe1900lm-recarregavel-luz.html",
-      "avaliacao": 4.82,
-      "avaliacoes": null,
-      "vendas": 884,
-      "nota_qualidade": 7,
-      "last_seen": "2026-09-25T22:16:49.042084+00:00",
-      "expires_at": "2026-09-26T19:16:49.042084-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Outros",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
-    },
-    {
       "source_id": "1005009942973523",
       "titulo": "Carregador Portátil 20000mah，Power Bank Portátil，Pilhas Recarregáveis，Powerbank Portátil， TYPE-C, USB， Preto， Do Brasil",
       "de": 125.99,
@@ -4468,6 +4468,32 @@
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech",
+      "cupom_no_telegram": false,
+      "cupom_telegram_url": null
+    },
+    {
+      "source_id": "1005008639836335",
+      "titulo": "Towild dl1200s/dl1700 luz de bicicleta com linha de corte feixe1900lm recarregável luz dianteira banco potência mtb ciclismo faróis",
+      "de": 738.71,
+      "por": 263.86,
+      "desconto": 64,
+      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sf5de0b7841cd4a6796260e0ec198d1efH.jpg",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mUOAepjq71bmCAfdUIcSE89C6gvJUdJWImj7GMKsnH7sXqx7zDmKvW7xILWbvDH5yumUDIXxWSoaABPPjacVWyuGnmlzLEb7PnnBC0SOhBXdbNJO7zg1zWHh3VGtplf5Ai5JccVLLHQ5E09hG7FJLmjA6IO9MbWORwnteIV6Tr25qZzva2dC2p9IXuG5ylq0ko7qi2vK4M6gqLhArYMTGWvQWPBvFH1AuFFqd7lNxUeUiFGgffrjbCX6dyrygdqhX2zOOe0KiKXKX7N77ukmqZIJo5vG3eG8yWMwzRZnN5EbHJpmxvjQcWOv5ZkiwuF7yqEVKqK4H9utzlrxkfj6L7evitlZCgXOKs46Oi2BxwQg2VCImZD8LZ1Qa1QcbITyhtakgA9FIQQZ1Hr1h8wd8WIknP9RVMD3dxlcHLPCg3SIWXhF1j49O2Sfx5h0S0weVZ09oqMmJ5CaHFiI8UQp8PJcfkHO1cueb85lKjqtJh3SeI1HX4SnE5nMTqX14JzbD1mCqHWpK5kzqJVqo4vpuECZj3PL7W555nQK9vmoBr7U8V4L6EbJgmllLsu0CvNLVmTR2dAPZVHG2QRINuRDhR9g1KkapaLKdDyBmoIEFRSFWuuiQTPlT8ehdCeX3Z6EmHIJmGkPowGzU6xsXS011fzpfBuGE3VHMlI7oXZjGsi1EpC3S4kZrYJ8klKKQhMfoUsvfRampWgid",
+      "cupom": null,
+      "loja": "aliexpress",
+      "categoria": "Casa",
+      "data": "2026-09-07T05:12:37.105870-03:00",
+      "slug": "towild-dl1200s-dl1700-luz-de-bicicleta-com-linha-de-corte-feixe1900lm-recarregavel-luz",
+      "page_url": "https://promoninjaofertas.github.io/produto/towild-dl1200s-dl1700-luz-de-bicicleta-com-linha-de-corte-feixe1900lm-recarregavel-luz.html",
+      "avaliacao": 4.82,
+      "avaliacoes": null,
+      "vendas": 884,
+      "nota_qualidade": 7,
+      "last_seen": "2026-09-25T22:16:49.042084+00:00",
+      "expires_at": "2026-09-26T19:16:49.042084-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Outros",
       "cupom_no_telegram": false,
       "cupom_telegram_url": null
     },
@@ -4946,7 +4972,7 @@
       "por": 228.84,
       "desconto": 50,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S76c6a0c979a94773b70c86d697daca4cV.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4FlyPwdszh87fWD4NDIrXo79ErjG3JkI4h3U04iuPdGvYFe5nCXp70CwaAJxms6c873FQtoYXSNXz6UfsjCwyH8FcRol7wOH3gNTuLw1LxPW5v3pZTuapfzjeq9Jd46as4dW6cdFBE5J20GLFQ3Di57eUFeNRzaZswt4VLYTzqoL5ZqouG9hxi0mY72pObPb2Ukf9PR65My21knC0RTQ4i9NjdJ5HHsGTh0X7vKNZ8Q2TPRke2CHbX9Fir2uvvPbCGluy7rqktMdFru7hVYTLqlcqVLd5jSFYjGeQn5q0am56egAbAkwlxqEeC7ph4iJr1QW65ehAcfNKi40F7bbQKdYgJXYUnOr3MjJ5r9E3CYFetEkHyMHWSTfYGS1r6jaTaz431ymoTN57j3DCisutjYgyXDc8HyLvZ7ck5rkWZ0fO885eTwix2NkwsoOs7qxfWDuV4FnwekFe7LNVZRCYyRYQTPhRVvlkzVtDAF6oh69XvsvCJuflfFlfYqhAn6Sjbt9fq5yoNaqy1tGa07yC9QBuTyeN9r8jxvzQ4le0HQDdggbcyFLC460uf8RfvWw2B4U2KBGAYAcoEgzGXZTROfrEyab6nOq6p3GIpUVDKtyfetICKxxVyKhUm5mkw566gvdVUha30qP3blmj1CMmx0lAryOwusoMPyQjKbCsr8tXicCvPWsqcGR2RRKOcnU8Qhjh1kxfv9FFT",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4FlyPwdszh87fWD4NDIrXo79ErjG3JkI4h3U04iuPdGvYFe5nCXp70CwaAJxms6c873FQtoYXSNXz6UfsjCwyH8FcRol7wOH3gNTuLw1LxPW5v3pZTuapfzjeq9Jd46as4dW6cdFBE5J20GLFQ3Di57eUFeNRzaZswt4VLYTzqoL5ZqouG9hxi0mY72pObPb2Ukf9PR65My21knC0RTQ4i9NjdJ5HHsGTh0X7vtR4gDADGJBEfMLKlTKx7h9yNmffVtY4T5vGYMvVHbNIKXQPXq1ZDjDWbJwpAEqVS7snJeirHf3wNc8d27CnpvlDOor7Tf8Ub7lSDP1gQ2kVCxB82tAimyl59EPvJqUSQWsaCmUu3vNb6CpYMk8VeXReVo3CtVI1iCEHBbjYIBqTB3PareqduVeNLa2liPIUiz0r8L9rqPDXCGjJsb2D1ntzQbk9otp67Qc4eI7lGvxj4NPWm23o4RHCKP1hLmkkjzI1e8BVLt0r6iP8KOoDU7nSZ108daCWPXqr0o4qguZrv8SKOAH0Kdya8LAPqIcuj8hLQu6wCeKRXXaTpqzTPRBrI44YkeVnI70OrERf8ANWtxXeeJu7n8AX0mBI5Qz7f1ZQtlLARrTGQQd77hCjrEnDtYPtVTHcyTAcVLlTl889BDvJjuSDq0cqYPwbiJAq60l5udiS1RjeWvSLmWtWSmGABATNIfXp9byryafZB",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Hardware",
@@ -4957,8 +4983,8 @@
       "avaliacoes": null,
       "vendas": 118,
       "nota_qualidade": 9,
-      "last_seen": "2026-09-26T00:51:15.217328+00:00",
-      "expires_at": "2026-09-26T21:51:15.217328-03:00",
+      "last_seen": "2026-09-26T01:05:12.995128+00:00",
+      "expires_at": "2026-09-26T22:05:12.995128-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech",
