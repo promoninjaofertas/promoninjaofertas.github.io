@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-10-07T03:17:21.814904+00:00",
+  "atualizado": "2026-10-07T03:29:07.975731+00:00",
   "ofertas": [
     {
       "source_id": "pechinchou-154192",
@@ -19,8 +19,8 @@
       "avaliacoes": 10,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-10-07T03:17:21.814904+00:00",
-      "expires_at": "2026-10-08T00:17:21.814904-03:00",
+      "last_seen": "2026-10-07T03:29:07.975731+00:00",
+      "expires_at": "2026-10-08T00:29:07.975731-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
@@ -45,8 +45,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-10-07T03:17:21.814904+00:00",
-      "expires_at": "2026-10-08T00:17:21.814904-03:00",
+      "last_seen": "2026-10-07T03:29:07.975731+00:00",
+      "expires_at": "2026-10-08T00:29:07.975731-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -71,8 +71,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 7,
-      "last_seen": "2026-10-07T03:17:21.814904+00:00",
-      "expires_at": "2026-10-08T00:17:21.814904-03:00",
+      "last_seen": "2026-10-07T03:29:07.975731+00:00",
+      "expires_at": "2026-10-08T00:29:07.975731-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -97,8 +97,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-10-07T03:17:21.814904+00:00",
-      "expires_at": "2026-10-08T00:17:21.814904-03:00",
+      "last_seen": "2026-10-07T03:29:07.975731+00:00",
+      "expires_at": "2026-10-08T00:29:07.975731-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -123,37 +123,11 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-10-07T03:17:21.814904+00:00",
-      "expires_at": "2026-10-08T00:17:21.814904-03:00",
+      "last_seen": "2026-10-07T03:29:07.975731+00:00",
+      "expires_at": "2026-10-08T00:29:07.975731-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
-    },
-    {
-      "source_id": "pechinchou-81066",
-      "titulo": "Creatina Hardcore 100% Pura 120 Capsulas Energia E Força - Integralmedica Sem Sabor",
-      "de": 63.99,
-      "por": 31.7,
-      "desconto": 50,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/D_NQ_NP_833789-MLA100590939374_122025-O_7qisVrP.webp",
-      "link": "https://meli.la/1qqMQRj",
-      "cupom": null,
-      "loja": "mercadolivre",
-      "categoria": "Esporte e Lazer",
-      "data": "2026-10-01T14:30:20.870124-03:00",
-      "slug": "creatina-hardcore-100-pura-120-capsulas-energia-e-forca-integralmedica-sem-sabor",
-      "page_url": "https://promoninjaofertas.github.io/produto/creatina-hardcore-100-pura-120-capsulas-energia-e-forca-integralmedica-sem-sabor.html",
-      "avaliacao": null,
-      "avaliacoes": 2,
-      "vendas": null,
-      "nota_qualidade": 5,
-      "last_seen": "2026-10-07T03:17:21.814904+00:00",
-      "expires_at": "2026-10-08T00:17:21.814904-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Outros",
       "cupom_no_telegram": false,
       "cupom_telegram_url": null
     },
@@ -175,8 +149,34 @@
       "avaliacoes": 4,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-10-07T03:17:21.814904+00:00",
-      "expires_at": "2026-10-08T00:17:21.814904-03:00",
+      "last_seen": "2026-10-07T03:29:07.975731+00:00",
+      "expires_at": "2026-10-08T00:29:07.975731-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Outros",
+      "cupom_no_telegram": false,
+      "cupom_telegram_url": null
+    },
+    {
+      "source_id": "pechinchou-81066",
+      "titulo": "Creatina Hardcore 100% Pura 120 Capsulas Energia E Força - Integralmedica Sem Sabor",
+      "de": 63.99,
+      "por": 31.7,
+      "desconto": 50,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/D_NQ_NP_833789-MLA100590939374_122025-O_7qisVrP.webp",
+      "link": "https://meli.la/1qqMQRj",
+      "cupom": null,
+      "loja": "mercadolivre",
+      "categoria": "Esporte e Lazer",
+      "data": "2026-10-01T14:30:20.870124-03:00",
+      "slug": "creatina-hardcore-100-pura-120-capsulas-energia-e-forca-integralmedica-sem-sabor",
+      "page_url": "https://promoninjaofertas.github.io/produto/creatina-hardcore-100-pura-120-capsulas-energia-e-forca-integralmedica-sem-sabor.html",
+      "avaliacao": null,
+      "avaliacoes": 2,
+      "vendas": null,
+      "nota_qualidade": 5,
+      "last_seen": "2026-10-07T03:29:07.975731+00:00",
+      "expires_at": "2026-10-08T00:29:07.975731-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -201,8 +201,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-10-07T03:17:21.814904+00:00",
-      "expires_at": "2026-10-08T00:17:21.814904-03:00",
+      "last_seen": "2026-10-07T03:29:07.975731+00:00",
+      "expires_at": "2026-10-08T00:29:07.975731-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
@@ -227,8 +227,8 @@
       "avaliacoes": 10,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-10-07T03:17:21.814904+00:00",
-      "expires_at": "2026-10-08T00:17:21.814904-03:00",
+      "last_seen": "2026-10-07T03:29:07.975731+00:00",
+      "expires_at": "2026-10-08T00:29:07.975731-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
@@ -253,8 +253,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-10-07T03:17:21.814904+00:00",
-      "expires_at": "2026-10-08T00:17:21.814904-03:00",
+      "last_seen": "2026-10-07T03:29:07.975731+00:00",
+      "expires_at": "2026-10-08T00:29:07.975731-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -279,8 +279,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 8,
-      "last_seen": "2026-10-07T03:17:21.814904+00:00",
-      "expires_at": "2026-10-08T00:17:21.814904-03:00",
+      "last_seen": "2026-10-07T03:29:07.975731+00:00",
+      "expires_at": "2026-10-08T00:29:07.975731-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech",
@@ -305,8 +305,8 @@
       "avaliacoes": 7,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-10-07T03:17:21.814904+00:00",
-      "expires_at": "2026-10-08T00:17:21.814904-03:00",
+      "last_seen": "2026-10-07T03:29:07.975731+00:00",
+      "expires_at": "2026-10-08T00:29:07.975731-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
@@ -331,11 +331,37 @@
       "avaliacoes": 1,
       "vendas": null,
       "nota_qualidade": 7,
-      "last_seen": "2026-10-07T03:17:21.814904+00:00",
-      "expires_at": "2026-10-08T00:17:21.814904-03:00",
+      "last_seen": "2026-10-07T03:29:07.975731+00:00",
+      "expires_at": "2026-10-08T00:29:07.975731-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
+      "cupom_no_telegram": false,
+      "cupom_telegram_url": null
+    },
+    {
+      "source_id": "3091427",
+      "titulo": "Motorola Smartwatch Moto Watch 40 Preto",
+      "de": 549.0,
+      "por": 397.99,
+      "desconto": 28,
+      "imagem": "https://m.media-amazon.com/images/I/61rArf23-CL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0CYN89CC8?tag=promoninja0b2-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Smartphones",
+      "data": "2026-10-06T22:53:55.969929-03:00",
+      "slug": "motorola-smartwatch-moto-watch-40-preto",
+      "page_url": "https://promoninjaofertas.github.io/produto/motorola-smartwatch-moto-watch-40-preto.html",
+      "avaliacao": null,
+      "avaliacoes": 1,
+      "vendas": 5,
+      "nota_qualidade": 7,
+      "last_seen": "2026-10-07T01:53:55.969929+00:00",
+      "expires_at": "2026-10-07T22:53:55.969929-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Tech",
       "cupom_no_telegram": false,
       "cupom_telegram_url": null
     },
@@ -366,25 +392,25 @@
       "cupom_telegram_url": "https://t.me/promoninjaofertas"
     },
     {
-      "source_id": "3091427",
-      "titulo": "Motorola Smartwatch Moto Watch 40 Preto",
-      "de": 549.0,
-      "por": 397.99,
-      "desconto": 28,
-      "imagem": "https://m.media-amazon.com/images/I/61rArf23-CL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0CYN89CC8?tag=promoninja0b2-20",
+      "source_id": "3091397",
+      "titulo": "Soundbar JBL Cinema SB595 com 3.1.2 Canais Dolby Atmos",
+      "de": 1999.0,
+      "por": 1407.14,
+      "desconto": 30,
+      "imagem": "https://m.media-amazon.com/images/I/51n1AK9rmdL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0FZXTYQ3V?tag=promoninja0b2-20",
       "cupom": null,
       "loja": "amazon",
-      "categoria": "Smartphones",
-      "data": "2026-10-06T22:53:55.969929-03:00",
-      "slug": "motorola-smartwatch-moto-watch-40-preto",
-      "page_url": "https://promoninjaofertas.github.io/produto/motorola-smartwatch-moto-watch-40-preto.html",
+      "categoria": "Audio",
+      "data": "2026-10-06T22:41:38.014847-03:00",
+      "slug": "soundbar-jbl-cinema-sb595-com-3-1-2-canais-dolby-atmos",
+      "page_url": "https://promoninjaofertas.github.io/produto/soundbar-jbl-cinema-sb595-com-3-1-2-canais-dolby-atmos.html",
       "avaliacao": null,
       "avaliacoes": 1,
       "vendas": 5,
-      "nota_qualidade": 7,
-      "last_seen": "2026-10-07T01:53:55.969929+00:00",
-      "expires_at": "2026-10-07T22:53:55.969929-03:00",
+      "nota_qualidade": 6,
+      "last_seen": "2026-10-07T01:41:38.014847+00:00",
+      "expires_at": "2026-10-07T22:41:38.014847-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech",
@@ -408,32 +434,6 @@
       "avaliacao": null,
       "avaliacoes": 1,
       "vendas": 15,
-      "nota_qualidade": 6,
-      "last_seen": "2026-10-07T01:41:38.014847+00:00",
-      "expires_at": "2026-10-07T22:41:38.014847-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Tech",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
-    },
-    {
-      "source_id": "3091397",
-      "titulo": "Soundbar JBL Cinema SB595 com 3.1.2 Canais Dolby Atmos",
-      "de": 1999.0,
-      "por": 1407.14,
-      "desconto": 30,
-      "imagem": "https://m.media-amazon.com/images/I/51n1AK9rmdL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0FZXTYQ3V?tag=promoninja0b2-20",
-      "cupom": null,
-      "loja": "amazon",
-      "categoria": "Audio",
-      "data": "2026-10-06T22:41:38.014847-03:00",
-      "slug": "soundbar-jbl-cinema-sb595-com-3-1-2-canais-dolby-atmos",
-      "page_url": "https://promoninjaofertas.github.io/produto/soundbar-jbl-cinema-sb595-com-3-1-2-canais-dolby-atmos.html",
-      "avaliacao": null,
-      "avaliacoes": 1,
-      "vendas": 5,
       "nota_qualidade": 6,
       "last_seen": "2026-10-07T01:41:38.014847+00:00",
       "expires_at": "2026-10-07T22:41:38.014847-03:00",
@@ -652,32 +652,6 @@
       "cupom_telegram_url": null
     },
     {
-      "source_id": "3089467",
-      "titulo": "JBL Tune 780NC Fone Bluetooth Over-Ear com Cancelamento de Ruído Preto",
-      "de": 560.52,
-      "por": 365.67,
-      "desconto": 35,
-      "imagem": "https://m.media-amazon.com/images/I/61CLDzQE5NL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0GVP9G4SJ?tag=promoninja0b2-20",
-      "cupom": null,
-      "loja": "amazon",
-      "categoria": "Audio",
-      "data": "2026-10-06T13:14:20.677520-03:00",
-      "slug": "jbl-tune-780nc-fone-bluetooth-over-ear-com-cancelamento-de-ruido-preto",
-      "page_url": "https://promoninjaofertas.github.io/produto/jbl-tune-780nc-fone-bluetooth-over-ear-com-cancelamento-de-ruido-preto.html",
-      "avaliacao": null,
-      "avaliacoes": 1,
-      "vendas": 15,
-      "nota_qualidade": 7,
-      "last_seen": "2026-10-06T16:14:20.677520+00:00",
-      "expires_at": "2026-10-07T13:14:20.677520-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Tech",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
-    },
-    {
       "source_id": "3089611",
       "titulo": "JBL Fone de Ouvido Bluetooth Over-Ear Tune 730BT Sem Fio Até 76 Horas de Bateria - Preto",
       "de": 399.0,
@@ -694,6 +668,32 @@
       "avaliacao": null,
       "avaliacoes": 1,
       "vendas": 10,
+      "nota_qualidade": 7,
+      "last_seen": "2026-10-06T16:14:20.677520+00:00",
+      "expires_at": "2026-10-07T13:14:20.677520-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Tech",
+      "cupom_no_telegram": false,
+      "cupom_telegram_url": null
+    },
+    {
+      "source_id": "3089467",
+      "titulo": "JBL Tune 780NC Fone Bluetooth Over-Ear com Cancelamento de Ruído Preto",
+      "de": 560.52,
+      "por": 365.67,
+      "desconto": 35,
+      "imagem": "https://m.media-amazon.com/images/I/61CLDzQE5NL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0GVP9G4SJ?tag=promoninja0b2-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Audio",
+      "data": "2026-10-06T13:14:20.677520-03:00",
+      "slug": "jbl-tune-780nc-fone-bluetooth-over-ear-com-cancelamento-de-ruido-preto",
+      "page_url": "https://promoninjaofertas.github.io/produto/jbl-tune-780nc-fone-bluetooth-over-ear-com-cancelamento-de-ruido-preto.html",
+      "avaliacao": null,
+      "avaliacoes": 1,
+      "vendas": 15,
       "nota_qualidade": 7,
       "last_seen": "2026-10-06T16:14:20.677520+00:00",
       "expires_at": "2026-10-07T13:14:20.677520-03:00",
@@ -981,11 +981,11 @@
       "avaliacoes": null,
       "vendas": 500,
       "nota_qualidade": 9,
-      "last_seen": "2026-10-07T02:17:56.076413+00:00",
-      "expires_at": "2026-10-07T23:17:56.076413-03:00",
+      "last_seen": "2026-10-07T03:29:07.975731+00:00",
+      "expires_at": "2026-10-08T00:29:07.975731-03:00",
       "marca": "Oster",
       "price_evidence": {
-        "checked_at": "2026-10-07T02:18:49.447199+00:00",
+        "checked_at": "2026-10-07T03:30:07.165750+00:00",
         "identity": {
           "brand": "Oster",
           "model": "75l",
@@ -1588,7 +1588,7 @@
       "por": 1221.11,
       "desconto": 8,
       "imagem": "https://cf.shopee.com.br/file/sg-11134201-825zq-mmahx5f017gl43",
-      "link": "https://s.shopee.com.br/qjzsW1cAM",
+      "link": "https://s.shopee.com.br/5At3pmwXSZ",
       "cupom": null,
       "loja": "shopee",
       "categoria": "Informatica",
@@ -1599,11 +1599,11 @@
       "avaliacoes": null,
       "vendas": 246,
       "nota_qualidade": 9,
-      "last_seen": "2026-10-07T02:17:56.076413+00:00",
-      "expires_at": "2026-10-07T23:17:56.076413-03:00",
+      "last_seen": "2026-10-07T03:29:07.975731+00:00",
+      "expires_at": "2026-10-08T00:29:07.975731-03:00",
       "marca": "Epson",
       "price_evidence": {
-        "checked_at": "2026-10-07T02:18:49.447199+00:00",
+        "checked_at": "2026-10-07T03:30:07.165750+00:00",
         "identity": {
           "brand": "Epson",
           "model": "l3250",
@@ -1616,17 +1616,9 @@
         "previous_min": 1136.11,
         "observed_min": 1136.11,
         "since": "2026-09-12T13:19:26.893454+00:00",
-        "observations": 106,
+        "observations": 108,
         "days": 26,
         "history": [
-          {
-            "at": "2026-09-28T21:32:04.400942+00:00",
-            "price": 1236.0
-          },
-          {
-            "at": "2026-09-29T03:41:13.805108+00:00",
-            "price": 1236.0
-          },
           {
             "at": "2026-09-29T09:52:52.173088+00:00",
             "price": 1236.0
@@ -1777,6 +1769,14 @@
           },
           {
             "at": "2026-10-07T01:30:54.811287+00:00",
+            "price": 1221.11
+          },
+          {
+            "at": "2026-10-07T03:01:33.543027+00:00",
+            "price": 1136.11
+          },
+          {
+            "at": "2026-10-07T03:16:50.442774+00:00",
             "price": 1221.11
           }
         ],
@@ -2091,212 +2091,6 @@
       "cupom_telegram_url": null
     },
     {
-      "source_id": "22198437019",
-      "titulo": "IMPRESSORA MULTIFUNCIONAL JATO DE TINTA  ECOTANK  EPSON 3250  Bivolt",
-      "de": null,
-      "por": 1145.0,
-      "desconto": 28,
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-82612-ml5fu9rnsdu5fc",
-      "link": "https://s.shopee.com.br/1AssXBhKC",
-      "cupom": null,
-      "loja": "shopee",
-      "categoria": "Informatica",
-      "data": "2026-09-12T07:30:38.079626-03:00",
-      "slug": "shopee-epson-3250-bivolt-kit-1",
-      "page_url": "https://promoninjaofertas.github.io/produto/shopee-epson-3250-bivolt-kit-1.html",
-      "avaliacao": 5.0,
-      "avaliacoes": null,
-      "vendas": 1391,
-      "nota_qualidade": 10,
-      "last_seen": "2026-10-07T02:40:49.318161+00:00",
-      "expires_at": "2026-10-07T23:40:49.318161-03:00",
-      "marca": "Epson",
-      "price_evidence": {
-        "checked_at": "2026-10-07T02:41:58.752173+00:00",
-        "identity": {
-          "brand": "Epson",
-          "model": "3250",
-          "family": "impressoras",
-          "kind": "produto",
-          "variant": "bivolt|kit:1",
-          "ambiguous": false,
-          "comparison_key": "epson|3250|bivolt|kit:1"
-        },
-        "previous_min": 1039.0,
-        "observed_min": 1039.0,
-        "since": "2026-09-12T13:31:01.433528+00:00",
-        "observations": 59,
-        "days": 15,
-        "history": [
-          {
-            "at": "2026-09-29T04:58:38.751573+00:00",
-            "price": 1259.0
-          },
-          {
-            "at": "2026-09-29T11:04:26.796607+00:00",
-            "price": 1259.0
-          },
-          {
-            "at": "2026-09-29T13:33:33.797445+00:00",
-            "price": 1160.0
-          },
-          {
-            "at": "2026-09-29T19:34:10.400299+00:00",
-            "price": 1160.0
-          },
-          {
-            "at": "2026-09-30T01:39:30.164556+00:00",
-            "price": 1160.0
-          },
-          {
-            "at": "2026-09-30T07:45:41.669272+00:00",
-            "price": 1160.0
-          },
-          {
-            "at": "2026-09-30T12:02:02.190454+00:00",
-            "price": 1599.0
-          },
-          {
-            "at": "2026-09-30T12:18:40.382862+00:00",
-            "price": 1160.0
-          },
-          {
-            "at": "2026-09-30T18:24:10.337588+00:00",
-            "price": 1160.0
-          },
-          {
-            "at": "2026-09-30T18:54:31.005449+00:00",
-            "price": 1060.0
-          },
-          {
-            "at": "2026-10-01T01:01:25.121822+00:00",
-            "price": 1060.0
-          },
-          {
-            "at": "2026-10-01T07:05:43.487363+00:00",
-            "price": 1060.0
-          },
-          {
-            "at": "2026-10-01T11:56:45.781915+00:00",
-            "price": 1179.0
-          },
-          {
-            "at": "2026-10-01T17:13:21.999508+00:00",
-            "price": 1200.0
-          },
-          {
-            "at": "2026-10-01T23:20:42.307734+00:00",
-            "price": 1200.0
-          },
-          {
-            "at": "2026-10-02T03:02:33.884833+00:00",
-            "price": 1179.0
-          },
-          {
-            "at": "2026-10-02T09:06:54.892479+00:00",
-            "price": 1179.0
-          },
-          {
-            "at": "2026-10-02T15:11:00.386524+00:00",
-            "price": 1179.0
-          },
-          {
-            "at": "2026-10-02T15:21:21.874944+00:00",
-            "price": 1200.0
-          },
-          {
-            "at": "2026-10-02T17:31:48.844571+00:00",
-            "price": 1175.0
-          },
-          {
-            "at": "2026-10-02T19:50:50.445711+00:00",
-            "price": 1185.0
-          },
-          {
-            "at": "2026-10-03T01:57:05.530560+00:00",
-            "price": 1185.0
-          },
-          {
-            "at": "2026-10-03T07:58:00.736548+00:00",
-            "price": 1185.0
-          },
-          {
-            "at": "2026-10-03T14:04:13.682637+00:00",
-            "price": 1185.0
-          },
-          {
-            "at": "2026-10-03T20:05:08.297476+00:00",
-            "price": 1185.0
-          },
-          {
-            "at": "2026-10-04T02:15:18.763335+00:00",
-            "price": 1185.0
-          },
-          {
-            "at": "2026-10-04T08:15:53.870344+00:00",
-            "price": 1185.0
-          },
-          {
-            "at": "2026-10-04T14:17:04.987413+00:00",
-            "price": 1185.0
-          },
-          {
-            "at": "2026-10-04T20:22:12.455480+00:00",
-            "price": 1185.0
-          },
-          {
-            "at": "2026-10-05T02:29:27.316490+00:00",
-            "price": 1185.0
-          },
-          {
-            "at": "2026-10-05T08:41:08.007849+00:00",
-            "price": 1185.0
-          },
-          {
-            "at": "2026-10-05T14:41:52.424258+00:00",
-            "price": 1185.0
-          },
-          {
-            "at": "2026-10-05T20:42:33.316070+00:00",
-            "price": 1185.0
-          },
-          {
-            "at": "2026-10-06T02:43:20.289262+00:00",
-            "price": 1185.0
-          },
-          {
-            "at": "2026-10-06T03:03:46.994602+00:00",
-            "price": 1179.0
-          },
-          {
-            "at": "2026-10-06T09:09:39.033817+00:00",
-            "price": 1179.0
-          },
-          {
-            "at": "2026-10-06T15:15:59.695347+00:00",
-            "price": 1179.0
-          },
-          {
-            "at": "2026-10-06T16:36:54.976890+00:00",
-            "price": 1185.0
-          },
-          {
-            "at": "2026-10-06T20:14:39.107967+00:00",
-            "price": 1179.0
-          },
-          {
-            "at": "2026-10-06T21:00:40.828882+00:00",
-            "price": 1145.0
-          }
-        ],
-        "advantage": false,
-        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
-      },
-      "grupo": "Tech",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
-    },
-    {
       "source_id": "22897147575",
       "titulo": "Leiteira Canecão Fervedor Indução Tramontina Allegra 2l Cor Inox 14 Cm Cabo de Baquelite",
       "de": null,
@@ -2493,6 +2287,212 @@
           {
             "at": "2026-10-06T21:49:27.294804+00:00",
             "price": 115.0
+          }
+        ],
+        "advantage": false,
+        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
+      },
+      "grupo": "Tech",
+      "cupom_no_telegram": false,
+      "cupom_telegram_url": null
+    },
+    {
+      "source_id": "22198437019",
+      "titulo": "IMPRESSORA MULTIFUNCIONAL JATO DE TINTA  ECOTANK  EPSON 3250  Bivolt",
+      "de": null,
+      "por": 1145.0,
+      "desconto": 28,
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-82612-ml5fu9rnsdu5fc",
+      "link": "https://s.shopee.com.br/1gJBeRFUlz",
+      "cupom": null,
+      "loja": "shopee",
+      "categoria": "Informatica",
+      "data": "2026-09-12T07:30:38.079626-03:00",
+      "slug": "shopee-epson-3250-bivolt-kit-1",
+      "page_url": "https://promoninjaofertas.github.io/produto/shopee-epson-3250-bivolt-kit-1.html",
+      "avaliacao": 5.0,
+      "avaliacoes": null,
+      "vendas": 1391,
+      "nota_qualidade": 10,
+      "last_seen": "2026-10-07T03:29:07.975731+00:00",
+      "expires_at": "2026-10-08T00:29:07.975731-03:00",
+      "marca": "Epson",
+      "price_evidence": {
+        "checked_at": "2026-10-07T03:30:07.165750+00:00",
+        "identity": {
+          "brand": "Epson",
+          "model": "3250",
+          "family": "impressoras",
+          "kind": "produto",
+          "variant": "bivolt|kit:1",
+          "ambiguous": false,
+          "comparison_key": "epson|3250|bivolt|kit:1"
+        },
+        "previous_min": 1039.0,
+        "observed_min": 1039.0,
+        "since": "2026-09-12T13:31:01.433528+00:00",
+        "observations": 60,
+        "days": 16,
+        "history": [
+          {
+            "at": "2026-09-29T11:04:26.796607+00:00",
+            "price": 1259.0
+          },
+          {
+            "at": "2026-09-29T13:33:33.797445+00:00",
+            "price": 1160.0
+          },
+          {
+            "at": "2026-09-29T19:34:10.400299+00:00",
+            "price": 1160.0
+          },
+          {
+            "at": "2026-09-30T01:39:30.164556+00:00",
+            "price": 1160.0
+          },
+          {
+            "at": "2026-09-30T07:45:41.669272+00:00",
+            "price": 1160.0
+          },
+          {
+            "at": "2026-09-30T12:02:02.190454+00:00",
+            "price": 1599.0
+          },
+          {
+            "at": "2026-09-30T12:18:40.382862+00:00",
+            "price": 1160.0
+          },
+          {
+            "at": "2026-09-30T18:24:10.337588+00:00",
+            "price": 1160.0
+          },
+          {
+            "at": "2026-09-30T18:54:31.005449+00:00",
+            "price": 1060.0
+          },
+          {
+            "at": "2026-10-01T01:01:25.121822+00:00",
+            "price": 1060.0
+          },
+          {
+            "at": "2026-10-01T07:05:43.487363+00:00",
+            "price": 1060.0
+          },
+          {
+            "at": "2026-10-01T11:56:45.781915+00:00",
+            "price": 1179.0
+          },
+          {
+            "at": "2026-10-01T17:13:21.999508+00:00",
+            "price": 1200.0
+          },
+          {
+            "at": "2026-10-01T23:20:42.307734+00:00",
+            "price": 1200.0
+          },
+          {
+            "at": "2026-10-02T03:02:33.884833+00:00",
+            "price": 1179.0
+          },
+          {
+            "at": "2026-10-02T09:06:54.892479+00:00",
+            "price": 1179.0
+          },
+          {
+            "at": "2026-10-02T15:11:00.386524+00:00",
+            "price": 1179.0
+          },
+          {
+            "at": "2026-10-02T15:21:21.874944+00:00",
+            "price": 1200.0
+          },
+          {
+            "at": "2026-10-02T17:31:48.844571+00:00",
+            "price": 1175.0
+          },
+          {
+            "at": "2026-10-02T19:50:50.445711+00:00",
+            "price": 1185.0
+          },
+          {
+            "at": "2026-10-03T01:57:05.530560+00:00",
+            "price": 1185.0
+          },
+          {
+            "at": "2026-10-03T07:58:00.736548+00:00",
+            "price": 1185.0
+          },
+          {
+            "at": "2026-10-03T14:04:13.682637+00:00",
+            "price": 1185.0
+          },
+          {
+            "at": "2026-10-03T20:05:08.297476+00:00",
+            "price": 1185.0
+          },
+          {
+            "at": "2026-10-04T02:15:18.763335+00:00",
+            "price": 1185.0
+          },
+          {
+            "at": "2026-10-04T08:15:53.870344+00:00",
+            "price": 1185.0
+          },
+          {
+            "at": "2026-10-04T14:17:04.987413+00:00",
+            "price": 1185.0
+          },
+          {
+            "at": "2026-10-04T20:22:12.455480+00:00",
+            "price": 1185.0
+          },
+          {
+            "at": "2026-10-05T02:29:27.316490+00:00",
+            "price": 1185.0
+          },
+          {
+            "at": "2026-10-05T08:41:08.007849+00:00",
+            "price": 1185.0
+          },
+          {
+            "at": "2026-10-05T14:41:52.424258+00:00",
+            "price": 1185.0
+          },
+          {
+            "at": "2026-10-05T20:42:33.316070+00:00",
+            "price": 1185.0
+          },
+          {
+            "at": "2026-10-06T02:43:20.289262+00:00",
+            "price": 1185.0
+          },
+          {
+            "at": "2026-10-06T03:03:46.994602+00:00",
+            "price": 1179.0
+          },
+          {
+            "at": "2026-10-06T09:09:39.033817+00:00",
+            "price": 1179.0
+          },
+          {
+            "at": "2026-10-06T15:15:59.695347+00:00",
+            "price": 1179.0
+          },
+          {
+            "at": "2026-10-06T16:36:54.976890+00:00",
+            "price": 1185.0
+          },
+          {
+            "at": "2026-10-06T20:14:39.107967+00:00",
+            "price": 1179.0
+          },
+          {
+            "at": "2026-10-06T21:00:40.828882+00:00",
+            "price": 1145.0
+          },
+          {
+            "at": "2026-10-07T03:01:33.543027+00:00",
+            "price": 1145.0
           }
         ],
         "advantage": false,
@@ -3344,11 +3344,11 @@
       "avaliacoes": null,
       "vendas": 212,
       "nota_qualidade": 10,
-      "last_seen": "2026-10-07T02:17:56.076413+00:00",
-      "expires_at": "2026-10-07T23:17:56.076413-03:00",
+      "last_seen": "2026-10-07T03:29:07.975731+00:00",
+      "expires_at": "2026-10-08T00:29:07.975731-03:00",
       "marca": "WAP",
       "price_evidence": {
-        "checked_at": "2026-10-07T02:18:49.447199+00:00",
+        "checked_at": "2026-10-07T03:30:07.165750+00:00",
         "identity": {
           "brand": "WAP",
           "model": "7metros",
@@ -3361,13 +3361,9 @@
         "previous_min": 99.0,
         "observed_min": 99.0,
         "since": "2026-09-12T22:19:00.776474+00:00",
-        "observations": 97,
-        "days": 25,
+        "observations": 98,
+        "days": 26,
         "history": [
-          {
-            "at": "2026-09-27T10:06:54.465374+00:00",
-            "price": 104.11
-          },
           {
             "at": "2026-09-27T16:11:32.554414+00:00",
             "price": 104.11
@@ -3523,6 +3519,10 @@
           {
             "at": "2026-10-06T20:19:44.804418+00:00",
             "price": 103.05
+          },
+          {
+            "at": "2026-10-07T02:30:57.399987+00:00",
+            "price": 103.05
           }
         ],
         "advantage": false,
@@ -3539,7 +3539,7 @@
       "por": 309.9,
       "desconto": 23,
       "imagem": "https://cf.shopee.com.br/file/br-11134207-820l7-mps2n1sv12wy66",
-      "link": "https://s.shopee.com.br/BUJ5HZHmA",
+      "link": "https://s.shopee.com.br/5q8kczysAN",
       "cupom": null,
       "loja": "shopee",
       "categoria": "Audio",
@@ -3550,11 +3550,11 @@
       "avaliacoes": null,
       "vendas": 190,
       "nota_qualidade": 9,
-      "last_seen": "2026-10-07T02:17:56.076413+00:00",
-      "expires_at": "2026-10-07T23:17:56.076413-03:00",
+      "last_seen": "2026-10-07T03:29:07.975731+00:00",
+      "expires_at": "2026-10-08T00:29:07.975731-03:00",
       "marca": "JBL",
       "price_evidence": {
-        "checked_at": "2026-10-07T02:18:49.447199+00:00",
+        "checked_at": "2026-10-07T03:30:07.165750+00:00",
         "identity": {
           "brand": "JBL",
           "model": null,
@@ -3745,7 +3745,7 @@
       "por": 849.0,
       "desconto": 35,
       "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m71303iaqpuv88",
-      "link": "https://s.shopee.com.br/5Asz27cGkv",
+      "link": "https://s.shopee.com.br/AAHjm2wX6R",
       "cupom": null,
       "loja": "shopee",
       "categoria": "Hardware",
@@ -3756,11 +3756,11 @@
       "avaliacoes": null,
       "vendas": 647,
       "nota_qualidade": 9,
-      "last_seen": "2026-10-07T02:29:22.013839+00:00",
-      "expires_at": "2026-10-07T23:29:22.013839-03:00",
+      "last_seen": "2026-10-07T03:29:07.975731+00:00",
+      "expires_at": "2026-10-08T00:29:07.975731-03:00",
       "marca": "Asus",
       "price_evidence": {
-        "checked_at": "2026-10-07T02:30:18.946532+00:00",
+        "checked_at": "2026-10-07T03:30:07.165750+00:00",
         "identity": {
           "brand": "Asus",
           "model": "am4",
@@ -3951,7 +3951,7 @@
       "por": 657.9,
       "desconto": 59,
       "imagem": "https://cf.shopee.com.br/file/br-11134207-820lt-mpjrkv9dzabnb3",
-      "link": "https://s.shopee.com.br/9fLOOInxX4",
+      "link": "https://s.shopee.com.br/1AxfjULUd",
       "cupom": null,
       "loja": "shopee",
       "categoria": "Hardware",
@@ -3962,11 +3962,11 @@
       "avaliacoes": null,
       "vendas": 216,
       "nota_qualidade": 10,
-      "last_seen": "2026-10-07T02:52:55.412549+00:00",
-      "expires_at": "2026-10-07T23:52:55.412549-03:00",
+      "last_seen": "2026-10-07T03:29:07.975731+00:00",
+      "expires_at": "2026-10-08T00:29:07.975731-03:00",
       "marca": "Acer",
       "price_evidence": {
-        "checked_at": "2026-10-07T02:53:48.123590+00:00",
+        "checked_at": "2026-10-07T03:30:07.165750+00:00",
         "identity": {
           "brand": "Acer",
           "model": "kg243y",
