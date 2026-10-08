@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-10-08T10:16:38.006560+00:00",
+  "atualizado": "2026-10-08T10:30:15.117727+00:00",
   "ofertas": [
     {
       "source_id": "pechinchou-84321",
@@ -19,8 +19,8 @@
       "avaliacoes": 3,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-10-08T10:16:38.006560+00:00",
-      "expires_at": "2026-10-09T07:16:38.006560-03:00",
+      "last_seen": "2026-10-08T10:30:15.117727+00:00",
+      "expires_at": "2026-10-09T07:30:15.117727-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
@@ -45,65 +45,13 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 7,
-      "last_seen": "2026-10-08T10:16:38.006560+00:00",
-      "expires_at": "2026-10-09T07:16:38.006560-03:00",
+      "last_seen": "2026-10-08T10:30:15.117727+00:00",
+      "expires_at": "2026-10-09T07:30:15.117727-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech",
       "cupom_no_telegram": true,
       "cupom_telegram_url": "https://t.me/promoninjaofertas"
-    },
-    {
-      "source_id": "pechinchou-152720",
-      "titulo": "Tênis Casual Masculino Rebound V6 Low Puma Puma White-chocolate-alpine Snow Geométrico 41 Br",
-      "de": 399.0,
-      "por": 198.0,
-      "desconto": 50,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/D_NQ_NP_683935-MLB83668860121_042025-O-tenis-casual-masculino-rebound-v6-low-puma.webp",
-      "link": "https://meli.la/1FRBDB9",
-      "cupom": null,
-      "loja": "mercadolivre",
-      "categoria": "Beleza",
-      "data": "2026-10-07T20:19:15.873188-03:00",
-      "slug": "tenis-casual-masculino-rebound-v6-low-puma-puma-white-chocolate-alpine-snow-geometrico",
-      "page_url": "https://promoninjaofertas.github.io/produto/tenis-casual-masculino-rebound-v6-low-puma-puma-white-chocolate-alpine-snow-geometrico.html",
-      "avaliacao": null,
-      "avaliacoes": 10,
-      "vendas": null,
-      "nota_qualidade": 7,
-      "last_seen": "2026-10-08T10:16:38.006560+00:00",
-      "expires_at": "2026-10-09T07:16:38.006560-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Moda",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
-    },
-    {
-      "source_id": "pechinchou-149999",
-      "titulo": "Pré Treino Pre Workout DIABO VERDE Pote 300g Sabor Bala De Framboesa Ftw",
-      "de": 109.9,
-      "por": 49.99,
-      "desconto": 55,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/bb95545d17bafb187e67cfb736bb10634b245aee74a1073afc6cbbb4d2663b2c.jpg",
-      "link": "https://meli.la/1GGnZUf",
-      "cupom": null,
-      "loja": "mercadolivre",
-      "categoria": "Casa",
-      "data": "2026-10-07T20:19:15.873188-03:00",
-      "slug": "pre-treino-pre-workout-diabo-verde-pote-300g-sabor-bala-de-framboesa-ftw",
-      "page_url": "https://promoninjaofertas.github.io/produto/pre-treino-pre-workout-diabo-verde-pote-300g-sabor-bala-de-framboesa-ftw.html",
-      "avaliacao": null,
-      "avaliacoes": 20,
-      "vendas": null,
-      "nota_qualidade": 6,
-      "last_seen": "2026-10-08T10:16:38.006560+00:00",
-      "expires_at": "2026-10-09T07:16:38.006560-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Outros",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
     },
     {
       "source_id": "pechinchou-154275",
@@ -123,13 +71,65 @@
       "avaliacoes": 10,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-10-08T10:16:38.006560+00:00",
-      "expires_at": "2026-10-09T07:16:38.006560-03:00",
+      "last_seen": "2026-10-08T10:30:15.117727+00:00",
+      "expires_at": "2026-10-09T07:30:15.117727-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
       "cupom_no_telegram": true,
       "cupom_telegram_url": "https://t.me/promoninjaofertas"
+    },
+    {
+      "source_id": "pechinchou-149999",
+      "titulo": "Pré Treino Pre Workout DIABO VERDE Pote 300g Sabor Bala De Framboesa Ftw",
+      "de": 109.9,
+      "por": 49.99,
+      "desconto": 55,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/bb95545d17bafb187e67cfb736bb10634b245aee74a1073afc6cbbb4d2663b2c.jpg",
+      "link": "https://meli.la/1GGnZUf",
+      "cupom": null,
+      "loja": "mercadolivre",
+      "categoria": "Casa",
+      "data": "2026-10-07T20:19:15.873188-03:00",
+      "slug": "pre-treino-pre-workout-diabo-verde-pote-300g-sabor-bala-de-framboesa-ftw",
+      "page_url": "https://promoninjaofertas.github.io/produto/pre-treino-pre-workout-diabo-verde-pote-300g-sabor-bala-de-framboesa-ftw.html",
+      "avaliacao": null,
+      "avaliacoes": 20,
+      "vendas": null,
+      "nota_qualidade": 6,
+      "last_seen": "2026-10-08T10:30:15.117727+00:00",
+      "expires_at": "2026-10-09T07:30:15.117727-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Outros",
+      "cupom_no_telegram": false,
+      "cupom_telegram_url": null
+    },
+    {
+      "source_id": "pechinchou-152720",
+      "titulo": "Tênis Casual Masculino Rebound V6 Low Puma Puma White-chocolate-alpine Snow Geométrico 41 Br",
+      "de": 399.0,
+      "por": 198.0,
+      "desconto": 50,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/D_NQ_NP_683935-MLB83668860121_042025-O-tenis-casual-masculino-rebound-v6-low-puma.webp",
+      "link": "https://meli.la/1FRBDB9",
+      "cupom": null,
+      "loja": "mercadolivre",
+      "categoria": "Beleza",
+      "data": "2026-10-07T20:19:15.873188-03:00",
+      "slug": "tenis-casual-masculino-rebound-v6-low-puma-puma-white-chocolate-alpine-snow-geometrico",
+      "page_url": "https://promoninjaofertas.github.io/produto/tenis-casual-masculino-rebound-v6-low-puma-puma-white-chocolate-alpine-snow-geometrico.html",
+      "avaliacao": null,
+      "avaliacoes": 10,
+      "vendas": null,
+      "nota_qualidade": 7,
+      "last_seen": "2026-10-08T10:30:15.117727+00:00",
+      "expires_at": "2026-10-09T07:30:15.117727-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Moda",
+      "cupom_no_telegram": false,
+      "cupom_telegram_url": null
     },
     {
       "source_id": "pechinchou-120338",
@@ -149,8 +149,8 @@
       "avaliacoes": 10,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-10-08T10:16:38.006560+00:00",
-      "expires_at": "2026-10-09T07:16:38.006560-03:00",
+      "last_seen": "2026-10-08T10:30:15.117727+00:00",
+      "expires_at": "2026-10-09T07:30:15.117727-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
@@ -175,8 +175,8 @@
       "avaliacoes": 10,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-10-08T10:16:38.006560+00:00",
-      "expires_at": "2026-10-09T07:16:38.006560-03:00",
+      "last_seen": "2026-10-08T10:30:15.117727+00:00",
+      "expires_at": "2026-10-09T07:30:15.117727-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -201,8 +201,8 @@
       "avaliacoes": 10,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-10-08T10:16:38.006560+00:00",
-      "expires_at": "2026-10-09T07:16:38.006560-03:00",
+      "last_seen": "2026-10-08T10:30:15.117727+00:00",
+      "expires_at": "2026-10-09T07:30:15.117727-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
@@ -227,8 +227,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 8,
-      "last_seen": "2026-10-08T10:16:38.006560+00:00",
-      "expires_at": "2026-10-09T07:16:38.006560-03:00",
+      "last_seen": "2026-10-08T10:30:15.117727+00:00",
+      "expires_at": "2026-10-09T07:30:15.117727-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
@@ -253,34 +253,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-10-08T10:16:38.006560+00:00",
-      "expires_at": "2026-10-09T07:16:38.006560-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Moda",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
-    },
-    {
-      "source_id": "pechinchou-152200",
-      "titulo": "Kit 2 Camisas Polo Manga Longa Blusa Masculina Zíper",
-      "de": 78.0,
-      "por": 66.0,
-      "desconto": 15,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/external-image_zuxSQWW.jpg",
-      "link": "https://meli.la/1pksH7J",
-      "cupom": null,
-      "loja": "mercadolivre",
-      "categoria": "Beleza",
-      "data": "2026-09-17T09:06:58.276341-03:00",
-      "slug": "kit-2-camisas-polo-manga-longa-blusa-masculina-ziper",
-      "page_url": "https://promoninjaofertas.github.io/produto/kit-2-camisas-polo-manga-longa-blusa-masculina-ziper.html",
-      "avaliacao": null,
-      "avaliacoes": 4,
-      "vendas": null,
-      "nota_qualidade": 5,
-      "last_seen": "2026-10-08T10:16:38.006560+00:00",
-      "expires_at": "2026-10-09T07:16:38.006560-03:00",
+      "last_seen": "2026-10-08T10:30:15.117727+00:00",
+      "expires_at": "2026-10-09T07:30:15.117727-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
@@ -305,8 +279,8 @@
       "avaliacoes": 2,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-10-08T10:16:38.006560+00:00",
-      "expires_at": "2026-10-09T07:16:38.006560-03:00",
+      "last_seen": "2026-10-08T10:30:15.117727+00:00",
+      "expires_at": "2026-10-09T07:30:15.117727-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
@@ -331,8 +305,8 @@
       "avaliacoes": 8,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-10-08T10:16:38.006560+00:00",
-      "expires_at": "2026-10-09T07:16:38.006560-03:00",
+      "last_seen": "2026-10-08T10:30:15.117727+00:00",
+      "expires_at": "2026-10-09T07:30:15.117727-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -354,11 +328,11 @@
       "slug": "torneira-com-filtro-com-purificador-agua-bica-flexivel-gourmet-para-cozinha-parede-bic",
       "page_url": "https://promoninjaofertas.github.io/produto/torneira-com-filtro-com-purificador-agua-bica-flexivel-gourmet-para-cozinha-parede-bic.html",
       "avaliacao": null,
-      "avaliacoes": 30,
+      "avaliacoes": 50,
       "vendas": null,
-      "nota_qualidade": 5,
-      "last_seen": "2026-10-08T10:16:38.006560+00:00",
-      "expires_at": "2026-10-09T07:16:38.006560-03:00",
+      "nota_qualidade": 6,
+      "last_seen": "2026-10-08T10:30:15.117727+00:00",
+      "expires_at": "2026-10-09T07:30:15.117727-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
@@ -383,8 +357,8 @@
       "avaliacoes": 30,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-10-08T10:16:38.006560+00:00",
-      "expires_at": "2026-10-09T07:16:38.006560-03:00",
+      "last_seen": "2026-10-08T10:30:15.117727+00:00",
+      "expires_at": "2026-10-09T07:30:15.117727-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
@@ -409,8 +383,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 9,
-      "last_seen": "2026-10-08T10:16:38.006560+00:00",
-      "expires_at": "2026-10-09T07:16:38.006560-03:00",
+      "last_seen": "2026-10-08T10:30:15.117727+00:00",
+      "expires_at": "2026-10-09T07:30:15.117727-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech",
@@ -435,8 +409,8 @@
       "avaliacoes": 10,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-10-08T10:16:38.006560+00:00",
-      "expires_at": "2026-10-09T07:16:38.006560-03:00",
+      "last_seen": "2026-10-08T10:30:15.117727+00:00",
+      "expires_at": "2026-10-09T07:30:15.117727-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
@@ -461,11 +435,37 @@
       "avaliacoes": 3,
       "vendas": null,
       "nota_qualidade": 8,
-      "last_seen": "2026-10-08T10:16:38.006560+00:00",
-      "expires_at": "2026-10-09T07:16:38.006560-03:00",
+      "last_seen": "2026-10-08T10:30:15.117727+00:00",
+      "expires_at": "2026-10-09T07:30:15.117727-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
+      "cupom_no_telegram": false,
+      "cupom_telegram_url": null
+    },
+    {
+      "source_id": "pechinchou-136368",
+      "titulo": "Creatina Growth Supplements Monohidratada em pó Sem sabor x 250g",
+      "de": 49.9,
+      "por": 39.9,
+      "desconto": 20,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/D_NQ_NP_876650-MLA108315432248_032026-F.jpg",
+      "link": "https://meli.la/1yxmLiM",
+      "cupom": null,
+      "loja": "mercadolivre",
+      "categoria": "Esporte e Lazer",
+      "data": "2026-07-13T08:27:52.890573-03:00",
+      "slug": "creatina-growth-supplements-monohidratada-em-po-sem-sabor-x-250g",
+      "page_url": "https://promoninjaofertas.github.io/produto/creatina-growth-supplements-monohidratada-em-po-sem-sabor-x-250g.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": null,
+      "nota_qualidade": 5,
+      "last_seen": "2026-10-08T10:30:15.117727+00:00",
+      "expires_at": "2026-10-09T07:30:15.117727-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Outros",
       "cupom_no_telegram": false,
       "cupom_telegram_url": null
     },
@@ -487,37 +487,11 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 7,
-      "last_seen": "2026-10-08T10:16:38.006560+00:00",
-      "expires_at": "2026-10-09T07:16:38.006560-03:00",
+      "last_seen": "2026-10-08T10:30:15.117727+00:00",
+      "expires_at": "2026-10-09T07:30:15.117727-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
-    },
-    {
-      "source_id": "pechinchou-147210",
-      "titulo": "Aspirador Portátil Sem Fio 3 em 1 USB – Aspirador de Pó Manual Sucção Potente com Função Soprador, Filtro Lavável, Ideal para Carro, Casa, Escritório e Teclado – Linha PREMIUM",
-      "de": 59.99,
-      "por": 34.9,
-      "desconto": 42,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/615hINPBweL._AC_SL1024_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0GN3TYH7B?tag=promoninja0b2-20",
-      "cupom": null,
-      "loja": "amazon",
-      "categoria": "Hardware",
-      "data": "2026-10-08T01:56:30.901954-03:00",
-      "slug": "aspirador-portatil-sem-fio-3-em-1-usb-aspirador-de-po-manual-succao-potente",
-      "page_url": "https://promoninjaofertas.github.io/produto/aspirador-portatil-sem-fio-3-em-1-usb-aspirador-de-po-manual-succao-potente.html",
-      "avaliacao": null,
-      "avaliacoes": null,
-      "vendas": null,
-      "nota_qualidade": 6,
-      "last_seen": "2026-10-08T10:16:38.006560+00:00",
-      "expires_at": "2026-10-09T07:16:38.006560-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Tech",
       "cupom_no_telegram": false,
       "cupom_telegram_url": null
     },
@@ -539,11 +513,37 @@
       "avaliacoes": 10,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-10-08T10:16:38.006560+00:00",
-      "expires_at": "2026-10-09T07:16:38.006560-03:00",
+      "last_seen": "2026-10-08T10:30:15.117727+00:00",
+      "expires_at": "2026-10-09T07:30:15.117727-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
+      "cupom_no_telegram": false,
+      "cupom_telegram_url": null
+    },
+    {
+      "source_id": "pechinchou-147210",
+      "titulo": "Aspirador Portátil Sem Fio 3 em 1 USB – Aspirador de Pó Manual Sucção Potente com Função Soprador, Filtro Lavável, Ideal para Carro, Casa, Escritório e Teclado – Linha PREMIUM",
+      "de": 59.99,
+      "por": 34.9,
+      "desconto": 42,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/615hINPBweL._AC_SL1024_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0GN3TYH7B?tag=promoninja0b2-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Hardware",
+      "data": "2026-10-08T01:56:30.901954-03:00",
+      "slug": "aspirador-portatil-sem-fio-3-em-1-usb-aspirador-de-po-manual-succao-potente",
+      "page_url": "https://promoninjaofertas.github.io/produto/aspirador-portatil-sem-fio-3-em-1-usb-aspirador-de-po-manual-succao-potente.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": null,
+      "nota_qualidade": 6,
+      "last_seen": "2026-10-08T10:30:15.117727+00:00",
+      "expires_at": "2026-10-09T07:30:15.117727-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Tech",
       "cupom_no_telegram": false,
       "cupom_telegram_url": null
     },
@@ -565,8 +565,8 @@
       "avaliacoes": 50,
       "vendas": null,
       "nota_qualidade": 7,
-      "last_seen": "2026-10-08T10:16:38.006560+00:00",
-      "expires_at": "2026-10-09T07:16:38.006560-03:00",
+      "last_seen": "2026-10-08T10:30:15.117727+00:00",
+      "expires_at": "2026-10-09T07:30:15.117727-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -591,8 +591,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-10-08T10:16:38.006560+00:00",
-      "expires_at": "2026-10-09T07:16:38.006560-03:00",
+      "last_seen": "2026-10-08T10:30:15.117727+00:00",
+      "expires_at": "2026-10-09T07:30:15.117727-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
@@ -617,60 +617,8 @@
       "avaliacoes": 10,
       "vendas": null,
       "nota_qualidade": 7,
-      "last_seen": "2026-10-08T10:16:38.006560+00:00",
-      "expires_at": "2026-10-09T07:16:38.006560-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Casa",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
-    },
-    {
-      "source_id": "pechinchou-146812",
-      "titulo": "Oxford Conjunto com 6 Pratos de Sobremesa 21,5cm Ryo Maresia",
-      "de": 148.54,
-      "por": 98.7,
-      "desconto": 34,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/external-image_zufRIKJ.jpg",
-      "link": "https://www.amazon.com.br/dp/B0941VNWN2?tag=promoninja0b2-20",
-      "cupom": null,
-      "loja": "amazon",
-      "categoria": "Casa",
-      "data": "2026-10-08T01:29:08.072566-03:00",
-      "slug": "oxford-conjunto-com-6-pratos-de-sobremesa-21-5cm-ryo-maresia",
-      "page_url": "https://promoninjaofertas.github.io/produto/oxford-conjunto-com-6-pratos-de-sobremesa-21-5cm-ryo-maresia.html",
-      "avaliacao": null,
-      "avaliacoes": null,
-      "vendas": null,
-      "nota_qualidade": 6,
-      "last_seen": "2026-10-08T10:16:38.006560+00:00",
-      "expires_at": "2026-10-09T07:16:38.006560-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Casa",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
-    },
-    {
-      "source_id": "pechinchou-104114",
-      "titulo": "10 Strawberry Street Prato De Salada Simply White De 19 Cm, Conjunto De 6",
-      "de": 90.65,
-      "por": 43.88,
-      "desconto": 52,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/51Axm8qESPS.__AC_SX300_SY300_QL70_ML2__43dsNRP_z0HxkDh_rctxJl4_d5a2LE0_hatUfIA.jpg",
-      "link": "https://www.amazon.com.br/dp/B093R6C261?tag=promoninja0b2-20",
-      "cupom": null,
-      "loja": "amazon",
-      "categoria": "Utilidades Domésticas",
-      "data": "2026-10-08T01:29:08.072566-03:00",
-      "slug": "10-strawberry-street-prato-de-salada-simply-white-de-19-cm-conjunto-de-6",
-      "page_url": "https://promoninjaofertas.github.io/produto/10-strawberry-street-prato-de-salada-simply-white-de-19-cm-conjunto-de-6.html",
-      "avaliacao": null,
-      "avaliacoes": 20,
-      "vendas": null,
-      "nota_qualidade": 5,
-      "last_seen": "2026-10-08T10:16:38.006560+00:00",
-      "expires_at": "2026-10-09T07:16:38.006560-03:00",
+      "last_seen": "2026-10-08T10:30:15.117727+00:00",
+      "expires_at": "2026-10-09T07:30:15.117727-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
@@ -695,11 +643,63 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-10-08T10:16:38.006560+00:00",
-      "expires_at": "2026-10-09T07:16:38.006560-03:00",
+      "last_seen": "2026-10-08T10:30:15.117727+00:00",
+      "expires_at": "2026-10-09T07:30:15.117727-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
+      "cupom_no_telegram": false,
+      "cupom_telegram_url": null
+    },
+    {
+      "source_id": "pechinchou-104114",
+      "titulo": "10 Strawberry Street Prato De Salada Simply White De 19 Cm, Conjunto De 6",
+      "de": 90.65,
+      "por": 43.88,
+      "desconto": 52,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/51Axm8qESPS.__AC_SX300_SY300_QL70_ML2__43dsNRP_z0HxkDh_rctxJl4_d5a2LE0_hatUfIA.jpg",
+      "link": "https://www.amazon.com.br/dp/B093R6C261?tag=promoninja0b2-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Utilidades Domésticas",
+      "data": "2026-10-08T01:29:08.072566-03:00",
+      "slug": "10-strawberry-street-prato-de-salada-simply-white-de-19-cm-conjunto-de-6",
+      "page_url": "https://promoninjaofertas.github.io/produto/10-strawberry-street-prato-de-salada-simply-white-de-19-cm-conjunto-de-6.html",
+      "avaliacao": null,
+      "avaliacoes": 20,
+      "vendas": null,
+      "nota_qualidade": 5,
+      "last_seen": "2026-10-08T10:30:15.117727+00:00",
+      "expires_at": "2026-10-09T07:30:15.117727-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Casa",
+      "cupom_no_telegram": false,
+      "cupom_telegram_url": null
+    },
+    {
+      "source_id": "pechinchou-146812",
+      "titulo": "Oxford Conjunto com 6 Pratos de Sobremesa 21,5cm Ryo Maresia",
+      "de": 148.54,
+      "por": 98.7,
+      "desconto": 34,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/external-image_zufRIKJ.jpg",
+      "link": "https://www.amazon.com.br/dp/B0941VNWN2?tag=promoninja0b2-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Casa",
+      "data": "2026-10-08T01:29:08.072566-03:00",
+      "slug": "oxford-conjunto-com-6-pratos-de-sobremesa-21-5cm-ryo-maresia",
+      "page_url": "https://promoninjaofertas.github.io/produto/oxford-conjunto-com-6-pratos-de-sobremesa-21-5cm-ryo-maresia.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": null,
+      "nota_qualidade": 6,
+      "last_seen": "2026-10-08T10:30:15.117727+00:00",
+      "expires_at": "2026-10-09T07:30:15.117727-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Casa",
       "cupom_no_telegram": false,
       "cupom_telegram_url": null
     },
@@ -721,8 +721,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-10-08T10:16:38.006560+00:00",
-      "expires_at": "2026-10-09T07:16:38.006560-03:00",
+      "last_seen": "2026-10-08T10:30:15.117727+00:00",
+      "expires_at": "2026-10-09T07:30:15.117727-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -747,8 +747,8 @@
       "avaliacoes": 10,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-10-08T10:16:38.006560+00:00",
-      "expires_at": "2026-10-09T07:16:38.006560-03:00",
+      "last_seen": "2026-10-08T10:30:15.117727+00:00",
+      "expires_at": "2026-10-09T07:30:15.117727-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
@@ -773,8 +773,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-10-08T10:16:38.006560+00:00",
-      "expires_at": "2026-10-09T07:16:38.006560-03:00",
+      "last_seen": "2026-10-08T10:30:15.117727+00:00",
+      "expires_at": "2026-10-09T07:30:15.117727-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -799,8 +799,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 7,
-      "last_seen": "2026-10-08T10:16:38.006560+00:00",
-      "expires_at": "2026-10-09T07:16:38.006560-03:00",
+      "last_seen": "2026-10-08T10:30:15.117727+00:00",
+      "expires_at": "2026-10-09T07:30:15.117727-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech",
@@ -813,7 +813,7 @@
       "de": 42.9,
       "por": 33.92,
       "desconto": 21,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/external-image_XaAy0bS.jpg",
+      "imagem": "https://m.media-amazon.com/images/I/61DU-xzBDeL._SL1500_.jpg",
       "link": "https://www.amazon.com.br/dp/B0GJ78GPGB?tag=promoninja0b2-20",
       "cupom": null,
       "loja": "amazon",
@@ -825,8 +825,8 @@
       "avaliacoes": 10,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-10-08T10:16:38.006560+00:00",
-      "expires_at": "2026-10-09T07:16:38.006560-03:00",
+      "last_seen": "2026-10-08T10:30:15.117727+00:00",
+      "expires_at": "2026-10-09T07:30:15.117727-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -851,34 +851,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-10-08T10:16:38.006560+00:00",
-      "expires_at": "2026-10-09T07:16:38.006560-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Tech",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
-    },
-    {
-      "source_id": "pechinchou-138995",
-      "titulo": "Caixa de Som Portátil GO 5W, Caixa de Som Bluetooth, Conexão USB, Cartão de Memória, Cabo P2, Som Limpo e Potente, Perfeita Para Viagens, Festas, Praia, Botões de Controle, Impermeável, Som Alto",
-      "de": 49.9,
-      "por": 40.36,
-      "desconto": 19,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/61rJsYYacyL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0FQ7RQZJ4?tag=promoninja0b2-20",
-      "cupom": null,
-      "loja": "amazon",
-      "categoria": "Hardware",
-      "data": "2026-08-15T19:01:21.780099-03:00",
-      "slug": "caixa-de-som-portatil-go-5w-caixa-de-som-bluetooth-conexao-usb-cartao-de",
-      "page_url": "https://promoninjaofertas.github.io/produto/caixa-de-som-portatil-go-5w-caixa-de-som-bluetooth-conexao-usb-cartao-de.html",
-      "avaliacao": null,
-      "avaliacoes": null,
-      "vendas": null,
-      "nota_qualidade": 6,
-      "last_seen": "2026-10-08T10:16:38.006560+00:00",
-      "expires_at": "2026-10-09T07:16:38.006560-03:00",
+      "last_seen": "2026-10-08T10:30:15.117727+00:00",
+      "expires_at": "2026-10-09T07:30:15.117727-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech",
@@ -1447,11 +1421,11 @@
       "avaliacoes": null,
       "vendas": 680,
       "nota_qualidade": 9,
-      "last_seen": "2026-10-08T08:23:31.107951+00:00",
-      "expires_at": "2026-10-09T05:23:31.107951-03:00",
+      "last_seen": "2026-10-08T10:30:15.117727+00:00",
+      "expires_at": "2026-10-09T07:30:15.117727-03:00",
       "marca": "Bosch",
       "price_evidence": {
-        "checked_at": "2026-10-08T08:26:20.275671+00:00",
+        "checked_at": "2026-10-08T10:33:19.210793+00:00",
         "identity": {
           "brand": "Bosch",
           "model": null,
@@ -1464,13 +1438,9 @@
         "previous_min": 329.26,
         "observed_min": 329.26,
         "since": "2026-09-12T22:18:07.571383+00:00",
-        "observations": 101,
+        "observations": 102,
         "days": 27,
         "history": [
-          {
-            "at": "2026-09-28T03:37:58.124893+00:00",
-            "price": 329.86
-          },
           {
             "at": "2026-09-28T09:45:15.569779+00:00",
             "price": 329.86
@@ -1625,6 +1595,10 @@
           },
           {
             "at": "2026-10-08T02:37:11.228753+00:00",
+            "price": 329.26
+          },
+          {
+            "at": "2026-10-08T08:42:07.715301+00:00",
             "price": 329.26
           }
         ],
@@ -1960,11 +1934,11 @@
       "avaliacoes": null,
       "vendas": 342,
       "nota_qualidade": 10,
-      "last_seen": "2026-10-08T08:23:31.107951+00:00",
-      "expires_at": "2026-10-09T05:23:31.107951-03:00",
+      "last_seen": "2026-10-08T10:30:15.117727+00:00",
+      "expires_at": "2026-10-09T07:30:15.117727-03:00",
       "marca": "Bosch",
       "price_evidence": {
-        "checked_at": "2026-10-08T08:26:20.275671+00:00",
+        "checked_at": "2026-10-08T10:33:19.210793+00:00",
         "identity": {
           "brand": "Bosch",
           "model": null,
@@ -2990,11 +2964,11 @@
       "avaliacoes": null,
       "vendas": 168,
       "nota_qualidade": 9,
-      "last_seen": "2026-10-08T08:23:31.107951+00:00",
-      "expires_at": "2026-10-09T05:23:31.107951-03:00",
+      "last_seen": "2026-10-08T10:30:15.117727+00:00",
+      "expires_at": "2026-10-09T07:30:15.117727-03:00",
       "marca": "Logitech",
       "price_evidence": {
-        "checked_at": "2026-10-08T08:26:20.275671+00:00",
+        "checked_at": "2026-10-08T10:33:19.210793+00:00",
         "identity": {
           "brand": "Logitech",
           "model": "m220",
@@ -3797,212 +3771,6 @@
       "cupom_telegram_url": null
     },
     {
-      "source_id": "55214478888",
-      "titulo": "Caixa de Som Portátil JBL GO 5 Preto Original Bluetooth À Prova D'água Iluminação e Auracast",
-      "de": null,
-      "por": 309.9,
-      "desconto": 23,
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l7-mps2n1sv12wy66",
-      "link": "https://s.shopee.com.br/W7FqnYTHD",
-      "cupom": null,
-      "loja": "shopee",
-      "categoria": "Audio",
-      "data": "2026-09-10T06:27:22.795034-03:00",
-      "slug": "caixa-de-som-portatil-jbl-go-5-preto-original-bluetooth-a-prova-d-agua",
-      "page_url": "https://promoninjaofertas.github.io/produto/caixa-de-som-portatil-jbl-go-5-preto-original-bluetooth-a-prova-d-agua.html",
-      "avaliacao": 5.0,
-      "avaliacoes": null,
-      "vendas": 187,
-      "nota_qualidade": 9,
-      "last_seen": "2026-10-08T08:10:04.734215+00:00",
-      "expires_at": "2026-10-09T05:10:04.734215-03:00",
-      "marca": "JBL",
-      "price_evidence": {
-        "checked_at": "2026-10-08T08:13:03.150089+00:00",
-        "identity": {
-          "brand": "JBL",
-          "model": null,
-          "family": "audio",
-          "kind": "produto",
-          "variant": "cor:preto|kit:1",
-          "ambiguous": false,
-          "comparison_key": null
-        },
-        "previous_min": 278.94,
-        "observed_min": 278.94,
-        "since": "2026-09-12T22:19:00.776474+00:00",
-        "observations": 63,
-        "days": 19,
-        "history": [
-          {
-            "at": "2026-09-28T12:17:42.284705+00:00",
-            "price": 309.9
-          },
-          {
-            "at": "2026-09-28T18:28:41.954199+00:00",
-            "price": 309.9
-          },
-          {
-            "at": "2026-09-29T00:34:41.197710+00:00",
-            "price": 309.9
-          },
-          {
-            "at": "2026-09-29T06:42:48.335109+00:00",
-            "price": 309.9
-          },
-          {
-            "at": "2026-09-29T12:52:51.335746+00:00",
-            "price": 309.9
-          },
-          {
-            "at": "2026-09-29T19:08:52.999297+00:00",
-            "price": 309.9
-          },
-          {
-            "at": "2026-09-30T01:14:11.551357+00:00",
-            "price": 309.9
-          },
-          {
-            "at": "2026-09-30T07:25:37.135991+00:00",
-            "price": 309.9
-          },
-          {
-            "at": "2026-09-30T13:39:49.423284+00:00",
-            "price": 309.9
-          },
-          {
-            "at": "2026-09-30T19:40:11.515493+00:00",
-            "price": 309.9
-          },
-          {
-            "at": "2026-10-01T01:51:06.687047+00:00",
-            "price": 309.9
-          },
-          {
-            "at": "2026-10-01T07:57:27.240044+00:00",
-            "price": 309.9
-          },
-          {
-            "at": "2026-10-01T13:59:09.945979+00:00",
-            "price": 309.9
-          },
-          {
-            "at": "2026-10-01T20:06:00.475110+00:00",
-            "price": 309.9
-          },
-          {
-            "at": "2026-10-02T02:06:28.874176+00:00",
-            "price": 309.9
-          },
-          {
-            "at": "2026-10-02T08:12:19.851132+00:00",
-            "price": 309.9
-          },
-          {
-            "at": "2026-10-02T14:25:26.773868+00:00",
-            "price": 309.9
-          },
-          {
-            "at": "2026-10-02T20:34:29.137068+00:00",
-            "price": 309.9
-          },
-          {
-            "at": "2026-10-03T02:37:39.160931+00:00",
-            "price": 309.9
-          },
-          {
-            "at": "2026-10-03T08:43:50.712780+00:00",
-            "price": 309.9
-          },
-          {
-            "at": "2026-10-03T14:49:31.946912+00:00",
-            "price": 309.9
-          },
-          {
-            "at": "2026-10-03T20:50:36.503789+00:00",
-            "price": 309.9
-          },
-          {
-            "at": "2026-10-04T03:05:52.274317+00:00",
-            "price": 309.9
-          },
-          {
-            "at": "2026-10-04T09:16:58.472796+00:00",
-            "price": 309.9
-          },
-          {
-            "at": "2026-10-04T15:23:00.268742+00:00",
-            "price": 309.9
-          },
-          {
-            "at": "2026-10-04T21:33:51.769248+00:00",
-            "price": 309.9
-          },
-          {
-            "at": "2026-10-05T03:35:38.184583+00:00",
-            "price": 309.9
-          },
-          {
-            "at": "2026-10-05T09:42:59.681663+00:00",
-            "price": 309.9
-          },
-          {
-            "at": "2026-10-05T15:52:40.533946+00:00",
-            "price": 309.9
-          },
-          {
-            "at": "2026-10-05T21:58:54.507413+00:00",
-            "price": 309.9
-          },
-          {
-            "at": "2026-10-06T03:13:54.679936+00:00",
-            "price": 278.94
-          },
-          {
-            "at": "2026-10-06T09:23:10.370557+00:00",
-            "price": 278.94
-          },
-          {
-            "at": "2026-10-06T15:38:24.401580+00:00",
-            "price": 278.94
-          },
-          {
-            "at": "2026-10-06T16:39:59.376803+00:00",
-            "price": 309.9
-          },
-          {
-            "at": "2026-10-06T22:42:31.366733+00:00",
-            "price": 309.9
-          },
-          {
-            "at": "2026-10-07T04:46:51.340604+00:00",
-            "price": 309.9
-          },
-          {
-            "at": "2026-10-07T10:59:43.221159+00:00",
-            "price": 309.9
-          },
-          {
-            "at": "2026-10-07T17:11:30.458164+00:00",
-            "price": 309.9
-          },
-          {
-            "at": "2026-10-07T23:28:00.480896+00:00",
-            "price": 309.9
-          },
-          {
-            "at": "2026-10-08T05:33:47.541000+00:00",
-            "price": 309.9
-          }
-        ],
-        "advantage": false,
-        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
-      },
-      "grupo": "Tech",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
-    },
-    {
       "source_id": "23293788558",
       "titulo": "Placa-Mãe AMD AM4 Asus TUF GAMING B550M-Plus - 90MB14A0-C1BAY0",
       "de": null,
@@ -4020,11 +3788,11 @@
       "avaliacoes": null,
       "vendas": 634,
       "nota_qualidade": 9,
-      "last_seen": "2026-10-08T08:10:04.734215+00:00",
-      "expires_at": "2026-10-09T05:10:04.734215-03:00",
+      "last_seen": "2026-10-08T10:30:15.117727+00:00",
+      "expires_at": "2026-10-09T07:30:15.117727-03:00",
       "marca": "Asus",
       "price_evidence": {
-        "checked_at": "2026-10-08T08:13:03.150089+00:00",
+        "checked_at": "2026-10-08T10:33:19.210793+00:00",
         "identity": {
           "brand": "Asus",
           "model": "am4",
@@ -4205,6 +3973,212 @@
         "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
       },
       "grupo": "Gamer",
+      "cupom_no_telegram": false,
+      "cupom_telegram_url": null
+    },
+    {
+      "source_id": "55214478888",
+      "titulo": "Caixa de Som Portátil JBL GO 5 Preto Original Bluetooth À Prova D'água Iluminação e Auracast",
+      "de": null,
+      "por": 309.9,
+      "desconto": 23,
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l7-mps2n1sv12wy66",
+      "link": "https://s.shopee.com.br/W7FqnYTHD",
+      "cupom": null,
+      "loja": "shopee",
+      "categoria": "Audio",
+      "data": "2026-09-10T06:27:22.795034-03:00",
+      "slug": "caixa-de-som-portatil-jbl-go-5-preto-original-bluetooth-a-prova-d-agua",
+      "page_url": "https://promoninjaofertas.github.io/produto/caixa-de-som-portatil-jbl-go-5-preto-original-bluetooth-a-prova-d-agua.html",
+      "avaliacao": 5.0,
+      "avaliacoes": null,
+      "vendas": 187,
+      "nota_qualidade": 9,
+      "last_seen": "2026-10-08T10:30:15.117727+00:00",
+      "expires_at": "2026-10-09T07:30:15.117727-03:00",
+      "marca": "JBL",
+      "price_evidence": {
+        "checked_at": "2026-10-08T10:33:19.210793+00:00",
+        "identity": {
+          "brand": "JBL",
+          "model": null,
+          "family": "audio",
+          "kind": "produto",
+          "variant": "cor:preto|kit:1",
+          "ambiguous": false,
+          "comparison_key": null
+        },
+        "previous_min": 278.94,
+        "observed_min": 278.94,
+        "since": "2026-09-12T22:19:00.776474+00:00",
+        "observations": 63,
+        "days": 19,
+        "history": [
+          {
+            "at": "2026-09-28T12:17:42.284705+00:00",
+            "price": 309.9
+          },
+          {
+            "at": "2026-09-28T18:28:41.954199+00:00",
+            "price": 309.9
+          },
+          {
+            "at": "2026-09-29T00:34:41.197710+00:00",
+            "price": 309.9
+          },
+          {
+            "at": "2026-09-29T06:42:48.335109+00:00",
+            "price": 309.9
+          },
+          {
+            "at": "2026-09-29T12:52:51.335746+00:00",
+            "price": 309.9
+          },
+          {
+            "at": "2026-09-29T19:08:52.999297+00:00",
+            "price": 309.9
+          },
+          {
+            "at": "2026-09-30T01:14:11.551357+00:00",
+            "price": 309.9
+          },
+          {
+            "at": "2026-09-30T07:25:37.135991+00:00",
+            "price": 309.9
+          },
+          {
+            "at": "2026-09-30T13:39:49.423284+00:00",
+            "price": 309.9
+          },
+          {
+            "at": "2026-09-30T19:40:11.515493+00:00",
+            "price": 309.9
+          },
+          {
+            "at": "2026-10-01T01:51:06.687047+00:00",
+            "price": 309.9
+          },
+          {
+            "at": "2026-10-01T07:57:27.240044+00:00",
+            "price": 309.9
+          },
+          {
+            "at": "2026-10-01T13:59:09.945979+00:00",
+            "price": 309.9
+          },
+          {
+            "at": "2026-10-01T20:06:00.475110+00:00",
+            "price": 309.9
+          },
+          {
+            "at": "2026-10-02T02:06:28.874176+00:00",
+            "price": 309.9
+          },
+          {
+            "at": "2026-10-02T08:12:19.851132+00:00",
+            "price": 309.9
+          },
+          {
+            "at": "2026-10-02T14:25:26.773868+00:00",
+            "price": 309.9
+          },
+          {
+            "at": "2026-10-02T20:34:29.137068+00:00",
+            "price": 309.9
+          },
+          {
+            "at": "2026-10-03T02:37:39.160931+00:00",
+            "price": 309.9
+          },
+          {
+            "at": "2026-10-03T08:43:50.712780+00:00",
+            "price": 309.9
+          },
+          {
+            "at": "2026-10-03T14:49:31.946912+00:00",
+            "price": 309.9
+          },
+          {
+            "at": "2026-10-03T20:50:36.503789+00:00",
+            "price": 309.9
+          },
+          {
+            "at": "2026-10-04T03:05:52.274317+00:00",
+            "price": 309.9
+          },
+          {
+            "at": "2026-10-04T09:16:58.472796+00:00",
+            "price": 309.9
+          },
+          {
+            "at": "2026-10-04T15:23:00.268742+00:00",
+            "price": 309.9
+          },
+          {
+            "at": "2026-10-04T21:33:51.769248+00:00",
+            "price": 309.9
+          },
+          {
+            "at": "2026-10-05T03:35:38.184583+00:00",
+            "price": 309.9
+          },
+          {
+            "at": "2026-10-05T09:42:59.681663+00:00",
+            "price": 309.9
+          },
+          {
+            "at": "2026-10-05T15:52:40.533946+00:00",
+            "price": 309.9
+          },
+          {
+            "at": "2026-10-05T21:58:54.507413+00:00",
+            "price": 309.9
+          },
+          {
+            "at": "2026-10-06T03:13:54.679936+00:00",
+            "price": 278.94
+          },
+          {
+            "at": "2026-10-06T09:23:10.370557+00:00",
+            "price": 278.94
+          },
+          {
+            "at": "2026-10-06T15:38:24.401580+00:00",
+            "price": 278.94
+          },
+          {
+            "at": "2026-10-06T16:39:59.376803+00:00",
+            "price": 309.9
+          },
+          {
+            "at": "2026-10-06T22:42:31.366733+00:00",
+            "price": 309.9
+          },
+          {
+            "at": "2026-10-07T04:46:51.340604+00:00",
+            "price": 309.9
+          },
+          {
+            "at": "2026-10-07T10:59:43.221159+00:00",
+            "price": 309.9
+          },
+          {
+            "at": "2026-10-07T17:11:30.458164+00:00",
+            "price": 309.9
+          },
+          {
+            "at": "2026-10-07T23:28:00.480896+00:00",
+            "price": 309.9
+          },
+          {
+            "at": "2026-10-08T05:33:47.541000+00:00",
+            "price": 309.9
+          }
+        ],
+        "advantage": false,
+        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
+      },
+      "grupo": "Tech",
       "cupom_no_telegram": false,
       "cupom_telegram_url": null
     },
@@ -4915,7 +4889,7 @@
       "por": 98.19,
       "desconto": 40,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S15c2d01242b84313a612744d1251f53aS.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4EHgM1WQTLyNb6JGpbPqfJ2eiLrTCAFG6rH3J4Zkt5nba7fDD1NmSY9z4xOcFgzIDUe6yeur8iGIEVuLjihfbixZnTmeqwl0wrlPnuG4pOT3y3zsf43cwL3ccy0DkUAetc2VjrPHbIFjrv4sANQjXER3BmIEn9QGzmY9sEcWIrgnitASSOBoVluqhzfTC4FOUzaO0Ewxr61yOb0Y4eAXukGyV5szfLXdVee5MjoFZnyTqOzgcOoeTAMZcnrqZALixgZ99ReqndwBQmNkzX2GaT8WlEiIK54CTI1Ie8WyaxsMZrwtrVhX4k4nDhu7TVUYmZ6NPl48wXD5yUX1izFqOGSm9QwTrsLHQOlmfCzKBkznPvSoOov3GRgaTi3kIYsANZewaqK00H502j0m36dboglMZWUaHBt7uL1T3NmJjPiRsGn5oKnBslBbxfW5HPYMd50cp40B9ZU1rOXy03B5FkvSiTmuTottowX14eyEOFhk6O3pHIurBSv2qLEw6UCoYkiekDlFQrS830Fvyt5youC3tCun1v3UhqK5R8NIlMPvoLrpkPpxasxF7fb8iXk7su8MdpbbzaLka9bmvk2xqP8o8tfidJi4wjhffExtLxCwZEqvqsDtlQo2ufL7Dkdfc2lZGZEcLDf2r1lOhO46nW0EeZlyMHBguvg8nhC99sm3hku0v35ldWvyUfiQrkTC3FZnv06oKZEDoU",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4EHgM1WQTLyNb6JGpbPqfJ2eiLrTCAFG6rH3J4Zkt5nba7fDD1NmSY9z4xOcFgzIDUe6yeur8iGIEVuLjihfbixZnTmeqwl0wrlPnuG4pOT3y3zsf43cwL3ccy0DkUAetc2VjrPHbIFjrv4sANQjXER3BmIEn9QGzmY9sEcWIrgnitASSOBoVluqhzfTC4FOUzaO0Ewxr61yOb0Y4eAXukGyV5szfLXdVee5MjoBtw0mMYs8I6ScI08onRBSrgGedbMjrmLPXKSyQLxs1wwqMnBxwyD8FyMJAZkCpRDDdKCmcijbvHAlWAVOB6wvJc99xheMMG79gXkqPV0hLLQrnhLe1KNyEGkJlor55wiQYpd5SOhT1H64IXhO9aArwQ05VNTLTmdB95AREfVR8LWIM5cQhToUPcKbhxaPAEqnOZaYE1vHEVsmtgr4n7TMr9FO5rozhmodwhiy4PPj1PMz46y2kKuxqBpzmWlUug8LN6SvP02ffLO650UPX42Kd2YMGu6GSNtf1TknGz99h0J9llJzCG3eGPZwoFUa8tBBgfwp1JfAVeH0LxE8JTKGj7ALZpjIWixqxTL6uZcnthKzyycjElyo8ZpKxQXjSAoD9NOBLIyG1IBdVYXnU7HJdAMRbn7zRL8Xzn0R4bELWTVcHCJXCdfGLlUoDwlob1fEdWWHDJp04P9fM39U3rAQSrGXTroP94HqZCf7P2",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Eletrônicos",
@@ -4926,8 +4900,8 @@
       "avaliacoes": null,
       "vendas": 1665,
       "nota_qualidade": 8,
-      "last_seen": "2026-10-08T10:16:38.006560+00:00",
-      "expires_at": "2026-10-09T07:16:38.006560-03:00",
+      "last_seen": "2026-10-08T10:30:15.117727+00:00",
+      "expires_at": "2026-10-09T07:30:15.117727-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech",
