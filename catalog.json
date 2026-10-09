@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-10-09T09:41:03.109933+00:00",
+  "atualizado": "2026-10-09T09:52:41.570912+00:00",
   "ofertas": [
     {
       "source_id": "pechinchou-92386",
@@ -19,8 +19,8 @@
       "avaliacoes": 2,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-10-09T09:41:03.109933+00:00",
-      "expires_at": "2026-10-10T06:41:03.109933-03:00",
+      "last_seen": "2026-10-09T09:52:41.570912+00:00",
+      "expires_at": "2026-10-10T06:52:41.570912-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -45,8 +45,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 9,
-      "last_seen": "2026-10-09T09:41:03.109933+00:00",
-      "expires_at": "2026-10-10T06:41:03.109933-03:00",
+      "last_seen": "2026-10-09T09:52:41.570912+00:00",
+      "expires_at": "2026-10-10T06:52:41.570912-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech",
@@ -71,8 +71,8 @@
       "avaliacoes": 4,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-10-09T09:41:03.109933+00:00",
-      "expires_at": "2026-10-10T06:41:03.109933-03:00",
+      "last_seen": "2026-10-09T09:52:41.570912+00:00",
+      "expires_at": "2026-10-10T06:52:41.570912-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
@@ -97,37 +97,11 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 7,
-      "last_seen": "2026-10-09T09:41:03.109933+00:00",
-      "expires_at": "2026-10-10T06:41:03.109933-03:00",
+      "last_seen": "2026-10-09T09:52:41.570912+00:00",
+      "expires_at": "2026-10-10T06:52:41.570912-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
-      "cupom_no_telegram": true,
-      "cupom_telegram_url": "https://t.me/promoninjaofertas"
-    },
-    {
-      "source_id": "pechinchou-138760",
-      "titulo": "Kit 4 Camisetas Masculinas Dry Lobo Alpha",
-      "de": 129.9,
-      "por": 106.42,
-      "desconto": 18,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/image-removebg-preview_-_2025-12-26T122852.491.png",
-      "link": "https://meli.la/1PL1mc9",
-      "cupom": "MODANOML",
-      "loja": "mercadolivre",
-      "categoria": "Beleza",
-      "data": "2026-10-08T23:00:15.587644-03:00",
-      "slug": "kit-4-camisetas-masculinas-dry-lobo-alpha",
-      "page_url": "https://promoninjaofertas.github.io/produto/kit-4-camisetas-masculinas-dry-lobo-alpha.html",
-      "avaliacao": null,
-      "avaliacoes": null,
-      "vendas": null,
-      "nota_qualidade": 6,
-      "last_seen": "2026-10-09T09:41:03.109933+00:00",
-      "expires_at": "2026-10-10T06:41:03.109933-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Moda",
       "cupom_no_telegram": true,
       "cupom_telegram_url": "https://t.me/promoninjaofertas"
     },
@@ -149,13 +123,39 @@
       "avaliacoes": 5,
       "vendas": null,
       "nota_qualidade": 7,
-      "last_seen": "2026-10-09T09:41:03.109933+00:00",
-      "expires_at": "2026-10-10T06:41:03.109933-03:00",
+      "last_seen": "2026-10-09T09:52:41.570912+00:00",
+      "expires_at": "2026-10-10T06:52:41.570912-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
       "cupom_no_telegram": false,
       "cupom_telegram_url": null
+    },
+    {
+      "source_id": "pechinchou-138760",
+      "titulo": "Kit 4 Camisetas Masculinas Dry Lobo Alpha",
+      "de": 129.9,
+      "por": 106.42,
+      "desconto": 18,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/image-removebg-preview_-_2025-12-26T122852.491.png",
+      "link": "https://meli.la/1PL1mc9",
+      "cupom": "MODANOML",
+      "loja": "mercadolivre",
+      "categoria": "Beleza",
+      "data": "2026-10-08T23:00:15.587644-03:00",
+      "slug": "kit-4-camisetas-masculinas-dry-lobo-alpha",
+      "page_url": "https://promoninjaofertas.github.io/produto/kit-4-camisetas-masculinas-dry-lobo-alpha.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": null,
+      "nota_qualidade": 6,
+      "last_seen": "2026-10-09T09:52:41.570912+00:00",
+      "expires_at": "2026-10-10T06:52:41.570912-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Moda",
+      "cupom_no_telegram": true,
+      "cupom_telegram_url": "https://t.me/promoninjaofertas"
     },
     {
       "source_id": "pechinchou-153876",
@@ -175,8 +175,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-10-09T09:41:03.109933+00:00",
-      "expires_at": "2026-10-10T06:41:03.109933-03:00",
+      "last_seen": "2026-10-09T09:52:41.570912+00:00",
+      "expires_at": "2026-10-10T06:52:41.570912-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
@@ -201,8 +201,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-10-09T09:41:03.109933+00:00",
-      "expires_at": "2026-10-10T06:41:03.109933-03:00",
+      "last_seen": "2026-10-09T09:52:41.570912+00:00",
+      "expires_at": "2026-10-10T06:52:41.570912-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
@@ -227,8 +227,8 @@
       "avaliacoes": 3,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-10-09T09:41:03.109933+00:00",
-      "expires_at": "2026-10-10T06:41:03.109933-03:00",
+      "last_seen": "2026-10-09T09:52:41.570912+00:00",
+      "expires_at": "2026-10-10T06:52:41.570912-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
@@ -253,8 +253,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-10-09T09:41:03.109933+00:00",
-      "expires_at": "2026-10-10T06:41:03.109933-03:00",
+      "last_seen": "2026-10-09T09:52:41.570912+00:00",
+      "expires_at": "2026-10-10T06:52:41.570912-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -279,8 +279,8 @@
       "avaliacoes": 5,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-10-09T09:41:03.109933+00:00",
-      "expires_at": "2026-10-10T06:41:03.109933-03:00",
+      "last_seen": "2026-10-09T09:52:41.570912+00:00",
+      "expires_at": "2026-10-10T06:52:41.570912-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -305,8 +305,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 8,
-      "last_seen": "2026-10-09T09:41:03.109933+00:00",
-      "expires_at": "2026-10-10T06:41:03.109933-03:00",
+      "last_seen": "2026-10-09T09:52:41.570912+00:00",
+      "expires_at": "2026-10-10T06:52:41.570912-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
@@ -331,8 +331,8 @@
       "avaliacoes": 3,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-10-09T09:41:03.109933+00:00",
-      "expires_at": "2026-10-10T06:41:03.109933-03:00",
+      "last_seen": "2026-10-09T09:52:41.570912+00:00",
+      "expires_at": "2026-10-10T06:52:41.570912-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
@@ -357,8 +357,8 @@
       "avaliacoes": 4,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-10-09T09:41:03.109933+00:00",
-      "expires_at": "2026-10-10T06:41:03.109933-03:00",
+      "last_seen": "2026-10-09T09:52:41.570912+00:00",
+      "expires_at": "2026-10-10T06:52:41.570912-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
@@ -380,11 +380,11 @@
       "slug": "extratora-de-sujeira-portatil-wap-spot-cleaner-w3-borrifa-esfrega-e-extrai-1450w-de",
       "page_url": "https://promoninjaofertas.github.io/produto/extratora-de-sujeira-portatil-wap-spot-cleaner-w3-borrifa-esfrega-e-extrai-1450w-de.html",
       "avaliacao": null,
-      "avaliacoes": 6,
+      "avaliacoes": 36,
       "vendas": null,
       "nota_qualidade": 8,
-      "last_seen": "2026-10-09T09:41:03.109933+00:00",
-      "expires_at": "2026-10-10T06:41:03.109933-03:00",
+      "last_seen": "2026-10-09T09:52:41.570912+00:00",
+      "expires_at": "2026-10-10T06:52:41.570912-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -409,8 +409,8 @@
       "avaliacoes": 6,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-10-09T09:41:03.109933+00:00",
-      "expires_at": "2026-10-10T06:41:03.109933-03:00",
+      "last_seen": "2026-10-09T09:52:41.570912+00:00",
+      "expires_at": "2026-10-10T06:52:41.570912-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech",
@@ -435,8 +435,8 @@
       "avaliacoes": 3,
       "vendas": null,
       "nota_qualidade": 7,
-      "last_seen": "2026-10-09T09:41:03.109933+00:00",
-      "expires_at": "2026-10-10T06:41:03.109933-03:00",
+      "last_seen": "2026-10-09T09:52:41.570912+00:00",
+      "expires_at": "2026-10-10T06:52:41.570912-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
@@ -461,8 +461,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-10-09T09:41:03.109933+00:00",
-      "expires_at": "2026-10-10T06:41:03.109933-03:00",
+      "last_seen": "2026-10-09T09:52:41.570912+00:00",
+      "expires_at": "2026-10-10T06:52:41.570912-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -487,8 +487,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-10-09T09:41:03.109933+00:00",
-      "expires_at": "2026-10-10T06:41:03.109933-03:00",
+      "last_seen": "2026-10-09T09:52:41.570912+00:00",
+      "expires_at": "2026-10-10T06:52:41.570912-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
@@ -513,8 +513,8 @@
       "avaliacoes": 10,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-10-09T09:41:03.109933+00:00",
-      "expires_at": "2026-10-10T06:41:03.109933-03:00",
+      "last_seen": "2026-10-09T09:52:41.570912+00:00",
+      "expires_at": "2026-10-10T06:52:41.570912-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -539,8 +539,8 @@
       "avaliacoes": 20,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-10-09T09:41:03.109933+00:00",
-      "expires_at": "2026-10-10T06:41:03.109933-03:00",
+      "last_seen": "2026-10-09T09:52:41.570912+00:00",
+      "expires_at": "2026-10-10T06:52:41.570912-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech",
@@ -565,8 +565,8 @@
       "avaliacoes": 2,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-10-09T09:41:03.109933+00:00",
-      "expires_at": "2026-10-10T06:41:03.109933-03:00",
+      "last_seen": "2026-10-09T09:52:41.570912+00:00",
+      "expires_at": "2026-10-10T06:52:41.570912-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -591,8 +591,8 @@
       "avaliacoes": 3,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-10-09T09:41:03.109933+00:00",
-      "expires_at": "2026-10-10T06:41:03.109933-03:00",
+      "last_seen": "2026-10-09T09:52:41.570912+00:00",
+      "expires_at": "2026-10-10T06:52:41.570912-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -617,8 +617,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-10-09T09:41:03.109933+00:00",
-      "expires_at": "2026-10-10T06:41:03.109933-03:00",
+      "last_seen": "2026-10-09T09:52:41.570912+00:00",
+      "expires_at": "2026-10-10T06:52:41.570912-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
@@ -643,8 +643,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 7,
-      "last_seen": "2026-10-09T09:41:03.109933+00:00",
-      "expires_at": "2026-10-10T06:41:03.109933-03:00",
+      "last_seen": "2026-10-09T09:52:41.570912+00:00",
+      "expires_at": "2026-10-10T06:52:41.570912-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech",
@@ -1287,11 +1287,11 @@
       "avaliacoes": null,
       "vendas": 231,
       "nota_qualidade": 9,
-      "last_seen": "2026-10-09T09:17:39.289089+00:00",
-      "expires_at": "2026-10-10T06:17:39.289089-03:00",
+      "last_seen": "2026-10-09T09:52:41.570912+00:00",
+      "expires_at": "2026-10-10T06:52:41.570912-03:00",
       "marca": "Epson",
       "price_evidence": {
-        "checked_at": "2026-10-09T09:18:40.829806+00:00",
+        "checked_at": "2026-10-09T09:53:44.074429+00:00",
         "identity": {
           "brand": "Epson",
           "model": "l3250",
@@ -1702,11 +1702,11 @@
       "avaliacoes": null,
       "vendas": 1350,
       "nota_qualidade": 10,
-      "last_seen": "2026-10-09T09:29:08.098507+00:00",
-      "expires_at": "2026-10-10T06:29:08.098507-03:00",
+      "last_seen": "2026-10-09T09:52:41.570912+00:00",
+      "expires_at": "2026-10-10T06:52:41.570912-03:00",
       "marca": "Epson",
       "price_evidence": {
-        "checked_at": "2026-10-09T09:30:12.186507+00:00",
+        "checked_at": "2026-10-09T09:53:44.074429+00:00",
         "identity": {
           "brand": "Epson",
           "model": "3250",
@@ -3127,208 +3127,208 @@
       "cupom_telegram_url": null
     },
     {
-      "source_id": "55214478888",
-      "titulo": "Caixa de Som Portátil JBL GO 5 Preto Original Bluetooth À Prova D'água Iluminação e Auracast",
+      "source_id": "46662348294",
+      "titulo": "Monitor Gamer Acer KG243Y 23.8\" Full HD 144Hz IPS HDMI P1bip - Preto - Bivolt",
       "de": null,
-      "por": 309.9,
-      "desconto": 23,
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l7-mps2n1sv12wy66",
-      "link": "https://s.shopee.com.br/W7FqnYTHD",
+      "por": 657.9,
+      "desconto": 59,
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lt-mpjrkv9dzabnb3",
+      "link": "https://s.shopee.com.br/60SCYLsCOZ",
       "cupom": null,
       "loja": "shopee",
-      "categoria": "Audio",
+      "categoria": "Hardware",
       "data": "2026-09-10T06:27:22.795034-03:00",
-      "slug": "caixa-de-som-portatil-jbl-go-5-preto-original-bluetooth-a-prova-d-agua",
-      "page_url": "https://promoninjaofertas.github.io/produto/caixa-de-som-portatil-jbl-go-5-preto-original-bluetooth-a-prova-d-agua.html",
-      "avaliacao": 5.0,
+      "slug": "shopee-acer-kg243y-bivolt-codigo-p1bip-cor-preto-kit-1",
+      "page_url": "https://promoninjaofertas.github.io/produto/shopee-acer-kg243y-bivolt-codigo-p1bip-cor-preto-kit-1.html",
+      "avaliacao": 4.9,
       "avaliacoes": null,
-      "vendas": 188,
-      "nota_qualidade": 9,
-      "last_seen": "2026-10-09T02:14:25.706383+00:00",
-      "expires_at": "2026-10-09T23:14:25.706383-03:00",
-      "marca": "JBL",
+      "vendas": 192,
+      "nota_qualidade": 10,
+      "last_seen": "2026-10-09T09:41:03.109933+00:00",
+      "expires_at": "2026-10-10T06:41:03.109933-03:00",
+      "marca": "Acer",
       "price_evidence": {
-        "checked_at": "2026-10-09T02:16:08.719396+00:00",
+        "checked_at": "2026-10-09T09:42:09.783669+00:00",
         "identity": {
-          "brand": "JBL",
-          "model": null,
-          "family": "audio",
+          "brand": "Acer",
+          "model": "kg243y",
+          "family": "monitores",
           "kind": "produto",
-          "variant": "cor:preto|kit:1",
+          "variant": "bivolt|codigo:p1bip|cor:preto|kit:1",
           "ambiguous": false,
-          "comparison_key": null
+          "comparison_key": "acer|kg243y|bivolt|codigo:p1bip|cor:preto|kit:1"
         },
-        "previous_min": 278.94,
-        "observed_min": 278.94,
-        "since": "2026-09-12T22:19:00.776474+00:00",
-        "observations": 66,
-        "days": 20,
+        "previous_min": 622.0,
+        "observed_min": 622.0,
+        "since": "2026-09-12T13:31:01.433528+00:00",
+        "observations": 107,
+        "days": 28,
         "history": [
           {
-            "at": "2026-09-29T06:42:48.335109+00:00",
-            "price": 309.9
+            "at": "2026-09-29T14:44:10.956190+00:00",
+            "price": 657.9
           },
           {
-            "at": "2026-09-29T12:52:51.335746+00:00",
-            "price": 309.9
+            "at": "2026-09-29T20:48:45.069718+00:00",
+            "price": 657.9
           },
           {
-            "at": "2026-09-29T19:08:52.999297+00:00",
-            "price": 309.9
+            "at": "2026-09-30T02:50:49.568176+00:00",
+            "price": 657.9
           },
           {
-            "at": "2026-09-30T01:14:11.551357+00:00",
-            "price": 309.9
+            "at": "2026-09-30T05:08:27.690171+00:00",
+            "price": 622.0
           },
           {
-            "at": "2026-09-30T07:25:37.135991+00:00",
-            "price": 309.9
+            "at": "2026-09-30T11:08:38.389770+00:00",
+            "price": 622.0
           },
           {
-            "at": "2026-09-30T13:39:49.423284+00:00",
-            "price": 309.9
+            "at": "2026-09-30T17:13:10.075475+00:00",
+            "price": 622.0
           },
           {
-            "at": "2026-09-30T19:40:11.515493+00:00",
-            "price": 309.9
+            "at": "2026-09-30T23:19:59.479360+00:00",
+            "price": 622.0
           },
           {
-            "at": "2026-10-01T01:51:06.687047+00:00",
-            "price": 309.9
+            "at": "2026-10-01T05:32:18.797275+00:00",
+            "price": 622.0
           },
           {
-            "at": "2026-10-01T07:57:27.240044+00:00",
-            "price": 309.9
+            "at": "2026-10-01T11:51:40.219656+00:00",
+            "price": 622.0
           },
           {
-            "at": "2026-10-01T13:59:09.945979+00:00",
-            "price": 309.9
+            "at": "2026-10-01T17:53:45.945526+00:00",
+            "price": 622.0
           },
           {
-            "at": "2026-10-01T20:06:00.475110+00:00",
-            "price": 309.9
+            "at": "2026-10-01T23:56:43.666780+00:00",
+            "price": 622.0
           },
           {
-            "at": "2026-10-02T02:06:28.874176+00:00",
-            "price": 309.9
+            "at": "2026-10-02T03:02:33.884833+00:00",
+            "price": 657.9
           },
           {
-            "at": "2026-10-02T08:12:19.851132+00:00",
-            "price": 309.9
+            "at": "2026-10-02T09:06:54.892479+00:00",
+            "price": 657.9
           },
           {
-            "at": "2026-10-02T14:25:26.773868+00:00",
-            "price": 309.9
+            "at": "2026-10-02T15:11:00.386524+00:00",
+            "price": 657.9
           },
           {
-            "at": "2026-10-02T20:34:29.137068+00:00",
-            "price": 309.9
+            "at": "2026-10-02T21:12:46.598004+00:00",
+            "price": 657.9
           },
           {
-            "at": "2026-10-03T02:37:39.160931+00:00",
-            "price": 309.9
+            "at": "2026-10-03T03:18:18.457329+00:00",
+            "price": 657.9
           },
           {
-            "at": "2026-10-03T08:43:50.712780+00:00",
-            "price": 309.9
+            "at": "2026-10-03T09:19:18.023938+00:00",
+            "price": 657.9
           },
           {
-            "at": "2026-10-03T14:49:31.946912+00:00",
-            "price": 309.9
+            "at": "2026-10-03T15:20:23.070485+00:00",
+            "price": 657.9
           },
           {
-            "at": "2026-10-03T20:50:36.503789+00:00",
-            "price": 309.9
+            "at": "2026-10-03T21:31:23.475217+00:00",
+            "price": 657.9
           },
           {
-            "at": "2026-10-04T03:05:52.274317+00:00",
-            "price": 309.9
+            "at": "2026-10-04T03:36:05.023828+00:00",
+            "price": 657.9
           },
           {
-            "at": "2026-10-04T09:16:58.472796+00:00",
-            "price": 309.9
+            "at": "2026-10-04T09:36:09.905269+00:00",
+            "price": 657.9
           },
           {
-            "at": "2026-10-04T15:23:00.268742+00:00",
-            "price": 309.9
+            "at": "2026-10-04T15:40:08.898543+00:00",
+            "price": 657.9
           },
           {
-            "at": "2026-10-04T21:33:51.769248+00:00",
-            "price": 309.9
+            "at": "2026-10-04T21:47:04.890861+00:00",
+            "price": 657.9
           },
           {
-            "at": "2026-10-05T03:35:38.184583+00:00",
-            "price": 309.9
+            "at": "2026-10-05T03:56:09.323833+00:00",
+            "price": 657.9
           },
           {
-            "at": "2026-10-05T09:42:59.681663+00:00",
-            "price": 309.9
+            "at": "2026-10-05T09:57:37.802873+00:00",
+            "price": 657.9
           },
           {
-            "at": "2026-10-05T15:52:40.533946+00:00",
-            "price": 309.9
+            "at": "2026-10-05T15:57:44.247615+00:00",
+            "price": 657.9
           },
           {
-            "at": "2026-10-05T21:58:54.507413+00:00",
-            "price": 309.9
+            "at": "2026-10-05T22:06:34.978883+00:00",
+            "price": 657.9
           },
           {
-            "at": "2026-10-06T03:13:54.679936+00:00",
-            "price": 278.94
+            "at": "2026-10-06T04:09:08.992122+00:00",
+            "price": 657.9
           },
           {
-            "at": "2026-10-06T09:23:10.370557+00:00",
-            "price": 278.94
+            "at": "2026-10-06T10:09:55.151841+00:00",
+            "price": 657.9
           },
           {
-            "at": "2026-10-06T15:38:24.401580+00:00",
-            "price": 278.94
+            "at": "2026-10-06T16:11:41.793117+00:00",
+            "price": 657.9
           },
           {
-            "at": "2026-10-06T16:39:59.376803+00:00",
-            "price": 309.9
+            "at": "2026-10-06T22:12:10.484521+00:00",
+            "price": 657.9
           },
           {
-            "at": "2026-10-06T22:42:31.366733+00:00",
-            "price": 309.9
+            "at": "2026-10-07T04:18:13.727547+00:00",
+            "price": 657.9
           },
           {
-            "at": "2026-10-07T04:46:51.340604+00:00",
-            "price": 309.9
+            "at": "2026-10-07T10:19:10.660709+00:00",
+            "price": 657.9
           },
           {
-            "at": "2026-10-07T10:59:43.221159+00:00",
-            "price": 309.9
+            "at": "2026-10-07T16:32:11.379951+00:00",
+            "price": 657.9
           },
           {
-            "at": "2026-10-07T17:11:30.458164+00:00",
-            "price": 309.9
+            "at": "2026-10-07T22:37:13.618604+00:00",
+            "price": 657.9
           },
           {
-            "at": "2026-10-07T23:28:00.480896+00:00",
-            "price": 309.9
+            "at": "2026-10-08T04:45:43.441091+00:00",
+            "price": 657.9
           },
           {
-            "at": "2026-10-08T05:33:47.541000+00:00",
-            "price": 309.9
+            "at": "2026-10-08T10:49:13.918836+00:00",
+            "price": 657.9
           },
           {
-            "at": "2026-10-08T11:38:37.081750+00:00",
-            "price": 309.9
+            "at": "2026-10-08T16:53:36.814111+00:00",
+            "price": 657.9
           },
           {
-            "at": "2026-10-08T17:49:36.598550+00:00",
-            "price": 309.9
+            "at": "2026-10-08T22:59:31.673902+00:00",
+            "price": 657.9
           },
           {
-            "at": "2026-10-09T00:41:08.530542+00:00",
-            "price": 309.9
+            "at": "2026-10-09T05:00:30.767660+00:00",
+            "price": 657.9
           }
         ],
         "advantage": false,
         "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
       },
-      "grupo": "Tech",
+      "grupo": "Gamer",
       "cupom_no_telegram": false,
       "cupom_telegram_url": null
     },
@@ -3539,208 +3539,208 @@
       "cupom_telegram_url": null
     },
     {
-      "source_id": "46662348294",
-      "titulo": "Monitor Gamer Acer KG243Y 23.8\" Full HD 144Hz IPS HDMI P1bip - Preto - Bivolt",
+      "source_id": "55214478888",
+      "titulo": "Caixa de Som Portátil JBL GO 5 Preto Original Bluetooth À Prova D'água Iluminação e Auracast",
       "de": null,
-      "por": 657.9,
-      "desconto": 59,
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lt-mpjrkv9dzabnb3",
-      "link": "https://s.shopee.com.br/60SCYLsCOZ",
+      "por": 309.9,
+      "desconto": 23,
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l7-mps2n1sv12wy66",
+      "link": "https://s.shopee.com.br/W7FqnYTHD",
       "cupom": null,
       "loja": "shopee",
-      "categoria": "Hardware",
+      "categoria": "Audio",
       "data": "2026-09-10T06:27:22.795034-03:00",
-      "slug": "shopee-acer-kg243y-bivolt-codigo-p1bip-cor-preto-kit-1",
-      "page_url": "https://promoninjaofertas.github.io/produto/shopee-acer-kg243y-bivolt-codigo-p1bip-cor-preto-kit-1.html",
-      "avaliacao": 4.9,
+      "slug": "caixa-de-som-portatil-jbl-go-5-preto-original-bluetooth-a-prova-d-agua",
+      "page_url": "https://promoninjaofertas.github.io/produto/caixa-de-som-portatil-jbl-go-5-preto-original-bluetooth-a-prova-d-agua.html",
+      "avaliacao": 5.0,
       "avaliacoes": null,
-      "vendas": 192,
-      "nota_qualidade": 10,
-      "last_seen": "2026-10-09T09:41:03.109933+00:00",
-      "expires_at": "2026-10-10T06:41:03.109933-03:00",
-      "marca": "Acer",
+      "vendas": 188,
+      "nota_qualidade": 9,
+      "last_seen": "2026-10-09T02:14:25.706383+00:00",
+      "expires_at": "2026-10-09T23:14:25.706383-03:00",
+      "marca": "JBL",
       "price_evidence": {
-        "checked_at": "2026-10-09T09:42:09.783669+00:00",
+        "checked_at": "2026-10-09T02:16:08.719396+00:00",
         "identity": {
-          "brand": "Acer",
-          "model": "kg243y",
-          "family": "monitores",
+          "brand": "JBL",
+          "model": null,
+          "family": "audio",
           "kind": "produto",
-          "variant": "bivolt|codigo:p1bip|cor:preto|kit:1",
+          "variant": "cor:preto|kit:1",
           "ambiguous": false,
-          "comparison_key": "acer|kg243y|bivolt|codigo:p1bip|cor:preto|kit:1"
+          "comparison_key": null
         },
-        "previous_min": 622.0,
-        "observed_min": 622.0,
-        "since": "2026-09-12T13:31:01.433528+00:00",
-        "observations": 107,
-        "days": 28,
+        "previous_min": 278.94,
+        "observed_min": 278.94,
+        "since": "2026-09-12T22:19:00.776474+00:00",
+        "observations": 66,
+        "days": 20,
         "history": [
           {
-            "at": "2026-09-29T14:44:10.956190+00:00",
-            "price": 657.9
+            "at": "2026-09-29T06:42:48.335109+00:00",
+            "price": 309.9
           },
           {
-            "at": "2026-09-29T20:48:45.069718+00:00",
-            "price": 657.9
+            "at": "2026-09-29T12:52:51.335746+00:00",
+            "price": 309.9
           },
           {
-            "at": "2026-09-30T02:50:49.568176+00:00",
-            "price": 657.9
+            "at": "2026-09-29T19:08:52.999297+00:00",
+            "price": 309.9
           },
           {
-            "at": "2026-09-30T05:08:27.690171+00:00",
-            "price": 622.0
+            "at": "2026-09-30T01:14:11.551357+00:00",
+            "price": 309.9
           },
           {
-            "at": "2026-09-30T11:08:38.389770+00:00",
-            "price": 622.0
+            "at": "2026-09-30T07:25:37.135991+00:00",
+            "price": 309.9
           },
           {
-            "at": "2026-09-30T17:13:10.075475+00:00",
-            "price": 622.0
+            "at": "2026-09-30T13:39:49.423284+00:00",
+            "price": 309.9
           },
           {
-            "at": "2026-09-30T23:19:59.479360+00:00",
-            "price": 622.0
+            "at": "2026-09-30T19:40:11.515493+00:00",
+            "price": 309.9
           },
           {
-            "at": "2026-10-01T05:32:18.797275+00:00",
-            "price": 622.0
+            "at": "2026-10-01T01:51:06.687047+00:00",
+            "price": 309.9
           },
           {
-            "at": "2026-10-01T11:51:40.219656+00:00",
-            "price": 622.0
+            "at": "2026-10-01T07:57:27.240044+00:00",
+            "price": 309.9
           },
           {
-            "at": "2026-10-01T17:53:45.945526+00:00",
-            "price": 622.0
+            "at": "2026-10-01T13:59:09.945979+00:00",
+            "price": 309.9
           },
           {
-            "at": "2026-10-01T23:56:43.666780+00:00",
-            "price": 622.0
+            "at": "2026-10-01T20:06:00.475110+00:00",
+            "price": 309.9
           },
           {
-            "at": "2026-10-02T03:02:33.884833+00:00",
-            "price": 657.9
+            "at": "2026-10-02T02:06:28.874176+00:00",
+            "price": 309.9
           },
           {
-            "at": "2026-10-02T09:06:54.892479+00:00",
-            "price": 657.9
+            "at": "2026-10-02T08:12:19.851132+00:00",
+            "price": 309.9
           },
           {
-            "at": "2026-10-02T15:11:00.386524+00:00",
-            "price": 657.9
+            "at": "2026-10-02T14:25:26.773868+00:00",
+            "price": 309.9
           },
           {
-            "at": "2026-10-02T21:12:46.598004+00:00",
-            "price": 657.9
+            "at": "2026-10-02T20:34:29.137068+00:00",
+            "price": 309.9
           },
           {
-            "at": "2026-10-03T03:18:18.457329+00:00",
-            "price": 657.9
+            "at": "2026-10-03T02:37:39.160931+00:00",
+            "price": 309.9
           },
           {
-            "at": "2026-10-03T09:19:18.023938+00:00",
-            "price": 657.9
+            "at": "2026-10-03T08:43:50.712780+00:00",
+            "price": 309.9
           },
           {
-            "at": "2026-10-03T15:20:23.070485+00:00",
-            "price": 657.9
+            "at": "2026-10-03T14:49:31.946912+00:00",
+            "price": 309.9
           },
           {
-            "at": "2026-10-03T21:31:23.475217+00:00",
-            "price": 657.9
+            "at": "2026-10-03T20:50:36.503789+00:00",
+            "price": 309.9
           },
           {
-            "at": "2026-10-04T03:36:05.023828+00:00",
-            "price": 657.9
+            "at": "2026-10-04T03:05:52.274317+00:00",
+            "price": 309.9
           },
           {
-            "at": "2026-10-04T09:36:09.905269+00:00",
-            "price": 657.9
+            "at": "2026-10-04T09:16:58.472796+00:00",
+            "price": 309.9
           },
           {
-            "at": "2026-10-04T15:40:08.898543+00:00",
-            "price": 657.9
+            "at": "2026-10-04T15:23:00.268742+00:00",
+            "price": 309.9
           },
           {
-            "at": "2026-10-04T21:47:04.890861+00:00",
-            "price": 657.9
+            "at": "2026-10-04T21:33:51.769248+00:00",
+            "price": 309.9
           },
           {
-            "at": "2026-10-05T03:56:09.323833+00:00",
-            "price": 657.9
+            "at": "2026-10-05T03:35:38.184583+00:00",
+            "price": 309.9
           },
           {
-            "at": "2026-10-05T09:57:37.802873+00:00",
-            "price": 657.9
+            "at": "2026-10-05T09:42:59.681663+00:00",
+            "price": 309.9
           },
           {
-            "at": "2026-10-05T15:57:44.247615+00:00",
-            "price": 657.9
+            "at": "2026-10-05T15:52:40.533946+00:00",
+            "price": 309.9
           },
           {
-            "at": "2026-10-05T22:06:34.978883+00:00",
-            "price": 657.9
+            "at": "2026-10-05T21:58:54.507413+00:00",
+            "price": 309.9
           },
           {
-            "at": "2026-10-06T04:09:08.992122+00:00",
-            "price": 657.9
+            "at": "2026-10-06T03:13:54.679936+00:00",
+            "price": 278.94
           },
           {
-            "at": "2026-10-06T10:09:55.151841+00:00",
-            "price": 657.9
+            "at": "2026-10-06T09:23:10.370557+00:00",
+            "price": 278.94
           },
           {
-            "at": "2026-10-06T16:11:41.793117+00:00",
-            "price": 657.9
+            "at": "2026-10-06T15:38:24.401580+00:00",
+            "price": 278.94
           },
           {
-            "at": "2026-10-06T22:12:10.484521+00:00",
-            "price": 657.9
+            "at": "2026-10-06T16:39:59.376803+00:00",
+            "price": 309.9
           },
           {
-            "at": "2026-10-07T04:18:13.727547+00:00",
-            "price": 657.9
+            "at": "2026-10-06T22:42:31.366733+00:00",
+            "price": 309.9
           },
           {
-            "at": "2026-10-07T10:19:10.660709+00:00",
-            "price": 657.9
+            "at": "2026-10-07T04:46:51.340604+00:00",
+            "price": 309.9
           },
           {
-            "at": "2026-10-07T16:32:11.379951+00:00",
-            "price": 657.9
+            "at": "2026-10-07T10:59:43.221159+00:00",
+            "price": 309.9
           },
           {
-            "at": "2026-10-07T22:37:13.618604+00:00",
-            "price": 657.9
+            "at": "2026-10-07T17:11:30.458164+00:00",
+            "price": 309.9
           },
           {
-            "at": "2026-10-08T04:45:43.441091+00:00",
-            "price": 657.9
+            "at": "2026-10-07T23:28:00.480896+00:00",
+            "price": 309.9
           },
           {
-            "at": "2026-10-08T10:49:13.918836+00:00",
-            "price": 657.9
+            "at": "2026-10-08T05:33:47.541000+00:00",
+            "price": 309.9
           },
           {
-            "at": "2026-10-08T16:53:36.814111+00:00",
-            "price": 657.9
+            "at": "2026-10-08T11:38:37.081750+00:00",
+            "price": 309.9
           },
           {
-            "at": "2026-10-08T22:59:31.673902+00:00",
-            "price": 657.9
+            "at": "2026-10-08T17:49:36.598550+00:00",
+            "price": 309.9
           },
           {
-            "at": "2026-10-09T05:00:30.767660+00:00",
-            "price": 657.9
+            "at": "2026-10-09T00:41:08.530542+00:00",
+            "price": 309.9
           }
         ],
         "advantage": false,
         "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
       },
-      "grupo": "Gamer",
+      "grupo": "Tech",
       "cupom_no_telegram": false,
       "cupom_telegram_url": null
     },
@@ -4371,7 +4371,7 @@
       "por": 282.99,
       "desconto": 70,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S18dd674a3ac24cc0a0ca992cd63d27bew.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4FdzDjnJY4TG8gZSertWmECHPRFy8y2d9bpPqDiphyAN0PT1bBWo4M2SYyz3qck9FqTebgJVyxYLf3h9LlsYUXRc4m8Ss4r1Mag1pomgsy1RNTct2ZF5tEFBY5ekFvYbfJmwnLJFjOHp5sGUawo6iaV3nxAkvrCUOmn0Malv4NEgRRqGrl6aepLzNdYcoVlwNdaeJeUtyy6ICLTdrj8VhZ4FgUptDIMJtmH634GyvKE9R6HcJJIhYVsqh5viSGRSoTIca9fpM0Fb7QWk8cwVc43eBOxZHXAKA6eBWFcuEUwOVwlZwFDWrNS0R7XjLZ3wbnidV2X7ir6fUWgMgpfwCn6hbBnFlKmzx8XKFXuhFpdwVkVn3s5KLJ0AFl0AEjQhxWCwxP4YB7RYeJrNGZwfBGyiGrlLIJb8IyENQq3kLgmxNISQxyfyIF0BTFn5doERcyVqikbflSIEfhNy5HlWMin1exFb6DTKFANsbvRKXigz7byiwClNLVHUIpgtYrNcWO3ACUrEMTcTpIE4eNOVl8F3aKCNOoTEUXxh36PDmoOTeibRNk0kZvt7O4cq60P09bs7mfptkCjtNOzWkILwo1onDqb6PkpmdlonbsYE4kwPgR3xIgyBx2pU1RISbyV8pG8lSpuLino406OCyGMIVr0RNFg8U3WK92dA2bg3pADWtFiwnFlugfi0B5oFWqyAtpYT6pZ2BHfqgg",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4FdzDjnJY4TG8gZSertWmECHPRFy8y2d9bpPqDiphyAN0PT1bBWo4M2SYyz3qck9FqTebgJVyxYLf3h9LlsYUXRc4m8Ss4r1Mag1pomgsy1RNTct2ZF5tEFBY5ekFvYbfJmwnLJFjOHp5sGUawo6iaV3nxAkvrCUOmn0Malv4NEgRRqGrl6aepLzNdYcoVlwNdaeJeUtyy6ICLTdrj8VhZ4FgUptDIMJtmH634GyjYY4DAIJ560uQzHEPo5MpvspTlGfkuCNKkIQCxdoJlJL6g616x5ptaIFKIl88F6OVUlkAKkMFMlsiCZrhAKXH7mq2R7WfjMPL8YKlYyA3GjZTP0YtKemInzaGoKqfJ0L9spta3gPotRwmud4VOnCAEwTDd5J78hWQG6MSq2Zs8eDLSUh6KAr5pTTFxY2OSR7Tb29mYqBQalgRyS2Kr04d5pUxK6ItU5FvkOyUyH1Okdl4EdWnSs4cimkatLoq6a4UBFNWOluql0Ji8TbVUKfUk0UVgxmZ2wrk4ELHcJoksjt1zB9NepBYlWuvJSXPxZz8hi8Ei2P03TLXapUkXgUdKBMyF5buyTjwta2pmnJXol3tN0PzLC9C3hUDMIiOzuZmtaaUpwIPbWoFSkAZ51UlkAB4dPQbpcigqZcFSR8CjHlCuUjb4r22C8cL6DoujkqcqfRp19EbMihGFGJfavL72KooeNRTJUL8DXPQC",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Audio",
@@ -4382,8 +4382,8 @@
       "avaliacoes": null,
       "vendas": 106,
       "nota_qualidade": 8,
-      "last_seen": "2026-10-09T09:41:03.109933+00:00",
-      "expires_at": "2026-10-10T06:41:03.109933-03:00",
+      "last_seen": "2026-10-09T09:52:41.570912+00:00",
+      "expires_at": "2026-10-10T06:52:41.570912-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Gamer",
@@ -4423,7 +4423,7 @@
       "por": 58.05,
       "desconto": 70,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/A301ec6fdb81c4cc384f23dad93760f3en.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4EQR4kYvzFq9larQWNN2XxWntIWCU8AjD9SB89Bbkw9gqzIhei2cGSv5OH65HhlBZIRq5a6Twe5QVmx6bGR5IQOQJgOqZ6TkXImBiFWptV5Kiv3cVraiWiCfybb9VC9x2LeE1zrlQKhg1W1MaC1ky63mo9eh6y2WAF0xqO4yNqYeo9iNAG97sb9IOkehJtyrtyjA9R8xDXeWnbGpRRxfhOiIKMxy1dcEdyV1STnwRyHivA9U2a7vqM4nyk7RAsPc6i4q9o3uUtykU3UCc7Uk6JvSxdi6qhjIo47MaYS9pXCQZBCa6nj80zxoL1q5hbNyW2KThUn8yDpNstiita4zqRQnTnLO9v428dcPisuISXQWw86FWsruw5ygYTnkxb8ZvVJ9FDFEwQ5NUZJCb3tV6CV6CFuFRCmi6UzHZAyGNs2Q77nK2RZ1F87uK6Y3C96TTHvKrYKqiQIaJh2bVSsHRqemTiB0zkuu3AQLhIaZebRHJG7cvyTT44uqp3rOUcfavavn9wxOcAaGIVArRGOjtHQhlAqBTQAxuw6e3USBuTcJYl6wj2hzZDLpVtGNmxC6QPnM9H5Ss3KBeip1XKEVubGLsi9loKHOoYui2wUgInr0hyBIHZHWAulUKLWsI1drWcNjHJCkfqtEKEYjlOEALRhyIrmVYezZFo5fYQpNRaYEkJMjVMCFqaopH5P9OtzKR2Lg0macgkqLm1",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4EQR4kYvzFq9larQWNN2XxWntIWCU8AjD9SB89Bbkw9gqzIhei2cGSv5OH65HhlBZIRq5a6Twe5QVmx6bGR5IQOQJgOqZ6TkXImBiFWptV5Kiv3cVraiWiCfybb9VC9x2LeE1zrlQKhg1W1MaC1ky63mo9eh6y2WAF0xqO4yNqYeo9iNAG97sb9IOkehJtyrtyjA9R8xDXeWnbGpRRxfhOiIKMxy1dcEdyV1SToYmSBr7YmHdMXxJpjPE1ozL3OjmrszDlEMykElqEW9poyjw4gfHHiitcKFqp7FqS2Znsd2wPpJ2pGde9mnIef7Cr6K3ZuMUg819qlj2gTgVfRYM8Vl7zCYD04nnGjbi6myQ1H9cl1Rcq6P3qBSj1F5KQzgIV9LgJDSun1Xzh7nGUOzlnSvBjdry98x0NUiT4rbAMkQPtnMr9RBUJL7eiEURV96MPPfv3AzbPKeNkJWPJZb6LVOCSFjvvvYjMeZxDqJwKaBvGpxvVSG5PNaWL8epQIzVD8NwAauE5qJHqMqXKbSXw6xEMoZZgB58bLMkX6TLKS2GWkyQC4YZdccALrOutV1imweQeeBFOcpocCCe2LVXKc0ufMTV6YjYfa4gIoEPX8mht4fWuNNxhkZWzZI0FJwIMu34KSF0x3lmj4FtdDTFVbwDA1Ua4IlZv9ZPtGxCG4smRTP60JrnZyuk60QgshnBPeywBXMvjFOWN",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Hardware",
@@ -4434,8 +4434,8 @@
       "avaliacoes": null,
       "vendas": 782,
       "nota_qualidade": 7,
-      "last_seen": "2026-10-09T09:41:03.109933+00:00",
-      "expires_at": "2026-10-10T06:41:03.109933-03:00",
+      "last_seen": "2026-10-09T09:52:41.570912+00:00",
+      "expires_at": "2026-10-10T06:52:41.570912-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Gamer",
@@ -4449,7 +4449,7 @@
       "por": 158.52,
       "desconto": 59,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S19ef127e0d9b40f09802f5caad87851b9.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mLmqWqgZyrm2wdIQcimGRFvG3C6BbmIUTQwfgBCALZ5PHV8bytiVoPD51fwBp7lJx51r9ZYebVGtMaZEIpSAaODbAnlhKeOaFlIglJBWuhNuulmzw3TjuiwRAYzmeizfiPX5RVck2f7aJzEqgTZG477uZAv4GKwnNHYVIwB4GpZypX4jDK6EQ5SNyaGuNwYMbLDumtUuCsBktoxSRr9TKM7Ly6w4CYfIKd5RhFtHcGLERYBgrHvJrkFFq18DJmhNG9XjcV23v0pxteaFixvKTjlaJr56sOHZss3QoyXnPSa1bRzCawBqErWuvHzcEaa2xIIKEAKNkpywFiXqaBdaVj2s8Q7Zx2uXGRleL3ZQmIZQJNebPT4xggoekvlkfmfpmU6QgOwL2GHfw2Fv1kCXo198gkKEPf52uW9FVRVfOgz178SXgXcKsX65cStRKKLEUOILS9XB0eznWvyLxJ2Ow85vRR166R2SoJGq7Q7b8GFdn3Yug5tGGrizKvEq0fboxUwnJ5qZFxmrinoJnDjFdkhdYUdYYdyOQjHNKqVGrvYBHXQzLAz9WT7ryw2ZxGtBbJuhVmUeMqOVNlSNziSE0TIBz5wUtOv6O9PZovjm7a5NxgYqNIbMP5Bb17JPZGsatuBIBgcXDg3oNTFlySiYSfdpQqEzP4AaPd8cTruA3JAavVQQZP3nd073lUJ9Pi2rSusfPkcsmsSjs",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mLmqWqgZyrm2wdIQcimGRFvG3C6BbmIUTQwfgBCALZ5PHV8bytiVoPD51fwBp7lJx51r9ZYebVGtMaZEIpSAaODbAnlhKeOaFlIglJBWuhNuulmzw3TjuiwRAYzmeizfiPX5RVck2f7aJzEqgTZG477uZAv4GKwnNHYVIwB4GpZypX4jDK6EQ5SNyaGuNwYMbLDumtUuCsBktoxSRr9TKM7Ly6w4CYfIKd5RhFPvabkkDOT6qOzw3rlMKT3LIjV7l7bioY1XnrpUV5lUV9iuW85MA3olbjxpnsuW7wv8gAy9HjEwchiH02QZU4K3IrjraU9mIZRcyG3qNXYMRAKtbGe5VEl5saFDcUkSVoyVsJbB0pTezm10XePzWJY9TcwL9a1gQO94MYxZZ9WJeDyx3NIZeW1kPutzGEdPjYhC6YIqMOwvkgFC5YGilwXEJAtXXgJDcOxmX7IrhkWoPpBSqwLquezQ0c6xMznvWK17LjaKxmW4sX6jKw4iq113Rn58thY6GjK9fHL2fvoAxrt5xQOwdnE2Rp0byRyg3iAXbSVHSaSa9ciKePyezpVlK68070olM8xZ5LwQFeL9ChZhbzOYbdrzt5k2RO1SbARcFO4ldquG0ENF4yFYyC9zwN1QITdTn2kiiFxv74UbGcqUoYgivb6g8sIRnxMGbcdc2u1iGYcMn4BxD29ntr882sQdwtqkBZHj55iSm",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Audio",
@@ -4460,8 +4460,8 @@
       "avaliacoes": null,
       "vendas": 216,
       "nota_qualidade": 8,
-      "last_seen": "2026-10-09T09:41:03.109933+00:00",
-      "expires_at": "2026-10-10T06:41:03.109933-03:00",
+      "last_seen": "2026-10-09T09:52:41.570912+00:00",
+      "expires_at": "2026-10-10T06:52:41.570912-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Gamer",
