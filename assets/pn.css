@@ -1,3 +1,22 @@
+/* Vitrines e acesso aos produtos do Instagram. */
+.storefront-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px}
+.storefront-card{display:flex;flex-direction:column;align-items:flex-start;gap:14px;padding:26px;border:1px solid var(--border-strong);border-radius:20px;background:var(--surface);color:var(--text-primary);text-decoration:none;transition:border-color .2s,background .2s}
+.storefront-card:hover,.storefront-card:focus-visible{border-color:var(--gold);background:var(--surface-hover)}
+.storefront-card img{object-fit:contain;object-position:left center;height:36px;width:auto;max-width:120px}
+.storefront-card strong{font-size:20px}
+.storefront-card>span{color:var(--text-secondary);line-height:1.6}
+.storefront-card .storefront-action{color:var(--gold-light);font-weight:700;margin-top:auto}
+.instagram-entry{border-color:var(--gold)!important}
+.instagram-intro h1{font-size:clamp(30px,5vw,48px);line-height:1.15;margin:12px 0 16px}
+.instagram-search-label{display:block;margin:24px 0 10px;color:var(--text-secondary)}
+.instagram-search{display:block;width:100%;max-width:600px;height:52px;padding:12px 18px;background:var(--surface);border:1px solid var(--border-strong);border-radius:12px}
+.instagram-intro .result-count{display:block;margin:20px 0}
+.instagram-price-label{font-size:13px;color:var(--text-secondary)}
+.instagram-offer-note,.instagram-history-note{color:var(--text-secondary);font-size:14px;line-height:1.6}
+.instagram-history-note{margin-top:24px;max-width:800px}
+.instagram-offer[hidden],#instagramEmpty[hidden]{display:none}
+@media(max-width:600px){.storefront-grid{grid-template-columns:1fr}.storefront-card{padding:22px}.hero-actions .instagram-entry{flex-basis:100%}}
+
 /* ==========================================================================
    PROMO NINJA — Design System
    --------------------------------------------------------------------------
