@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-10-15T07:39:08.013265+00:00",
+  "atualizado": "2026-10-15T07:50:34.530379+00:00",
   "ofertas": [
     {
       "source_id": "pechinchou-154865",
@@ -19,8 +19,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-10-15T07:39:08.013265+00:00",
-      "expires_at": "2026-10-16T04:39:08.013265-03:00",
+      "last_seen": "2026-10-15T07:50:34.530379+00:00",
+      "expires_at": "2026-10-16T04:50:34.530379-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
@@ -45,8 +45,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-10-15T07:39:08.013265+00:00",
-      "expires_at": "2026-10-16T04:39:08.013265-03:00",
+      "last_seen": "2026-10-15T07:50:34.530379+00:00",
+      "expires_at": "2026-10-16T04:50:34.530379-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
@@ -71,8 +71,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-10-15T07:39:08.013265+00:00",
-      "expires_at": "2026-10-16T04:39:08.013265-03:00",
+      "last_seen": "2026-10-15T07:50:34.530379+00:00",
+      "expires_at": "2026-10-16T04:50:34.530379-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -97,37 +97,11 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-10-15T07:39:08.013265+00:00",
-      "expires_at": "2026-10-16T04:39:08.013265-03:00",
+      "last_seen": "2026-10-15T07:50:34.530379+00:00",
+      "expires_at": "2026-10-16T04:50:34.530379-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
-    },
-    {
-      "source_id": "pechinchou-153367",
-      "titulo": "Proteína Growth Supplements Basic Whey Pro em pó sabor Morango x 1kg",
-      "de": 109.0,
-      "por": 72.0,
-      "desconto": 34,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/D_NQ_NP_819000-MLA101180020755_122025-F.jpg",
-      "link": "https://meli.la/1m4c9Ud",
-      "cupom": null,
-      "loja": "mercadolivre",
-      "categoria": "Supermercado",
-      "data": "2026-09-28T14:19:01.873711-03:00",
-      "slug": "proteina-growth-supplements-basic-whey-pro-em-po-sabor-morango-x-1kg",
-      "page_url": "https://promoninjaofertas.github.io/produto/proteina-growth-supplements-basic-whey-pro-em-po-sabor-morango-x-1kg.html",
-      "avaliacao": null,
-      "avaliacoes": 10,
-      "vendas": null,
-      "nota_qualidade": 5,
-      "last_seen": "2026-10-15T07:39:08.013265+00:00",
-      "expires_at": "2026-10-16T04:39:08.013265-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Outros",
       "cupom_no_telegram": false,
       "cupom_telegram_url": null
     },
@@ -149,11 +123,37 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-10-15T07:39:08.013265+00:00",
-      "expires_at": "2026-10-16T04:39:08.013265-03:00",
+      "last_seen": "2026-10-15T07:50:34.530379+00:00",
+      "expires_at": "2026-10-16T04:50:34.530379-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
+      "cupom_no_telegram": false,
+      "cupom_telegram_url": null
+    },
+    {
+      "source_id": "pechinchou-153367",
+      "titulo": "Proteína Growth Supplements Basic Whey Pro em pó sabor Morango x 1kg",
+      "de": 109.0,
+      "por": 72.0,
+      "desconto": 34,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/D_NQ_NP_819000-MLA101180020755_122025-F.jpg",
+      "link": "https://meli.la/1m4c9Ud",
+      "cupom": null,
+      "loja": "mercadolivre",
+      "categoria": "Supermercado",
+      "data": "2026-09-28T14:19:01.873711-03:00",
+      "slug": "proteina-growth-supplements-basic-whey-pro-em-po-sabor-morango-x-1kg",
+      "page_url": "https://promoninjaofertas.github.io/produto/proteina-growth-supplements-basic-whey-pro-em-po-sabor-morango-x-1kg.html",
+      "avaliacao": null,
+      "avaliacoes": 10,
+      "vendas": null,
+      "nota_qualidade": 5,
+      "last_seen": "2026-10-15T07:50:34.530379+00:00",
+      "expires_at": "2026-10-16T04:50:34.530379-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Outros",
       "cupom_no_telegram": false,
       "cupom_telegram_url": null
     },
@@ -175,8 +175,8 @@
       "avaliacoes": 10,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-10-15T07:39:08.013265+00:00",
-      "expires_at": "2026-10-16T04:39:08.013265-03:00",
+      "last_seen": "2026-10-15T07:50:34.530379+00:00",
+      "expires_at": "2026-10-16T04:50:34.530379-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
@@ -201,8 +201,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-10-15T07:39:08.013265+00:00",
-      "expires_at": "2026-10-16T04:39:08.013265-03:00",
+      "last_seen": "2026-10-15T07:50:34.530379+00:00",
+      "expires_at": "2026-10-16T04:50:34.530379-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
@@ -227,8 +227,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-10-15T07:39:08.013265+00:00",
-      "expires_at": "2026-10-16T04:39:08.013265-03:00",
+      "last_seen": "2026-10-15T07:50:34.530379+00:00",
+      "expires_at": "2026-10-16T04:50:34.530379-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -253,8 +253,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-10-15T07:39:08.013265+00:00",
-      "expires_at": "2026-10-16T04:39:08.013265-03:00",
+      "last_seen": "2026-10-15T07:50:34.530379+00:00",
+      "expires_at": "2026-10-16T04:50:34.530379-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -279,8 +279,8 @@
       "avaliacoes": 1,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-10-15T07:39:08.013265+00:00",
-      "expires_at": "2026-10-16T04:39:08.013265-03:00",
+      "last_seen": "2026-10-15T07:50:34.530379+00:00",
+      "expires_at": "2026-10-16T04:50:34.530379-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
@@ -305,8 +305,8 @@
       "avaliacoes": 2,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-10-15T07:39:08.013265+00:00",
-      "expires_at": "2026-10-16T04:39:08.013265-03:00",
+      "last_seen": "2026-10-15T07:50:34.530379+00:00",
+      "expires_at": "2026-10-16T04:50:34.530379-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
@@ -331,8 +331,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-10-15T07:39:08.013265+00:00",
-      "expires_at": "2026-10-16T04:39:08.013265-03:00",
+      "last_seen": "2026-10-15T07:50:34.530379+00:00",
+      "expires_at": "2026-10-16T04:50:34.530379-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
@@ -357,8 +357,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 7,
-      "last_seen": "2026-10-15T07:39:08.013265+00:00",
-      "expires_at": "2026-10-16T04:39:08.013265-03:00",
+      "last_seen": "2026-10-15T07:50:34.530379+00:00",
+      "expires_at": "2026-10-16T04:50:34.530379-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
@@ -383,8 +383,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-10-15T07:39:08.013265+00:00",
-      "expires_at": "2026-10-16T04:39:08.013265-03:00",
+      "last_seen": "2026-10-15T07:50:34.530379+00:00",
+      "expires_at": "2026-10-16T04:50:34.530379-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -409,8 +409,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-10-15T07:39:08.013265+00:00",
-      "expires_at": "2026-10-16T04:39:08.013265-03:00",
+      "last_seen": "2026-10-15T07:50:34.530379+00:00",
+      "expires_at": "2026-10-16T04:50:34.530379-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
@@ -435,8 +435,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 8,
-      "last_seen": "2026-10-15T07:39:08.013265+00:00",
-      "expires_at": "2026-10-16T04:39:08.013265-03:00",
+      "last_seen": "2026-10-15T07:50:34.530379+00:00",
+      "expires_at": "2026-10-16T04:50:34.530379-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech",
@@ -461,8 +461,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-10-15T07:39:08.013265+00:00",
-      "expires_at": "2026-10-16T04:39:08.013265-03:00",
+      "last_seen": "2026-10-15T07:50:34.530379+00:00",
+      "expires_at": "2026-10-16T04:50:34.530379-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -487,8 +487,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 8,
-      "last_seen": "2026-10-15T07:39:08.013265+00:00",
-      "expires_at": "2026-10-16T04:39:08.013265-03:00",
+      "last_seen": "2026-10-15T07:50:34.530379+00:00",
+      "expires_at": "2026-10-16T04:50:34.530379-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
@@ -513,8 +513,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-10-15T07:39:08.013265+00:00",
-      "expires_at": "2026-10-16T04:39:08.013265-03:00",
+      "last_seen": "2026-10-15T07:50:34.530379+00:00",
+      "expires_at": "2026-10-16T04:50:34.530379-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -527,7 +527,7 @@
       "de": 159.9,
       "por": 119.68,
       "desconto": 25,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/external-image_WGqv8Tb.jpg",
+      "imagem": "https://m.media-amazon.com/images/I/71oIb7WLZpL._SL1500_.jpg",
       "link": "https://www.amazon.com.br/dp/B0GR6BDL76?tag=promoninja0b2-20",
       "cupom": null,
       "loja": "amazon",
@@ -539,8 +539,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 7,
-      "last_seen": "2026-10-15T07:39:08.013265+00:00",
-      "expires_at": "2026-10-16T04:39:08.013265-03:00",
+      "last_seen": "2026-10-15T07:50:34.530379+00:00",
+      "expires_at": "2026-10-16T04:50:34.530379-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech",
@@ -565,8 +565,8 @@
       "avaliacoes": 1,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-10-15T07:39:08.013265+00:00",
-      "expires_at": "2026-10-16T04:39:08.013265-03:00",
+      "last_seen": "2026-10-15T07:50:34.530379+00:00",
+      "expires_at": "2026-10-16T04:50:34.530379-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech",
@@ -591,8 +591,8 @@
       "avaliacoes": 10,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-10-15T07:39:08.013265+00:00",
-      "expires_at": "2026-10-16T04:39:08.013265-03:00",
+      "last_seen": "2026-10-15T07:50:34.530379+00:00",
+      "expires_at": "2026-10-16T04:50:34.530379-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -643,11 +643,11 @@
       "avaliacoes": null,
       "vendas": 140,
       "nota_qualidade": 10,
-      "last_seen": "2026-10-15T06:51:30.809244+00:00",
-      "expires_at": "2026-10-16T03:51:30.809244-03:00",
+      "last_seen": "2026-10-15T07:50:34.530379+00:00",
+      "expires_at": "2026-10-16T04:50:34.530379-03:00",
       "marca": "Asus",
       "price_evidence": {
-        "checked_at": "2026-10-15T06:52:30.426849+00:00",
+        "checked_at": "2026-10-15T07:51:35.947807+00:00",
         "identity": {
           "brand": "Asus",
           "model": "am4",
@@ -927,10 +927,190 @@
       "avaliacoes": null,
       "vendas": 712,
       "nota_qualidade": 9,
-      "last_seen": "2026-10-15T07:03:12.970185+00:00",
-      "expires_at": "2026-10-16T04:03:12.970185-03:00",
+      "last_seen": "2026-10-15T07:50:34.530379+00:00",
+      "expires_at": "2026-10-16T04:50:34.530379-03:00",
       "marca": "Bosch",
-      "price_evidence": {},
+      "price_evidence": {
+        "checked_at": "2026-10-15T07:51:35.947807+00:00",
+        "identity": {
+          "brand": "Bosch",
+          "model": null,
+          "family": "ferramentas",
+          "kind": "produto",
+          "variant": "1200w|220v|kit:1",
+          "ambiguous": false,
+          "comparison_key": null
+        },
+        "previous_min": 329.26,
+        "observed_min": 329.26,
+        "since": "2026-09-15T11:45:13.616965+00:00",
+        "observations": 119,
+        "days": 31,
+        "history": [
+          {
+            "at": "2026-10-05T06:43:46.531081+00:00",
+            "price": 329.26
+          },
+          {
+            "at": "2026-10-05T12:49:45.273600+00:00",
+            "price": 329.26
+          },
+          {
+            "at": "2026-10-05T19:00:54.752070+00:00",
+            "price": 329.26
+          },
+          {
+            "at": "2026-10-06T01:12:43.424777+00:00",
+            "price": 329.26
+          },
+          {
+            "at": "2026-10-06T07:27:46.641805+00:00",
+            "price": 329.26
+          },
+          {
+            "at": "2026-10-06T13:28:42.262219+00:00",
+            "price": 329.26
+          },
+          {
+            "at": "2026-10-06T19:43:59.824098+00:00",
+            "price": 329.26
+          },
+          {
+            "at": "2026-10-07T02:00:36.422362+00:00",
+            "price": 329.26
+          },
+          {
+            "at": "2026-10-07T08:12:07.710198+00:00",
+            "price": 329.26
+          },
+          {
+            "at": "2026-10-07T14:18:38.988912+00:00",
+            "price": 329.26
+          },
+          {
+            "at": "2026-10-07T20:25:01.059579+00:00",
+            "price": 329.26
+          },
+          {
+            "at": "2026-10-08T02:37:11.228753+00:00",
+            "price": 329.26
+          },
+          {
+            "at": "2026-10-08T08:42:07.715301+00:00",
+            "price": 329.26
+          },
+          {
+            "at": "2026-10-08T14:51:36.607920+00:00",
+            "price": 329.26
+          },
+          {
+            "at": "2026-10-08T20:52:12.271288+00:00",
+            "price": 329.26
+          },
+          {
+            "at": "2026-10-09T03:02:55.890638+00:00",
+            "price": 329.26
+          },
+          {
+            "at": "2026-10-09T09:14:33.305805+00:00",
+            "price": 329.26
+          },
+          {
+            "at": "2026-10-09T15:24:29.624921+00:00",
+            "price": 329.26
+          },
+          {
+            "at": "2026-10-09T21:33:44.177868+00:00",
+            "price": 329.26
+          },
+          {
+            "at": "2026-10-10T03:33:53.178247+00:00",
+            "price": 329.26
+          },
+          {
+            "at": "2026-10-10T09:42:35.211700+00:00",
+            "price": 329.26
+          },
+          {
+            "at": "2026-10-10T15:42:45.238961+00:00",
+            "price": 329.26
+          },
+          {
+            "at": "2026-10-10T21:54:30.707474+00:00",
+            "price": 329.26
+          },
+          {
+            "at": "2026-10-11T04:10:28.015775+00:00",
+            "price": 329.26
+          },
+          {
+            "at": "2026-10-11T10:11:39.049749+00:00",
+            "price": 329.26
+          },
+          {
+            "at": "2026-10-11T16:26:00.134401+00:00",
+            "price": 329.26
+          },
+          {
+            "at": "2026-10-11T22:31:12.262082+00:00",
+            "price": 329.26
+          },
+          {
+            "at": "2026-10-12T03:10:34.421933+00:00",
+            "price": 329.86
+          },
+          {
+            "at": "2026-10-12T09:14:06.258836+00:00",
+            "price": 329.86
+          },
+          {
+            "at": "2026-10-12T15:23:09.586080+00:00",
+            "price": 329.86
+          },
+          {
+            "at": "2026-10-12T21:24:21.361318+00:00",
+            "price": 329.86
+          },
+          {
+            "at": "2026-10-13T03:05:17.903248+00:00",
+            "price": 329.26
+          },
+          {
+            "at": "2026-10-13T09:06:04.987567+00:00",
+            "price": 329.26
+          },
+          {
+            "at": "2026-10-13T15:27:14.570982+00:00",
+            "price": 329.26
+          },
+          {
+            "at": "2026-10-13T21:32:44.756112+00:00",
+            "price": 329.26
+          },
+          {
+            "at": "2026-10-14T03:49:16.976758+00:00",
+            "price": 329.26
+          },
+          {
+            "at": "2026-10-14T09:54:59.203098+00:00",
+            "price": 329.26
+          },
+          {
+            "at": "2026-10-14T16:02:34.681561+00:00",
+            "price": 329.26
+          },
+          {
+            "at": "2026-10-14T22:14:10.471842+00:00",
+            "price": 329.26
+          },
+          {
+            "at": "2026-10-15T04:18:46.790767+00:00",
+            "price": 329.26
+          }
+        ],
+        "advantage": false,
+        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
+      },
       "grupo": "Casa",
       "cupom_no_telegram": false,
       "cupom_telegram_url": null
@@ -1188,11 +1368,11 @@
       "avaliacoes": null,
       "vendas": 327,
       "nota_qualidade": 9,
-      "last_seen": "2026-10-15T07:16:08.098839+00:00",
-      "expires_at": "2026-10-16T04:16:08.098839-03:00",
+      "last_seen": "2026-10-15T07:50:34.530379+00:00",
+      "expires_at": "2026-10-16T04:50:34.530379-03:00",
       "marca": "LG",
       "price_evidence": {
-        "checked_at": "2026-10-15T07:17:05.375648+00:00",
+        "checked_at": "2026-10-15T07:51:35.947807+00:00",
         "identity": {
           "brand": "LG",
           "model": "24ms500-b",
@@ -1394,11 +1574,11 @@
       "avaliacoes": null,
       "vendas": 1015,
       "nota_qualidade": 9,
-      "last_seen": "2026-10-15T06:51:30.809244+00:00",
-      "expires_at": "2026-10-16T03:51:30.809244-03:00",
+      "last_seen": "2026-10-15T07:50:34.530379+00:00",
+      "expires_at": "2026-10-16T04:50:34.530379-03:00",
       "marca": "WAP",
       "price_evidence": {
-        "checked_at": "2026-10-15T06:52:30.426849+00:00",
+        "checked_at": "2026-10-15T07:51:35.947807+00:00",
         "identity": {
           "brand": "WAP",
           "model": null,
@@ -1560,10 +1740,190 @@
       "avaliacoes": null,
       "vendas": 274,
       "nota_qualidade": 10,
-      "last_seen": "2026-10-15T07:03:12.970185+00:00",
-      "expires_at": "2026-10-16T04:03:12.970185-03:00",
+      "last_seen": "2026-10-15T07:50:34.530379+00:00",
+      "expires_at": "2026-10-16T04:50:34.530379-03:00",
       "marca": "Bosch",
-      "price_evidence": {},
+      "price_evidence": {
+        "checked_at": "2026-10-15T07:51:35.947807+00:00",
+        "identity": {
+          "brand": "Bosch",
+          "model": null,
+          "family": "ferramentas",
+          "kind": "produto",
+          "variant": "48v|kit:1",
+          "ambiguous": false,
+          "comparison_key": null
+        },
+        "previous_min": 399.29,
+        "observed_min": 399.29,
+        "since": "2026-09-15T11:45:13.616965+00:00",
+        "observations": 67,
+        "days": 20,
+        "history": [
+          {
+            "at": "2026-09-22T08:34:20.272304+00:00",
+            "price": 399.33
+          },
+          {
+            "at": "2026-09-22T14:35:19.974266+00:00",
+            "price": 399.33
+          },
+          {
+            "at": "2026-09-22T20:44:44.246437+00:00",
+            "price": 399.33
+          },
+          {
+            "at": "2026-09-23T02:45:14.307921+00:00",
+            "price": 399.33
+          },
+          {
+            "at": "2026-09-23T09:00:14.705504+00:00",
+            "price": 399.33
+          },
+          {
+            "at": "2026-09-23T15:15:01.110594+00:00",
+            "price": 399.33
+          },
+          {
+            "at": "2026-09-23T21:24:51.970892+00:00",
+            "price": 399.33
+          },
+          {
+            "at": "2026-09-24T03:33:47.529326+00:00",
+            "price": 399.33
+          },
+          {
+            "at": "2026-09-24T09:46:22.407904+00:00",
+            "price": 399.33
+          },
+          {
+            "at": "2026-09-24T15:58:42.626063+00:00",
+            "price": 399.33
+          },
+          {
+            "at": "2026-09-24T22:10:49.304200+00:00",
+            "price": 399.33
+          },
+          {
+            "at": "2026-09-25T04:15:17.412398+00:00",
+            "price": 399.33
+          },
+          {
+            "at": "2026-09-25T10:21:44.161454+00:00",
+            "price": 399.33
+          },
+          {
+            "at": "2026-09-25T16:27:56.820341+00:00",
+            "price": 399.33
+          },
+          {
+            "at": "2026-09-25T22:28:50.620777+00:00",
+            "price": 399.33
+          },
+          {
+            "at": "2026-09-26T03:08:09.275635+00:00",
+            "price": 399.67
+          },
+          {
+            "at": "2026-09-26T09:17:32.405968+00:00",
+            "price": 399.67
+          },
+          {
+            "at": "2026-09-26T15:25:17.128037+00:00",
+            "price": 399.67
+          },
+          {
+            "at": "2026-09-26T21:35:40.714991+00:00",
+            "price": 399.67
+          },
+          {
+            "at": "2026-09-30T13:04:49.280368+00:00",
+            "price": 399.67
+          },
+          {
+            "at": "2026-09-30T19:07:43.372490+00:00",
+            "price": 399.67
+          },
+          {
+            "at": "2026-10-06T10:34:14.052961+00:00",
+            "price": 399.29
+          },
+          {
+            "at": "2026-10-06T16:39:59.376803+00:00",
+            "price": 399.29
+          },
+          {
+            "at": "2026-10-06T22:52:41.299367+00:00",
+            "price": 399.29
+          },
+          {
+            "at": "2026-10-07T05:03:59.677716+00:00",
+            "price": 399.29
+          },
+          {
+            "at": "2026-10-07T11:29:50.052526+00:00",
+            "price": 399.29
+          },
+          {
+            "at": "2026-10-07T17:46:13.069328+00:00",
+            "price": 399.29
+          },
+          {
+            "at": "2026-10-07T23:53:32.585197+00:00",
+            "price": 399.29
+          },
+          {
+            "at": "2026-10-08T06:08:39.697309+00:00",
+            "price": 399.29
+          },
+          {
+            "at": "2026-10-08T12:24:31.196519+00:00",
+            "price": 399.29
+          },
+          {
+            "at": "2026-10-08T18:33:49.590962+00:00",
+            "price": 399.29
+          },
+          {
+            "at": "2026-10-09T00:36:06.759872+00:00",
+            "price": 399.29
+          },
+          {
+            "at": "2026-10-13T10:50:42.198574+00:00",
+            "price": 399.29
+          },
+          {
+            "at": "2026-10-13T16:58:31.129076+00:00",
+            "price": 399.29
+          },
+          {
+            "at": "2026-10-13T23:09:32.421955+00:00",
+            "price": 399.29
+          },
+          {
+            "at": "2026-10-14T05:20:39.766317+00:00",
+            "price": 399.29
+          },
+          {
+            "at": "2026-10-14T11:21:52.252415+00:00",
+            "price": 399.29
+          },
+          {
+            "at": "2026-10-14T17:28:40.331338+00:00",
+            "price": 399.29
+          },
+          {
+            "at": "2026-10-14T23:35:20.519759+00:00",
+            "price": 399.29
+          },
+          {
+            "at": "2026-10-15T05:47:38.067982+00:00",
+            "price": 399.29
+          }
+        ],
+        "advantage": false,
+        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
+      },
       "grupo": "Casa",
       "cupom_no_telegram": false,
       "cupom_telegram_url": null
@@ -1792,10 +2152,190 @@
       "avaliacoes": null,
       "vendas": 165,
       "nota_qualidade": 9,
-      "last_seen": "2026-10-15T07:03:12.970185+00:00",
-      "expires_at": "2026-10-16T04:03:12.970185-03:00",
+      "last_seen": "2026-10-15T07:50:34.530379+00:00",
+      "expires_at": "2026-10-16T04:50:34.530379-03:00",
       "marca": "Logitech",
-      "price_evidence": {},
+      "price_evidence": {
+        "checked_at": "2026-10-15T07:51:35.947807+00:00",
+        "identity": {
+          "brand": "Logitech",
+          "model": "m220",
+          "family": "computadores",
+          "kind": "produto",
+          "variant": "kit:1",
+          "ambiguous": false,
+          "comparison_key": null
+        },
+        "previous_min": 29.99,
+        "observed_min": 29.99,
+        "since": "2026-09-15T11:45:13.616965+00:00",
+        "observations": 118,
+        "days": 31,
+        "history": [
+          {
+            "at": "2026-10-05T09:11:49.640263+00:00",
+            "price": 32.5
+          },
+          {
+            "at": "2026-10-05T15:17:15.987473+00:00",
+            "price": 32.5
+          },
+          {
+            "at": "2026-10-05T21:25:16.924706+00:00",
+            "price": 32.5
+          },
+          {
+            "at": "2026-10-06T03:39:10.438062+00:00",
+            "price": 32.5
+          },
+          {
+            "at": "2026-10-06T09:50:28.225227+00:00",
+            "price": 32.5
+          },
+          {
+            "at": "2026-10-06T15:50:29.274678+00:00",
+            "price": 32.5
+          },
+          {
+            "at": "2026-10-06T22:07:02.380216+00:00",
+            "price": 32.5
+          },
+          {
+            "at": "2026-10-07T04:07:50.786418+00:00",
+            "price": 32.5
+          },
+          {
+            "at": "2026-10-07T10:14:02.449507+00:00",
+            "price": 32.5
+          },
+          {
+            "at": "2026-10-07T16:25:32.841338+00:00",
+            "price": 32.5
+          },
+          {
+            "at": "2026-10-07T22:32:18.173307+00:00",
+            "price": 32.5
+          },
+          {
+            "at": "2026-10-08T04:42:58.499684+00:00",
+            "price": 32.5
+          },
+          {
+            "at": "2026-10-08T10:46:45.179418+00:00",
+            "price": 32.5
+          },
+          {
+            "at": "2026-10-08T16:58:39.085870+00:00",
+            "price": 32.5
+          },
+          {
+            "at": "2026-10-08T23:09:47.199182+00:00",
+            "price": 32.5
+          },
+          {
+            "at": "2026-10-09T05:10:38.629167+00:00",
+            "price": 32.5
+          },
+          {
+            "at": "2026-10-09T11:22:19.941894+00:00",
+            "price": 32.5
+          },
+          {
+            "at": "2026-10-09T17:34:11.882787+00:00",
+            "price": 32.5
+          },
+          {
+            "at": "2026-10-09T23:40:27.529872+00:00",
+            "price": 32.5
+          },
+          {
+            "at": "2026-10-10T03:08:55.972136+00:00",
+            "price": 29.99
+          },
+          {
+            "at": "2026-10-10T09:09:18.261705+00:00",
+            "price": 29.99
+          },
+          {
+            "at": "2026-10-10T15:22:38.691521+00:00",
+            "price": 29.99
+          },
+          {
+            "at": "2026-10-10T21:23:52.439959+00:00",
+            "price": 29.99
+          },
+          {
+            "at": "2026-10-11T03:04:31.900554+00:00",
+            "price": 32.5
+          },
+          {
+            "at": "2026-10-11T09:10:28.123158+00:00",
+            "price": 32.5
+          },
+          {
+            "at": "2026-10-11T15:22:47.860460+00:00",
+            "price": 32.5
+          },
+          {
+            "at": "2026-10-11T21:30:01.734302+00:00",
+            "price": 32.5
+          },
+          {
+            "at": "2026-10-12T03:40:59.393571+00:00",
+            "price": 32.5
+          },
+          {
+            "at": "2026-10-12T09:47:03.905400+00:00",
+            "price": 32.5
+          },
+          {
+            "at": "2026-10-12T15:53:31.475343+00:00",
+            "price": 32.5
+          },
+          {
+            "at": "2026-10-12T21:59:40.539655+00:00",
+            "price": 32.5
+          },
+          {
+            "at": "2026-10-13T04:01:48.267566+00:00",
+            "price": 32.5
+          },
+          {
+            "at": "2026-10-13T10:16:58.248041+00:00",
+            "price": 32.5
+          },
+          {
+            "at": "2026-10-13T16:27:43.377368+00:00",
+            "price": 32.5
+          },
+          {
+            "at": "2026-10-13T22:38:52.924307+00:00",
+            "price": 32.5
+          },
+          {
+            "at": "2026-10-14T04:50:13.928836+00:00",
+            "price": 32.5
+          },
+          {
+            "at": "2026-10-14T11:01:15.613267+00:00",
+            "price": 32.5
+          },
+          {
+            "at": "2026-10-14T17:13:22.477244+00:00",
+            "price": 32.5
+          },
+          {
+            "at": "2026-10-14T23:14:59.449847+00:00",
+            "price": 32.5
+          },
+          {
+            "at": "2026-10-15T05:19:01.991890+00:00",
+            "price": 32.5
+          }
+        ],
+        "advantage": false,
+        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
+      },
       "grupo": "Tech",
       "cupom_no_telegram": false,
       "cupom_telegram_url": null
@@ -1844,11 +2384,11 @@
       "avaliacoes": null,
       "vendas": 209,
       "nota_qualidade": 10,
-      "last_seen": "2026-10-15T06:51:30.809244+00:00",
-      "expires_at": "2026-10-16T03:51:30.809244-03:00",
+      "last_seen": "2026-10-15T07:50:34.530379+00:00",
+      "expires_at": "2026-10-16T04:50:34.530379-03:00",
       "marca": "WAP",
       "price_evidence": {
-        "checked_at": "2026-10-15T06:52:30.426849+00:00",
+        "checked_at": "2026-10-15T07:51:35.947807+00:00",
         "identity": {
           "brand": "WAP",
           "model": "7metros",
@@ -2711,7 +3251,7 @@
       "por": 76.08,
       "desconto": 49,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S7028ffaa5e36485ea0111a65b924699bY.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4kMvo5YGiuNAw1W4FPcXYE3bJ3rMK2yhlMWZxdxVSwsI1jEBnj795Ivlmtnkjpcd27qrvLhAvHjtpAtB3wTiFIrERLCQ2lvVR7i3kbFROVgvzeKS2X8fxqpSqgAxpi0GtTAoDm74BeYONkcwORS9SceAE07GEANrVKvH76cTk95YOXJSfPRkVPrzmy5aK2waaAlbrLsijCf4s3TYrtrpDf0oa7zRUG7cQHNCQ42c07sRTk7PJzwNUGny68oOAJQhzTEqsv687TSi0tHz1WiV6YS3GifUTaqgCwiPWyqFyp9wOhznG3lsfAzNSYfg1CW1MBnWltA0rGfw19L05FFDxwY4KjH4g78xZewA1FLJdOnjqUFPJkMyzCNrCoTZtzcwfAUoscoY8jk6FCV1VTmQAnLyLb0hG3LpgF1D1sJCJYP8PDWS8SdWWKu1bI5L9Jgyz1Gdc5DMSudGa0bij9qvowq1iNRWJgHV82T7E9EBlLkhu6Ioj44cRblUuy71A9wVcFDrbVUTQLjSk7RNn6SmtHVTuSps6wATp69l1PUqJsZqEP5gMId9xLq4DIqFAPIkh5HislJt1If4kzn1odBU1DWgPcRv8lpshUz6V0ZqqnLTSUTHtrP2CS7tnzBECWRiIpEwFoU8J5J8I779GofaYdyKmgEyiwzfCqSVgYdIiJd53SSQIbZ79KQXdjkExkXISo20MbXOz5zNuH",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4kMvo5YGiuNAw1W4FPcXYE3bJ3rMK2yhlMWZxdxVSwsI1jEBnj795Ivlmtnkjpcd27qrvLhAvHjtpAtB3wTiFIrERLCQ2lvVR7i3kbFROVgvzeKS2X8fxqpSqgAxpi0GtTAoDm74BeYONkcwORS9SceAE07GEANrVKvH76cTk95YOXJSfPRkVPrzmy5aK2waaAlbrLsijCf4s3TYrtrpDf0oa7zRUG7cQHNCQ42dlZ43JUW53QM0e4latK7KmcOsnplXqPKlfAyQSukOq8SV0HYP5m5B8b3EPComSPU32rbB97JPZmNnhGBIlLuGbNh4ukZIxkhlcqWl36oIuk9U9foEkN4fwZpjwF03ypBJOSns2aM4q68C66YJsitWntay2guszD5FhsP0BdQXtWRUcT6pi9wDK1FDJ0lmgVDoTCCqZLPXMGPnqjQJVhYXOYG6IQzCWPWW9oQSEHw0l4vwIQdu2we1DZNeTwoGDx72E9uY6oB7NScvsayQafq9qVPThzqBHpkJFii8ZtRsCLh6yyQG7BgQU6HKNvqhnoRAi183c6yQJiMi0EKEB0sohgyWtQrXJTLJGiG1MATjBn1M7CTsjf4DV4KABPKj7W6nb5lRMpF5rEOWTPF62RN5VyiMhjziqTmTr1XSiDtY7iUb2KHSH1sc0cpj3pvezVin2U7xFzjg7saF36oe7Hv86iEIi16gE8RxDsXtpr",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Hardware",
@@ -2722,8 +3262,8 @@
       "avaliacoes": null,
       "vendas": 288,
       "nota_qualidade": 7,
-      "last_seen": "2026-10-15T07:39:08.013265+00:00",
-      "expires_at": "2026-10-16T04:39:08.013265-03:00",
+      "last_seen": "2026-10-15T07:50:34.530379+00:00",
+      "expires_at": "2026-10-16T04:50:34.530379-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech",
@@ -2809,32 +3349,6 @@
       "cupom_telegram_url": null
     },
     {
-      "source_id": "1005009942973523",
-      "titulo": "Carregador Portátil 20000mah，Power Bank Portátil，Pilhas Recarregáveis，Powerbank Portátil， TYPE-C, USB， Preto， Do Brasil",
-      "de": 125.99,
-      "por": 97.22,
-      "desconto": 22,
-      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sde41ee2d147445a1b782ea99ce2a2690d.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mrbupromK6mYSbuqYR50sQXn1xnxQjsn6UD8OFDTyuzx58lNGuFICzNShe5N91FWyj99Bjco621BLld2shUA6bbCdRDv1GHnnfJZ8tM6Lj4yciaQ8Xk4apPeYKsjg2f5W5ZPnPzLN0DjmTaB4uBJ58pdrflFq1JZFHRM3yN5MpADtVg48Rsx39Bj7t3IofRJLiNvg34SqV6zHVOtUXsvrUuzoZWsPBhVCw0jsU7sF3x6WxSdry5f0JUCDPq6eQq1j13VbrP7x9WFZijUPNug5biDbb16JTtHg5rhpnuxSfYeVk4UvfZ5ethaHUnQNSuTJhZKOoNFmwewkUf57mKJKUricL6GybVsdkj2aqCMNRLbRphIz5uNE7LeM8rDT9z3p1izkHKzhsWUGVTrqtWNgvX9m3sZFaI5yMdKhIRtWvqH5CQLWzgqo2H5gPTJSgtmp8sBdni9pcABTAesiySAfmjcXUksEJWU16U9Fop281ktADcFkUJ6okp7LTbEJSkNHXay5QUD62ow5b5dx7UwO12ZUVz7t3HIYJJ15EqZQJGhXoArighNqs0gIjpo1iKS5AtdX9GxazaykA1e0HLfR0ytiiL8N7YtdAa8TFWXV2SX0YZQoPXFZdePyMKz6DHLFCOU4nb1JVC7XKj0ZzfQpZTd337e3lqqOmTFIAcecpJGvA73rLQUo3i39slhGnJ2K5JUmJJhyLzVn",
-      "cupom": null,
-      "loja": "aliexpress",
-      "categoria": "Acessórios para telefones e telecomunicações",
-      "data": "2026-09-07T05:12:37.105870-03:00",
-      "slug": "carregador-portatil-20000mah-power-bank-portatil-pilhas-recarregaveis-powerbank-portat",
-      "page_url": "https://promoninjaofertas.github.io/produto/carregador-portatil-20000mah-power-bank-portatil-pilhas-recarregaveis-powerbank-portat.html",
-      "avaliacao": 4.8549999999999995,
-      "avaliacoes": null,
-      "vendas": 1007,
-      "nota_qualidade": 7,
-      "last_seen": "2026-10-15T04:52:08.102943+00:00",
-      "expires_at": "2026-10-16T01:52:08.102943-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Tech",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
-    },
-    {
       "source_id": "1005008639836335",
       "titulo": "Towild dl1200s/dl1700 luz de bicicleta com linha de corte feixe1900lm recarregável luz dianteira banco potência mtb ciclismo faróis",
       "de": 716.59,
@@ -2857,6 +3371,32 @@
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
+      "cupom_no_telegram": false,
+      "cupom_telegram_url": null
+    },
+    {
+      "source_id": "1005009942973523",
+      "titulo": "Carregador Portátil 20000mah，Power Bank Portátil，Pilhas Recarregáveis，Powerbank Portátil， TYPE-C, USB， Preto， Do Brasil",
+      "de": 125.99,
+      "por": 97.22,
+      "desconto": 22,
+      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sde41ee2d147445a1b782ea99ce2a2690d.jpg",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mrbupromK6mYSbuqYR50sQXn1xnxQjsn6UD8OFDTyuzx58lNGuFICzNShe5N91FWyj99Bjco621BLld2shUA6bbCdRDv1GHnnfJZ8tM6Lj4yciaQ8Xk4apPeYKsjg2f5W5ZPnPzLN0DjmTaB4uBJ58pdrflFq1JZFHRM3yN5MpADtVg48Rsx39Bj7t3IofRJLiNvg34SqV6zHVOtUXsvrUuzoZWsPBhVCw0jsU7sF3x6WxSdry5f0JUCDPq6eQq1j13VbrP7x9WFZijUPNug5biDbb16JTtHg5rhpnuxSfYeVk4UvfZ5ethaHUnQNSuTJhZKOoNFmwewkUf57mKJKUricL6GybVsdkj2aqCMNRLbRphIz5uNE7LeM8rDT9z3p1izkHKzhsWUGVTrqtWNgvX9m3sZFaI5yMdKhIRtWvqH5CQLWzgqo2H5gPTJSgtmp8sBdni9pcABTAesiySAfmjcXUksEJWU16U9Fop281ktADcFkUJ6okp7LTbEJSkNHXay5QUD62ow5b5dx7UwO12ZUVz7t3HIYJJ15EqZQJGhXoArighNqs0gIjpo1iKS5AtdX9GxazaykA1e0HLfR0ytiiL8N7YtdAa8TFWXV2SX0YZQoPXFZdePyMKz6DHLFCOU4nb1JVC7XKj0ZzfQpZTd337e3lqqOmTFIAcecpJGvA73rLQUo3i39slhGnJ2K5JUmJJhyLzVn",
+      "cupom": null,
+      "loja": "aliexpress",
+      "categoria": "Acessórios para telefones e telecomunicações",
+      "data": "2026-09-07T05:12:37.105870-03:00",
+      "slug": "carregador-portatil-20000mah-power-bank-portatil-pilhas-recarregaveis-powerbank-portat",
+      "page_url": "https://promoninjaofertas.github.io/produto/carregador-portatil-20000mah-power-bank-portatil-pilhas-recarregaveis-powerbank-portat.html",
+      "avaliacao": 4.8549999999999995,
+      "avaliacoes": null,
+      "vendas": 1007,
+      "nota_qualidade": 7,
+      "last_seen": "2026-10-15T04:52:08.102943+00:00",
+      "expires_at": "2026-10-16T01:52:08.102943-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Tech",
       "cupom_no_telegram": false,
       "cupom_telegram_url": null
     },
@@ -3095,32 +3635,6 @@
       "cupom_telegram_url": null
     },
     {
-      "source_id": "1005010615674255",
-      "titulo": "Original sony sp180 fones de ouvido sem fio tws com microfone esportes clipe de orelha fones de ouvido estéreo display led",
-      "de": 158.82,
-      "por": 95.29,
-      "desconto": 40,
-      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sc8d75a047fbe47b9b19a6e0153a0f73fe.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4FecbGAXooSK8ICpajtx6FtqAI8h0WxA9WKOsZtWF7id4HRxTwZH1szi2KqCAiwSxR5qZeXhWmqNDUqwwUxqME87Z6EZxbw9mYaNXcGutZ9iL0gm56InzAkmwCVbeYFcnmljU01rf28DtcgYs1IGAnm6Q3KKBhXkpeURxwH8pB4JXCxqRysWM6GazQiCr6vi3SHQ5883aRCKEZWeO6kQn9WCJLCjzwSYp8jLVCbjpFFizte50EaPodwrSHJt1A8z2hVISdi4Uiht83tWzwEToQRaDzTO1SBSLz0lAEwc5GVkTB5irqx2DCVSZ1tt3cFdh7V8o4BFCuWEqBkLXMEXIXha05EJYtCgXOFl2HRdTW3XobLmKaBbBxtm47jbsk63ypcGXHNeedLVv3e1eRRy8V75G9lT4sluPTWhmcJH9yi3Vs78qQzoVznw3oXk4eS9D5TGPzboQ1Jvz6J91RTcj9fzVPCpwVeMmv8I8WEoMythHLKCHDIrkA7luBAed3tGuSzhysKuIQjr6ADcfSccK89EXh2UldtmEJQc0aY6YOyeM62gY1zWQQx0nIpBcmPknJt6Ddjojm2x2nQagNKmtyS8gS6x8R5Lm0O6K0wjiouS00RgWE8EBus7hUdv61pxKpvxmkFTnEVkLjc6XYwt22Dgzs3YAryoDY6CqeDMnX0lNA0pHbsZnr7jZWxFjsUmzeJATAgiqWmTv5",
-      "cupom": null,
-      "loja": "aliexpress",
-      "categoria": "Audio",
-      "data": "2026-08-31T19:03:54.087698-03:00",
-      "slug": "original-sony-sp180-fones-de-ouvido-sem-fio-tws-com-microfone-esportes-clipe-de",
-      "page_url": "https://promoninjaofertas.github.io/produto/original-sony-sp180-fones-de-ouvido-sem-fio-tws-com-microfone-esportes-clipe-de.html",
-      "avaliacao": 4.42,
-      "avaliacoes": null,
-      "vendas": 1419,
-      "nota_qualidade": 7,
-      "last_seen": "2026-10-15T04:04:23.698499+00:00",
-      "expires_at": "2026-10-16T01:04:23.698499-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Tech",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
-    },
-    {
       "source_id": "1005006967413964",
       "titulo": "Zeblaze-Btalk 3 Plus Smartwatch para Homens e Senhoras, Chamada De Voz, 1.39 \"Grande Display Colorido HD, Rastreamento De Fitness, Novo",
       "de": 168.56,
@@ -3140,6 +3654,32 @@
       "nota_qualidade": 8,
       "last_seen": "2026-10-15T04:17:36.589310+00:00",
       "expires_at": "2026-10-16T01:17:36.589310-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Tech",
+      "cupom_no_telegram": false,
+      "cupom_telegram_url": null
+    },
+    {
+      "source_id": "1005010615674255",
+      "titulo": "Original sony sp180 fones de ouvido sem fio tws com microfone esportes clipe de orelha fones de ouvido estéreo display led",
+      "de": 158.82,
+      "por": 95.29,
+      "desconto": 40,
+      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sc8d75a047fbe47b9b19a6e0153a0f73fe.jpg",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4FecbGAXooSK8ICpajtx6FtqAI8h0WxA9WKOsZtWF7id4HRxTwZH1szi2KqCAiwSxR5qZeXhWmqNDUqwwUxqME87Z6EZxbw9mYaNXcGutZ9iL0gm56InzAkmwCVbeYFcnmljU01rf28DtcgYs1IGAnm6Q3KKBhXkpeURxwH8pB4JXCxqRysWM6GazQiCr6vi3SHQ5883aRCKEZWeO6kQn9WCJLCjzwSYp8jLVCbjpFFizte50EaPodwrSHJt1A8z2hVISdi4Uiht83tWzwEToQRaDzTO1SBSLz0lAEwc5GVkTB5irqx2DCVSZ1tt3cFdh7V8o4BFCuWEqBkLXMEXIXha05EJYtCgXOFl2HRdTW3XobLmKaBbBxtm47jbsk63ypcGXHNeedLVv3e1eRRy8V75G9lT4sluPTWhmcJH9yi3Vs78qQzoVznw3oXk4eS9D5TGPzboQ1Jvz6J91RTcj9fzVPCpwVeMmv8I8WEoMythHLKCHDIrkA7luBAed3tGuSzhysKuIQjr6ADcfSccK89EXh2UldtmEJQc0aY6YOyeM62gY1zWQQx0nIpBcmPknJt6Ddjojm2x2nQagNKmtyS8gS6x8R5Lm0O6K0wjiouS00RgWE8EBus7hUdv61pxKpvxmkFTnEVkLjc6XYwt22Dgzs3YAryoDY6CqeDMnX0lNA0pHbsZnr7jZWxFjsUmzeJATAgiqWmTv5",
+      "cupom": null,
+      "loja": "aliexpress",
+      "categoria": "Audio",
+      "data": "2026-08-31T19:03:54.087698-03:00",
+      "slug": "original-sony-sp180-fones-de-ouvido-sem-fio-tws-com-microfone-esportes-clipe-de",
+      "page_url": "https://promoninjaofertas.github.io/produto/original-sony-sp180-fones-de-ouvido-sem-fio-tws-com-microfone-esportes-clipe-de.html",
+      "avaliacao": 4.42,
+      "avaliacoes": null,
+      "vendas": 1419,
+      "nota_qualidade": 7,
+      "last_seen": "2026-10-15T04:04:23.698499+00:00",
+      "expires_at": "2026-10-16T01:04:23.698499-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech",
