@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-10-18T13:35:33.289220+00:00",
+  "atualizado": "2026-10-18T13:49:02.690574+00:00",
   "ofertas": [
     {
       "source_id": "pechinchou-140602",
@@ -19,8 +19,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-10-18T13:35:33.289220+00:00",
-      "expires_at": "2026-10-19T10:35:33.289220-03:00",
+      "last_seen": "2026-10-18T13:49:02.690574+00:00",
+      "expires_at": "2026-10-19T10:49:02.690574-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
@@ -45,8 +45,8 @@
       "avaliacoes": 10,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-10-18T13:35:33.289220+00:00",
-      "expires_at": "2026-10-19T10:35:33.289220-03:00",
+      "last_seen": "2026-10-18T13:49:02.690574+00:00",
+      "expires_at": "2026-10-19T10:49:02.690574-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -71,8 +71,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-10-18T13:35:33.289220+00:00",
-      "expires_at": "2026-10-19T10:35:33.289220-03:00",
+      "last_seen": "2026-10-18T13:49:02.690574+00:00",
+      "expires_at": "2026-10-19T10:49:02.690574-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
@@ -97,8 +97,8 @@
       "avaliacoes": 30,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-10-18T13:35:33.289220+00:00",
-      "expires_at": "2026-10-19T10:35:33.289220-03:00",
+      "last_seen": "2026-10-18T13:49:02.690574+00:00",
+      "expires_at": "2026-10-19T10:49:02.690574-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
@@ -123,8 +123,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-10-18T13:35:33.289220+00:00",
-      "expires_at": "2026-10-19T10:35:33.289220-03:00",
+      "last_seen": "2026-10-18T13:49:02.690574+00:00",
+      "expires_at": "2026-10-19T10:49:02.690574-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -149,8 +149,8 @@
       "avaliacoes": 10,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-10-18T13:35:33.289220+00:00",
-      "expires_at": "2026-10-19T10:35:33.289220-03:00",
+      "last_seen": "2026-10-18T13:49:02.690574+00:00",
+      "expires_at": "2026-10-19T10:49:02.690574-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
@@ -175,8 +175,8 @@
       "avaliacoes": 1,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-10-18T13:35:33.289220+00:00",
-      "expires_at": "2026-10-19T10:35:33.289220-03:00",
+      "last_seen": "2026-10-18T13:49:02.690574+00:00",
+      "expires_at": "2026-10-19T10:49:02.690574-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -201,13 +201,39 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 8,
-      "last_seen": "2026-10-18T13:35:33.289220+00:00",
-      "expires_at": "2026-10-19T10:35:33.289220-03:00",
+      "last_seen": "2026-10-18T13:49:02.690574+00:00",
+      "expires_at": "2026-10-19T10:49:02.690574-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Gamer",
       "cupom_no_telegram": true,
       "cupom_telegram_url": "https://t.me/promoninjaofertas"
+    },
+    {
+      "source_id": "pechinchou-818",
+      "titulo": "Lysoform Original, Desinfetante Líquido, Limpeza Casa, 5l",
+      "de": 59.9,
+      "por": 46.7,
+      "desconto": 22,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/61tVQYGQdbL.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "link": "https://www.amazon.com.br/dp/B07N4FX3TC?tag=promoninja0b2-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Supermercado",
+      "data": "2026-10-17T22:52:17.408753-03:00",
+      "slug": "lysoform-original-desinfetante-liquido-limpeza-casa-5l",
+      "page_url": "https://promoninjaofertas.github.io/produto/lysoform-original-desinfetante-liquido-limpeza-casa-5l.html",
+      "avaliacao": null,
+      "avaliacoes": 10,
+      "vendas": null,
+      "nota_qualidade": 5,
+      "last_seen": "2026-10-18T13:49:02.690574+00:00",
+      "expires_at": "2026-10-19T10:49:02.690574-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Casa",
+      "cupom_no_telegram": false,
+      "cupom_telegram_url": null
     },
     {
       "source_id": "pechinchou-155179",
@@ -227,34 +253,8 @@
       "avaliacoes": 10,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-10-18T13:35:33.289220+00:00",
-      "expires_at": "2026-10-19T10:35:33.289220-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Casa",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
-    },
-    {
-      "source_id": "pechinchou-818",
-      "titulo": "Lysoform Original, Desinfetante Líquido, Limpeza Casa, 5l",
-      "de": 59.9,
-      "por": 46.7,
-      "desconto": 22,
-      "imagem": "https://m.media-amazon.com/images/I/61kCz5HQ12L._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B07N4FX3TC?tag=promoninja0b2-20",
-      "cupom": null,
-      "loja": "amazon",
-      "categoria": "Supermercado",
-      "data": "2026-10-17T22:52:17.408753-03:00",
-      "slug": "lysoform-original-desinfetante-liquido-limpeza-casa-5l",
-      "page_url": "https://promoninjaofertas.github.io/produto/lysoform-original-desinfetante-liquido-limpeza-casa-5l.html",
-      "avaliacao": null,
-      "avaliacoes": 10,
-      "vendas": null,
-      "nota_qualidade": 5,
-      "last_seen": "2026-10-18T13:35:33.289220+00:00",
-      "expires_at": "2026-10-19T10:35:33.289220-03:00",
+      "last_seen": "2026-10-18T13:49:02.690574+00:00",
+      "expires_at": "2026-10-19T10:49:02.690574-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
@@ -279,8 +279,8 @@
       "avaliacoes": 10,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-10-18T13:35:33.289220+00:00",
-      "expires_at": "2026-10-19T10:35:33.289220-03:00",
+      "last_seen": "2026-10-18T13:49:02.690574+00:00",
+      "expires_at": "2026-10-19T10:49:02.690574-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
@@ -305,8 +305,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-10-18T13:35:33.289220+00:00",
-      "expires_at": "2026-10-19T10:35:33.289220-03:00",
+      "last_seen": "2026-10-18T13:49:02.690574+00:00",
+      "expires_at": "2026-10-19T10:49:02.690574-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Gamer",
@@ -319,7 +319,7 @@
       "de": 59.9,
       "por": 46.0,
       "desconto": 23,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/61n1cRJkeQL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "imagem": "https://m.media-amazon.com/images/I/61n1cRJkeQL._SL1500_.jpg",
       "link": "https://www.amazon.com.br/dp/B0BYP6L6FM?tag=promoninja0b2-20",
       "cupom": null,
       "loja": "amazon",
@@ -331,8 +331,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-10-18T13:35:33.289220+00:00",
-      "expires_at": "2026-10-19T10:35:33.289220-03:00",
+      "last_seen": "2026-10-18T13:49:02.690574+00:00",
+      "expires_at": "2026-10-19T10:49:02.690574-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -357,8 +357,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-10-18T13:35:33.289220+00:00",
-      "expires_at": "2026-10-19T10:35:33.289220-03:00",
+      "last_seen": "2026-10-18T13:49:02.690574+00:00",
+      "expires_at": "2026-10-19T10:49:02.690574-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
@@ -383,8 +383,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-10-18T13:35:33.289220+00:00",
-      "expires_at": "2026-10-19T10:35:33.289220-03:00",
+      "last_seen": "2026-10-18T13:49:02.690574+00:00",
+      "expires_at": "2026-10-19T10:49:02.690574-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -409,8 +409,8 @@
       "avaliacoes": 10,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-10-18T13:35:33.289220+00:00",
-      "expires_at": "2026-10-19T10:35:33.289220-03:00",
+      "last_seen": "2026-10-18T13:49:02.690574+00:00",
+      "expires_at": "2026-10-19T10:49:02.690574-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -435,8 +435,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-10-18T13:35:33.289220+00:00",
-      "expires_at": "2026-10-19T10:35:33.289220-03:00",
+      "last_seen": "2026-10-18T13:49:02.690574+00:00",
+      "expires_at": "2026-10-19T10:49:02.690574-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Gamer",
@@ -450,7 +450,7 @@
       "por": 199.99,
       "desconto": 33,
       "imagem": "https://cf.shopee.com.br/file/sg-11134201-8259a-mue0rjxhpngl91",
-      "link": "https://s.shopee.com.br/8AWwwG5som",
+      "link": "https://s.shopee.com.br/2gC13Zf5Lh",
       "cupom": null,
       "loja": "shopee",
       "categoria": "Eletrodomesticos",
@@ -461,11 +461,11 @@
       "avaliacoes": null,
       "vendas": 405,
       "nota_qualidade": 9,
-      "last_seen": "2026-10-18T12:28:08.986646+00:00",
-      "expires_at": "2026-10-19T09:28:08.986646-03:00",
+      "last_seen": "2026-10-18T13:49:02.690574+00:00",
+      "expires_at": "2026-10-19T10:49:02.690574-03:00",
       "marca": "Mondial",
       "price_evidence": {
-        "checked_at": "2026-10-18T12:31:08.893791+00:00",
+        "checked_at": "2026-10-18T13:51:42.179467+00:00",
         "identity": {
           "brand": "Mondial",
           "model": "af36bi",
@@ -873,11 +873,11 @@
       "avaliacoes": null,
       "vendas": 167,
       "nota_qualidade": 9,
-      "last_seen": "2026-10-18T09:35:20.781207+00:00",
-      "expires_at": "2026-10-19T06:35:20.781207-03:00",
+      "last_seen": "2026-10-18T13:49:02.690574+00:00",
+      "expires_at": "2026-10-19T10:49:02.690574-03:00",
       "marca": "Tramontina",
       "price_evidence": {
-        "checked_at": "2026-10-18T09:37:55.368505+00:00",
+        "checked_at": "2026-10-18T13:51:42.179467+00:00",
         "identity": {
           "brand": "Tramontina",
           "model": null,
@@ -890,13 +890,9 @@
         "previous_min": 337.41,
         "observed_min": 337.41,
         "since": "2026-09-26T11:01:03.939976+00:00",
-        "observations": 45,
+        "observations": 46,
         "days": 16,
         "history": [
-          {
-            "at": "2026-10-07T10:55:07.577641+00:00",
-            "price": 337.41
-          },
           {
             "at": "2026-10-08T01:50:04.813557+00:00",
             "price": 374.9
@@ -1052,6 +1048,10 @@
           {
             "at": "2026-10-18T04:58:37.683963+00:00",
             "price": 374.9
+          },
+          {
+            "at": "2026-10-18T10:58:41.515650+00:00",
+            "price": 374.9
           }
         ],
         "advantage": false,
@@ -1068,7 +1068,7 @@
       "por": 109.0,
       "desconto": 33,
       "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98s-lmlnk6reakvr2b",
-      "link": "https://s.shopee.com.br/2BFjoaCK7X",
+      "link": "https://s.shopee.com.br/4LKF1cKaqP",
       "cupom": null,
       "loja": "shopee",
       "categoria": "Beleza",
@@ -1079,11 +1079,11 @@
       "avaliacoes": null,
       "vendas": 228,
       "nota_qualidade": 9,
-      "last_seen": "2026-10-18T09:35:20.781207+00:00",
-      "expires_at": "2026-10-19T06:35:20.781207-03:00",
+      "last_seen": "2026-10-18T13:49:02.690574+00:00",
+      "expires_at": "2026-10-19T10:49:02.690574-03:00",
       "marca": "Tramontina",
       "price_evidence": {
-        "checked_at": "2026-10-18T09:37:55.368505+00:00",
+        "checked_at": "2026-10-18T13:51:42.179467+00:00",
         "identity": {
           "brand": "Tramontina",
           "model": null,
@@ -1096,13 +1096,9 @@
         "previous_min": 99.0,
         "observed_min": 99.0,
         "since": "2026-09-18T14:08:16.686464+00:00",
-        "observations": 113,
+        "observations": 114,
         "days": 31,
         "history": [
-          {
-            "at": "2026-10-08T23:04:56.892599+00:00",
-            "price": 109.0
-          },
           {
             "at": "2026-10-09T05:10:38.629167+00:00",
             "price": 109.0
@@ -1258,6 +1254,10 @@
           {
             "at": "2026-10-18T04:24:57.419899+00:00",
             "price": 109.0
+          },
+          {
+            "at": "2026-10-18T10:43:22.034605+00:00",
+            "price": 109.0
           }
         ],
         "advantage": false,
@@ -1285,11 +1285,11 @@
       "avaliacoes": null,
       "vendas": 751,
       "nota_qualidade": 9,
-      "last_seen": "2026-10-18T11:10:57.288019+00:00",
-      "expires_at": "2026-10-19T08:10:57.288019-03:00",
+      "last_seen": "2026-10-18T13:49:02.690574+00:00",
+      "expires_at": "2026-10-19T10:49:02.690574-03:00",
       "marca": "Bosch",
       "price_evidence": {
-        "checked_at": "2026-10-18T11:19:39.488178+00:00",
+        "checked_at": "2026-10-18T13:51:42.179467+00:00",
         "identity": {
           "brand": "Bosch",
           "model": null,
@@ -1302,13 +1302,9 @@
         "previous_min": 329.26,
         "observed_min": 329.26,
         "since": "2026-09-18T15:34:47.713995+00:00",
-        "observations": 118,
+        "observations": 119,
         "days": 31,
         "history": [
-          {
-            "at": "2026-10-08T08:42:07.715301+00:00",
-            "price": 329.26
-          },
           {
             "at": "2026-10-08T14:51:36.607920+00:00",
             "price": 329.26
@@ -1463,6 +1459,10 @@
           },
           {
             "at": "2026-10-18T05:44:17.682556+00:00",
+            "price": 329.26
+          },
+          {
+            "at": "2026-10-18T11:49:19.011564+00:00",
             "price": 329.26
           }
         ],
@@ -1697,11 +1697,11 @@
       "avaliacoes": null,
       "vendas": 276,
       "nota_qualidade": 10,
-      "last_seen": "2026-10-18T11:30:32.799776+00:00",
-      "expires_at": "2026-10-19T08:30:32.799776-03:00",
+      "last_seen": "2026-10-18T13:49:02.690574+00:00",
+      "expires_at": "2026-10-19T10:49:02.690574-03:00",
       "marca": "Philips",
       "price_evidence": {
-        "checked_at": "2026-10-18T11:33:24.612920+00:00",
+        "checked_at": "2026-10-18T13:51:42.179467+00:00",
         "identity": {
           "brand": "Philips",
           "model": "hr7304",
@@ -1714,13 +1714,9 @@
         "previous_min": 347.76,
         "observed_min": 347.76,
         "since": "2026-09-18T16:15:24.283083+00:00",
-        "observations": 79,
+        "observations": 80,
         "days": 25,
         "history": [
-          {
-            "at": "2026-10-08T12:54:44.655042+00:00",
-            "price": 509.04
-          },
           {
             "at": "2026-10-08T19:02:00.491360+00:00",
             "price": 509.04
@@ -1875,6 +1871,10 @@
           },
           {
             "at": "2026-10-18T06:14:41.010434+00:00",
+            "price": 383.99
+          },
+          {
+            "at": "2026-10-18T12:20:18.647906+00:00",
             "price": 383.99
           }
         ],
@@ -2524,11 +2524,11 @@
       "avaliacoes": null,
       "vendas": 1375,
       "nota_qualidade": 10,
-      "last_seen": "2026-10-18T13:35:33.289220+00:00",
-      "expires_at": "2026-10-19T10:35:33.289220-03:00",
+      "last_seen": "2026-10-18T13:49:02.690574+00:00",
+      "expires_at": "2026-10-19T10:49:02.690574-03:00",
       "marca": "Epson",
       "price_evidence": {
-        "checked_at": "2026-10-18T13:38:19.018525+00:00",
+        "checked_at": "2026-10-18T13:51:42.179467+00:00",
         "identity": {
           "brand": "Epson",
           "model": "l3250",
@@ -2597,7 +2597,7 @@
       "por": 339.9,
       "desconto": 58,
       "imagem": "https://cf.shopee.com.br/file/sg-11134201-8258f-meuhtq1ymm879d",
-      "link": "https://s.shopee.com.br/9pfAvJzXR0",
+      "link": "https://s.shopee.com.br/4LKF2dYjxv",
       "cupom": null,
       "loja": "shopee",
       "categoria": "Eletrodomesticos",
@@ -2608,11 +2608,11 @@
       "avaliacoes": null,
       "vendas": 654,
       "nota_qualidade": 9,
-      "last_seen": "2026-10-18T12:28:08.986646+00:00",
-      "expires_at": "2026-10-19T09:28:08.986646-03:00",
+      "last_seen": "2026-10-18T13:49:02.690574+00:00",
+      "expires_at": "2026-10-19T10:49:02.690574-03:00",
       "marca": "Mondial",
       "price_evidence": {
-        "checked_at": "2026-10-18T12:31:08.893791+00:00",
+        "checked_at": "2026-10-18T13:51:42.179467+00:00",
         "identity": {
           "brand": "Mondial",
           "model": "afn-50",
@@ -2814,11 +2814,11 @@
       "avaliacoes": null,
       "vendas": 155,
       "nota_qualidade": 9,
-      "last_seen": "2026-10-18T11:10:57.288019+00:00",
-      "expires_at": "2026-10-19T08:10:57.288019-03:00",
+      "last_seen": "2026-10-18T13:49:02.690574+00:00",
+      "expires_at": "2026-10-19T10:49:02.690574-03:00",
       "marca": "Logitech",
       "price_evidence": {
-        "checked_at": "2026-10-18T11:19:39.488178+00:00",
+        "checked_at": "2026-10-18T13:51:42.179467+00:00",
         "identity": {
           "brand": "Logitech",
           "model": "m220",
@@ -2830,14 +2830,10 @@
         },
         "previous_min": 29.99,
         "observed_min": 29.99,
-        "since": "2026-09-18T12:42:06.658838+00:00",
+        "since": "2026-09-18T18:57:13.423414+00:00",
         "observations": 118,
         "days": 31,
         "history": [
-          {
-            "at": "2026-10-08T10:46:45.179418+00:00",
-            "price": 32.5
-          },
           {
             "at": "2026-10-08T16:58:39.085870+00:00",
             "price": 32.5
@@ -2993,6 +2989,10 @@
           {
             "at": "2026-10-18T07:36:53.327196+00:00",
             "price": 32.5
+          },
+          {
+            "at": "2026-10-18T13:51:42.179467+00:00",
+            "price": 32.5
           }
         ],
         "advantage": false,
@@ -3020,11 +3020,11 @@
       "avaliacoes": null,
       "vendas": 1212,
       "nota_qualidade": 10,
-      "last_seen": "2026-10-18T11:43:58.219109+00:00",
-      "expires_at": "2026-10-19T08:43:58.219109-03:00",
+      "last_seen": "2026-10-18T13:49:02.690574+00:00",
+      "expires_at": "2026-10-19T10:49:02.690574-03:00",
       "marca": "Tramontina",
       "price_evidence": {
-        "checked_at": "2026-10-18T11:47:11.169894+00:00",
+        "checked_at": "2026-10-18T13:51:42.179467+00:00",
         "identity": {
           "brand": "Tramontina",
           "model": null,
@@ -3036,8 +3036,8 @@
         },
         "previous_min": 39.99,
         "observed_min": 39.99,
-        "since": "2026-09-18T12:42:06.658838+00:00",
-        "observations": 118,
+        "since": "2026-09-18T18:57:13.423414+00:00",
+        "observations": 117,
         "days": 31,
         "history": [
           {
