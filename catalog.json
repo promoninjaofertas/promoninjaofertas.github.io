@@ -1,6 +1,110 @@
 {
-  "atualizado": "2026-10-19T19:50:51.587765+00:00",
+  "atualizado": "2026-10-19T20:03:26.124011+00:00",
   "ofertas": [
+    {
+      "source_id": "pechinchou-77914",
+      "titulo": "Philco PCT12P Black",
+      "de": 259.9,
+      "por": 199.0,
+      "desconto": 23,
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_839009-MLA99506867690_112025-O.webp",
+      "link": "https://meli.la/2oBcfDo",
+      "cupom": null,
+      "loja": "mercadolivre",
+      "categoria": "Eletrodomésticos",
+      "data": "2026-10-19T17:03:26.124011-03:00",
+      "slug": "philco-pct12p-black",
+      "page_url": "https://promoninjaofertas.github.io/produto/philco-pct12p-black.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": null,
+      "nota_qualidade": 7,
+      "last_seen": "2026-10-19T20:03:26.124011+00:00",
+      "expires_at": "2026-10-20T17:03:26.124011-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Casa",
+      "cupom_no_telegram": false,
+      "cupom_telegram_url": null
+    },
+    {
+      "source_id": "pechinchou-119590",
+      "titulo": "Samsung Galaxy Watch Ultra 2025 Smartwatch 47mm Lte, Galaxy Ai, Titânio Aeroespacial Titânio Azul",
+      "de": 2299.9,
+      "por": 1792.64,
+      "desconto": 22,
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_680124-MLA100073562233_122025-O.webp",
+      "link": "https://meli.la/1dcc6H5",
+      "cupom": "TOPMELI",
+      "loja": "mercadolivre",
+      "categoria": "Smartphones",
+      "data": "2026-10-19T17:03:26.124011-03:00",
+      "slug": "samsung-galaxy-watch-ultra-2025-smartwatch-47mm-lte-galaxy-ai-titanio-aeroespacial-tit",
+      "page_url": "https://promoninjaofertas.github.io/produto/samsung-galaxy-watch-ultra-2025-smartwatch-47mm-lte-galaxy-ai-titanio-aeroespacial-tit.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": null,
+      "nota_qualidade": 9,
+      "last_seen": "2026-10-19T20:03:26.124011+00:00",
+      "expires_at": "2026-10-20T17:03:26.124011-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Tech",
+      "cupom_no_telegram": true,
+      "cupom_telegram_url": "https://t.me/promoninjaofertas"
+    },
+    {
+      "source_id": "pechinchou-150755",
+      "titulo": "Principia Kit Dupla Diária Com Fps 60 Todo Tipo De Pele Dia/noite",
+      "de": 159.0,
+      "por": 53.12,
+      "desconto": 67,
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_803855-MLA89679787797_082025-O.webp",
+      "link": "https://meli.la/1McD4Fk",
+      "cupom": "PRINCIPIA20",
+      "loja": "mercadolivre",
+      "categoria": "Saúde",
+      "data": "2026-10-19T17:03:26.124011-03:00",
+      "slug": "principia-kit-dupla-diaria-com-fps-60-todo-tipo-de-pele-dia-noite",
+      "page_url": "https://promoninjaofertas.github.io/produto/principia-kit-dupla-diaria-com-fps-60-todo-tipo-de-pele-dia-noite.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": null,
+      "nota_qualidade": 7,
+      "last_seen": "2026-10-19T20:03:26.124011+00:00",
+      "expires_at": "2026-10-20T17:03:26.124011-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Outros",
+      "cupom_no_telegram": true,
+      "cupom_telegram_url": "https://t.me/promoninjaofertas"
+    },
+    {
+      "source_id": "pechinchou-155248",
+      "titulo": "Mesa Dobrável Portátil Alumínio 120x60cm 4 Banquetas Zelt",
+      "de": 219.9,
+      "por": 159.81,
+      "desconto": 27,
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_607094-MLA96708754493_102025-O.webp",
+      "link": "https://meli.la/2szpBjY",
+      "cupom": "PROMOML",
+      "loja": "mercadolivre",
+      "categoria": "Casa",
+      "data": "2026-10-19T17:03:26.124011-03:00",
+      "slug": "mesa-dobravel-portatil-aluminio-120x60cm-4-banquetas-zelt",
+      "page_url": "https://promoninjaofertas.github.io/produto/mesa-dobravel-portatil-aluminio-120x60cm-4-banquetas-zelt.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": null,
+      "nota_qualidade": 7,
+      "last_seen": "2026-10-19T20:03:26.124011+00:00",
+      "expires_at": "2026-10-20T17:03:26.124011-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Outros",
+      "cupom_no_telegram": true,
+      "cupom_telegram_url": "https://t.me/promoninjaofertas"
+    },
     {
       "source_id": "pechinchou-141560",
       "titulo": "Geladeira Consul Frost Free 455 Litros Duplex Inox - CRM53MK",
@@ -16,40 +120,14 @@
       "slug": "geladeira-consul-frost-free-455-litros-duplex-inox-crm53mk",
       "page_url": "https://promoninjaofertas.github.io/produto/geladeira-consul-frost-free-455-litros-duplex-inox-crm53mk.html",
       "avaliacao": null,
-      "avaliacoes": null,
+      "avaliacoes": 30,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-10-19T19:50:51.587765+00:00",
-      "expires_at": "2026-10-20T16:50:51.587765-03:00",
+      "last_seen": "2026-10-19T20:03:26.124011+00:00",
+      "expires_at": "2026-10-20T17:03:26.124011-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
-      "cupom_no_telegram": true,
-      "cupom_telegram_url": "https://t.me/promoninjaofertas"
-    },
-    {
-      "source_id": "pechinchou-155247",
-      "titulo": "Smartphone Xiaomi Poco X8 Pro 8gb Ram 256gb Rom Dual Sim 6.59 Amoled Dimensity 8500 Ultra Black",
-      "de": 4339.9,
-      "por": 2142.68,
-      "desconto": 51,
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_782011-MLA108656131726_032026-O.webp",
-      "link": "https://meli.la/1w6HfSF",
-      "cupom": "TOPMELI",
-      "loja": "mercadolivre",
-      "categoria": "Smartphones",
-      "data": "2026-10-19T16:50:51.587765-03:00",
-      "slug": "smartphone-xiaomi-poco-x8-pro-8gb-ram-256gb-rom-dual-sim-6-59-amoled",
-      "page_url": "https://promoninjaofertas.github.io/produto/smartphone-xiaomi-poco-x8-pro-8gb-ram-256gb-rom-dual-sim-6-59-amoled.html",
-      "avaliacao": null,
-      "avaliacoes": null,
-      "vendas": null,
-      "nota_qualidade": 7,
-      "last_seen": "2026-10-19T19:50:51.587765+00:00",
-      "expires_at": "2026-10-20T16:50:51.587765-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Tech",
       "cupom_no_telegram": true,
       "cupom_telegram_url": "https://t.me/promoninjaofertas"
     },
@@ -71,60 +149,8 @@
       "avaliacoes": 4,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-10-19T19:50:51.587765+00:00",
-      "expires_at": "2026-10-20T16:50:51.587765-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Outros",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
-    },
-    {
-      "source_id": "pechinchou-155246",
-      "titulo": "Samsung Galaxy Watch9 Smartwatch 40mm Bt, Galaxy Ai - Creme",
-      "de": 2569.9,
-      "por": 1799.1,
-      "desconto": 30,
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_924196-MLA114323269692_082026-O.webp",
-      "link": "https://meli.la/1XxyCaF",
-      "cupom": "TOPMELI",
-      "loja": "mercadolivre",
-      "categoria": "Smartphones",
-      "data": "2026-10-19T16:36:55.898086-03:00",
-      "slug": "samsung-galaxy-watch9-smartwatch-40mm-bt-galaxy-ai-creme",
-      "page_url": "https://promoninjaofertas.github.io/produto/samsung-galaxy-watch9-smartwatch-40mm-bt-galaxy-ai-creme.html",
-      "avaliacao": null,
-      "avaliacoes": null,
-      "vendas": null,
-      "nota_qualidade": 9,
-      "last_seen": "2026-10-19T19:50:51.587765+00:00",
-      "expires_at": "2026-10-20T16:50:51.587765-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Tech",
-      "cupom_no_telegram": true,
-      "cupom_telegram_url": "https://t.me/promoninjaofertas"
-    },
-    {
-      "source_id": "pechinchou-150404",
-      "titulo": "Kit Reparo Pneu Furo Remendo Carro Moto + Refil Macarrão",
-      "de": 46.0,
-      "por": 20.0,
-      "desconto": 57,
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_868112-MLB89882441484_082025-O.webp",
-      "link": "https://meli.la/1hwrip5",
-      "cupom": null,
-      "loja": "mercadolivre",
-      "categoria": "Automotivo",
-      "data": "2026-10-19T16:36:55.898086-03:00",
-      "slug": "kit-reparo-pneu-furo-remendo-carro-moto-refil-macarrao",
-      "page_url": "https://promoninjaofertas.github.io/produto/kit-reparo-pneu-furo-remendo-carro-moto-refil-macarrao.html",
-      "avaliacao": null,
-      "avaliacoes": null,
-      "vendas": null,
-      "nota_qualidade": 6,
-      "last_seen": "2026-10-19T19:50:51.587765+00:00",
-      "expires_at": "2026-10-20T16:50:51.587765-03:00",
+      "last_seen": "2026-10-19T20:03:26.124011+00:00",
+      "expires_at": "2026-10-20T17:03:26.124011-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -149,8 +175,34 @@
       "avaliacoes": 10,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-10-19T19:50:51.587765+00:00",
-      "expires_at": "2026-10-20T16:50:51.587765-03:00",
+      "last_seen": "2026-10-19T20:03:26.124011+00:00",
+      "expires_at": "2026-10-20T17:03:26.124011-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Casa",
+      "cupom_no_telegram": true,
+      "cupom_telegram_url": "https://t.me/promoninjaofertas"
+    },
+    {
+      "source_id": "pechinchou-77459",
+      "titulo": "Adega Pad8 Display Eletrônico 8 Garrafas Philco",
+      "de": 799.0,
+      "por": 597.6,
+      "desconto": 25,
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_756881-MLA99498385258_112025-O.webp",
+      "link": "https://meli.la/1qzHZpC",
+      "cupom": "OFFHOJENOML",
+      "loja": "mercadolivre",
+      "categoria": "Eletrodomésticos",
+      "data": "2026-10-16T21:22:48.519774-03:00",
+      "slug": "adega-pad8-display-eletronico-8-garrafas-philco",
+      "page_url": "https://promoninjaofertas.github.io/produto/adega-pad8-display-eletronico-8-garrafas-philco.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": null,
+      "nota_qualidade": 8,
+      "last_seen": "2026-10-19T20:03:26.124011+00:00",
+      "expires_at": "2026-10-20T17:03:26.124011-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
@@ -175,8 +227,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-10-19T19:50:51.587765+00:00",
-      "expires_at": "2026-10-20T16:50:51.587765-03:00",
+      "last_seen": "2026-10-19T20:03:26.124011+00:00",
+      "expires_at": "2026-10-20T17:03:26.124011-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -198,14 +250,40 @@
       "slug": "maquina-de-lavar-consul-9kg-branca-com-dosagem-c-branco",
       "page_url": "https://promoninjaofertas.github.io/produto/maquina-de-lavar-consul-9kg-branca-com-dosagem-c-branco.html",
       "avaliacao": null,
-      "avaliacoes": 1,
+      "avaliacoes": 10,
       "vendas": null,
       "nota_qualidade": 7,
-      "last_seen": "2026-10-19T19:50:51.587765+00:00",
-      "expires_at": "2026-10-20T16:50:51.587765-03:00",
+      "last_seen": "2026-10-19T20:03:26.124011+00:00",
+      "expires_at": "2026-10-20T17:03:26.124011-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
+      "cupom_no_telegram": true,
+      "cupom_telegram_url": "https://t.me/promoninjaofertas"
+    },
+    {
+      "source_id": "pechinchou-152531",
+      "titulo": "Relógio Life Formatura Feminino Aço Dourado Prateado Dourado",
+      "de": 499.9,
+      "por": 326.7,
+      "desconto": 35,
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_625078-MLA111791331725_052026-O.webp",
+      "link": "https://meli.la/1mBm7Wx",
+      "cupom": "OFFHOJENOML",
+      "loja": "mercadolivre",
+      "categoria": "Beleza",
+      "data": "2026-09-19T11:12:15.486120-03:00",
+      "slug": "relogio-life-formatura-feminino-aco-dourado-prateado-dourado",
+      "page_url": "https://promoninjaofertas.github.io/produto/relogio-life-formatura-feminino-aco-dourado-prateado-dourado.html",
+      "avaliacao": null,
+      "avaliacoes": 1,
+      "vendas": null,
+      "nota_qualidade": 6,
+      "last_seen": "2026-10-19T20:03:26.124011+00:00",
+      "expires_at": "2026-10-20T17:03:26.124011-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Moda",
       "cupom_no_telegram": true,
       "cupom_telegram_url": "https://t.me/promoninjaofertas"
     },
@@ -227,8 +305,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 7,
-      "last_seen": "2026-10-19T19:50:51.587765+00:00",
-      "expires_at": "2026-10-20T16:50:51.587765-03:00",
+      "last_seen": "2026-10-19T20:03:26.124011+00:00",
+      "expires_at": "2026-10-20T17:03:26.124011-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -236,28 +314,28 @@
       "cupom_telegram_url": "https://t.me/promoninjaofertas"
     },
     {
-      "source_id": "pechinchou-130284",
-      "titulo": "Guitarra Elétrica Konig St Stratocaster Brilhante 6c",
-      "de": 559.9,
-      "por": 409.5,
-      "desconto": 27,
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_661347-MLA83850778327_042025-O.webp",
-      "link": "https://meli.la/1Gqjyrh",
+      "source_id": "pechinchou-112165",
+      "titulo": "Mochila Tática Militar Impermeável 30 Litros Super Reforçada",
+      "de": 179.99,
+      "por": 71.41,
+      "desconto": 60,
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_779454-MLA105648061458_012026-O.webp",
+      "link": "https://meli.la/2M7RNU4",
       "cupom": null,
       "loja": "mercadolivre",
-      "categoria": "Esporte e Lazer",
-      "data": "2026-09-17T09:27:14.710063-03:00",
-      "slug": "guitarra-eletrica-konig-st-stratocaster-brilhante-6c",
-      "page_url": "https://promoninjaofertas.github.io/produto/guitarra-eletrica-konig-st-stratocaster-brilhante-6c.html",
+      "categoria": "Beleza",
+      "data": "2026-09-16T09:20:26.388136-03:00",
+      "slug": "mochila-tatica-militar-impermeavel-30-litros-super-reforcada",
+      "page_url": "https://promoninjaofertas.github.io/produto/mochila-tatica-militar-impermeavel-30-litros-super-reforcada.html",
       "avaliacao": null,
-      "avaliacoes": 1,
+      "avaliacoes": 2,
       "vendas": null,
-      "nota_qualidade": 5,
-      "last_seen": "2026-10-19T19:50:51.587765+00:00",
-      "expires_at": "2026-10-20T16:50:51.587765-03:00",
+      "nota_qualidade": 6,
+      "last_seen": "2026-10-19T20:03:26.124011+00:00",
+      "expires_at": "2026-10-20T17:03:26.124011-03:00",
       "marca": null,
       "price_evidence": {},
-      "grupo": "Outros",
+      "grupo": "Moda",
       "cupom_no_telegram": false,
       "cupom_telegram_url": null
     },
@@ -269,7 +347,7 @@
       "desconto": 42,
       "imagem": "https://http2.mlstatic.com/D_NQ_NP_776398-MLA118771931355_102026-O.webp",
       "link": "https://meli.la/2ri4uC1",
-      "cupom": null,
+      "cupom": "OFFPRACONSTRUIR",
       "loja": "mercadolivre",
       "categoria": "Ferramentas",
       "data": "2026-08-26T09:37:04.382735-03:00",
@@ -278,14 +356,14 @@
       "avaliacao": null,
       "avaliacoes": null,
       "vendas": null,
-      "nota_qualidade": 6,
-      "last_seen": "2026-10-19T19:50:51.587765+00:00",
-      "expires_at": "2026-10-20T16:50:51.587765-03:00",
+      "nota_qualidade": 7,
+      "last_seen": "2026-10-19T20:03:26.124011+00:00",
+      "expires_at": "2026-10-20T17:03:26.124011-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
+      "cupom_no_telegram": true,
+      "cupom_telegram_url": "https://t.me/promoninjaofertas"
     },
     {
       "source_id": "pechinchou-131893",
@@ -305,34 +383,8 @@
       "avaliacoes": 2,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-10-19T19:50:51.587765+00:00",
-      "expires_at": "2026-10-20T16:50:51.587765-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Outros",
-      "cupom_no_telegram": true,
-      "cupom_telegram_url": "https://t.me/promoninjaofertas"
-    },
-    {
-      "source_id": "pechinchou-148089",
-      "titulo": "Samsung Galaxy A57 256 gb e 8 Ram Dual Sim Lilás",
-      "de": 3999.0,
-      "por": 1889.1,
-      "desconto": 53,
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_953261-MLA114603178675_072026-O.webp",
-      "link": "https://meli.la/1VoZEFQ",
-      "cupom": "TOPMELI",
-      "loja": "mercadolivre",
-      "categoria": "Smartphones",
-      "data": "2026-08-13T10:00:20.905774-03:00",
-      "slug": "samsung-galaxy-a57-256-gb-e-8-ram-dual-sim-lilas",
-      "page_url": "https://promoninjaofertas.github.io/produto/samsung-galaxy-a57-256-gb-e-8-ram-dual-sim-lilas.html",
-      "avaliacao": null,
-      "avaliacoes": 2,
-      "vendas": null,
-      "nota_qualidade": 8,
-      "last_seen": "2026-10-19T19:50:51.587765+00:00",
-      "expires_at": "2026-10-20T16:50:51.587765-03:00",
+      "last_seen": "2026-10-19T20:03:26.124011+00:00",
+      "expires_at": "2026-10-20T17:03:26.124011-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -357,11 +409,37 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-10-19T19:50:51.587765+00:00",
-      "expires_at": "2026-10-20T16:50:51.587765-03:00",
+      "last_seen": "2026-10-19T20:03:26.124011+00:00",
+      "expires_at": "2026-10-20T17:03:26.124011-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
+      "cupom_no_telegram": false,
+      "cupom_telegram_url": null
+    },
+    {
+      "source_id": "pechinchou-65110",
+      "titulo": "PHEBO - Deo Colônia Nectarina da Andaluzia 200ml",
+      "de": 79.0,
+      "por": 57.87,
+      "desconto": 27,
+      "imagem": "https://m.media-amazon.com/images/I/51wUFEaEl5L._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B07CLLGQ8V?tag=promoninja0b2-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Beleza",
+      "data": "2026-10-19T17:03:26.124011-03:00",
+      "slug": "phebo-deo-colonia-nectarina-da-andaluzia-200ml",
+      "page_url": "https://promoninjaofertas.github.io/produto/phebo-deo-colonia-nectarina-da-andaluzia-200ml.html",
+      "avaliacao": null,
+      "avaliacoes": 2,
+      "vendas": null,
+      "nota_qualidade": 5,
+      "last_seen": "2026-10-19T20:03:26.124011+00:00",
+      "expires_at": "2026-10-20T17:03:26.124011-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Moda",
       "cupom_no_telegram": false,
       "cupom_telegram_url": null
     },
@@ -383,8 +461,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-10-19T19:50:51.587765+00:00",
-      "expires_at": "2026-10-20T16:50:51.587765-03:00",
+      "last_seen": "2026-10-19T20:03:26.124011+00:00",
+      "expires_at": "2026-10-20T17:03:26.124011-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
@@ -409,8 +487,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-10-19T19:50:51.587765+00:00",
-      "expires_at": "2026-10-20T16:50:51.587765-03:00",
+      "last_seen": "2026-10-19T20:03:26.124011+00:00",
+      "expires_at": "2026-10-20T17:03:26.124011-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -435,8 +513,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 9,
-      "last_seen": "2026-10-19T19:50:51.587765+00:00",
-      "expires_at": "2026-10-20T16:50:51.587765-03:00",
+      "last_seen": "2026-10-19T20:03:26.124011+00:00",
+      "expires_at": "2026-10-20T17:03:26.124011-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech",
@@ -461,8 +539,8 @@
       "avaliacoes": 2,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-10-19T19:50:51.587765+00:00",
-      "expires_at": "2026-10-20T16:50:51.587765-03:00",
+      "last_seen": "2026-10-19T20:03:26.124011+00:00",
+      "expires_at": "2026-10-20T17:03:26.124011-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -484,11 +562,11 @@
       "slug": "aparelho-de-jantar-alleanza-20-pcs-stripe-rosa",
       "page_url": "https://promoninjaofertas.github.io/produto/aparelho-de-jantar-alleanza-20-pcs-stripe-rosa.html",
       "avaliacao": null,
-      "avaliacoes": 10,
+      "avaliacoes": 20,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-10-19T19:50:51.587765+00:00",
-      "expires_at": "2026-10-20T16:50:51.587765-03:00",
+      "last_seen": "2026-10-19T20:03:26.124011+00:00",
+      "expires_at": "2026-10-20T17:03:26.124011-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
@@ -513,8 +591,8 @@
       "avaliacoes": 10,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-10-19T19:50:51.587765+00:00",
-      "expires_at": "2026-10-20T16:50:51.587765-03:00",
+      "last_seen": "2026-10-19T20:03:26.124011+00:00",
+      "expires_at": "2026-10-20T17:03:26.124011-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
@@ -539,8 +617,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-10-19T19:50:51.587765+00:00",
-      "expires_at": "2026-10-20T16:50:51.587765-03:00",
+      "last_seen": "2026-10-19T20:03:26.124011+00:00",
+      "expires_at": "2026-10-20T17:03:26.124011-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Gamer",
@@ -565,8 +643,8 @@
       "avaliacoes": 7,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-10-19T19:50:51.587765+00:00",
-      "expires_at": "2026-10-20T16:50:51.587765-03:00",
+      "last_seen": "2026-10-19T20:03:26.124011+00:00",
+      "expires_at": "2026-10-20T17:03:26.124011-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -591,8 +669,8 @@
       "avaliacoes": 4,
       "vendas": null,
       "nota_qualidade": 7,
-      "last_seen": "2026-10-19T19:50:51.587765+00:00",
-      "expires_at": "2026-10-20T16:50:51.587765-03:00",
+      "last_seen": "2026-10-19T20:03:26.124011+00:00",
+      "expires_at": "2026-10-20T17:03:26.124011-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech",
@@ -617,8 +695,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 8,
-      "last_seen": "2026-10-19T19:50:51.587765+00:00",
-      "expires_at": "2026-10-20T16:50:51.587765-03:00",
+      "last_seen": "2026-10-19T20:03:26.124011+00:00",
+      "expires_at": "2026-10-20T17:03:26.124011-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -643,11 +721,11 @@
       "avaliacoes": null,
       "vendas": 388,
       "nota_qualidade": 9,
-      "last_seen": "2026-10-19T19:50:51.587765+00:00",
-      "expires_at": "2026-10-20T16:50:51.587765-03:00",
+      "last_seen": "2026-10-19T20:03:26.124011+00:00",
+      "expires_at": "2026-10-20T17:03:26.124011-03:00",
       "marca": "Mondial",
       "price_evidence": {
-        "checked_at": "2026-10-19T19:52:48.333813+00:00",
+        "checked_at": "2026-10-19T20:07:42.788607+00:00",
         "identity": {
           "brand": "Mondial",
           "model": "25l",
@@ -1055,11 +1133,11 @@
       "avaliacoes": null,
       "vendas": 175,
       "nota_qualidade": 9,
-      "last_seen": "2026-10-19T19:50:51.587765+00:00",
-      "expires_at": "2026-10-20T16:50:51.587765-03:00",
+      "last_seen": "2026-10-19T20:03:26.124011+00:00",
+      "expires_at": "2026-10-20T17:03:26.124011-03:00",
       "marca": "Tramontina",
       "price_evidence": {
-        "checked_at": "2026-10-19T19:52:48.333813+00:00",
+        "checked_at": "2026-10-19T20:07:42.788607+00:00",
         "identity": {
           "brand": "Tramontina",
           "model": null,
@@ -1261,11 +1339,11 @@
       "avaliacoes": null,
       "vendas": 213,
       "nota_qualidade": 9,
-      "last_seen": "2026-10-19T19:50:51.587765+00:00",
-      "expires_at": "2026-10-20T16:50:51.587765-03:00",
+      "last_seen": "2026-10-19T20:03:26.124011+00:00",
+      "expires_at": "2026-10-20T17:03:26.124011-03:00",
       "marca": "Tramontina",
       "price_evidence": {
-        "checked_at": "2026-10-19T19:52:48.333813+00:00",
+        "checked_at": "2026-10-19T20:07:42.788607+00:00",
         "identity": {
           "brand": "Tramontina",
           "model": null,
@@ -1467,11 +1545,11 @@
       "avaliacoes": null,
       "vendas": 748,
       "nota_qualidade": 9,
-      "last_seen": "2026-10-19T19:50:51.587765+00:00",
-      "expires_at": "2026-10-20T16:50:51.587765-03:00",
+      "last_seen": "2026-10-19T20:03:26.124011+00:00",
+      "expires_at": "2026-10-20T17:03:26.124011-03:00",
       "marca": "Bosch",
       "price_evidence": {
-        "checked_at": "2026-10-19T19:52:48.333813+00:00",
+        "checked_at": "2026-10-19T20:07:42.788607+00:00",
         "identity": {
           "brand": "Bosch",
           "model": null,
@@ -1673,11 +1751,11 @@
       "avaliacoes": null,
       "vendas": 272,
       "nota_qualidade": 10,
-      "last_seen": "2026-10-19T19:50:51.587765+00:00",
-      "expires_at": "2026-10-20T16:50:51.587765-03:00",
+      "last_seen": "2026-10-19T20:03:26.124011+00:00",
+      "expires_at": "2026-10-20T17:03:26.124011-03:00",
       "marca": "Philips",
       "price_evidence": {
-        "checked_at": "2026-10-19T19:52:48.333813+00:00",
+        "checked_at": "2026-10-19T20:07:42.788607+00:00",
         "identity": {
           "brand": "Philips",
           "model": "hr7304",
@@ -2071,212 +2149,6 @@
       "cupom_telegram_url": null
     },
     {
-      "source_id": "18597753531",
-      "titulo": "Aspirador de Pó e Água Wap GTW 10 1400W 10 Litros Amarelo/Preto 127V FW005705",
-      "de": null,
-      "por": 288.0,
-      "desconto": 28,
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdwc-m0z2bbz1q0sn91",
-      "link": "https://s.shopee.com.br/9KiuL2cYNS",
-      "cupom": null,
-      "loja": "shopee",
-      "categoria": "Eletrodomesticos",
-      "data": "2026-09-14T00:08:21.377756-03:00",
-      "slug": "shopee-wap-fw005705-10l-127v-1400w-cor-preto-kit-1",
-      "page_url": "https://promoninjaofertas.github.io/produto/shopee-wap-fw005705-10l-127v-1400w-cor-preto-kit-1.html",
-      "avaliacao": 4.9,
-      "avaliacoes": null,
-      "vendas": 587,
-      "nota_qualidade": 9,
-      "last_seen": "2026-10-19T19:23:00.924913+00:00",
-      "expires_at": "2026-10-20T16:23:00.924913-03:00",
-      "marca": "WAP",
-      "price_evidence": {
-        "checked_at": "2026-10-19T19:26:19.961352+00:00",
-        "identity": {
-          "brand": "WAP",
-          "model": "fw005705",
-          "family": "eletrodomesticos",
-          "kind": "produto",
-          "variant": "10l|127v|1400w|cor:preto|kit:1",
-          "ambiguous": false,
-          "comparison_key": "wap|fw005705|10l|127v|1400w|cor:preto|kit:1"
-        },
-        "previous_min": 259.6,
-        "observed_min": 259.6,
-        "since": "2026-09-20T00:56:44.430021+00:00",
-        "observations": 119,
-        "days": 29,
-        "history": [
-          {
-            "at": "2026-10-10T09:14:27.339888+00:00",
-            "price": 260.0
-          },
-          {
-            "at": "2026-10-10T15:17:38.398936+00:00",
-            "price": 260.0
-          },
-          {
-            "at": "2026-10-10T19:19:53.576131+00:00",
-            "price": 288.0
-          },
-          {
-            "at": "2026-10-11T01:27:34.903011+00:00",
-            "price": 288.0
-          },
-          {
-            "at": "2026-10-11T07:30:55.572322+00:00",
-            "price": 288.0
-          },
-          {
-            "at": "2026-10-11T13:36:08.614155+00:00",
-            "price": 288.0
-          },
-          {
-            "at": "2026-10-11T19:38:31.604420+00:00",
-            "price": 288.0
-          },
-          {
-            "at": "2026-10-12T01:39:19.245770+00:00",
-            "price": 288.0
-          },
-          {
-            "at": "2026-10-12T07:39:59.277449+00:00",
-            "price": 288.0
-          },
-          {
-            "at": "2026-10-12T13:41:31.826943+00:00",
-            "price": 288.0
-          },
-          {
-            "at": "2026-10-12T19:42:39.413303+00:00",
-            "price": 288.0
-          },
-          {
-            "at": "2026-10-13T01:43:41.085994+00:00",
-            "price": 288.0
-          },
-          {
-            "at": "2026-10-13T07:49:47.571460+00:00",
-            "price": 288.0
-          },
-          {
-            "at": "2026-10-13T13:51:08.146422+00:00",
-            "price": 288.0
-          },
-          {
-            "at": "2026-10-13T19:51:21.455226+00:00",
-            "price": 288.0
-          },
-          {
-            "at": "2026-10-14T01:52:20.003872+00:00",
-            "price": 288.0
-          },
-          {
-            "at": "2026-10-14T07:52:48.759078+00:00",
-            "price": 288.0
-          },
-          {
-            "at": "2026-10-14T14:09:54.086314+00:00",
-            "price": 288.0
-          },
-          {
-            "at": "2026-10-14T20:11:17.252196+00:00",
-            "price": 288.0
-          },
-          {
-            "at": "2026-10-15T02:06:34.183102+00:00",
-            "price": 260.0
-          },
-          {
-            "at": "2026-10-15T08:16:53.585860+00:00",
-            "price": 260.0
-          },
-          {
-            "at": "2026-10-15T14:24:05.231839+00:00",
-            "price": 260.0
-          },
-          {
-            "at": "2026-10-15T16:32:44.388290+00:00",
-            "price": 288.0
-          },
-          {
-            "at": "2026-10-15T22:34:25.575139+00:00",
-            "price": 288.0
-          },
-          {
-            "at": "2026-10-16T04:35:19.294172+00:00",
-            "price": 288.0
-          },
-          {
-            "at": "2026-10-16T10:35:31.269267+00:00",
-            "price": 288.0
-          },
-          {
-            "at": "2026-10-16T16:41:30.494205+00:00",
-            "price": 288.0
-          },
-          {
-            "at": "2026-10-16T22:43:08.800866+00:00",
-            "price": 288.0
-          },
-          {
-            "at": "2026-10-17T04:44:08.301415+00:00",
-            "price": 288.0
-          },
-          {
-            "at": "2026-10-17T10:44:27.350381+00:00",
-            "price": 288.0
-          },
-          {
-            "at": "2026-10-17T16:45:42.026156+00:00",
-            "price": 288.0
-          },
-          {
-            "at": "2026-10-17T22:47:00.001152+00:00",
-            "price": 288.0
-          },
-          {
-            "at": "2026-10-18T03:05:23.683908+00:00",
-            "price": 260.0
-          },
-          {
-            "at": "2026-10-18T09:11:29.033949+00:00",
-            "price": 260.0
-          },
-          {
-            "at": "2026-10-18T15:13:50.977843+00:00",
-            "price": 260.0
-          },
-          {
-            "at": "2026-10-18T17:48:01.778569+00:00",
-            "price": 288.0
-          },
-          {
-            "at": "2026-10-18T23:48:58.669650+00:00",
-            "price": 288.0
-          },
-          {
-            "at": "2026-10-19T05:56:07.346402+00:00",
-            "price": 288.0
-          },
-          {
-            "at": "2026-10-19T12:03:46.675970+00:00",
-            "price": 288.0
-          },
-          {
-            "at": "2026-10-19T18:04:54.321825+00:00",
-            "price": 288.0
-          }
-        ],
-        "advantage": false,
-        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
-      },
-      "grupo": "Casa",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
-    },
-    {
       "source_id": "22894954205",
       "titulo": "Monitor LG Gamer 24\" 100Hz 5ms Full HD - 24MS500-B",
       "de": null,
@@ -2479,6 +2351,212 @@
         "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
       },
       "grupo": "Gamer",
+      "cupom_no_telegram": false,
+      "cupom_telegram_url": null
+    },
+    {
+      "source_id": "18597753531",
+      "titulo": "Aspirador de Pó e Água Wap GTW 10 1400W 10 Litros Amarelo/Preto 127V FW005705",
+      "de": null,
+      "por": 288.0,
+      "desconto": 28,
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdwc-m0z2bbz1q0sn91",
+      "link": "https://s.shopee.com.br/9KiuL2cYNS",
+      "cupom": null,
+      "loja": "shopee",
+      "categoria": "Eletrodomesticos",
+      "data": "2026-09-14T00:08:21.377756-03:00",
+      "slug": "shopee-wap-fw005705-10l-127v-1400w-cor-preto-kit-1",
+      "page_url": "https://promoninjaofertas.github.io/produto/shopee-wap-fw005705-10l-127v-1400w-cor-preto-kit-1.html",
+      "avaliacao": 4.9,
+      "avaliacoes": null,
+      "vendas": 587,
+      "nota_qualidade": 9,
+      "last_seen": "2026-10-19T19:23:00.924913+00:00",
+      "expires_at": "2026-10-20T16:23:00.924913-03:00",
+      "marca": "WAP",
+      "price_evidence": {
+        "checked_at": "2026-10-19T19:26:19.961352+00:00",
+        "identity": {
+          "brand": "WAP",
+          "model": "fw005705",
+          "family": "eletrodomesticos",
+          "kind": "produto",
+          "variant": "10l|127v|1400w|cor:preto|kit:1",
+          "ambiguous": false,
+          "comparison_key": "wap|fw005705|10l|127v|1400w|cor:preto|kit:1"
+        },
+        "previous_min": 259.6,
+        "observed_min": 259.6,
+        "since": "2026-09-20T00:56:44.430021+00:00",
+        "observations": 119,
+        "days": 29,
+        "history": [
+          {
+            "at": "2026-10-10T09:14:27.339888+00:00",
+            "price": 260.0
+          },
+          {
+            "at": "2026-10-10T15:17:38.398936+00:00",
+            "price": 260.0
+          },
+          {
+            "at": "2026-10-10T19:19:53.576131+00:00",
+            "price": 288.0
+          },
+          {
+            "at": "2026-10-11T01:27:34.903011+00:00",
+            "price": 288.0
+          },
+          {
+            "at": "2026-10-11T07:30:55.572322+00:00",
+            "price": 288.0
+          },
+          {
+            "at": "2026-10-11T13:36:08.614155+00:00",
+            "price": 288.0
+          },
+          {
+            "at": "2026-10-11T19:38:31.604420+00:00",
+            "price": 288.0
+          },
+          {
+            "at": "2026-10-12T01:39:19.245770+00:00",
+            "price": 288.0
+          },
+          {
+            "at": "2026-10-12T07:39:59.277449+00:00",
+            "price": 288.0
+          },
+          {
+            "at": "2026-10-12T13:41:31.826943+00:00",
+            "price": 288.0
+          },
+          {
+            "at": "2026-10-12T19:42:39.413303+00:00",
+            "price": 288.0
+          },
+          {
+            "at": "2026-10-13T01:43:41.085994+00:00",
+            "price": 288.0
+          },
+          {
+            "at": "2026-10-13T07:49:47.571460+00:00",
+            "price": 288.0
+          },
+          {
+            "at": "2026-10-13T13:51:08.146422+00:00",
+            "price": 288.0
+          },
+          {
+            "at": "2026-10-13T19:51:21.455226+00:00",
+            "price": 288.0
+          },
+          {
+            "at": "2026-10-14T01:52:20.003872+00:00",
+            "price": 288.0
+          },
+          {
+            "at": "2026-10-14T07:52:48.759078+00:00",
+            "price": 288.0
+          },
+          {
+            "at": "2026-10-14T14:09:54.086314+00:00",
+            "price": 288.0
+          },
+          {
+            "at": "2026-10-14T20:11:17.252196+00:00",
+            "price": 288.0
+          },
+          {
+            "at": "2026-10-15T02:06:34.183102+00:00",
+            "price": 260.0
+          },
+          {
+            "at": "2026-10-15T08:16:53.585860+00:00",
+            "price": 260.0
+          },
+          {
+            "at": "2026-10-15T14:24:05.231839+00:00",
+            "price": 260.0
+          },
+          {
+            "at": "2026-10-15T16:32:44.388290+00:00",
+            "price": 288.0
+          },
+          {
+            "at": "2026-10-15T22:34:25.575139+00:00",
+            "price": 288.0
+          },
+          {
+            "at": "2026-10-16T04:35:19.294172+00:00",
+            "price": 288.0
+          },
+          {
+            "at": "2026-10-16T10:35:31.269267+00:00",
+            "price": 288.0
+          },
+          {
+            "at": "2026-10-16T16:41:30.494205+00:00",
+            "price": 288.0
+          },
+          {
+            "at": "2026-10-16T22:43:08.800866+00:00",
+            "price": 288.0
+          },
+          {
+            "at": "2026-10-17T04:44:08.301415+00:00",
+            "price": 288.0
+          },
+          {
+            "at": "2026-10-17T10:44:27.350381+00:00",
+            "price": 288.0
+          },
+          {
+            "at": "2026-10-17T16:45:42.026156+00:00",
+            "price": 288.0
+          },
+          {
+            "at": "2026-10-17T22:47:00.001152+00:00",
+            "price": 288.0
+          },
+          {
+            "at": "2026-10-18T03:05:23.683908+00:00",
+            "price": 260.0
+          },
+          {
+            "at": "2026-10-18T09:11:29.033949+00:00",
+            "price": 260.0
+          },
+          {
+            "at": "2026-10-18T15:13:50.977843+00:00",
+            "price": 260.0
+          },
+          {
+            "at": "2026-10-18T17:48:01.778569+00:00",
+            "price": 288.0
+          },
+          {
+            "at": "2026-10-18T23:48:58.669650+00:00",
+            "price": 288.0
+          },
+          {
+            "at": "2026-10-19T05:56:07.346402+00:00",
+            "price": 288.0
+          },
+          {
+            "at": "2026-10-19T12:03:46.675970+00:00",
+            "price": 288.0
+          },
+          {
+            "at": "2026-10-19T18:04:54.321825+00:00",
+            "price": 288.0
+          }
+        ],
+        "advantage": false,
+        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
+      },
+      "grupo": "Casa",
       "cupom_no_telegram": false,
       "cupom_telegram_url": null
     },
@@ -2706,11 +2784,11 @@
       "avaliacoes": null,
       "vendas": 1346,
       "nota_qualidade": 10,
-      "last_seen": "2026-10-19T19:50:51.587765+00:00",
-      "expires_at": "2026-10-20T16:50:51.587765-03:00",
+      "last_seen": "2026-10-19T20:03:26.124011+00:00",
+      "expires_at": "2026-10-20T17:03:26.124011-03:00",
       "marca": "Epson",
       "price_evidence": {
-        "checked_at": "2026-10-19T19:52:48.333813+00:00",
+        "checked_at": "2026-10-19T20:07:42.788607+00:00",
         "identity": {
           "brand": "Epson",
           "model": "l3250",
@@ -2814,11 +2892,11 @@
       "avaliacoes": null,
       "vendas": 610,
       "nota_qualidade": 9,
-      "last_seen": "2026-10-19T19:50:51.587765+00:00",
-      "expires_at": "2026-10-20T16:50:51.587765-03:00",
+      "last_seen": "2026-10-19T20:03:26.124011+00:00",
+      "expires_at": "2026-10-20T17:03:26.124011-03:00",
       "marca": "Mondial",
       "price_evidence": {
-        "checked_at": "2026-10-19T19:52:48.333813+00:00",
+        "checked_at": "2026-10-19T20:07:42.788607+00:00",
         "identity": {
           "brand": "Mondial",
           "model": "afn-50",
@@ -3020,11 +3098,11 @@
       "avaliacoes": null,
       "vendas": 139,
       "nota_qualidade": 9,
-      "last_seen": "2026-10-19T19:50:51.587765+00:00",
-      "expires_at": "2026-10-20T16:50:51.587765-03:00",
+      "last_seen": "2026-10-19T20:03:26.124011+00:00",
+      "expires_at": "2026-10-20T17:03:26.124011-03:00",
       "marca": "Logitech",
       "price_evidence": {
-        "checked_at": "2026-10-19T19:52:48.333813+00:00",
+        "checked_at": "2026-10-19T20:07:42.788607+00:00",
         "identity": {
           "brand": "Logitech",
           "model": "m220",
@@ -3226,11 +3304,11 @@
       "avaliacoes": null,
       "vendas": 1197,
       "nota_qualidade": 10,
-      "last_seen": "2026-10-19T19:50:51.587765+00:00",
-      "expires_at": "2026-10-20T16:50:51.587765-03:00",
+      "last_seen": "2026-10-19T20:03:26.124011+00:00",
+      "expires_at": "2026-10-20T17:03:26.124011-03:00",
       "marca": "Tramontina",
       "price_evidence": {
-        "checked_at": "2026-10-19T19:52:48.333813+00:00",
+        "checked_at": "2026-10-19T20:07:42.788607+00:00",
         "identity": {
           "brand": "Tramontina",
           "model": null,
@@ -4165,32 +4243,6 @@
       "cupom_telegram_url": null
     },
     {
-      "source_id": "1005008639836335",
-      "titulo": "Towild dl1200s/dl1700 luz de bicicleta com linha de corte feixe1900lm recarregável luz dianteira banco potência mtb ciclismo faróis",
-      "de": 717.99,
-      "por": 245.82,
-      "desconto": 65,
-      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sf5de0b7841cd4a6796260e0ec198d1efH.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mUOAepjq71bmCAfdUIcSE89C6gvJUdJWImj7GMKsnH7sXqx7zDmKvW7xILWbvDH5yumUDIXxWSoaABPPjacVWyuGnmlzLEb7PnnBC0SOhBXdbNJO7zg1zWHh3VGtplf5Ai5JccVLLHQ5E09hG7FJLmjA6IO9MbWORwnteIV6Tr25qZzva2dC2p9IXuG5ylq0ko7qi2vK4M6gqLhArYMTGWvQWPBvFH1AuFFqd6QLe0jvuuTKV11CFyGIIM1HqwKOhpSglffEtySdkg3jKliclg2tUcK775tuXRotb5qmRD2I2crVWxr8PEbkgNPRkjaXR3LrBLU6but7yoSweoci3QIn66yh0U1Z1uyNu6bOA38Xh2ddslxTqKrv8eSBdAZr85Lf9laU3YNgB8T7YGLNP5Iv7Z0N2gII7gbnoSdUTgK8BNXF745HeaEsVvy18qiwlAlYDLJzJuUlLIvyGo7I9q3mIpmGyxo5vrUJEb2qxc547AuV0dzmAKyP0NgUhhoe6RBIRYA81PWaoEQzlro3QNZrwjEVyPSLDbJQ4r2acB6E5LZ5ZivjZNYmTOMHxuJybCwBPodLXA8FfHxPSo5oBq3sZoBXkv2yyba5idJVdaBHzkDInX1a4CtI1bCsyJMksr4G6zzVTc5MK91enUcUOrm56BX5pLXXV6DBhXYGeajBUjkXp5kjTlef5OHY9FdadRKEWwJlHZWtj",
-      "cupom": null,
-      "loja": "aliexpress",
-      "categoria": "Casa",
-      "data": "2026-09-07T05:12:37.105870-03:00",
-      "slug": "towild-dl1200s-dl1700-luz-de-bicicleta-com-linha-de-corte-feixe1900lm-recarregavel-luz",
-      "page_url": "https://promoninjaofertas.github.io/produto/towild-dl1200s-dl1700-luz-de-bicicleta-com-linha-de-corte-feixe1900lm-recarregavel-luz.html",
-      "avaliacao": 4.825,
-      "avaliacoes": null,
-      "vendas": 875,
-      "nota_qualidade": 7,
-      "last_seen": "2026-10-19T16:31:03.482076+00:00",
-      "expires_at": "2026-10-20T13:31:03.482076-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Outros",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
-    },
-    {
       "source_id": "1005009942973523",
       "titulo": "Carregador Portátil 20000mah，Power Bank Portátil，Pilhas Recarregáveis，Powerbank Portátil， TYPE-C, USB， Preto， Do Brasil",
       "de": 125.99,
@@ -4213,6 +4265,32 @@
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech",
+      "cupom_no_telegram": false,
+      "cupom_telegram_url": null
+    },
+    {
+      "source_id": "1005008639836335",
+      "titulo": "Towild dl1200s/dl1700 luz de bicicleta com linha de corte feixe1900lm recarregável luz dianteira banco potência mtb ciclismo faróis",
+      "de": 717.99,
+      "por": 245.82,
+      "desconto": 65,
+      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sf5de0b7841cd4a6796260e0ec198d1efH.jpg",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mUOAepjq71bmCAfdUIcSE89C6gvJUdJWImj7GMKsnH7sXqx7zDmKvW7xILWbvDH5yumUDIXxWSoaABPPjacVWyuGnmlzLEb7PnnBC0SOhBXdbNJO7zg1zWHh3VGtplf5Ai5JccVLLHQ5E09hG7FJLmjA6IO9MbWORwnteIV6Tr25qZzva2dC2p9IXuG5ylq0ko7qi2vK4M6gqLhArYMTGWvQWPBvFH1AuFFqd6QLe0jvuuTKV11CFyGIIM1HqwKOhpSglffEtySdkg3jKliclg2tUcK775tuXRotb5qmRD2I2crVWxr8PEbkgNPRkjaXR3LrBLU6but7yoSweoci3QIn66yh0U1Z1uyNu6bOA38Xh2ddslxTqKrv8eSBdAZr85Lf9laU3YNgB8T7YGLNP5Iv7Z0N2gII7gbnoSdUTgK8BNXF745HeaEsVvy18qiwlAlYDLJzJuUlLIvyGo7I9q3mIpmGyxo5vrUJEb2qxc547AuV0dzmAKyP0NgUhhoe6RBIRYA81PWaoEQzlro3QNZrwjEVyPSLDbJQ4r2acB6E5LZ5ZivjZNYmTOMHxuJybCwBPodLXA8FfHxPSo5oBq3sZoBXkv2yyba5idJVdaBHzkDInX1a4CtI1bCsyJMksr4G6zzVTc5MK91enUcUOrm56BX5pLXXV6DBhXYGeajBUjkXp5kjTlef5OHY9FdadRKEWwJlHZWtj",
+      "cupom": null,
+      "loja": "aliexpress",
+      "categoria": "Casa",
+      "data": "2026-09-07T05:12:37.105870-03:00",
+      "slug": "towild-dl1200s-dl1700-luz-de-bicicleta-com-linha-de-corte-feixe1900lm-recarregavel-luz",
+      "page_url": "https://promoninjaofertas.github.io/produto/towild-dl1200s-dl1700-luz-de-bicicleta-com-linha-de-corte-feixe1900lm-recarregavel-luz.html",
+      "avaliacao": 4.825,
+      "avaliacoes": null,
+      "vendas": 875,
+      "nota_qualidade": 7,
+      "last_seen": "2026-10-19T16:31:03.482076+00:00",
+      "expires_at": "2026-10-20T13:31:03.482076-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Outros",
       "cupom_no_telegram": false,
       "cupom_telegram_url": null
     },
@@ -4297,11 +4375,11 @@
     {
       "source_id": "1005004702025352",
       "titulo": "12w/mk maxtor pasta térmica graxa para processador amd intel cpu cooler ventilador de refrigeração do computador vga gpu composto dissipador de calor gesso",
-      "de": 349.98,
-      "por": 181.99,
+      "de": 349.21,
+      "por": 181.59,
       "desconto": 47,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sf379ba197820456e9fba958ae173e989l.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mKqvqIZBGrglfV1irtOA3Fj7ruAtipWlmszcqPyUpdXSWstwcfiTu0GBNTPJB99bReNJbxtI6nv1n5dsS54mMRCGptPkkdjlmZIiHDiwQGKC0llMSPTqscyHb8XSdZI4lXUp2qUeuU7nvY2n903qDehV3n0CL2dPQwayr5jiTnPCb02gl9ADtlixqT5ThZzgpYvVQpqehlM5fkDO7tN0a93bLXX1oHDnDWBX9Xtx4XintmMncWmrHjAe479YrWUL30bPPwuDuUgmWACRFJYqmTgQORqGFrGF456IwJXeE2xehXUUu2eZrSwJzhN4lePV55SpPO59ATBRLKoeu5uoGJDFkAvL77mYToEExCCdzfEWkc6GoZS6cMdoRh81jf64wcuPe23BZW0Y8U817vEkepmArWMXPD3c7z1sDhWMOMKvsqTFG1mUeypq8y8kD4CDYTxiHdOXpx62EGgNjbdxwNGu2eeep7aUti4ZRp1Ze1jbsS3K1fxjaIU7OJA97ZMKP1SbyZttiJKgQgDhbi2JBRi9c7IjwLnHp4whABr6cvo8jcNPmOsPOm2PhNq4kCCTvMHnitwSWZm411IxIdtGDv3sPBbZDrGoCdQzHcNA3jR63cXxh3uEajQ7tEtxUJpK7eScv8VEL8oO0jfxvAGaik6lW8btIACAOqVPLwNtLmuIlSxouvsGPqZ4QsPReDbUui94IKaIeQ5eS",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mKqvqIZBGrglfV1irtOA3Fj7ruAtipWlmszcqPyUpdXSWstwcfiTu0GBNTPJB99bReNJbxtI6nv1n5dsS54mMRCGptPkkdjlmZIiHDiwQGKC0llMSPTqscyHb8XSdZI4lXUp2qUeuU7nvY2n903qDehV3n0CL2dPQwayr5jiTnPCb02gl9ADtlixqT5ThZzgpYvVQpqehlM5fkDO7tN0a93bLXX1oHDnDWBX9XSw1vAdXynM2L50hqn93vlaBEkgF0Im6l8eCZS8c8qIZ44LN6EXd37amTJ6yCm6FZhNun6cwv1p5xWXFeTZ11IyFyYByiusfiVIox4Afi8WhqMs99MVofxNii2djdFBvITzEOctw7cardsVbu81CwTcWR7WxAts2xJTfteHoWdsFGErsG7azifm6UCd77M1WPhbQV7RYvaYxufFBSa4O9FYLnNAPmhX6z2t0z06WbGfIvSq1AUIrcXYrJ8IInhrOW5amu5kNIrlxZsId4NmLS6FtUlhBAZwIVg5vRKoswRmJB4heYW5p1K3S9EwU7P1LeYbY8tYBvonMGMFQzVcP5wI3bPqo7h3rjM5tUX5TtKHwZ5zjKIDkPopwwYVVkEEajech47pctY04upQ3Op0qwJrF10KF1FATLMWJTgZyyX2ITRbeM3SONaZGCuCrF8JHAc0A1sTxDKBkjrb9v4RyBbUH3r8pCssJhnNG64IW",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Hardware",
@@ -4310,10 +4388,10 @@
       "page_url": "https://promoninjaofertas.github.io/produto/12w-mk-maxtor-pasta-termica-graxa-para-processador-amd-intel-cpu-cooler-ventilador-de.html",
       "avaliacao": 4.835,
       "avaliacoes": null,
-      "vendas": 116,
+      "vendas": 115,
       "nota_qualidade": 9,
-      "last_seen": "2026-10-19T12:41:31.583168+00:00",
-      "expires_at": "2026-10-20T09:41:31.583168-03:00",
+      "last_seen": "2026-10-19T20:03:26.124011+00:00",
+      "expires_at": "2026-10-20T17:03:26.124011-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech",
