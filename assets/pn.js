@@ -526,6 +526,7 @@
 
   let allOffers = [];
   let loaded = false;
+  let catalogStale = false;
 
   /* -------------------------------------------------------- Classificação */
   function categoryGroup(offer) {
@@ -870,6 +871,22 @@
 
   /* ------------------------------------------------------------ Renderiza */
   function render() {
+    if (catalogStale && !allOffers.length) {
+      if (resultCount) resultCount.textContent = 'Atualização atrasada';
+      grid.innerHTML = `<div class="state" role="status">
+        <img src="/favicon-192.png" alt="" width="76" height="76">
+        <h3>A atualização das ofertas está temporariamente atrasada</h3>
+        <p>Consulte nossas vitrines e confirme preço, estoque e condições diretamente na loja. As ofertas antigas ficam ocultas até uma nova conferência.</p>
+        <a class="btn btn-primary" href="/#vitrines">Ver nossas vitrines</a>
+        <button type="button" class="btn btn-secondary" onclick="location.reload()">Tentar novamente</button>
+      </div>`;
+      const loadMore = $('#loadMore');
+      if (loadMore) loadMore.hidden = true;
+      renderChips();
+      renderCuratedSections();
+      updateFilterControls();
+      return;
+    }
     if (isCouponPage) {
       renderCoupons();
       return;
@@ -1160,6 +1177,8 @@
       return response.json();
     })
     .then(data => {
+      const updatedAt = Date.parse(data.atualizado || data.updated_at || '');
+      catalogStale = Number.isFinite(updatedAt) && Date.now() - updatedAt > 60 * 60 * 1000;
       allOffers = (data.ofertas || [])
         .filter(offer => offer && offer.titulo && Number(offer.por) > 0)
         .filter(offer =>
