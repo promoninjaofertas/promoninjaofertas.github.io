@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-10-31T15:38:29.204807+00:00",
+  "atualizado": "2026-10-31T15:50:29.479687+00:00",
   "ofertas": [
     {
       "source_id": "pechinchou-156997",
@@ -19,8 +19,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-10-31T15:38:29.204807+00:00",
-      "expires_at": "2026-11-01T12:38:29.204807-03:00",
+      "last_seen": "2026-10-31T15:50:29.479687+00:00",
+      "expires_at": "2026-11-01T12:50:29.479687-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -45,8 +45,8 @@
       "avaliacoes": 1,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-10-31T15:38:29.204807+00:00",
-      "expires_at": "2026-11-01T12:38:29.204807-03:00",
+      "last_seen": "2026-10-31T15:50:29.479687+00:00",
+      "expires_at": "2026-11-01T12:50:29.479687-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -71,8 +71,8 @@
       "avaliacoes": 2,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-10-31T15:38:29.204807+00:00",
-      "expires_at": "2026-11-01T12:38:29.204807-03:00",
+      "last_seen": "2026-10-31T15:50:29.479687+00:00",
+      "expires_at": "2026-11-01T12:50:29.479687-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
@@ -97,13 +97,13 @@
       "avaliacoes": 1,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-10-31T15:38:29.204807+00:00",
-      "expires_at": "2026-11-01T12:38:29.204807-03:00",
+      "last_seen": "2026-10-31T15:50:29.479687+00:00",
+      "expires_at": "2026-11-01T12:50:29.479687-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
+      "cupom_no_telegram": true,
+      "cupom_telegram_url": "https://t.me/promoninjaofertas"
     },
     {
       "source_id": "pechinchou-149236",
@@ -123,8 +123,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-10-31T15:38:29.204807+00:00",
-      "expires_at": "2026-11-01T12:38:29.204807-03:00",
+      "last_seen": "2026-10-31T15:50:29.479687+00:00",
+      "expires_at": "2026-11-01T12:50:29.479687-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -149,8 +149,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 7,
-      "last_seen": "2026-10-31T15:38:29.204807+00:00",
-      "expires_at": "2026-11-01T12:38:29.204807-03:00",
+      "last_seen": "2026-10-31T15:50:29.479687+00:00",
+      "expires_at": "2026-11-01T12:50:29.479687-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech",
@@ -175,13 +175,39 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-10-31T15:38:29.204807+00:00",
-      "expires_at": "2026-11-01T12:38:29.204807-03:00",
+      "last_seen": "2026-10-31T15:50:29.479687+00:00",
+      "expires_at": "2026-11-01T12:50:29.479687-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
+      "cupom_no_telegram": true,
+      "cupom_telegram_url": "https://t.me/promoninjaofertas"
+    },
+    {
+      "source_id": "pechinchou-143136",
+      "titulo": "Perfume Rabanne Pure Xs Eau De Parfum 50 Ml Feminino",
+      "de": 389.9,
+      "por": 324.0,
+      "desconto": 17,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/D_NQ_NP_968535-MLA94548490888_102025-O.webp",
+      "link": "https://meli.la/2Cw89vc",
+      "cupom": "MODA3110",
+      "loja": "mercadolivre",
+      "categoria": "Beleza",
+      "data": "2026-09-17T23:24:53.309343-03:00",
+      "slug": "perfume-rabanne-pure-xs-eau-de-parfum-50-ml-feminino",
+      "page_url": "https://promoninjaofertas.github.io/produto/perfume-rabanne-pure-xs-eau-de-parfum-50-ml-feminino.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": null,
+      "nota_qualidade": 6,
+      "last_seen": "2026-10-31T15:50:29.479687+00:00",
+      "expires_at": "2026-11-01T12:50:29.479687-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Moda",
+      "cupom_no_telegram": true,
+      "cupom_telegram_url": "https://t.me/promoninjaofertas"
     },
     {
       "source_id": "pechinchou-152029",
@@ -201,13 +227,13 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-10-31T15:38:29.204807+00:00",
-      "expires_at": "2026-11-01T12:38:29.204807-03:00",
+      "last_seen": "2026-10-31T15:50:29.479687+00:00",
+      "expires_at": "2026-11-01T12:50:29.479687-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
+      "cupom_no_telegram": true,
+      "cupom_telegram_url": "https://t.me/promoninjaofertas"
     },
     {
       "source_id": "pechinchou-147875",
@@ -227,13 +253,39 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-10-31T15:38:29.204807+00:00",
-      "expires_at": "2026-11-01T12:38:29.204807-03:00",
+      "last_seen": "2026-10-31T15:50:29.479687+00:00",
+      "expires_at": "2026-11-01T12:50:29.479687-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
+      "cupom_no_telegram": true,
+      "cupom_telegram_url": "https://t.me/promoninjaofertas"
+    },
+    {
+      "source_id": "pechinchou-144268",
+      "titulo": "Tênis Kappa Sparta Unissex Original Confortável Caminhada",
+      "de": 109.9,
+      "por": 84.0,
+      "desconto": 24,
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_602222-MLB110057007889_042026-P.webp",
+      "link": "https://meli.la/1DQAv7T",
+      "cupom": "MODA3110",
+      "loja": "mercadolivre",
+      "categoria": "Beleza",
+      "data": "2026-09-11T10:32:47.374602-03:00",
+      "slug": "tenis-kappa-sparta-unissex-original-confortavel-caminhada",
+      "page_url": "https://promoninjaofertas.github.io/produto/tenis-kappa-sparta-unissex-original-confortavel-caminhada.html",
+      "avaliacao": null,
+      "avaliacoes": 2,
+      "vendas": null,
+      "nota_qualidade": 6,
+      "last_seen": "2026-10-31T15:50:29.479687+00:00",
+      "expires_at": "2026-11-01T12:50:29.479687-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Moda",
+      "cupom_no_telegram": true,
+      "cupom_telegram_url": "https://t.me/promoninjaofertas"
     },
     {
       "source_id": "pechinchou-130267",
@@ -253,13 +305,13 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-10-31T15:38:29.204807+00:00",
-      "expires_at": "2026-11-01T12:38:29.204807-03:00",
+      "last_seen": "2026-10-31T15:50:29.479687+00:00",
+      "expires_at": "2026-11-01T12:50:29.479687-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
+      "cupom_no_telegram": true,
+      "cupom_telegram_url": "https://t.me/promoninjaofertas"
     },
     {
       "source_id": "pechinchou-141815",
@@ -276,11 +328,11 @@
       "slug": "perfume-da-noiva-arabe-durrat-all-aroos-85-ml-edp-original-nf",
       "page_url": "https://promoninjaofertas.github.io/produto/perfume-da-noiva-arabe-durrat-all-aroos-85-ml-edp-original-nf.html",
       "avaliacao": null,
-      "avaliacoes": 4,
+      "avaliacoes": 10,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-10-31T15:38:29.204807+00:00",
-      "expires_at": "2026-11-01T12:38:29.204807-03:00",
+      "last_seen": "2026-10-31T15:50:29.479687+00:00",
+      "expires_at": "2026-11-01T12:50:29.479687-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
@@ -305,13 +357,13 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-10-31T15:38:29.204807+00:00",
-      "expires_at": "2026-11-01T12:38:29.204807-03:00",
+      "last_seen": "2026-10-31T15:50:29.479687+00:00",
+      "expires_at": "2026-11-01T12:50:29.479687-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
+      "cupom_no_telegram": true,
+      "cupom_telegram_url": "https://t.me/promoninjaofertas"
     },
     {
       "source_id": "pechinchou-156995",
@@ -331,8 +383,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-10-31T15:38:29.204807+00:00",
-      "expires_at": "2026-11-01T12:38:29.204807-03:00",
+      "last_seen": "2026-10-31T15:50:29.479687+00:00",
+      "expires_at": "2026-11-01T12:50:29.479687-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
@@ -357,8 +409,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-10-31T15:38:29.204807+00:00",
-      "expires_at": "2026-11-01T12:38:29.204807-03:00",
+      "last_seen": "2026-10-31T15:50:29.479687+00:00",
+      "expires_at": "2026-11-01T12:50:29.479687-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
@@ -383,8 +435,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-10-31T15:38:29.204807+00:00",
-      "expires_at": "2026-11-01T12:38:29.204807-03:00",
+      "last_seen": "2026-10-31T15:50:29.479687+00:00",
+      "expires_at": "2026-11-01T12:50:29.479687-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -409,8 +461,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-10-31T15:38:29.204807+00:00",
-      "expires_at": "2026-11-01T12:38:29.204807-03:00",
+      "last_seen": "2026-10-31T15:50:29.479687+00:00",
+      "expires_at": "2026-11-01T12:50:29.479687-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -435,8 +487,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-10-31T15:38:29.204807+00:00",
-      "expires_at": "2026-11-01T12:38:29.204807-03:00",
+      "last_seen": "2026-10-31T15:50:29.479687+00:00",
+      "expires_at": "2026-11-01T12:50:29.479687-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -461,8 +513,8 @@
       "avaliacoes": 3,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-10-31T15:38:29.204807+00:00",
-      "expires_at": "2026-11-01T12:38:29.204807-03:00",
+      "last_seen": "2026-10-31T15:50:29.479687+00:00",
+      "expires_at": "2026-11-01T12:50:29.479687-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -487,8 +539,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-10-31T15:38:29.204807+00:00",
-      "expires_at": "2026-11-01T12:38:29.204807-03:00",
+      "last_seen": "2026-10-31T15:50:29.479687+00:00",
+      "expires_at": "2026-11-01T12:50:29.479687-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -513,8 +565,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 7,
-      "last_seen": "2026-10-31T15:38:29.204807+00:00",
-      "expires_at": "2026-11-01T12:38:29.204807-03:00",
+      "last_seen": "2026-10-31T15:50:29.479687+00:00",
+      "expires_at": "2026-11-01T12:50:29.479687-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -2176,212 +2228,6 @@
       "cupom_telegram_url": null
     },
     {
-      "source_id": "23594959395",
-      "titulo": "Furadeira Parafusadeira de Impacto Bosch 48V – 2 Baterias Inclusas | Ferramenta Elétrica",
-      "de": null,
-      "por": 399.28,
-      "desconto": 55,
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lk-mo9dpk20zg1w51",
-      "link": "https://s.shopee.com.br/5VWTI0ic8A",
-      "cupom": null,
-      "loja": "shopee",
-      "categoria": "Smartphones",
-      "data": "2026-09-12T19:16:34.813595-03:00",
-      "slug": "furadeira-parafusadeira-de-impacto-bosch-48v-2-baterias-inclusas-ferramenta-eletrica",
-      "page_url": "https://promoninjaofertas.github.io/produto/furadeira-parafusadeira-de-impacto-bosch-48v-2-baterias-inclusas-ferramenta-eletrica.html",
-      "avaliacao": 4.8,
-      "avaliacoes": null,
-      "vendas": 131,
-      "nota_qualidade": 10,
-      "last_seen": "2026-10-31T15:11:18.076898+00:00",
-      "expires_at": "2026-11-01T12:11:18.076898-03:00",
-      "marca": "Bosch",
-      "price_evidence": {
-        "checked_at": "2026-10-31T15:13:58.975661+00:00",
-        "identity": {
-          "brand": "Bosch",
-          "model": null,
-          "family": "ferramentas",
-          "kind": "produto",
-          "variant": "48v|kit:1",
-          "ambiguous": false,
-          "comparison_key": null
-        },
-        "previous_min": 399.28,
-        "observed_min": 399.28,
-        "since": "2026-10-06T10:34:14.052961+00:00",
-        "observations": 43,
-        "days": 14,
-        "history": [
-          {
-            "at": "2026-10-07T05:03:59.677716+00:00",
-            "price": 399.29
-          },
-          {
-            "at": "2026-10-07T11:29:50.052526+00:00",
-            "price": 399.29
-          },
-          {
-            "at": "2026-10-07T17:46:13.069328+00:00",
-            "price": 399.29
-          },
-          {
-            "at": "2026-10-07T23:53:32.585197+00:00",
-            "price": 399.29
-          },
-          {
-            "at": "2026-10-08T06:08:39.697309+00:00",
-            "price": 399.29
-          },
-          {
-            "at": "2026-10-08T12:24:31.196519+00:00",
-            "price": 399.29
-          },
-          {
-            "at": "2026-10-08T18:33:49.590962+00:00",
-            "price": 399.29
-          },
-          {
-            "at": "2026-10-09T00:36:06.759872+00:00",
-            "price": 399.29
-          },
-          {
-            "at": "2026-10-13T10:50:42.198574+00:00",
-            "price": 399.29
-          },
-          {
-            "at": "2026-10-13T16:58:31.129076+00:00",
-            "price": 399.29
-          },
-          {
-            "at": "2026-10-13T23:09:32.421955+00:00",
-            "price": 399.29
-          },
-          {
-            "at": "2026-10-14T05:20:39.766317+00:00",
-            "price": 399.29
-          },
-          {
-            "at": "2026-10-14T11:21:52.252415+00:00",
-            "price": 399.29
-          },
-          {
-            "at": "2026-10-14T17:28:40.331338+00:00",
-            "price": 399.29
-          },
-          {
-            "at": "2026-10-14T23:35:20.519759+00:00",
-            "price": 399.29
-          },
-          {
-            "at": "2026-10-15T05:47:38.067982+00:00",
-            "price": 399.29
-          },
-          {
-            "at": "2026-10-15T11:57:28.766027+00:00",
-            "price": 399.29
-          },
-          {
-            "at": "2026-10-15T18:20:38.443598+00:00",
-            "price": 399.29
-          },
-          {
-            "at": "2026-10-16T00:24:06.368436+00:00",
-            "price": 399.29
-          },
-          {
-            "at": "2026-10-16T06:41:57.598819+00:00",
-            "price": 399.29
-          },
-          {
-            "at": "2026-10-16T12:42:34.391539+00:00",
-            "price": 399.29
-          },
-          {
-            "at": "2026-10-16T18:49:28.682041+00:00",
-            "price": 399.29
-          },
-          {
-            "at": "2026-10-17T00:55:10.744146+00:00",
-            "price": 399.29
-          },
-          {
-            "at": "2026-10-17T07:06:04.676982+00:00",
-            "price": 399.29
-          },
-          {
-            "at": "2026-10-17T17:30:30.618429+00:00",
-            "price": 399.29
-          },
-          {
-            "at": "2026-10-19T11:13:28.481821+00:00",
-            "price": 399.29
-          },
-          {
-            "at": "2026-10-19T17:14:16.196690+00:00",
-            "price": 399.29
-          },
-          {
-            "at": "2026-10-28T11:55:21.338481+00:00",
-            "price": 399.28
-          },
-          {
-            "at": "2026-10-28T18:01:11.597789+00:00",
-            "price": 399.28
-          },
-          {
-            "at": "2026-10-29T00:08:48.882329+00:00",
-            "price": 399.28
-          },
-          {
-            "at": "2026-10-29T06:19:47.805342+00:00",
-            "price": 399.28
-          },
-          {
-            "at": "2026-10-29T12:31:36.540073+00:00",
-            "price": 399.28
-          },
-          {
-            "at": "2026-10-29T18:37:35.480908+00:00",
-            "price": 399.28
-          },
-          {
-            "at": "2026-10-30T00:49:21.516865+00:00",
-            "price": 399.28
-          },
-          {
-            "at": "2026-10-30T06:55:34.938828+00:00",
-            "price": 399.28
-          },
-          {
-            "at": "2026-10-30T13:06:47.877479+00:00",
-            "price": 399.28
-          },
-          {
-            "at": "2026-10-30T19:07:15.295313+00:00",
-            "price": 399.28
-          },
-          {
-            "at": "2026-10-31T01:13:59.477407+00:00",
-            "price": 399.28
-          },
-          {
-            "at": "2026-10-31T07:14:59.336014+00:00",
-            "price": 399.28
-          },
-          {
-            "at": "2026-10-31T13:20:04.683711+00:00",
-            "price": 399.28
-          }
-        ],
-        "advantage": false,
-        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
-      },
-      "grupo": "Casa",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
-    },
-    {
       "source_id": "18199337362",
       "titulo": "Parafusadeira e Furadeira à Bateria 12V GSR 120-LI com 1 Bateria e Maleta BOSCH Bivolt",
       "de": null,
@@ -2578,6 +2424,212 @@
           {
             "at": "2026-10-31T12:29:29.329045+00:00",
             "price": 404.9
+          }
+        ],
+        "advantage": false,
+        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
+      },
+      "grupo": "Casa",
+      "cupom_no_telegram": false,
+      "cupom_telegram_url": null
+    },
+    {
+      "source_id": "23594959395",
+      "titulo": "Furadeira Parafusadeira de Impacto Bosch 48V – 2 Baterias Inclusas | Ferramenta Elétrica",
+      "de": null,
+      "por": 399.28,
+      "desconto": 55,
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lk-mo9dpk20zg1w51",
+      "link": "https://s.shopee.com.br/5VWTI0ic8A",
+      "cupom": null,
+      "loja": "shopee",
+      "categoria": "Smartphones",
+      "data": "2026-09-12T19:16:34.813595-03:00",
+      "slug": "furadeira-parafusadeira-de-impacto-bosch-48v-2-baterias-inclusas-ferramenta-eletrica",
+      "page_url": "https://promoninjaofertas.github.io/produto/furadeira-parafusadeira-de-impacto-bosch-48v-2-baterias-inclusas-ferramenta-eletrica.html",
+      "avaliacao": 4.8,
+      "avaliacoes": null,
+      "vendas": 131,
+      "nota_qualidade": 10,
+      "last_seen": "2026-10-31T15:11:18.076898+00:00",
+      "expires_at": "2026-11-01T12:11:18.076898-03:00",
+      "marca": "Bosch",
+      "price_evidence": {
+        "checked_at": "2026-10-31T15:13:58.975661+00:00",
+        "identity": {
+          "brand": "Bosch",
+          "model": null,
+          "family": "ferramentas",
+          "kind": "produto",
+          "variant": "48v|kit:1",
+          "ambiguous": false,
+          "comparison_key": null
+        },
+        "previous_min": 399.28,
+        "observed_min": 399.28,
+        "since": "2026-10-06T10:34:14.052961+00:00",
+        "observations": 43,
+        "days": 14,
+        "history": [
+          {
+            "at": "2026-10-07T05:03:59.677716+00:00",
+            "price": 399.29
+          },
+          {
+            "at": "2026-10-07T11:29:50.052526+00:00",
+            "price": 399.29
+          },
+          {
+            "at": "2026-10-07T17:46:13.069328+00:00",
+            "price": 399.29
+          },
+          {
+            "at": "2026-10-07T23:53:32.585197+00:00",
+            "price": 399.29
+          },
+          {
+            "at": "2026-10-08T06:08:39.697309+00:00",
+            "price": 399.29
+          },
+          {
+            "at": "2026-10-08T12:24:31.196519+00:00",
+            "price": 399.29
+          },
+          {
+            "at": "2026-10-08T18:33:49.590962+00:00",
+            "price": 399.29
+          },
+          {
+            "at": "2026-10-09T00:36:06.759872+00:00",
+            "price": 399.29
+          },
+          {
+            "at": "2026-10-13T10:50:42.198574+00:00",
+            "price": 399.29
+          },
+          {
+            "at": "2026-10-13T16:58:31.129076+00:00",
+            "price": 399.29
+          },
+          {
+            "at": "2026-10-13T23:09:32.421955+00:00",
+            "price": 399.29
+          },
+          {
+            "at": "2026-10-14T05:20:39.766317+00:00",
+            "price": 399.29
+          },
+          {
+            "at": "2026-10-14T11:21:52.252415+00:00",
+            "price": 399.29
+          },
+          {
+            "at": "2026-10-14T17:28:40.331338+00:00",
+            "price": 399.29
+          },
+          {
+            "at": "2026-10-14T23:35:20.519759+00:00",
+            "price": 399.29
+          },
+          {
+            "at": "2026-10-15T05:47:38.067982+00:00",
+            "price": 399.29
+          },
+          {
+            "at": "2026-10-15T11:57:28.766027+00:00",
+            "price": 399.29
+          },
+          {
+            "at": "2026-10-15T18:20:38.443598+00:00",
+            "price": 399.29
+          },
+          {
+            "at": "2026-10-16T00:24:06.368436+00:00",
+            "price": 399.29
+          },
+          {
+            "at": "2026-10-16T06:41:57.598819+00:00",
+            "price": 399.29
+          },
+          {
+            "at": "2026-10-16T12:42:34.391539+00:00",
+            "price": 399.29
+          },
+          {
+            "at": "2026-10-16T18:49:28.682041+00:00",
+            "price": 399.29
+          },
+          {
+            "at": "2026-10-17T00:55:10.744146+00:00",
+            "price": 399.29
+          },
+          {
+            "at": "2026-10-17T07:06:04.676982+00:00",
+            "price": 399.29
+          },
+          {
+            "at": "2026-10-17T17:30:30.618429+00:00",
+            "price": 399.29
+          },
+          {
+            "at": "2026-10-19T11:13:28.481821+00:00",
+            "price": 399.29
+          },
+          {
+            "at": "2026-10-19T17:14:16.196690+00:00",
+            "price": 399.29
+          },
+          {
+            "at": "2026-10-28T11:55:21.338481+00:00",
+            "price": 399.28
+          },
+          {
+            "at": "2026-10-28T18:01:11.597789+00:00",
+            "price": 399.28
+          },
+          {
+            "at": "2026-10-29T00:08:48.882329+00:00",
+            "price": 399.28
+          },
+          {
+            "at": "2026-10-29T06:19:47.805342+00:00",
+            "price": 399.28
+          },
+          {
+            "at": "2026-10-29T12:31:36.540073+00:00",
+            "price": 399.28
+          },
+          {
+            "at": "2026-10-29T18:37:35.480908+00:00",
+            "price": 399.28
+          },
+          {
+            "at": "2026-10-30T00:49:21.516865+00:00",
+            "price": 399.28
+          },
+          {
+            "at": "2026-10-30T06:55:34.938828+00:00",
+            "price": 399.28
+          },
+          {
+            "at": "2026-10-30T13:06:47.877479+00:00",
+            "price": 399.28
+          },
+          {
+            "at": "2026-10-30T19:07:15.295313+00:00",
+            "price": 399.28
+          },
+          {
+            "at": "2026-10-31T01:13:59.477407+00:00",
+            "price": 399.28
+          },
+          {
+            "at": "2026-10-31T07:14:59.336014+00:00",
+            "price": 399.28
+          },
+          {
+            "at": "2026-10-31T13:20:04.683711+00:00",
+            "price": 399.28
           }
         ],
         "advantage": false,
@@ -4608,7 +4660,7 @@
       "por": 114.99,
       "desconto": 40,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S4dc738d6efad46d9b7136854669ce5d7Y.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4k8cd8nOMFbIPZLIcjQFuikIGsxqQzWY1FkNw6FYk1pN4NoxnbiTWmGX1OleIqYmSCsjt0dvO7NoeO2MTp89GOazkcQ1YDHUkHKx3Fxv3YFxSH3rrYaducQFa2YDBOd6Va4ESRsQlzLUyaM9zlcTI4XUcYoZpDon60ENYLeRX3fxGPq5w7BqhKIW4JpKZyt0MUqdTqyCM7NoLaK1u4Kvt34Uumdclr7ePabNLB9yIuKXd0y1Xlb2LvzUwa9G83osyAXtpRLEUeQD2fW8jMZq4cBORY0agJxgvorxnWbfW5a0uZTRYZcYLWYBxzu23T6JPmKerzjEwRqLetYXOCQJ1Lq0fdhWcq61nFFvuy6WhyJLbztCLiwCllu3lnlB68eF9y8VFhQ72qdiWIKKoeQgJPp2irZLCWxVFSBMDLjAO5v7ukOp6z18aLrOHQIm0IrACbyZMADfnOW045F7HJvrnJgzo1vshPf0Wss2RQrQjJWQzYpEHM6OmRCHQglhPUcSkWpmJR8Fnw8vo8kRXWe2C2ian1zX4HdpUFwxip0HQxmcSxDo5yiU76XgmqcGCnb4Ho3YsPAYkYHE6ClNt1cZ52vJWrgxhWsA82xIuKV8aq8v6Gh4GbGf6pbzlwSLzwMZJP1ez0romsmWpa6p6TOieW4DNMtKS3EjPbIkNaVphl5Ip9PuP8z6yqVSWx0FrMC4N8Mf8b0eb1H4pU",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4k8cd8nOMFbIPZLIcjQFuikIGsxqQzWY1FkNw6FYk1pN4NoxnbiTWmGX1OleIqYmSCsjt0dvO7NoeO2MTp89GOazkcQ1YDHUkHKx3Fxv3YFxSH3rrYaducQFa2YDBOd6Va4ESRsQlzLUyaM9zlcTI4XUcYoZpDon60ENYLeRX3fxGPq5w7BqhKIW4JpKZyt0MUqdTqyCM7NoLaK1u4Kvt34Uumdclr7ePabNLBAun95TDSLxysjWcEpjKVpl0AboAayzsNIreDE7mkasSjinPHRmGAfHtcpsA20KxW1M0aKSilQPbqsoWbDAMfNkORbxLYnhsvmtjLIeKJV8unKyRptwQ5uhAoYgRjdbJPqxfQx3amVg7f5HzSBHQJ491sOwGDquTCgPtcGr0CFany6nHpadGxwLI5uaHzoQciv8rR6eMxMl3HqH3VsxEjbhKWAkEfVA1TgPX8qHhzAM2DQOjEGKBYWGcq6UGb364ngOuiPjcAUQCtCrHCmGu0fvrmLwPWDvSRUARSqNGLTPsafaqmzN5qgA07TsARK2pUprbKaZL0aG7mP7sVswqgF50TXXfdeBQ0cz3JjlAV7byse5q7c0EhBWGW7xpsMP4PzdL5UMvP0zLivcFZljOKYlVdNuR8LH7QvBJuXrLxGt2pp5wfieUcjfZiD6HiegkY2I5kDsbsoEsGKkj0xkzOeqRz625nASD8UXF1hhj4",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Moda",
@@ -4619,34 +4671,8 @@
       "avaliacoes": null,
       "vendas": 658,
       "nota_qualidade": 7,
-      "last_seen": "2026-10-31T15:38:29.204807+00:00",
-      "expires_at": "2026-11-01T12:38:29.204807-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Tech",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
-    },
-    {
-      "source_id": "1005010615674255",
-      "titulo": "Original sony sp180 fones de ouvido sem fio tws com microfone esportes clipe de orelha fones de ouvido estéreo display led",
-      "de": 172.98,
-      "por": 103.79,
-      "desconto": 39,
-      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sc8d75a047fbe47b9b19a6e0153a0f73fe.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4FecbGAXooSK8ICpajtx6FtqAI8h0WxA9WKOsZtWF7id4HRxTwZH1szi2KqCAiwSxR5qZeXhWmqNDUqwwUxqME87Z6EZxbw9mYaNXcGutZ9iL0gm56InzAkmwCVbeYFcnmljU01rf28DtcgYs1IGAnm6Q3KKBhXkpeURxwH8pB4JXCxqRysWM6GazQiCr6vi3SHQ5883aRCKEZWeO6kQn9WCJLCjzwSYp8jLVCby2t42mPKTAlVktHQqeI9RB0eb1taG5AE70QjFNnnT3j17U3ZRCn7VXKLWiz8xHZNCSbIfZcZePneOTv23DoCtA8T84gztyRICpxZ90p2kbBNP68CW2LB4wzH5JUf31hHdige2W0iaSzQjcjmKIUOElTCQNFZBb7Cgfnto9G0yR37WkwQjnehBD1Edk9HsDRo8Y85TJbjMVCH2yAXIt5iyyAmlJjPBqt4799Pg2ah3dn9D2QIkkuoUAufQWxELM0zYDnV7tEm9dKjL1CIOq0o7Z8b3SmI5WjnMPwOFo1u87mq92xLvy2grI7gnRSB7inM6srOWntzIwCQ9svdjPpnct9PWDgBxJhyE9oOzM75PaEgXsN18Yrt3iza80DF7x0MVtbuB9v2t1eKAszEJMfXKemQHipFQ7OjAHibqmyHN0XpLNwLX913V35941LpyTPsioAijQtgqroqVRHZjzeLozcS0jsZMeKEH8STImD",
-      "cupom": null,
-      "loja": "aliexpress",
-      "categoria": "Audio",
-      "data": "2026-08-31T19:03:54.087698-03:00",
-      "slug": "original-sony-sp180-fones-de-ouvido-sem-fio-tws-com-microfone-esportes-clipe-de",
-      "page_url": "https://promoninjaofertas.github.io/produto/original-sony-sp180-fones-de-ouvido-sem-fio-tws-com-microfone-esportes-clipe-de.html",
-      "avaliacao": 4.415,
-      "avaliacoes": null,
-      "vendas": 1420,
-      "nota_qualidade": 7,
-      "last_seen": "2026-10-31T09:29:22.774466+00:00",
-      "expires_at": "2026-11-01T06:29:22.774466-03:00",
+      "last_seen": "2026-10-31T15:50:29.479687+00:00",
+      "expires_at": "2026-11-01T12:50:29.479687-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech",
@@ -4673,6 +4699,32 @@
       "nota_qualidade": 8,
       "last_seen": "2026-10-31T09:42:04.781086+00:00",
       "expires_at": "2026-11-01T06:42:04.781086-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Tech",
+      "cupom_no_telegram": false,
+      "cupom_telegram_url": null
+    },
+    {
+      "source_id": "1005010615674255",
+      "titulo": "Original sony sp180 fones de ouvido sem fio tws com microfone esportes clipe de orelha fones de ouvido estéreo display led",
+      "de": 172.98,
+      "por": 103.79,
+      "desconto": 39,
+      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sc8d75a047fbe47b9b19a6e0153a0f73fe.jpg",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4FecbGAXooSK8ICpajtx6FtqAI8h0WxA9WKOsZtWF7id4HRxTwZH1szi2KqCAiwSxR5qZeXhWmqNDUqwwUxqME87Z6EZxbw9mYaNXcGutZ9iL0gm56InzAkmwCVbeYFcnmljU01rf28DtcgYs1IGAnm6Q3KKBhXkpeURxwH8pB4JXCxqRysWM6GazQiCr6vi3SHQ5883aRCKEZWeO6kQn9WCJLCjzwSYp8jLVCby2t42mPKTAlVktHQqeI9RB0eb1taG5AE70QjFNnnT3j17U3ZRCn7VXKLWiz8xHZNCSbIfZcZePneOTv23DoCtA8T84gztyRICpxZ90p2kbBNP68CW2LB4wzH5JUf31hHdige2W0iaSzQjcjmKIUOElTCQNFZBb7Cgfnto9G0yR37WkwQjnehBD1Edk9HsDRo8Y85TJbjMVCH2yAXIt5iyyAmlJjPBqt4799Pg2ah3dn9D2QIkkuoUAufQWxELM0zYDnV7tEm9dKjL1CIOq0o7Z8b3SmI5WjnMPwOFo1u87mq92xLvy2grI7gnRSB7inM6srOWntzIwCQ9svdjPpnct9PWDgBxJhyE9oOzM75PaEgXsN18Yrt3iza80DF7x0MVtbuB9v2t1eKAszEJMfXKemQHipFQ7OjAHibqmyHN0XpLNwLX913V35941LpyTPsioAijQtgqroqVRHZjzeLozcS0jsZMeKEH8STImD",
+      "cupom": null,
+      "loja": "aliexpress",
+      "categoria": "Audio",
+      "data": "2026-08-31T19:03:54.087698-03:00",
+      "slug": "original-sony-sp180-fones-de-ouvido-sem-fio-tws-com-microfone-esportes-clipe-de",
+      "page_url": "https://promoninjaofertas.github.io/produto/original-sony-sp180-fones-de-ouvido-sem-fio-tws-com-microfone-esportes-clipe-de.html",
+      "avaliacao": 4.415,
+      "avaliacoes": null,
+      "vendas": 1420,
+      "nota_qualidade": 7,
+      "last_seen": "2026-10-31T09:29:22.774466+00:00",
+      "expires_at": "2026-11-01T06:29:22.774466-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech",
@@ -4738,7 +4790,7 @@
       "por": 235.99,
       "desconto": 50,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sa0b1cacce05a415783672dc1f2dfdf2ef.png",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4oCrS4i4Bjmx2hTVp3QE9Rre7Mr1NgUcbLKKuBbRd9NiEKJP3ieZy0U25ace4qGZlQLVjgdcM9MG71BgQ8o8xZOoWkGqb8JYjlSuJafLGUyC8BDvCP72PUOcyHFNPZVtvdepnfPaThUx4092eqXtJQWEI50RnTGxZ8u5tsicyh1eIipu7dEY5t9kpacHMBC63NzJBTOdWt80NU2HKj3EbFtIMPQ3NCDGTRxzerDvJAsllW28eEaojXcqGkZ68c7kE4DhZoArrpork2zbBkDBGN0TIZ9lG8WaTb0s98P0L2ZodlXSj7ojmpZT4wIwojHFr3VK8gl9kzjuCWocijsfRn97eVkrTdWyO6gzY07oSeF8lS8O3sqIWy7Lnt16j5KdgFjS8kuC1OIDSmCcxw2eroaRs9NlNN9q1RVOLGx32Ae3CY2ATbiGgniHpn9iuRykAQDQjeyNCoLxMtyH2WeQbN7FICuaP2203p6nuRJWz4BjSqHGEzSyuuLHlnxOKk6InFtN1Ta1ZKIN8jJIxVu3BvE5LjGUGO1yHzFtAGGw2w7c90YuAKPp7IuyeI2ab3qnnKWlYoULMofWgsPTdRw42p5dSj8GuPeEYrTRYMYiaRDwHHbE4tZggRLugyEx6Ue65zq353bgClV2qhE0GJ9DX6QOCco9Eib878S9V5vMVgfB5tiszmJN74jLu2r0bSVNubZcrM3kl4GUbJ",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4oCrS4i4Bjmx2hTVp3QE9Rre7Mr1NgUcbLKKuBbRd9NiEKJP3ieZy0U25ace4qGZlQLVjgdcM9MG71BgQ8o8xZOoWkGqb8JYjlSuJafLGUyC8BDvCP72PUOcyHFNPZVtvdepnfPaThUx4092eqXtJQWEI50RnTGxZ8u5tsicyh1eIipu7dEY5t9kpacHMBC63NzJBTOdWt80NU2HKj3EbFtIMPQ3NCDGTRxzerDXGQCTVqk69eGMHG3HL6kMzEurz84a1pETt9xkJw5cIn0TsRYM6xT3tOkEwMWk0uEvVrpTZ6h2TnnJrTDjkActDRY3auutSlXx4EM8xowMK2ZoKvfT8H1sMbC7AsLn8uUwj43LyLP1HRWmzBej8hPIbrb4uC7OJLcDketnlug90UorOdfyqjH3GGtzAlilYm5Ojz5Ape4ookxkuL9rS68H6OazP7Ql46pJGxzNxgYNePoAflQTTEh9BDEtizk9a3h43TkuWMepMqup8dwRQcEhhK6ZIEmeVk6hxL2l1ApXn6EoAAlWNYklaKk75yJivqrOGamewfhv48GFPWeeAQM61k9qdpHv1Js4zVFxraKrvHK7YPbgrIBlUOh3lnrxiubSgVvSGF71LKajo14vQmS7KHSkalU6MR8yz7jIQhjPsuUQIdm2QTnDfp1MpFei8qzPs9W4pyJUJQa2C2nfLLSJCERF9uwWBVS0c2Z8sZ",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Hardware",
@@ -4749,8 +4801,8 @@
       "avaliacoes": null,
       "vendas": 2187,
       "nota_qualidade": 7,
-      "last_seen": "2026-10-31T15:38:29.204807+00:00",
-      "expires_at": "2026-11-01T12:38:29.204807-03:00",
+      "last_seen": "2026-10-31T15:50:29.479687+00:00",
+      "expires_at": "2026-11-01T12:50:29.479687-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech",
