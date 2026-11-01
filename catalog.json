@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-11-01T16:26:37.999028+00:00",
+  "atualizado": "2026-11-01T16:38:35.618736+00:00",
   "ofertas": [
     {
       "source_id": "pechinchou-156159",
@@ -19,11 +19,63 @@
       "avaliacoes": 1,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-11-01T16:26:37.999028+00:00",
-      "expires_at": "2026-11-02T13:26:37.999028-03:00",
+      "last_seen": "2026-11-01T16:38:35.618736+00:00",
+      "expires_at": "2026-11-02T13:38:35.618736-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
+      "cupom_no_telegram": true,
+      "cupom_telegram_url": "https://t.me/promoninjaofertas"
+    },
+    {
+      "source_id": "pechinchou-155868",
+      "titulo": "Kemei Maquina Km 2299 Profissional Cor Black",
+      "de": 89.9,
+      "por": 66.72,
+      "desconto": 26,
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_968734-MLA101181433884_122025-P.webp",
+      "link": "https://meli.la/2sTsbMr",
+      "cupom": null,
+      "loja": "mercadolivre",
+      "categoria": "Saúde",
+      "data": "2026-10-23T08:54:07.973430-03:00",
+      "slug": "kemei-maquina-km-2299-profissional-cor-black",
+      "page_url": "https://promoninjaofertas.github.io/produto/kemei-maquina-km-2299-profissional-cor-black.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": null,
+      "nota_qualidade": 6,
+      "last_seen": "2026-11-01T16:38:35.618736+00:00",
+      "expires_at": "2026-11-02T13:38:35.618736-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Outros",
+      "cupom_no_telegram": false,
+      "cupom_telegram_url": null
+    },
+    {
+      "source_id": "pechinchou-155592",
+      "titulo": "Relógio Masculino Clássico Couro Unissex Original Lançamento",
+      "de": 39.9,
+      "por": 29.77,
+      "desconto": 25,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/external-image_AvtiFRo.webp",
+      "link": "https://meli.la/1g9oTDZ",
+      "cupom": "OFFAQUI",
+      "loja": "mercadolivre",
+      "categoria": "Beleza",
+      "data": "2026-10-21T19:51:38.985878-03:00",
+      "slug": "relogio-masculino-classico-couro-unissex-original-lancamento",
+      "page_url": "https://promoninjaofertas.github.io/produto/relogio-masculino-classico-couro-unissex-original-lancamento.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": null,
+      "nota_qualidade": 6,
+      "last_seen": "2026-11-01T16:38:35.618736+00:00",
+      "expires_at": "2026-11-02T13:38:35.618736-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Moda",
       "cupom_no_telegram": true,
       "cupom_telegram_url": "https://t.me/promoninjaofertas"
     },
@@ -45,8 +97,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-11-01T16:26:37.999028+00:00",
-      "expires_at": "2026-11-02T13:26:37.999028-03:00",
+      "last_seen": "2026-11-01T16:38:35.618736+00:00",
+      "expires_at": "2026-11-02T13:38:35.618736-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
@@ -71,13 +123,39 @@
       "avaliacoes": 6,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-11-01T16:26:37.999028+00:00",
-      "expires_at": "2026-11-02T13:26:37.999028-03:00",
+      "last_seen": "2026-11-01T16:38:35.618736+00:00",
+      "expires_at": "2026-11-02T13:38:35.618736-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
       "cupom_no_telegram": false,
       "cupom_telegram_url": null
+    },
+    {
+      "source_id": "pechinchou-154841",
+      "titulo": "Kit 3 Regatas Femininas Caneladas Algodão Premium",
+      "de": 39.9,
+      "por": 33.31,
+      "desconto": 17,
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_640917-MLB116375387588_092026-P.webp",
+      "link": "https://meli.la/2LigBAH",
+      "cupom": "PROMOVALE",
+      "loja": "mercadolivre",
+      "categoria": "Beleza",
+      "data": "2026-10-14T19:24:00.215306-03:00",
+      "slug": "kit-3-regatas-femininas-caneladas-algodao-premium",
+      "page_url": "https://promoninjaofertas.github.io/produto/kit-3-regatas-femininas-caneladas-algodao-premium.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": null,
+      "nota_qualidade": 6,
+      "last_seen": "2026-11-01T16:38:35.618736+00:00",
+      "expires_at": "2026-11-02T13:38:35.618736-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Moda",
+      "cupom_no_telegram": true,
+      "cupom_telegram_url": "https://t.me/promoninjaofertas"
     },
     {
       "source_id": "pechinchou-145626",
@@ -97,8 +175,8 @@
       "avaliacoes": 6,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-11-01T16:26:37.999028+00:00",
-      "expires_at": "2026-11-02T13:26:37.999028-03:00",
+      "last_seen": "2026-11-01T16:38:35.618736+00:00",
+      "expires_at": "2026-11-02T13:38:35.618736-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
@@ -123,37 +201,11 @@
       "avaliacoes": 1,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-11-01T16:26:37.999028+00:00",
-      "expires_at": "2026-11-02T13:26:37.999028-03:00",
+      "last_seen": "2026-11-01T16:38:35.618736+00:00",
+      "expires_at": "2026-11-02T13:38:35.618736-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
-    },
-    {
-      "source_id": "pechinchou-138780",
-      "titulo": "Perfume Night Caviar Paris Elysees Masculino Intense 100ml",
-      "de": 99.9,
-      "por": 78.8,
-      "desconto": 21,
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_822166-MLA107834701676_032026-P.webp",
-      "link": "https://meli.la/1jovqvD",
-      "cupom": null,
-      "loja": "mercadolivre",
-      "categoria": "Beleza",
-      "data": "2026-10-05T12:03:41.919423-03:00",
-      "slug": "perfume-night-caviar-paris-elysees-masculino-intense-100ml",
-      "page_url": "https://promoninjaofertas.github.io/produto/perfume-night-caviar-paris-elysees-masculino-intense-100ml.html",
-      "avaliacao": null,
-      "avaliacoes": null,
-      "vendas": null,
-      "nota_qualidade": 5,
-      "last_seen": "2026-11-01T16:26:37.999028+00:00",
-      "expires_at": "2026-11-02T13:26:37.999028-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Moda",
       "cupom_no_telegram": false,
       "cupom_telegram_url": null
     },
@@ -175,8 +227,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-11-01T16:26:37.999028+00:00",
-      "expires_at": "2026-11-02T13:26:37.999028-03:00",
+      "last_seen": "2026-11-01T16:38:35.618736+00:00",
+      "expires_at": "2026-11-02T13:38:35.618736-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
@@ -201,8 +253,8 @@
       "avaliacoes": 3,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-11-01T16:26:37.999028+00:00",
-      "expires_at": "2026-11-02T13:26:37.999028-03:00",
+      "last_seen": "2026-11-01T16:38:35.618736+00:00",
+      "expires_at": "2026-11-02T13:38:35.618736-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
@@ -227,8 +279,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 7,
-      "last_seen": "2026-11-01T16:26:37.999028+00:00",
-      "expires_at": "2026-11-02T13:26:37.999028-03:00",
+      "last_seen": "2026-11-01T16:38:35.618736+00:00",
+      "expires_at": "2026-11-02T13:38:35.618736-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
@@ -251,39 +303,13 @@
       "page_url": "https://promoninjaofertas.github.io/produto/torneira-cozinha-gourmet-bancada-flexivel-monocomando-pia-prateado-b22-silvery.html",
       "avaliacao": null,
       "avaliacoes": 10,
-      "vendas": 500,
+      "vendas": 544,
       "nota_qualidade": 6,
-      "last_seen": "2026-11-01T16:26:37.999028+00:00",
-      "expires_at": "2026-11-02T13:26:37.999028-03:00",
+      "last_seen": "2026-11-01T16:38:35.618736+00:00",
+      "expires_at": "2026-11-02T13:38:35.618736-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
-      "cupom_no_telegram": true,
-      "cupom_telegram_url": "https://t.me/promoninjaofertas"
-    },
-    {
-      "source_id": "pechinchou-146871",
-      "titulo": "Massageador Pistola Elétrica Profissional Muscular Portátil",
-      "de": 29.9,
-      "por": 20.0,
-      "desconto": 33,
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_677051-MLA109453947738_042026-P.webp",
-      "link": "https://meli.la/2SQLrSJ",
-      "cupom": "MELITEMCUPOM",
-      "loja": "mercadolivre",
-      "categoria": "Saúde",
-      "data": "2026-08-17T09:37:00.294518-03:00",
-      "slug": "massageador-pistola-eletrica-profissional-muscular-portatil",
-      "page_url": "https://promoninjaofertas.github.io/produto/massageador-pistola-eletrica-profissional-muscular-portatil.html",
-      "avaliacao": null,
-      "avaliacoes": null,
-      "vendas": null,
-      "nota_qualidade": 6,
-      "last_seen": "2026-11-01T16:26:37.999028+00:00",
-      "expires_at": "2026-11-02T13:26:37.999028-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Outros",
       "cupom_no_telegram": true,
       "cupom_telegram_url": "https://t.me/promoninjaofertas"
     },
@@ -305,8 +331,34 @@
       "avaliacoes": 1,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-11-01T16:26:37.999028+00:00",
-      "expires_at": "2026-11-02T13:26:37.999028-03:00",
+      "last_seen": "2026-11-01T16:38:35.618736+00:00",
+      "expires_at": "2026-11-02T13:38:35.618736-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Moda",
+      "cupom_no_telegram": false,
+      "cupom_telegram_url": null
+    },
+    {
+      "source_id": "pechinchou-38255",
+      "titulo": "Natura Essencial Exclusivo Eau De Parfum Masculino 100 Ml",
+      "de": 149.9,
+      "por": 119.8,
+      "desconto": 20,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/D_NQ_NP_718083-MLB91018075623_082025-O_XBU5r8V.webp",
+      "link": "https://meli.la/2ZCPvDC",
+      "cupom": null,
+      "loja": "mercadolivre",
+      "categoria": "Beleza",
+      "data": "2026-07-15T14:53:21.372345-03:00",
+      "slug": "natura-essencial-exclusivo-eau-de-parfum-masculino-100-ml",
+      "page_url": "https://promoninjaofertas.github.io/produto/natura-essencial-exclusivo-eau-de-parfum-masculino-100-ml.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": null,
+      "nota_qualidade": 7,
+      "last_seen": "2026-11-01T16:38:35.618736+00:00",
+      "expires_at": "2026-11-02T13:38:35.618736-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
@@ -331,37 +383,11 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-11-01T16:26:37.999028+00:00",
-      "expires_at": "2026-11-02T13:26:37.999028-03:00",
+      "last_seen": "2026-11-01T16:38:35.618736+00:00",
+      "expires_at": "2026-11-02T13:38:35.618736-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
-    },
-    {
-      "source_id": "3160271",
-      "titulo": "Relógio de Pulso Unissex Casio Vintage Digital A158WA-1DF | Pulseira de Aço Inoxidável Prateado Resistência à águ",
-      "de": 198.8,
-      "por": 152.94,
-      "desconto": 23,
-      "imagem": "https://m.media-amazon.com/images/I/719bhXz4vvL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B000GAYQJ0?tag=promoninja0b2-20",
-      "cupom": null,
-      "loja": "amazon",
-      "categoria": "Relógios e Jóias",
-      "data": "2026-10-31T15:33:58.493405-03:00",
-      "slug": "relogio-de-pulso-unissex-casio-vintage-digital-a158wa-1df-pulseira-de-aco-inoxidavel-p",
-      "page_url": "https://promoninjaofertas.github.io/produto/relogio-de-pulso-unissex-casio-vintage-digital-a158wa-1df-pulseira-de-aco-inoxidavel-p.html",
-      "avaliacao": null,
-      "avaliacoes": 1,
-      "vendas": 0,
-      "nota_qualidade": 5,
-      "last_seen": "2026-10-31T18:33:58.493405+00:00",
-      "expires_at": "2026-11-01T15:33:58.493405-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Moda",
       "cupom_no_telegram": false,
       "cupom_telegram_url": null
     },
@@ -392,6 +418,58 @@
       "cupom_telegram_url": "https://t.me/promoninjaofertas"
     },
     {
+      "source_id": "3160271",
+      "titulo": "Relógio de Pulso Unissex Casio Vintage Digital A158WA-1DF | Pulseira de Aço Inoxidável Prateado Resistência à águ",
+      "de": 198.8,
+      "por": 152.94,
+      "desconto": 23,
+      "imagem": "https://m.media-amazon.com/images/I/719bhXz4vvL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B000GAYQJ0?tag=promoninja0b2-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Relógios e Jóias",
+      "data": "2026-10-31T15:33:58.493405-03:00",
+      "slug": "relogio-de-pulso-unissex-casio-vintage-digital-a158wa-1df-pulseira-de-aco-inoxidavel-p",
+      "page_url": "https://promoninjaofertas.github.io/produto/relogio-de-pulso-unissex-casio-vintage-digital-a158wa-1df-pulseira-de-aco-inoxidavel-p.html",
+      "avaliacao": null,
+      "avaliacoes": 1,
+      "vendas": 0,
+      "nota_qualidade": 5,
+      "last_seen": "2026-10-31T18:33:58.493405+00:00",
+      "expires_at": "2026-11-01T15:33:58.493405-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Moda",
+      "cupom_no_telegram": false,
+      "cupom_telegram_url": null
+    },
+    {
+      "source_id": "pechinchou-142793",
+      "titulo": "Complemento Alimentar Sustagen N&E Adultos+, Sabor Baunilha, 400g",
+      "de": 77.22,
+      "por": 48.88,
+      "desconto": 37,
+      "imagem": "https://m.media-amazon.com/images/I/71ZjHPxwIFL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B07G3SXBTT?tag=promoninja0b2-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Esporte e Lazer",
+      "data": "2026-10-28T21:20:43.874573-03:00",
+      "slug": "complemento-alimentar-sustagen-n-e-adultos-sabor-baunilha-400g",
+      "page_url": "https://promoninjaofertas.github.io/produto/complemento-alimentar-sustagen-n-e-adultos-sabor-baunilha-400g.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": null,
+      "nota_qualidade": 6,
+      "last_seen": "2026-11-01T16:38:35.618736+00:00",
+      "expires_at": "2026-11-02T13:38:35.618736-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Outros",
+      "cupom_no_telegram": false,
+      "cupom_telegram_url": null
+    },
+    {
       "source_id": "pechinchou-136183",
       "titulo": "Ar Condicionado Split Hi Wall Inverter Hitachi Airhome 600 Frio 12.000 Btus 220v R-32",
       "de": 1999.0,
@@ -409,8 +487,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-11-01T16:26:37.999028+00:00",
-      "expires_at": "2026-11-02T13:26:37.999028-03:00",
+      "last_seen": "2026-11-01T16:38:35.618736+00:00",
+      "expires_at": "2026-11-02T13:38:35.618736-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -418,51 +496,25 @@
       "cupom_telegram_url": null
     },
     {
-      "source_id": "pechinchou-142621",
-      "titulo": "Armani Beauty, Acqua Di Giò Profondo Eau De Parfum, Giorgio Armani, Perfume Masculino, Fragrância Aquática Amadeirada Com Notas De Lavanda, Patchouli, Alecrim E Mandarina Verde",
-      "de": 539.9,
-      "por": 449.99,
-      "desconto": 17,
-      "imagem": "https://m.media-amazon.com/images/I/61fKh-oeV9L._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0DBRBDSR1?tag=promoninja0b2-20",
+      "source_id": "pechinchou-83327",
+      "titulo": "L'Oréal Paris Elseve Óleo Extraordinário Creme de Tratamento para Nutrição Intensa de Cabelos Secos, com Micro-Óleos de Flores Preciosas para Maciez e Brilho 300g",
+      "de": 37.9,
+      "por": 26.99,
+      "desconto": 29,
+      "imagem": "https://m.media-amazon.com/images/I/715M+mgR5ZL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B07DKKQ1TN?tag=promoninja0b2-20",
       "cupom": null,
       "loja": "amazon",
-      "categoria": "Beleza",
-      "data": "2026-10-20T13:42:08.112514-03:00",
-      "slug": "armani-beauty-acqua-di-gio-profondo-eau-de-parfum-giorgio-armani-perfume-masculino-fra",
-      "page_url": "https://promoninjaofertas.github.io/produto/armani-beauty-acqua-di-gio-profondo-eau-de-parfum-giorgio-armani-perfume-masculino-fra.html",
+      "categoria": "Saúde",
+      "data": "2026-10-14T21:59:55.595630-03:00",
+      "slug": "l-oreal-paris-elseve-oleo-extraordinario-creme-de-tratamento-para-nutricao-intensa-de",
+      "page_url": "https://promoninjaofertas.github.io/produto/l-oreal-paris-elseve-oleo-extraordinario-creme-de-tratamento-para-nutricao-intensa-de.html",
       "avaliacao": null,
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-11-01T16:26:37.999028+00:00",
-      "expires_at": "2026-11-02T13:26:37.999028-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Moda",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
-    },
-    {
-      "source_id": "pechinchou-7647",
-      "titulo": "Protetor Solar Corporal Em Loção Neutrogena Sun Fresh, Fps 50, 200ml",
-      "de": 69.9,
-      "por": 54.99,
-      "desconto": 21,
-      "imagem": "https://m.media-amazon.com/images/I/517yDtlJjhL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B079ZS4Z5Z?tag=promoninja0b2-20",
-      "cupom": null,
-      "loja": "amazon",
-      "categoria": "Beleza",
-      "data": "2026-10-15T09:24:26.083199-03:00",
-      "slug": "protetor-solar-corporal-em-locao-neutrogena-sun-fresh-fps-50-200ml",
-      "page_url": "https://promoninjaofertas.github.io/produto/protetor-solar-corporal-em-locao-neutrogena-sun-fresh-fps-50-200ml.html",
-      "avaliacao": null,
-      "avaliacoes": null,
-      "vendas": null,
-      "nota_qualidade": 7,
-      "last_seen": "2026-11-01T16:26:37.999028+00:00",
-      "expires_at": "2026-11-02T13:26:37.999028-03:00",
+      "last_seen": "2026-11-01T16:38:35.618736+00:00",
+      "expires_at": "2026-11-02T13:38:35.618736-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -487,8 +539,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-11-01T16:26:37.999028+00:00",
-      "expires_at": "2026-11-02T13:26:37.999028-03:00",
+      "last_seen": "2026-11-01T16:38:35.618736+00:00",
+      "expires_at": "2026-11-02T13:38:35.618736-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -496,132 +548,28 @@
       "cupom_telegram_url": null
     },
     {
-      "source_id": "pechinchou-87629",
-      "titulo": "Rapunzel Máscara De Tratamento 450g , Lola Cosmetics",
-      "de": 64.9,
-      "por": 32.72,
-      "desconto": 50,
-      "imagem": "https://m.media-amazon.com/images/I/71uNnMg1TkL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0C4QPGK3L?tag=promoninja0b2-20",
+      "source_id": "pechinchou-133017",
+      "titulo": "INSMEER Bolsa Térmica 48L Grande, Impermeável, Cooler para Marmita, Caixa Térmica com Alça Desmontável - Ideal para Praia, Acampamento",
+      "de": 219.99,
+      "por": 132.0,
+      "desconto": 40,
+      "imagem": "https://m.media-amazon.com/images/I/8171DhFZplL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B09D2ZJD3C?tag=promoninja0b2-20",
       "cupom": null,
       "loja": "amazon",
-      "categoria": "Saúde",
-      "data": "2026-09-30T18:43:47.592576-03:00",
-      "slug": "rapunzel-mascara-de-tratamento-450g-lola-cosmetics",
-      "page_url": "https://promoninjaofertas.github.io/produto/rapunzel-mascara-de-tratamento-450g-lola-cosmetics.html",
-      "avaliacao": null,
-      "avaliacoes": 4,
-      "vendas": null,
-      "nota_qualidade": 5,
-      "last_seen": "2026-11-01T16:26:37.999028+00:00",
-      "expires_at": "2026-11-02T13:26:37.999028-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Outros",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
-    },
-    {
-      "source_id": "pechinchou-67170",
-      "titulo": "Vichy Dercos Energy+ Shampoo Antiqueda Estimulante Refil, 200g",
-      "de": 79.9,
-      "por": 61.65,
-      "desconto": 23,
-      "imagem": "https://m.media-amazon.com/images/I/510kJxbATiL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0C3SM52XX?tag=promoninja0b2-20",
-      "cupom": null,
-      "loja": "amazon",
-      "categoria": "Saúde",
-      "data": "2026-09-28T22:24:34.891232-03:00",
-      "slug": "vichy-dercos-energy-shampoo-antiqueda-estimulante-refil-200g",
-      "page_url": "https://promoninjaofertas.github.io/produto/vichy-dercos-energy-shampoo-antiqueda-estimulante-refil-200g.html",
-      "avaliacao": null,
-      "avaliacoes": null,
-      "vendas": null,
-      "nota_qualidade": 5,
-      "last_seen": "2026-11-01T16:26:37.999028+00:00",
-      "expires_at": "2026-11-02T13:26:37.999028-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Outros",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
-    },
-    {
-      "source_id": "pechinchou-31081",
-      "titulo": "Electrolux Kit 8 Potes Herméticos Plástico Multiuso Vedação Silicone",
-      "de": 79.9,
-      "por": 58.81,
-      "desconto": 26,
-      "imagem": "https://m.media-amazon.com/images/I/51wgNlpJxjL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B09XJK1XS1?tag=promoninja0b2-20",
-      "cupom": null,
-      "loja": "amazon",
-      "categoria": "Casa",
-      "data": "2026-09-19T00:51:42.391050-03:00",
-      "slug": "electrolux-kit-8-potes-hermeticos-plastico-multiuso-vedacao-silicone",
-      "page_url": "https://promoninjaofertas.github.io/produto/electrolux-kit-8-potes-hermeticos-plastico-multiuso-vedacao-silicone.html",
-      "avaliacao": null,
-      "avaliacoes": 10,
-      "vendas": null,
-      "nota_qualidade": 7,
-      "last_seen": "2026-11-01T16:26:37.999028+00:00",
-      "expires_at": "2026-11-02T13:26:37.999028-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Casa",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
-    },
-    {
-      "source_id": "pechinchou-129265",
-      "titulo": "Leite Em Pó Ninho Integral Sachê 975g",
-      "de": 59.9,
-      "por": 44.49,
-      "desconto": 26,
-      "imagem": "https://m.media-amazon.com/images/I/71orf0hL8lL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0CY2W48ZK?tag=promoninja0b2-20",
-      "cupom": null,
-      "loja": "amazon",
-      "categoria": "Supermercado",
-      "data": "2026-09-14T08:46:22.805703-03:00",
-      "slug": "leite-em-po-ninho-integral-sache-975g",
-      "page_url": "https://promoninjaofertas.github.io/produto/leite-em-po-ninho-integral-sache-975g.html",
+      "categoria": "Hardware",
+      "data": "2026-10-08T01:15:37.373035-03:00",
+      "slug": "insmeer-bolsa-termica-48l-grande-impermeavel-cooler-para-marmita-caixa-termica-com-alc",
+      "page_url": "https://promoninjaofertas.github.io/produto/insmeer-bolsa-termica-48l-grande-impermeavel-cooler-para-marmita-caixa-termica-com-alc.html",
       "avaliacao": null,
       "avaliacoes": 1,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-11-01T16:26:37.999028+00:00",
-      "expires_at": "2026-11-02T13:26:37.999028-03:00",
+      "last_seen": "2026-11-01T16:38:35.618736+00:00",
+      "expires_at": "2026-11-02T13:38:35.618736-03:00",
       "marca": null,
       "price_evidence": {},
-      "grupo": "Outros",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
-    },
-    {
-      "source_id": "pechinchou-83434",
-      "titulo": "Protetor Solar Facial Neutrogena Sun Fresh Derm Care, Sem Cor, Fps 70, 40g",
-      "de": 69.9,
-      "por": 54.99,
-      "desconto": 21,
-      "imagem": "https://m.media-amazon.com/images/I/4172WubM1kL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B08NVMP2YZ?tag=promoninja0b2-20",
-      "cupom": null,
-      "loja": "amazon",
-      "categoria": "Beleza",
-      "data": "2026-07-10T19:38:13.578485-03:00",
-      "slug": "protetor-solar-facial-neutrogena-sun-fresh-derm-care-sem-cor-fps-70-40g",
-      "page_url": "https://promoninjaofertas.github.io/produto/protetor-solar-facial-neutrogena-sun-fresh-derm-care-sem-cor-fps-70-40g.html",
-      "avaliacao": null,
-      "avaliacoes": null,
-      "vendas": null,
-      "nota_qualidade": 7,
-      "last_seen": "2026-11-01T16:26:37.999028+00:00",
-      "expires_at": "2026-11-02T13:26:37.999028-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Outros",
+      "grupo": "Moda",
       "cupom_no_telegram": false,
       "cupom_telegram_url": null
     },
@@ -1055,11 +1003,11 @@
       "avaliacoes": null,
       "vendas": 107,
       "nota_qualidade": 10,
-      "last_seen": "2026-11-01T15:37:43.687463+00:00",
-      "expires_at": "2026-11-02T12:37:43.687463-03:00",
+      "last_seen": "2026-11-01T16:38:35.618736+00:00",
+      "expires_at": "2026-11-02T13:38:35.618736-03:00",
       "marca": "AMD",
       "price_evidence": {
-        "checked_at": "2026-11-01T15:39:09.199879+00:00",
+        "checked_at": "2026-11-01T16:39:58.636154+00:00",
         "identity": {
           "brand": "AMD",
           "model": "hqw24ip200",
@@ -3722,212 +3670,6 @@
       "cupom_telegram_url": null
     },
     {
-      "source_id": "23293788558",
-      "titulo": "Placa-Mãe AMD AM4 Asus TUF GAMING B550M-Plus - 90MB14A0-C1BAY0",
-      "de": null,
-      "por": 809.0,
-      "desconto": 38,
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m71303iaqpuv88",
-      "link": "https://s.shopee.com.br/1qdFiTAgPB",
-      "cupom": null,
-      "loja": "shopee",
-      "categoria": "Hardware",
-      "data": "2026-09-10T06:27:22.795034-03:00",
-      "slug": "shopee-asus-am4-codigo-90mb14a0-c1bay0-codigo-b550m-plus-kit-1",
-      "page_url": "https://promoninjaofertas.github.io/produto/shopee-asus-am4-codigo-90mb14a0-c1bay0-codigo-b550m-plus-kit-1.html",
-      "avaliacao": 4.9,
-      "avaliacoes": null,
-      "vendas": 1229,
-      "nota_qualidade": 10,
-      "last_seen": "2026-11-01T16:14:38.868972+00:00",
-      "expires_at": "2026-11-02T13:14:38.868972-03:00",
-      "marca": "Asus",
-      "price_evidence": {
-        "checked_at": "2026-11-01T16:16:10.462745+00:00",
-        "identity": {
-          "brand": "Asus",
-          "model": "am4",
-          "family": "outros",
-          "kind": "produto",
-          "variant": "codigo:90mb14a0-c1bay0|codigo:b550m-plus|kit:1",
-          "ambiguous": false,
-          "comparison_key": "asus|am4|codigo:90mb14a0-c1bay0|codigo:b550m-plus|kit:1"
-        },
-        "previous_min": 770.0,
-        "observed_min": 770.0,
-        "since": "2026-10-02T21:17:57.278290+00:00",
-        "observations": 93,
-        "days": 25,
-        "history": [
-          {
-            "at": "2026-10-22T23:34:31.673786+00:00",
-            "price": 809.0
-          },
-          {
-            "at": "2026-10-23T05:36:16.053171+00:00",
-            "price": 809.0
-          },
-          {
-            "at": "2026-10-23T11:43:40.808390+00:00",
-            "price": 809.0
-          },
-          {
-            "at": "2026-10-23T17:48:43.637835+00:00",
-            "price": 809.0
-          },
-          {
-            "at": "2026-10-23T23:56:25.598936+00:00",
-            "price": 809.0
-          },
-          {
-            "at": "2026-10-24T06:01:13.065847+00:00",
-            "price": 809.0
-          },
-          {
-            "at": "2026-10-24T12:26:38.183402+00:00",
-            "price": 809.0
-          },
-          {
-            "at": "2026-10-24T18:32:23.859719+00:00",
-            "price": 809.0
-          },
-          {
-            "at": "2026-10-25T00:43:22.954629+00:00",
-            "price": 809.0
-          },
-          {
-            "at": "2026-10-25T06:49:29.412754+00:00",
-            "price": 809.0
-          },
-          {
-            "at": "2026-10-25T12:50:30.477123+00:00",
-            "price": 809.0
-          },
-          {
-            "at": "2026-10-25T19:01:26.031257+00:00",
-            "price": 809.0
-          },
-          {
-            "at": "2026-10-26T01:15:46.112957+00:00",
-            "price": 809.0
-          },
-          {
-            "at": "2026-10-26T07:27:17.076501+00:00",
-            "price": 809.0
-          },
-          {
-            "at": "2026-10-26T13:35:42.108918+00:00",
-            "price": 809.0
-          },
-          {
-            "at": "2026-10-26T19:46:11.022801+00:00",
-            "price": 809.0
-          },
-          {
-            "at": "2026-10-27T01:59:06.612949+00:00",
-            "price": 809.0
-          },
-          {
-            "at": "2026-10-27T08:05:13.894812+00:00",
-            "price": 809.0
-          },
-          {
-            "at": "2026-10-27T14:05:41.375362+00:00",
-            "price": 809.0
-          },
-          {
-            "at": "2026-10-27T20:08:29.491993+00:00",
-            "price": 809.0
-          },
-          {
-            "at": "2026-10-28T02:22:25.393621+00:00",
-            "price": 809.0
-          },
-          {
-            "at": "2026-10-28T08:32:25.465698+00:00",
-            "price": 809.0
-          },
-          {
-            "at": "2026-10-28T14:47:38.283470+00:00",
-            "price": 809.0
-          },
-          {
-            "at": "2026-10-28T20:55:08.738149+00:00",
-            "price": 809.0
-          },
-          {
-            "at": "2026-10-29T03:04:40.796361+00:00",
-            "price": 809.0
-          },
-          {
-            "at": "2026-10-29T04:34:54.618140+00:00",
-            "price": 770.0
-          },
-          {
-            "at": "2026-10-29T10:39:09.665881+00:00",
-            "price": 770.0
-          },
-          {
-            "at": "2026-10-29T16:45:44.616874+00:00",
-            "price": 770.0
-          },
-          {
-            "at": "2026-10-29T22:47:04.384698+00:00",
-            "price": 770.0
-          },
-          {
-            "at": "2026-10-30T04:53:38.329190+00:00",
-            "price": 770.0
-          },
-          {
-            "at": "2026-10-30T10:59:16.232120+00:00",
-            "price": 770.0
-          },
-          {
-            "at": "2026-10-30T15:13:39.913178+00:00",
-            "price": 809.0
-          },
-          {
-            "at": "2026-10-30T21:14:23.913935+00:00",
-            "price": 809.0
-          },
-          {
-            "at": "2026-10-31T03:24:54.615502+00:00",
-            "price": 809.0
-          },
-          {
-            "at": "2026-10-31T09:32:40.215913+00:00",
-            "price": 809.0
-          },
-          {
-            "at": "2026-10-31T15:43:54.452045+00:00",
-            "price": 809.0
-          },
-          {
-            "at": "2026-10-31T21:57:16.722385+00:00",
-            "price": 809.0
-          },
-          {
-            "at": "2026-11-01T03:59:38.795352+00:00",
-            "price": 809.0
-          },
-          {
-            "at": "2026-11-01T10:01:25.630739+00:00",
-            "price": 809.0
-          },
-          {
-            "at": "2026-11-01T16:02:36.184209+00:00",
-            "price": 809.0
-          }
-        ],
-        "advantage": false,
-        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
-      },
-      "grupo": "Gamer",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
-    },
-    {
       "source_id": "55214478888",
       "titulo": "Caixa de Som Portátil JBL GO 5 Preto Original Bluetooth À Prova D'água Iluminação e Auracast",
       "de": null,
@@ -4130,6 +3872,212 @@
         "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
       },
       "grupo": "Tech",
+      "cupom_no_telegram": false,
+      "cupom_telegram_url": null
+    },
+    {
+      "source_id": "23293788558",
+      "titulo": "Placa-Mãe AMD AM4 Asus TUF GAMING B550M-Plus - 90MB14A0-C1BAY0",
+      "de": null,
+      "por": 809.0,
+      "desconto": 38,
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m71303iaqpuv88",
+      "link": "https://s.shopee.com.br/1qdFiTAgPB",
+      "cupom": null,
+      "loja": "shopee",
+      "categoria": "Hardware",
+      "data": "2026-09-10T06:27:22.795034-03:00",
+      "slug": "shopee-asus-am4-codigo-90mb14a0-c1bay0-codigo-b550m-plus-kit-1",
+      "page_url": "https://promoninjaofertas.github.io/produto/shopee-asus-am4-codigo-90mb14a0-c1bay0-codigo-b550m-plus-kit-1.html",
+      "avaliacao": 4.9,
+      "avaliacoes": null,
+      "vendas": 1229,
+      "nota_qualidade": 10,
+      "last_seen": "2026-11-01T16:14:38.868972+00:00",
+      "expires_at": "2026-11-02T13:14:38.868972-03:00",
+      "marca": "Asus",
+      "price_evidence": {
+        "checked_at": "2026-11-01T16:16:10.462745+00:00",
+        "identity": {
+          "brand": "Asus",
+          "model": "am4",
+          "family": "outros",
+          "kind": "produto",
+          "variant": "codigo:90mb14a0-c1bay0|codigo:b550m-plus|kit:1",
+          "ambiguous": false,
+          "comparison_key": "asus|am4|codigo:90mb14a0-c1bay0|codigo:b550m-plus|kit:1"
+        },
+        "previous_min": 770.0,
+        "observed_min": 770.0,
+        "since": "2026-10-02T21:17:57.278290+00:00",
+        "observations": 93,
+        "days": 25,
+        "history": [
+          {
+            "at": "2026-10-22T23:34:31.673786+00:00",
+            "price": 809.0
+          },
+          {
+            "at": "2026-10-23T05:36:16.053171+00:00",
+            "price": 809.0
+          },
+          {
+            "at": "2026-10-23T11:43:40.808390+00:00",
+            "price": 809.0
+          },
+          {
+            "at": "2026-10-23T17:48:43.637835+00:00",
+            "price": 809.0
+          },
+          {
+            "at": "2026-10-23T23:56:25.598936+00:00",
+            "price": 809.0
+          },
+          {
+            "at": "2026-10-24T06:01:13.065847+00:00",
+            "price": 809.0
+          },
+          {
+            "at": "2026-10-24T12:26:38.183402+00:00",
+            "price": 809.0
+          },
+          {
+            "at": "2026-10-24T18:32:23.859719+00:00",
+            "price": 809.0
+          },
+          {
+            "at": "2026-10-25T00:43:22.954629+00:00",
+            "price": 809.0
+          },
+          {
+            "at": "2026-10-25T06:49:29.412754+00:00",
+            "price": 809.0
+          },
+          {
+            "at": "2026-10-25T12:50:30.477123+00:00",
+            "price": 809.0
+          },
+          {
+            "at": "2026-10-25T19:01:26.031257+00:00",
+            "price": 809.0
+          },
+          {
+            "at": "2026-10-26T01:15:46.112957+00:00",
+            "price": 809.0
+          },
+          {
+            "at": "2026-10-26T07:27:17.076501+00:00",
+            "price": 809.0
+          },
+          {
+            "at": "2026-10-26T13:35:42.108918+00:00",
+            "price": 809.0
+          },
+          {
+            "at": "2026-10-26T19:46:11.022801+00:00",
+            "price": 809.0
+          },
+          {
+            "at": "2026-10-27T01:59:06.612949+00:00",
+            "price": 809.0
+          },
+          {
+            "at": "2026-10-27T08:05:13.894812+00:00",
+            "price": 809.0
+          },
+          {
+            "at": "2026-10-27T14:05:41.375362+00:00",
+            "price": 809.0
+          },
+          {
+            "at": "2026-10-27T20:08:29.491993+00:00",
+            "price": 809.0
+          },
+          {
+            "at": "2026-10-28T02:22:25.393621+00:00",
+            "price": 809.0
+          },
+          {
+            "at": "2026-10-28T08:32:25.465698+00:00",
+            "price": 809.0
+          },
+          {
+            "at": "2026-10-28T14:47:38.283470+00:00",
+            "price": 809.0
+          },
+          {
+            "at": "2026-10-28T20:55:08.738149+00:00",
+            "price": 809.0
+          },
+          {
+            "at": "2026-10-29T03:04:40.796361+00:00",
+            "price": 809.0
+          },
+          {
+            "at": "2026-10-29T04:34:54.618140+00:00",
+            "price": 770.0
+          },
+          {
+            "at": "2026-10-29T10:39:09.665881+00:00",
+            "price": 770.0
+          },
+          {
+            "at": "2026-10-29T16:45:44.616874+00:00",
+            "price": 770.0
+          },
+          {
+            "at": "2026-10-29T22:47:04.384698+00:00",
+            "price": 770.0
+          },
+          {
+            "at": "2026-10-30T04:53:38.329190+00:00",
+            "price": 770.0
+          },
+          {
+            "at": "2026-10-30T10:59:16.232120+00:00",
+            "price": 770.0
+          },
+          {
+            "at": "2026-10-30T15:13:39.913178+00:00",
+            "price": 809.0
+          },
+          {
+            "at": "2026-10-30T21:14:23.913935+00:00",
+            "price": 809.0
+          },
+          {
+            "at": "2026-10-31T03:24:54.615502+00:00",
+            "price": 809.0
+          },
+          {
+            "at": "2026-10-31T09:32:40.215913+00:00",
+            "price": 809.0
+          },
+          {
+            "at": "2026-10-31T15:43:54.452045+00:00",
+            "price": 809.0
+          },
+          {
+            "at": "2026-10-31T21:57:16.722385+00:00",
+            "price": 809.0
+          },
+          {
+            "at": "2026-11-01T03:59:38.795352+00:00",
+            "price": 809.0
+          },
+          {
+            "at": "2026-11-01T10:01:25.630739+00:00",
+            "price": 809.0
+          },
+          {
+            "at": "2026-11-01T16:02:36.184209+00:00",
+            "price": 809.0
+          }
+        ],
+        "advantage": false,
+        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
+      },
+      "grupo": "Gamer",
       "cupom_no_telegram": false,
       "cupom_telegram_url": null
     },
@@ -4357,11 +4305,11 @@
       "avaliacoes": null,
       "vendas": 615,
       "nota_qualidade": 9,
-      "last_seen": "2026-11-01T15:37:43.687463+00:00",
-      "expires_at": "2026-11-02T12:37:43.687463-03:00",
+      "last_seen": "2026-11-01T16:38:35.618736+00:00",
+      "expires_at": "2026-11-02T13:38:35.618736-03:00",
       "marca": "Kingston",
       "price_evidence": {
-        "checked_at": "2026-11-01T15:39:09.199879+00:00",
+        "checked_at": "2026-11-01T16:39:58.636154+00:00",
         "identity": {
           "brand": "Kingston",
           "model": "kvr16n11/8",
@@ -4539,7 +4487,9 @@
           }
         ],
         "advantage": false,
-        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
+        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada.",
+        "compared_sellers": 2,
+        "other_seller_min": 126.0
       },
       "grupo": "Tech",
       "cupom_no_telegram": false,
@@ -4754,32 +4704,6 @@
       "cupom_telegram_url": null
     },
     {
-      "source_id": "1005009942973523",
-      "titulo": "Carregador Portátil 20000mah，Power Bank Portátil，Pilhas Recarregáveis，Powerbank Portátil， TYPE-C, USB， Preto， Do Brasil",
-      "de": 125.99,
-      "por": 95.95,
-      "desconto": 23,
-      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sde41ee2d147445a1b782ea99ce2a2690d.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mrbupromK6mYSbuqYR50sQXn1xnxQjsn6UD8OFDTyuzx58lNGuFICzNShe5N91FWyj99Bjco621BLld2shUA6bbCdRDv1GHnnfJZ8tM6Lj4yciaQ8Xk4apPeYKsjg2f5W5ZPnPzLN0DjmTaB4uBJ58pdrflFq1JZFHRM3yN5MpADtVg48Rsx39Bj7t3IofRJLiNvg34SqV6zHVOtUXsvrUuzoZWsPBhVCw0jsUVfvflqI8PjcQIegqVJgYg0zHzJwU3k7u3WPtIibo6EHvZNylvqG7WhpRSne6gV5AbxCsINNIC19rTMMA6nhohgKDEpnT51DiQww6aD02cHEU3TCGWsQlFEp6wHKhQnpmTBEw03j0rjo2AdVf3mHA4JTiUcLFW06nvsStYMCKQzo9CttBTcJ8Q3MBpPj4o5zc3lkBAhgVoWU03H16qjp8V0xNMP4CKFE1r0NreP1xym1NvaYPuBPu1g8ZFsuKhJM1J0o29GhxVYAitNyOEeLwfEjcIcpkatbRQljwdDmP1jiiyEGHvkliPKfvUoZe0RYonpVhnasb8WfiCOUBOJe8y9jv0V480qlfK5zMmClp8t4rLgvZXiObjVvV6l6p9pybLp0kwBi7xhMXnOUkOucusGYq19i7DBTX4yPICtVQCiFBbr0jPiqI3iyDuMGT4Q0DQH8xMCltMSFhIVNr0oIpdVStBJThA7oEfmQB8LP",
-      "cupom": null,
-      "loja": "aliexpress",
-      "categoria": "Acessórios para telefones e telecomunicações",
-      "data": "2026-09-07T05:12:37.105870-03:00",
-      "slug": "carregador-portatil-20000mah-power-bank-portatil-pilhas-recarregaveis-powerbank-portat",
-      "page_url": "https://promoninjaofertas.github.io/produto/carregador-portatil-20000mah-power-bank-portatil-pilhas-recarregaveis-powerbank-portat.html",
-      "avaliacao": 4.8549999999999995,
-      "avaliacoes": null,
-      "vendas": 1012,
-      "nota_qualidade": 7,
-      "last_seen": "2026-11-01T12:28:58.293014+00:00",
-      "expires_at": "2026-11-02T09:28:58.293014-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Tech",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
-    },
-    {
       "source_id": "1005008639836335",
       "titulo": "Towild dl1200s/dl1700 luz de bicicleta com linha de corte feixe1900lm recarregável luz dianteira banco potência mtb ciclismo faróis",
       "de": 771.93,
@@ -4806,13 +4730,39 @@
       "cupom_telegram_url": null
     },
     {
+      "source_id": "1005009942973523",
+      "titulo": "Carregador Portátil 20000mah，Power Bank Portátil，Pilhas Recarregáveis，Powerbank Portátil， TYPE-C, USB， Preto， Do Brasil",
+      "de": 125.99,
+      "por": 95.95,
+      "desconto": 23,
+      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sde41ee2d147445a1b782ea99ce2a2690d.jpg",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mrbupromK6mYSbuqYR50sQXn1xnxQjsn6UD8OFDTyuzx58lNGuFICzNShe5N91FWyj99Bjco621BLld2shUA6bbCdRDv1GHnnfJZ8tM6Lj4yciaQ8Xk4apPeYKsjg2f5W5ZPnPzLN0DjmTaB4uBJ58pdrflFq1JZFHRM3yN5MpADtVg48Rsx39Bj7t3IofRJLiNvg34SqV6zHVOtUXsvrUuzoZWsPBhVCw0jsUVfvflqI8PjcQIegqVJgYg0zHzJwU3k7u3WPtIibo6EHvZNylvqG7WhpRSne6gV5AbxCsINNIC19rTMMA6nhohgKDEpnT51DiQww6aD02cHEU3TCGWsQlFEp6wHKhQnpmTBEw03j0rjo2AdVf3mHA4JTiUcLFW06nvsStYMCKQzo9CttBTcJ8Q3MBpPj4o5zc3lkBAhgVoWU03H16qjp8V0xNMP4CKFE1r0NreP1xym1NvaYPuBPu1g8ZFsuKhJM1J0o29GhxVYAitNyOEeLwfEjcIcpkatbRQljwdDmP1jiiyEGHvkliPKfvUoZe0RYonpVhnasb8WfiCOUBOJe8y9jv0V480qlfK5zMmClp8t4rLgvZXiObjVvV6l6p9pybLp0kwBi7xhMXnOUkOucusGYq19i7DBTX4yPICtVQCiFBbr0jPiqI3iyDuMGT4Q0DQH8xMCltMSFhIVNr0oIpdVStBJThA7oEfmQB8LP",
+      "cupom": null,
+      "loja": "aliexpress",
+      "categoria": "Acessórios para telefones e telecomunicações",
+      "data": "2026-09-07T05:12:37.105870-03:00",
+      "slug": "carregador-portatil-20000mah-power-bank-portatil-pilhas-recarregaveis-powerbank-portat",
+      "page_url": "https://promoninjaofertas.github.io/produto/carregador-portatil-20000mah-power-bank-portatil-pilhas-recarregaveis-powerbank-portat.html",
+      "avaliacao": 4.8549999999999995,
+      "avaliacoes": null,
+      "vendas": 1012,
+      "nota_qualidade": 7,
+      "last_seen": "2026-11-01T12:28:58.293014+00:00",
+      "expires_at": "2026-11-02T09:28:58.293014-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Tech",
+      "cupom_no_telegram": false,
+      "cupom_telegram_url": null
+    },
+    {
       "source_id": "1005004702025352",
       "titulo": "12w/mk maxtor pasta térmica graxa para processador amd intel cpu cooler ventilador de refrigeração do computador vga gpu composto dissipador de calor gesso",
       "de": 375.21,
       "por": 157.59,
       "desconto": 57,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sf379ba197820456e9fba958ae173e989l.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mKqvqIZBGrglfV1irtOA3Fj7ruAtipWlmszcqPyUpdXSWstwcfiTu0GBNTPJB99bReNJbxtI6nv1n5dsS54mMRCGptPkkdjlmZIiHDiwQGKC0llMSPTqscyHb8XSdZI4lXUp2qUeuU7nvY2n903qDehV3n0CL2dPQwayr5jiTnPCb02gl9ADtlixqT5ThZzgpYvVQpqehlM5fkDO7tN0a93bLXX1oHDnDWBX9X8WTtrRXr5nPvIqWSvbPeu3SK8TfiJhxNU4YAkiSZOHb2PZ5YlPKUNQS94EXRTL2TcMIIqjKfmUTzyOwSrqf5eibIisnhxdfMEw7qNpm3IaLBRp7Bbff6lr33FPAj5lBM8ltxun8sSNxzvBVBCAlJx4CM4Whqem5z9jmfX7ddWBdkRTwLcWqEjkK7RQHJwgZteMagR5AbQ9jrTYGDfSfcLDah9JT7IoH0iOxTygK5MH5JqfpeIcfl8YO0UGZLBqBcKuyR7SE7KMlh3xv36A12srPeblukCPlxJs96FLx2jVhYlrpsu8u4oDXqYZ5MpIv3qpNBW7TG2uBpvlULqpvydrldnlcI6ExMU4Kk9GI0YLiG2FqAeNnQcukW0lkK57YOqhmS9d32hj0mpC04jeCXWy5BAl9TPaU3x4aJZoM3wDNqhHeLVoAKyzNBwvQBC1j7oonchPRLZxPrFHG605aZZtWwTuxlha4ohWNey1k",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mKqvqIZBGrglfV1irtOA3Fj7ruAtipWlmszcqPyUpdXSWstwcfiTu0GBNTPJB99bReNJbxtI6nv1n5dsS54mMRCGptPkkdjlmZIiHDiwQGKC0llMSPTqscyHb8XSdZI4lXUp2qUeuU7nvY2n903qDehV3n0CL2dPQwayr5jiTnPCb02gl9ADtlixqT5ThZzgpYvVQpqehlM5fkDO7tN0a93bLXX1oHDnDWBX9XStAxKN3c4PrhT3IXsBEStJa9Zpz5O6erILnMgG3pv4xxpZuPceHVexXx5z5iYfjbueO7NSqOdEQEdfFk0WZpyYzVUfds42j2t0aKcU1466sWEMR988qSfay30ySh4Xd8ISa7rIvsg4Ru4hP0vxqpP6CTsVF2P0MCxe788zK5vONn95sxSg28RWKYMlzlf7xwTVRHfjsLF3gAm2RWLfIkkmshSR4Rjp6obSl1evA77qGUWd4lYur2Zdof8BMZkg0bgdA8lVl1sKcIbCu1oXjM3jjUy6abTSWF3DiNRXjdw4Qrk7T0epvtNzSA31ebAxUEey5jJTiE067lqiI9bS8wtxpY8e6T1Z6S5h5NMQUCPJCHUl1fKmKAkxcP9ZBgzk5oTH1ET7B3YM5gKJV73Cr980klaLiRk1OjSgwMkXXYpDioaX1LO4D8M1S8vdQH7Djy1hPZg5PVmthu5IOyDT8Ffh4jHLSgSObbzCTCJ2i",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Hardware",
@@ -4823,8 +4773,8 @@
       "avaliacoes": null,
       "vendas": 114,
       "nota_qualidade": 9,
-      "last_seen": "2026-11-01T16:26:37.999028+00:00",
-      "expires_at": "2026-11-02T13:26:37.999028-03:00",
+      "last_seen": "2026-11-01T16:38:35.618736+00:00",
+      "expires_at": "2026-11-02T13:38:35.618736-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech",
