@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-11-03T14:48:29.299057+00:00",
+  "atualizado": "2026-11-03T15:00:35.279929+00:00",
   "ofertas": [
     {
       "source_id": "pechinchou-157284",
@@ -565,11 +565,11 @@
       "avaliacoes": null,
       "vendas": 110,
       "nota_qualidade": 9,
-      "last_seen": "2026-11-03T14:11:32.205560+00:00",
-      "expires_at": "2026-11-04T11:11:32.205560-03:00",
+      "last_seen": "2026-11-03T15:00:35.279929+00:00",
+      "expires_at": "2026-11-04T12:00:35.279929-03:00",
       "marca": "JBL",
       "price_evidence": {
-        "checked_at": "2026-11-03T14:13:18.964231+00:00",
+        "checked_at": "2026-11-03T15:01:29.437534+00:00",
         "identity": {
           "brand": "JBL",
           "model": null,
@@ -2408,212 +2408,6 @@
       "cupom_telegram_url": null
     },
     {
-      "source_id": "23594959395",
-      "titulo": "Furadeira Parafusadeira de Impacto Bosch 48V – 2 Baterias Inclusas | Ferramenta Elétrica",
-      "de": null,
-      "por": 399.28,
-      "desconto": 55,
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lk-mo9dpk20zg1w51",
-      "link": "https://s.shopee.com.br/gRIJyAscQ",
-      "cupom": null,
-      "loja": "shopee",
-      "categoria": "Smartphones",
-      "data": "2026-09-12T19:16:34.813595-03:00",
-      "slug": "furadeira-parafusadeira-de-impacto-bosch-48v-2-baterias-inclusas-ferramenta-eletrica",
-      "page_url": "https://promoninjaofertas.github.io/produto/furadeira-parafusadeira-de-impacto-bosch-48v-2-baterias-inclusas-ferramenta-eletrica.html",
-      "avaliacao": 4.8,
-      "avaliacoes": null,
-      "vendas": 106,
-      "nota_qualidade": 10,
-      "last_seen": "2026-11-02T19:26:31.874082+00:00",
-      "expires_at": "2026-11-03T16:26:31.874082-03:00",
-      "marca": "Bosch",
-      "price_evidence": {
-        "checked_at": "2026-11-02T19:28:14.159877+00:00",
-        "identity": {
-          "brand": "Bosch",
-          "model": null,
-          "family": "ferramentas",
-          "kind": "produto",
-          "variant": "48v|kit:1",
-          "ambiguous": false,
-          "comparison_key": null
-        },
-        "previous_min": 399.28,
-        "observed_min": 399.28,
-        "since": "2026-10-06T10:34:14.052961+00:00",
-        "observations": 51,
-        "days": 16,
-        "history": [
-          {
-            "at": "2026-10-13T10:50:42.198574+00:00",
-            "price": 399.29
-          },
-          {
-            "at": "2026-10-13T16:58:31.129076+00:00",
-            "price": 399.29
-          },
-          {
-            "at": "2026-10-13T23:09:32.421955+00:00",
-            "price": 399.29
-          },
-          {
-            "at": "2026-10-14T05:20:39.766317+00:00",
-            "price": 399.29
-          },
-          {
-            "at": "2026-10-14T11:21:52.252415+00:00",
-            "price": 399.29
-          },
-          {
-            "at": "2026-10-14T17:28:40.331338+00:00",
-            "price": 399.29
-          },
-          {
-            "at": "2026-10-14T23:35:20.519759+00:00",
-            "price": 399.29
-          },
-          {
-            "at": "2026-10-15T05:47:38.067982+00:00",
-            "price": 399.29
-          },
-          {
-            "at": "2026-10-15T11:57:28.766027+00:00",
-            "price": 399.29
-          },
-          {
-            "at": "2026-10-15T18:20:38.443598+00:00",
-            "price": 399.29
-          },
-          {
-            "at": "2026-10-16T00:24:06.368436+00:00",
-            "price": 399.29
-          },
-          {
-            "at": "2026-10-16T06:41:57.598819+00:00",
-            "price": 399.29
-          },
-          {
-            "at": "2026-10-16T12:42:34.391539+00:00",
-            "price": 399.29
-          },
-          {
-            "at": "2026-10-16T18:49:28.682041+00:00",
-            "price": 399.29
-          },
-          {
-            "at": "2026-10-17T00:55:10.744146+00:00",
-            "price": 399.29
-          },
-          {
-            "at": "2026-10-17T07:06:04.676982+00:00",
-            "price": 399.29
-          },
-          {
-            "at": "2026-10-17T17:30:30.618429+00:00",
-            "price": 399.29
-          },
-          {
-            "at": "2026-10-19T11:13:28.481821+00:00",
-            "price": 399.29
-          },
-          {
-            "at": "2026-10-19T17:14:16.196690+00:00",
-            "price": 399.29
-          },
-          {
-            "at": "2026-10-28T11:55:21.338481+00:00",
-            "price": 399.28
-          },
-          {
-            "at": "2026-10-28T18:01:11.597789+00:00",
-            "price": 399.28
-          },
-          {
-            "at": "2026-10-29T00:08:48.882329+00:00",
-            "price": 399.28
-          },
-          {
-            "at": "2026-10-29T06:19:47.805342+00:00",
-            "price": 399.28
-          },
-          {
-            "at": "2026-10-29T12:31:36.540073+00:00",
-            "price": 399.28
-          },
-          {
-            "at": "2026-10-29T18:37:35.480908+00:00",
-            "price": 399.28
-          },
-          {
-            "at": "2026-10-30T00:49:21.516865+00:00",
-            "price": 399.28
-          },
-          {
-            "at": "2026-10-30T06:55:34.938828+00:00",
-            "price": 399.28
-          },
-          {
-            "at": "2026-10-30T13:06:47.877479+00:00",
-            "price": 399.28
-          },
-          {
-            "at": "2026-10-30T19:07:15.295313+00:00",
-            "price": 399.28
-          },
-          {
-            "at": "2026-10-31T01:13:59.477407+00:00",
-            "price": 399.28
-          },
-          {
-            "at": "2026-10-31T07:14:59.336014+00:00",
-            "price": 399.28
-          },
-          {
-            "at": "2026-10-31T13:20:04.683711+00:00",
-            "price": 399.28
-          },
-          {
-            "at": "2026-10-31T19:27:35.888705+00:00",
-            "price": 399.28
-          },
-          {
-            "at": "2026-11-01T01:32:21.322539+00:00",
-            "price": 399.28
-          },
-          {
-            "at": "2026-11-01T07:38:00.173318+00:00",
-            "price": 399.28
-          },
-          {
-            "at": "2026-11-01T13:51:49.764955+00:00",
-            "price": 399.28
-          },
-          {
-            "at": "2026-11-01T19:54:39.012584+00:00",
-            "price": 399.28
-          },
-          {
-            "at": "2026-11-02T01:55:59.015668+00:00",
-            "price": 399.28
-          },
-          {
-            "at": "2026-11-02T07:57:37.173883+00:00",
-            "price": 399.28
-          },
-          {
-            "at": "2026-11-02T14:11:36.198555+00:00",
-            "price": 399.28
-          }
-        ],
-        "advantage": false,
-        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
-      },
-      "grupo": "Casa",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
-    },
-    {
       "source_id": "18199337362",
       "titulo": "Parafusadeira e Furadeira à Bateria 12V GSR 120-LI com 1 Bateria e Maleta BOSCH Bivolt",
       "de": null,
@@ -2810,6 +2604,212 @@
           {
             "at": "2026-11-03T10:34:22.483798+00:00",
             "price": 372.2
+          }
+        ],
+        "advantage": false,
+        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
+      },
+      "grupo": "Casa",
+      "cupom_no_telegram": false,
+      "cupom_telegram_url": null
+    },
+    {
+      "source_id": "23594959395",
+      "titulo": "Furadeira Parafusadeira de Impacto Bosch 48V – 2 Baterias Inclusas | Ferramenta Elétrica",
+      "de": null,
+      "por": 399.28,
+      "desconto": 55,
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lk-mo9dpk20zg1w51",
+      "link": "https://s.shopee.com.br/gRIJyAscQ",
+      "cupom": null,
+      "loja": "shopee",
+      "categoria": "Smartphones",
+      "data": "2026-09-12T19:16:34.813595-03:00",
+      "slug": "furadeira-parafusadeira-de-impacto-bosch-48v-2-baterias-inclusas-ferramenta-eletrica",
+      "page_url": "https://promoninjaofertas.github.io/produto/furadeira-parafusadeira-de-impacto-bosch-48v-2-baterias-inclusas-ferramenta-eletrica.html",
+      "avaliacao": 4.8,
+      "avaliacoes": null,
+      "vendas": 106,
+      "nota_qualidade": 10,
+      "last_seen": "2026-11-02T19:26:31.874082+00:00",
+      "expires_at": "2026-11-03T16:26:31.874082-03:00",
+      "marca": "Bosch",
+      "price_evidence": {
+        "checked_at": "2026-11-02T19:28:14.159877+00:00",
+        "identity": {
+          "brand": "Bosch",
+          "model": null,
+          "family": "ferramentas",
+          "kind": "produto",
+          "variant": "48v|kit:1",
+          "ambiguous": false,
+          "comparison_key": null
+        },
+        "previous_min": 399.28,
+        "observed_min": 399.28,
+        "since": "2026-10-06T10:34:14.052961+00:00",
+        "observations": 51,
+        "days": 16,
+        "history": [
+          {
+            "at": "2026-10-13T10:50:42.198574+00:00",
+            "price": 399.29
+          },
+          {
+            "at": "2026-10-13T16:58:31.129076+00:00",
+            "price": 399.29
+          },
+          {
+            "at": "2026-10-13T23:09:32.421955+00:00",
+            "price": 399.29
+          },
+          {
+            "at": "2026-10-14T05:20:39.766317+00:00",
+            "price": 399.29
+          },
+          {
+            "at": "2026-10-14T11:21:52.252415+00:00",
+            "price": 399.29
+          },
+          {
+            "at": "2026-10-14T17:28:40.331338+00:00",
+            "price": 399.29
+          },
+          {
+            "at": "2026-10-14T23:35:20.519759+00:00",
+            "price": 399.29
+          },
+          {
+            "at": "2026-10-15T05:47:38.067982+00:00",
+            "price": 399.29
+          },
+          {
+            "at": "2026-10-15T11:57:28.766027+00:00",
+            "price": 399.29
+          },
+          {
+            "at": "2026-10-15T18:20:38.443598+00:00",
+            "price": 399.29
+          },
+          {
+            "at": "2026-10-16T00:24:06.368436+00:00",
+            "price": 399.29
+          },
+          {
+            "at": "2026-10-16T06:41:57.598819+00:00",
+            "price": 399.29
+          },
+          {
+            "at": "2026-10-16T12:42:34.391539+00:00",
+            "price": 399.29
+          },
+          {
+            "at": "2026-10-16T18:49:28.682041+00:00",
+            "price": 399.29
+          },
+          {
+            "at": "2026-10-17T00:55:10.744146+00:00",
+            "price": 399.29
+          },
+          {
+            "at": "2026-10-17T07:06:04.676982+00:00",
+            "price": 399.29
+          },
+          {
+            "at": "2026-10-17T17:30:30.618429+00:00",
+            "price": 399.29
+          },
+          {
+            "at": "2026-10-19T11:13:28.481821+00:00",
+            "price": 399.29
+          },
+          {
+            "at": "2026-10-19T17:14:16.196690+00:00",
+            "price": 399.29
+          },
+          {
+            "at": "2026-10-28T11:55:21.338481+00:00",
+            "price": 399.28
+          },
+          {
+            "at": "2026-10-28T18:01:11.597789+00:00",
+            "price": 399.28
+          },
+          {
+            "at": "2026-10-29T00:08:48.882329+00:00",
+            "price": 399.28
+          },
+          {
+            "at": "2026-10-29T06:19:47.805342+00:00",
+            "price": 399.28
+          },
+          {
+            "at": "2026-10-29T12:31:36.540073+00:00",
+            "price": 399.28
+          },
+          {
+            "at": "2026-10-29T18:37:35.480908+00:00",
+            "price": 399.28
+          },
+          {
+            "at": "2026-10-30T00:49:21.516865+00:00",
+            "price": 399.28
+          },
+          {
+            "at": "2026-10-30T06:55:34.938828+00:00",
+            "price": 399.28
+          },
+          {
+            "at": "2026-10-30T13:06:47.877479+00:00",
+            "price": 399.28
+          },
+          {
+            "at": "2026-10-30T19:07:15.295313+00:00",
+            "price": 399.28
+          },
+          {
+            "at": "2026-10-31T01:13:59.477407+00:00",
+            "price": 399.28
+          },
+          {
+            "at": "2026-10-31T07:14:59.336014+00:00",
+            "price": 399.28
+          },
+          {
+            "at": "2026-10-31T13:20:04.683711+00:00",
+            "price": 399.28
+          },
+          {
+            "at": "2026-10-31T19:27:35.888705+00:00",
+            "price": 399.28
+          },
+          {
+            "at": "2026-11-01T01:32:21.322539+00:00",
+            "price": 399.28
+          },
+          {
+            "at": "2026-11-01T07:38:00.173318+00:00",
+            "price": 399.28
+          },
+          {
+            "at": "2026-11-01T13:51:49.764955+00:00",
+            "price": 399.28
+          },
+          {
+            "at": "2026-11-01T19:54:39.012584+00:00",
+            "price": 399.28
+          },
+          {
+            "at": "2026-11-02T01:55:59.015668+00:00",
+            "price": 399.28
+          },
+          {
+            "at": "2026-11-02T07:57:37.173883+00:00",
+            "price": 399.28
+          },
+          {
+            "at": "2026-11-02T14:11:36.198555+00:00",
+            "price": 399.28
           }
         ],
         "advantage": false,
@@ -3455,11 +3455,11 @@
       "avaliacoes": null,
       "vendas": 218,
       "nota_qualidade": 10,
-      "last_seen": "2026-11-03T14:11:32.205560+00:00",
-      "expires_at": "2026-11-04T11:11:32.205560-03:00",
+      "last_seen": "2026-11-03T15:00:35.279929+00:00",
+      "expires_at": "2026-11-04T12:00:35.279929-03:00",
       "marca": "WAP",
       "price_evidence": {
-        "checked_at": "2026-11-03T14:13:18.964231+00:00",
+        "checked_at": "2026-11-03T15:01:29.437534+00:00",
         "identity": {
           "brand": "WAP",
           "model": "7metros",
@@ -3661,11 +3661,11 @@
       "avaliacoes": null,
       "vendas": 1232,
       "nota_qualidade": 10,
-      "last_seen": "2026-11-03T14:11:32.205560+00:00",
-      "expires_at": "2026-11-04T11:11:32.205560-03:00",
+      "last_seen": "2026-11-03T15:00:35.279929+00:00",
+      "expires_at": "2026-11-04T12:00:35.279929-03:00",
       "marca": "Asus",
       "price_evidence": {
-        "checked_at": "2026-11-03T14:13:18.964231+00:00",
+        "checked_at": "2026-11-03T15:01:29.437534+00:00",
         "identity": {
           "brand": "Asus",
           "model": "am4",
@@ -3867,11 +3867,11 @@
       "avaliacoes": null,
       "vendas": 229,
       "nota_qualidade": 9,
-      "last_seen": "2026-11-03T14:11:32.205560+00:00",
-      "expires_at": "2026-11-04T11:11:32.205560-03:00",
+      "last_seen": "2026-11-03T15:00:35.279929+00:00",
+      "expires_at": "2026-11-04T12:00:35.279929-03:00",
       "marca": "JBL",
       "price_evidence": {
-        "checked_at": "2026-11-03T14:13:18.964231+00:00",
+        "checked_at": "2026-11-03T15:01:29.437534+00:00",
         "identity": {
           "brand": "JBL",
           "model": null,
@@ -4496,32 +4496,6 @@
       "cupom_telegram_url": null
     },
     {
-      "source_id": "1005008850261694",
-      "titulo": "Relógio HAYLOU 4S GPS Smartwatch com Tela HD AMOLED de 1.43”, Posicionamento GPS por 5 Satélites, 120+ Modos de Treino, Relógio Inteligente para Fitness",
-      "de": 453.18,
-      "por": 238.67,
-      "desconto": 47,
-      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/A72a6074062ef4c448a487255a1246d81g.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4o2cPsrwDxkHvYl7WKnSMo3VNWhVY3wp4okj2FV17b6bUuL4dbaDclBq2wrEEN215ENrL52Fohnb7GhDCAVjBi9JtFs155sV2yqaABgNCmm4EEG3sT8Qz84ZwFX0S72c0sfGpCojnRJra5tI4uh8SICGPrFgqGM61zMC6SoPBU7pvKV6ahPbOUNMUL7C3kCyQ5D5b3vvZUAEqOm3B7gVgWdlDmuskNXWCWyPD3UHR70ALzopO2tsMIrAZWhonQjXcBZrxP7ocKlJMLTDzolHUbLV2dbtswdbhrYuvvhsT64BKFDOMnMisbBQtpyjhwwFyX3QafUqH6ZHpIseAUKEZfneub4kXv54kTOnJQv6afiCbBDcwu0A3bHfFiKQUQoo3cDorKQKxuneYNExI4vavT9GZcc7NgTD7qwh7rq633p7m2BbghM8YjPDF4IplwZfdscj2cQcsW9ybClQI1oYIt2C5JXLGIw6mh7Qq3tmsFaxxHiSKHxWi2S1PrIAJ4DJcEmHv7AQcG23ZhYqLMayfPrgO4xLb3W3uaJDfqWZmc2PrOSrcQMGzjKtopFbwfT0jVZESGnk3igo3MEhsNDrRKhbp3fsnXPGqUInoChIlnM1HJpegYnhu2DToFvGihoIdjgSkZbsYrDpCUnxZnGSsSktm88o9kTIxrwBJ3ttFuZxM7QPa4zjACtqb8OXYtDyVq8c8IMq6uMPgO",
-      "cupom": null,
-      "loja": "aliexpress",
-      "categoria": "Eletrônicos",
-      "data": "2026-11-02T17:44:06.899915-03:00",
-      "slug": "relogio-haylou-4s-gps-smartwatch-com-tela-hd-amoled-de-1-43-posicionamento-gps",
-      "page_url": "https://promoninjaofertas.github.io/produto/relogio-haylou-4s-gps-smartwatch-com-tela-hd-amoled-de-1-43-posicionamento-gps.html",
-      "avaliacao": 4.805,
-      "avaliacoes": null,
-      "vendas": 3010,
-      "nota_qualidade": 8,
-      "last_seen": "2026-11-03T12:56:38.172255+00:00",
-      "expires_at": "2026-11-04T09:56:38.172255-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Tech",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
-    },
-    {
       "source_id": "1005008774483451",
       "titulo": "HAYLOU Solar Ultra GPS Smartwatch 1.6” AMOLED Display 5ATM à prova d'água GPS integrado Bluetooth Chamadas telefônicas Relógio i",
       "de": 888.17,
@@ -4548,25 +4522,25 @@
       "cupom_telegram_url": null
     },
     {
-      "source_id": "1005007739555426",
-      "titulo": "Bettdow Fones De Ouvido Sem Fio Bluetooth 5.3 Esportes À prova d'água e redução de ruído",
-      "de": 99.0,
-      "por": 38.38,
-      "desconto": 61,
-      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sa0fa7f61d5724505be02c6a319e8980bz.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mZBBego4WdovjudsBxQlhIXcPVO51rEikYWDOzHvB8X6RRkuhJGHNxCl9LScRvTt2M6cVw6EwsIRF8BoDFa9rQgPaWE1SwiZ2CjMHBJGnIJz5wGVTzma3aCaRN3PoXmtCTqumxRpinBD2Bo1zdA9BdduYfnFViYqrNL0ZWPavbX4Ze9WgbZuU7opuQKKpbpTJMUTWLixZOclcnGt5su8WahC9itWZkzwudAzFGBtj8usdyx5q4zIBeW0lKQBzKroEFnFdrGkjdgYkJHpfAvcGnmKhpha7lRDs2204waMjfpXOZIS0v7HlgwaYbgmwOGdYzWZ3FeNBmT6zmbhRyh4KSWR0nWHaY7GQXyFoNf0aCz2dl2UItwtmBw81PkkK5ItcSMwDG6MGepqeszaERQQ097pIKmZ0gS8D6e48WDu8UrbijPZzct57wCAe1FnpJ3Gkajzvu7dQPMhQqNgq2TW8Q5IkYvyvZeWhTOiQofPkSaVfZKSMstuLewHM2MB1xziJOw3dJm9QUwSoSCNB82GCrVYRo8c4ctUR8LePprkxs0b2lpxY0rHpkKRYXIitT3biJT2R8bW2l8tX7QtH2Fti7jdI3iEUwoUwnh36huyGLRfhYd1sKkJ3xgUIefFtQYqVtgTB769jIh2oHdSQamSml0uelCVXLGmmaxkI63f3sXRntmEZfeURx9ubRvC1RPxLcZpfKceAA0bQ",
+      "source_id": "1005008850261694",
+      "titulo": "Relógio HAYLOU 4S GPS Smartwatch com Tela HD AMOLED de 1.43”, Posicionamento GPS por 5 Satélites, 120+ Modos de Treino, Relógio Inteligente para Fitness",
+      "de": 453.18,
+      "por": 238.67,
+      "desconto": 47,
+      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/A72a6074062ef4c448a487255a1246d81g.jpg",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4o2cPsrwDxkHvYl7WKnSMo3VNWhVY3wp4okj2FV17b6bUuL4dbaDclBq2wrEEN215ENrL52Fohnb7GhDCAVjBi9JtFs155sV2yqaABgNCmm4EEG3sT8Qz84ZwFX0S72c0sfGpCojnRJra5tI4uh8SICGPrFgqGM61zMC6SoPBU7pvKV6ahPbOUNMUL7C3kCyQ5D5b3vvZUAEqOm3B7gVgWdlDmuskNXWCWyPD3UHR70ALzopO2tsMIrAZWhonQjXcBZrxP7ocKlJMLTDzolHUbLV2dbtswdbhrYuvvhsT64BKFDOMnMisbBQtpyjhwwFyX3QafUqH6ZHpIseAUKEZfneub4kXv54kTOnJQv6afiCbBDcwu0A3bHfFiKQUQoo3cDorKQKxuneYNExI4vavT9GZcc7NgTD7qwh7rq633p7m2BbghM8YjPDF4IplwZfdscj2cQcsW9ybClQI1oYIt2C5JXLGIw6mh7Qq3tmsFaxxHiSKHxWi2S1PrIAJ4DJcEmHv7AQcG23ZhYqLMayfPrgO4xLb3W3uaJDfqWZmc2PrOSrcQMGzjKtopFbwfT0jVZESGnk3igo3MEhsNDrRKhbp3fsnXPGqUInoChIlnM1HJpegYnhu2DToFvGihoIdjgSkZbsYrDpCUnxZnGSsSktm88o9kTIxrwBJ3ttFuZxM7QPa4zjACtqb8OXYtDyVq8c8IMq6uMPgO",
       "cupom": null,
       "loja": "aliexpress",
-      "categoria": "Audio",
-      "data": "2026-11-02T17:03:49.690938-03:00",
-      "slug": "bettdow-fones-de-ouvido-sem-fio-bluetooth-5-3-esportes-a-prova-d-agua",
-      "page_url": "https://promoninjaofertas.github.io/produto/bettdow-fones-de-ouvido-sem-fio-bluetooth-5-3-esportes-a-prova-d-agua.html",
-      "avaliacao": 4.8149999999999995,
+      "categoria": "Eletrônicos",
+      "data": "2026-11-02T17:44:06.899915-03:00",
+      "slug": "relogio-haylou-4s-gps-smartwatch-com-tela-hd-amoled-de-1-43-posicionamento-gps",
+      "page_url": "https://promoninjaofertas.github.io/produto/relogio-haylou-4s-gps-smartwatch-com-tela-hd-amoled-de-1-43-posicionamento-gps.html",
+      "avaliacao": 4.805,
       "avaliacoes": null,
-      "vendas": 3848,
+      "vendas": 3010,
       "nota_qualidade": 8,
-      "last_seen": "2026-11-03T12:44:36.978639+00:00",
-      "expires_at": "2026-11-04T09:44:36.978639-03:00",
+      "last_seen": "2026-11-03T12:56:38.172255+00:00",
+      "expires_at": "2026-11-04T09:56:38.172255-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech",
@@ -4590,6 +4564,32 @@
       "avaliacao": 4.720000000000001,
       "avaliacoes": null,
       "vendas": 4624,
+      "nota_qualidade": 8,
+      "last_seen": "2026-11-03T12:44:36.978639+00:00",
+      "expires_at": "2026-11-04T09:44:36.978639-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Tech",
+      "cupom_no_telegram": false,
+      "cupom_telegram_url": null
+    },
+    {
+      "source_id": "1005007739555426",
+      "titulo": "Bettdow Fones De Ouvido Sem Fio Bluetooth 5.3 Esportes À prova d'água e redução de ruído",
+      "de": 99.0,
+      "por": 38.38,
+      "desconto": 61,
+      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sa0fa7f61d5724505be02c6a319e8980bz.jpg",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mZBBego4WdovjudsBxQlhIXcPVO51rEikYWDOzHvB8X6RRkuhJGHNxCl9LScRvTt2M6cVw6EwsIRF8BoDFa9rQgPaWE1SwiZ2CjMHBJGnIJz5wGVTzma3aCaRN3PoXmtCTqumxRpinBD2Bo1zdA9BdduYfnFViYqrNL0ZWPavbX4Ze9WgbZuU7opuQKKpbpTJMUTWLixZOclcnGt5su8WahC9itWZkzwudAzFGBtj8usdyx5q4zIBeW0lKQBzKroEFnFdrGkjdgYkJHpfAvcGnmKhpha7lRDs2204waMjfpXOZIS0v7HlgwaYbgmwOGdYzWZ3FeNBmT6zmbhRyh4KSWR0nWHaY7GQXyFoNf0aCz2dl2UItwtmBw81PkkK5ItcSMwDG6MGepqeszaERQQ097pIKmZ0gS8D6e48WDu8UrbijPZzct57wCAe1FnpJ3Gkajzvu7dQPMhQqNgq2TW8Q5IkYvyvZeWhTOiQofPkSaVfZKSMstuLewHM2MB1xziJOw3dJm9QUwSoSCNB82GCrVYRo8c4ctUR8LePprkxs0b2lpxY0rHpkKRYXIitT3biJT2R8bW2l8tX7QtH2Fti7jdI3iEUwoUwnh36huyGLRfhYd1sKkJ3xgUIefFtQYqVtgTB769jIh2oHdSQamSml0uelCVXLGmmaxkI63f3sXRntmEZfeURx9ubRvC1RPxLcZpfKceAA0bQ",
+      "cupom": null,
+      "loja": "aliexpress",
+      "categoria": "Audio",
+      "data": "2026-11-02T17:03:49.690938-03:00",
+      "slug": "bettdow-fones-de-ouvido-sem-fio-bluetooth-5-3-esportes-a-prova-d-agua",
+      "page_url": "https://promoninjaofertas.github.io/produto/bettdow-fones-de-ouvido-sem-fio-bluetooth-5-3-esportes-a-prova-d-agua.html",
+      "avaliacao": 4.8149999999999995,
+      "avaliacoes": null,
+      "vendas": 3848,
       "nota_qualidade": 8,
       "last_seen": "2026-11-03T12:44:36.978639+00:00",
       "expires_at": "2026-11-04T09:44:36.978639-03:00",
@@ -4834,32 +4834,6 @@
       "cupom_telegram_url": null
     },
     {
-      "source_id": "1005006967413964",
-      "titulo": "Zeblaze-Btalk 3 Plus Smartwatch para Homens e Senhoras, Chamada De Voz, 1.39 \"Grande Display Colorido HD, Rastreamento De Fitness, Novo",
-      "de": 181.8,
-      "por": 82.04,
-      "desconto": 54,
-      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S15c2d01242b84313a612744d1251f53aS.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4EHgM1WQTLyNb6JGpbPqfJ2eiLrTCAFG6rH3J4Zkt5nba7fDD1NmSY9z4xOcFgzIDUe6yeur8iGIEVuLjihfbixZnTmeqwl0wrlPnuG4pOT3y3zsf43cwL3ccy0DkUAetc2VjrPHbIFjrv4sANQjXER3BmIEn9QGzmY9sEcWIrgnitASSOBoVluqhzfTC4FOUzaO0Ewxr61yOb0Y4eAXukGyV5szfLXdVee5MjoAbb9zz8S84CmYuCyzobNGlNi9wLHn6EWDFROyFvdHHTnacM6eFQK2Ss2xdL22lK9LUAADVKwR4cCoo0lLIGFaM2UbN7vGeAUHYBz3p6fQJmXoYbFjR64tD0LPfyzW9HuihKWLnsgLOUHOUObmKc4CzUS3Z5ZfvG379yC3GYcjdDCYCY59Fdow8mLjiTgamemqSERvibfIM68yMKaEdB7wxrFPdtpGEgZHQfacT4WU5bawsyGJs4Lfe43zjZ5GrzwkYeR7aJAghhXGO5hq4aHAj8ZzZoBPx9ZuTbQb0Qbdc4dMQAicBqtKjG2TP22in7KdDZS5OtxnvWPcP6OLbUIPUyXQP4uL9uxIuhI9FgHQxa9aO4EPwLIZEfViCWm8mCnhIJWw3qCYmg9K9JLmwEDZ0rxLpzS9LPidcfWA5tnf8MxgNLpAazgYCD6UOrX5bjH2GKncmbw6fzURPjBcdwUb13zhobVgTi71v026O8",
-      "cupom": null,
-      "loja": "aliexpress",
-      "categoria": "Eletrônicos",
-      "data": "2026-08-31T19:03:54.087698-03:00",
-      "slug": "zeblaze-btalk-3-plus-smartwatch-para-homens-e-senhoras-chamada-de-voz-1-39",
-      "page_url": "https://promoninjaofertas.github.io/produto/zeblaze-btalk-3-plus-smartwatch-para-homens-e-senhoras-chamada-de-voz-1-39.html",
-      "avaliacao": 4.89,
-      "avaliacoes": null,
-      "vendas": 1784,
-      "nota_qualidade": 8,
-      "last_seen": "2026-11-03T12:56:38.172255+00:00",
-      "expires_at": "2026-11-04T09:56:38.172255-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Tech",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
-    },
-    {
       "source_id": "1005010615674255",
       "titulo": "Original sony sp180 fones de ouvido sem fio tws com microfone esportes clipe de orelha fones de ouvido estéreo display led",
       "de": 173.33,
@@ -4877,6 +4851,32 @@
       "avaliacoes": null,
       "vendas": 1424,
       "nota_qualidade": 7,
+      "last_seen": "2026-11-03T12:56:38.172255+00:00",
+      "expires_at": "2026-11-04T09:56:38.172255-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Tech",
+      "cupom_no_telegram": false,
+      "cupom_telegram_url": null
+    },
+    {
+      "source_id": "1005006967413964",
+      "titulo": "Zeblaze-Btalk 3 Plus Smartwatch para Homens e Senhoras, Chamada De Voz, 1.39 \"Grande Display Colorido HD, Rastreamento De Fitness, Novo",
+      "de": 181.8,
+      "por": 82.04,
+      "desconto": 54,
+      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S15c2d01242b84313a612744d1251f53aS.jpg",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4EHgM1WQTLyNb6JGpbPqfJ2eiLrTCAFG6rH3J4Zkt5nba7fDD1NmSY9z4xOcFgzIDUe6yeur8iGIEVuLjihfbixZnTmeqwl0wrlPnuG4pOT3y3zsf43cwL3ccy0DkUAetc2VjrPHbIFjrv4sANQjXER3BmIEn9QGzmY9sEcWIrgnitASSOBoVluqhzfTC4FOUzaO0Ewxr61yOb0Y4eAXukGyV5szfLXdVee5MjoAbb9zz8S84CmYuCyzobNGlNi9wLHn6EWDFROyFvdHHTnacM6eFQK2Ss2xdL22lK9LUAADVKwR4cCoo0lLIGFaM2UbN7vGeAUHYBz3p6fQJmXoYbFjR64tD0LPfyzW9HuihKWLnsgLOUHOUObmKc4CzUS3Z5ZfvG379yC3GYcjdDCYCY59Fdow8mLjiTgamemqSERvibfIM68yMKaEdB7wxrFPdtpGEgZHQfacT4WU5bawsyGJs4Lfe43zjZ5GrzwkYeR7aJAghhXGO5hq4aHAj8ZzZoBPx9ZuTbQb0Qbdc4dMQAicBqtKjG2TP22in7KdDZS5OtxnvWPcP6OLbUIPUyXQP4uL9uxIuhI9FgHQxa9aO4EPwLIZEfViCWm8mCnhIJWw3qCYmg9K9JLmwEDZ0rxLpzS9LPidcfWA5tnf8MxgNLpAazgYCD6UOrX5bjH2GKncmbw6fzURPjBcdwUb13zhobVgTi71v026O8",
+      "cupom": null,
+      "loja": "aliexpress",
+      "categoria": "Eletrônicos",
+      "data": "2026-08-31T19:03:54.087698-03:00",
+      "slug": "zeblaze-btalk-3-plus-smartwatch-para-homens-e-senhoras-chamada-de-voz-1-39",
+      "page_url": "https://promoninjaofertas.github.io/produto/zeblaze-btalk-3-plus-smartwatch-para-homens-e-senhoras-chamada-de-voz-1-39.html",
+      "avaliacao": 4.89,
+      "avaliacoes": null,
+      "vendas": 1784,
+      "nota_qualidade": 8,
       "last_seen": "2026-11-03T12:56:38.172255+00:00",
       "expires_at": "2026-11-04T09:56:38.172255-03:00",
       "marca": null,
