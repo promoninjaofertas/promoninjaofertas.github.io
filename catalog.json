@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-11-05T00:06:19.197714+00:00",
+  "atualizado": "2026-11-05T00:20:27.782363+00:00",
   "ofertas": [
     {
       "source_id": "pechinchou-156900",
@@ -19,8 +19,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 7,
-      "last_seen": "2026-11-05T00:06:19.197714+00:00",
-      "expires_at": "2026-11-05T21:06:19.197714-03:00",
+      "last_seen": "2026-11-05T00:20:27.782363+00:00",
+      "expires_at": "2026-11-05T21:20:27.782363-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
@@ -28,28 +28,54 @@
       "cupom_telegram_url": "https://t.me/promoninjaofertas"
     },
     {
-      "source_id": "pechinchou-86606",
-      "titulo": "Fogão Star Clean New 4 Bocas Gás 48L Cor Preto Itatiaia",
-      "de": 939.9,
-      "por": 413.0,
-      "desconto": 56,
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_704755-MLA99506157112_112025-P.webp",
-      "link": "https://meli.la/31q1tKp",
-      "cupom": "MELIPROMO",
+      "source_id": "pechinchou-149066",
+      "titulo": "Termogênico Cafeína 60 Caps 200mg 100% Pura Soldiers Nutrition Energia Definição Corporal",
+      "de": 49.0,
+      "por": 32.0,
+      "desconto": 35,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/D_NQ_NP_904771-MLA99581041994_122025-O.webp",
+      "link": "https://meli.la/2oQg2KW",
+      "cupom": null,
       "loja": "mercadolivre",
-      "categoria": "Eletrodomésticos",
-      "data": "2026-10-13T10:18:03.496610-03:00",
-      "slug": "fogao-star-clean-new-4-bocas-gas-48l-cor-preto-itatiaia",
-      "page_url": "https://promoninjaofertas.github.io/produto/fogao-star-clean-new-4-bocas-gas-48l-cor-preto-itatiaia.html",
+      "categoria": "Esporte e Lazer",
+      "data": "2026-10-29T17:07:32.935089-03:00",
+      "slug": "termogenico-cafeina-60-caps-200mg-100-pura-soldiers-nutrition-energia-definicao-corpor",
+      "page_url": "https://promoninjaofertas.github.io/produto/termogenico-cafeina-60-caps-200mg-100-pura-soldiers-nutrition-energia-definicao-corpor.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": null,
+      "nota_qualidade": 6,
+      "last_seen": "2026-11-05T00:20:27.782363+00:00",
+      "expires_at": "2026-11-05T21:20:27.782363-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Outros",
+      "cupom_no_telegram": false,
+      "cupom_telegram_url": null
+    },
+    {
+      "source_id": "pechinchou-155926",
+      "titulo": "Perfume Masculino Eudora Club 6 Exclusive",
+      "de": 169.0,
+      "por": 74.17,
+      "desconto": 56,
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_834931-MLA116021537817_082026-P.webp",
+      "link": "https://meli.la/2Uw6akM",
+      "cupom": "DESCONTOS",
+      "loja": "mercadolivre",
+      "categoria": "Beleza",
+      "data": "2026-10-23T12:52:08.706055-03:00",
+      "slug": "perfume-masculino-eudora-club-6-exclusive",
+      "page_url": "https://promoninjaofertas.github.io/produto/perfume-masculino-eudora-club-6-exclusive.html",
       "avaliacao": null,
       "avaliacoes": 2,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-11-05T00:06:19.197714+00:00",
-      "expires_at": "2026-11-05T21:06:19.197714-03:00",
+      "last_seen": "2026-11-05T00:20:27.782363+00:00",
+      "expires_at": "2026-11-05T21:20:27.782363-03:00",
       "marca": null,
       "price_evidence": {},
-      "grupo": "Casa",
+      "grupo": "Moda",
       "cupom_no_telegram": true,
       "cupom_telegram_url": "https://t.me/promoninjaofertas"
     },
@@ -71,8 +97,8 @@
       "avaliacoes": 2,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-11-05T00:06:19.197714+00:00",
-      "expires_at": "2026-11-05T21:06:19.197714-03:00",
+      "last_seen": "2026-11-05T00:20:27.782363+00:00",
+      "expires_at": "2026-11-05T21:20:27.782363-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
@@ -83,8 +109,8 @@
       "source_id": "pechinchou-147813",
       "titulo": "Tênis Corrida New Balance Fuelcell Rebel V5 Masculino",
       "de": 1099.0,
-      "por": 630.23,
-      "desconto": 43,
+      "por": 700.25,
+      "desconto": 36,
       "imagem": "https://assets.pechinchou.com.br/media/img/products/external-image_X7Yff8G.webp",
       "link": "https://meli.la/1QX5Ae9",
       "cupom": "DESCONTOS",
@@ -97,13 +123,39 @@
       "avaliacoes": 3,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-11-05T00:06:19.197714+00:00",
-      "expires_at": "2026-11-05T21:06:19.197714-03:00",
+      "last_seen": "2026-11-05T00:20:27.782363+00:00",
+      "expires_at": "2026-11-05T21:20:27.782363-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
       "cupom_no_telegram": true,
       "cupom_telegram_url": "https://t.me/promoninjaofertas"
+    },
+    {
+      "source_id": "pechinchou-143907",
+      "titulo": "Sapato Mocassim Loafer Gugi Tratorado Conforto Premium Leve",
+      "de": 149.0,
+      "por": 76.9,
+      "desconto": 48,
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_683455-MLB93917330386_102025-P.webp",
+      "link": "https://meli.la/1KQUQAd",
+      "cupom": null,
+      "loja": "mercadolivre",
+      "categoria": "Beleza",
+      "data": "2026-09-17T00:01:39.074982-03:00",
+      "slug": "sapato-mocassim-loafer-gugi-tratorado-conforto-premium-leve",
+      "page_url": "https://promoninjaofertas.github.io/produto/sapato-mocassim-loafer-gugi-tratorado-conforto-premium-leve.html",
+      "avaliacao": null,
+      "avaliacoes": 1,
+      "vendas": null,
+      "nota_qualidade": 5,
+      "last_seen": "2026-11-05T00:20:27.782363+00:00",
+      "expires_at": "2026-11-05T21:20:27.782363-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Moda",
+      "cupom_no_telegram": false,
+      "cupom_telegram_url": null
     },
     {
       "source_id": "pechinchou-103627",
@@ -120,37 +172,11 @@
       "slug": "glosslicious-kit-fran-by-franciny-elkhe",
       "page_url": "https://promoninjaofertas.github.io/produto/glosslicious-kit-fran-by-franciny-elkhe.html",
       "avaliacao": null,
-      "avaliacoes": 5,
+      "avaliacoes": 10,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-11-05T00:06:19.197714+00:00",
-      "expires_at": "2026-11-05T21:06:19.197714-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Moda",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
-    },
-    {
-      "source_id": "pechinchou-99954",
-      "titulo": "Kit 3 Samba Canção De Liganete Cueca Short Malha Fria Pijama",
-      "de": 49.9,
-      "por": 33.99,
-      "desconto": 32,
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_995623-MLB82862737927_032025-P.webp",
-      "link": "https://meli.la/1ASZzmB",
-      "cupom": null,
-      "loja": "mercadolivre",
-      "categoria": "Beleza",
-      "data": "2026-09-14T11:07:18.407075-03:00",
-      "slug": "kit-3-samba-cancao-de-liganete-cueca-short-malha-fria-pijama",
-      "page_url": "https://promoninjaofertas.github.io/produto/kit-3-samba-cancao-de-liganete-cueca-short-malha-fria-pijama.html",
-      "avaliacao": null,
-      "avaliacoes": 2,
-      "vendas": null,
-      "nota_qualidade": 5,
-      "last_seen": "2026-11-05T00:06:19.197714+00:00",
-      "expires_at": "2026-11-05T21:06:19.197714-03:00",
+      "last_seen": "2026-11-05T00:20:27.782363+00:00",
+      "expires_at": "2026-11-05T21:20:27.782363-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
@@ -175,8 +201,8 @@
       "avaliacoes": 10,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-11-05T00:06:19.197714+00:00",
-      "expires_at": "2026-11-05T21:06:19.197714-03:00",
+      "last_seen": "2026-11-05T00:20:27.782363+00:00",
+      "expires_at": "2026-11-05T21:20:27.782363-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
@@ -201,8 +227,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 7,
-      "last_seen": "2026-11-05T00:06:19.197714+00:00",
-      "expires_at": "2026-11-05T21:06:19.197714-03:00",
+      "last_seen": "2026-11-05T00:20:27.782363+00:00",
+      "expires_at": "2026-11-05T21:20:27.782363-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
@@ -227,8 +253,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 8,
-      "last_seen": "2026-11-05T00:06:19.197714+00:00",
-      "expires_at": "2026-11-05T21:06:19.197714-03:00",
+      "last_seen": "2026-11-05T00:20:27.782363+00:00",
+      "expires_at": "2026-11-05T21:20:27.782363-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech",
@@ -253,8 +279,8 @@
       "avaliacoes": 10,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-11-05T00:06:19.197714+00:00",
-      "expires_at": "2026-11-05T21:06:19.197714-03:00",
+      "last_seen": "2026-11-05T00:20:27.782363+00:00",
+      "expires_at": "2026-11-05T21:20:27.782363-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
@@ -279,8 +305,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 8,
-      "last_seen": "2026-11-05T00:06:19.197714+00:00",
-      "expires_at": "2026-11-05T21:06:19.197714-03:00",
+      "last_seen": "2026-11-05T00:20:27.782363+00:00",
+      "expires_at": "2026-11-05T21:20:27.782363-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -302,11 +328,11 @@
       "slug": "kit-3-calca-jeans-masculina-skinny-costura-reforcada",
       "page_url": "https://promoninjaofertas.github.io/produto/kit-3-calca-jeans-masculina-skinny-costura-reforcada.html",
       "avaliacao": null,
-      "avaliacoes": 2,
+      "avaliacoes": 10,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-11-05T00:06:19.197714+00:00",
-      "expires_at": "2026-11-05T21:06:19.197714-03:00",
+      "last_seen": "2026-11-05T00:20:27.782363+00:00",
+      "expires_at": "2026-11-05T21:20:27.782363-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
@@ -331,13 +357,39 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-11-05T00:06:19.197714+00:00",
-      "expires_at": "2026-11-05T21:06:19.197714-03:00",
+      "last_seen": "2026-11-05T00:20:27.782363+00:00",
+      "expires_at": "2026-11-05T21:20:27.782363-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
       "cupom_no_telegram": false,
       "cupom_telegram_url": null
+    },
+    {
+      "source_id": "pechinchou-148214",
+      "titulo": "Conjunto De Panelas Antiaderente 10 Peças Coffee Cappuccino Imperial",
+      "de": 229.9,
+      "por": 140.6,
+      "desconto": 39,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/external-image_haMmew3.webp",
+      "link": "https://meli.la/1rnBiwa",
+      "cupom": "CASASEMPRE",
+      "loja": "mercadolivre",
+      "categoria": "Casa",
+      "data": "2026-08-05T21:21:23.829025-03:00",
+      "slug": "conjunto-de-panelas-antiaderente-10-pecas-coffee-cappuccino-imperial",
+      "page_url": "https://promoninjaofertas.github.io/produto/conjunto-de-panelas-antiaderente-10-pecas-coffee-cappuccino-imperial.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": null,
+      "nota_qualidade": 7,
+      "last_seen": "2026-11-05T00:20:27.782363+00:00",
+      "expires_at": "2026-11-05T21:20:27.782363-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Casa",
+      "cupom_no_telegram": true,
+      "cupom_telegram_url": "https://t.me/promoninjaofertas"
     },
     {
       "source_id": "pechinchou-142306",
@@ -357,11 +409,37 @@
       "avaliacoes": 1,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-11-05T00:06:19.197714+00:00",
-      "expires_at": "2026-11-05T21:06:19.197714-03:00",
+      "last_seen": "2026-11-05T00:20:27.782363+00:00",
+      "expires_at": "2026-11-05T21:20:27.782363-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
+      "cupom_no_telegram": false,
+      "cupom_telegram_url": null
+    },
+    {
+      "source_id": "pechinchou-157518",
+      "titulo": "Kérastase Elixir Ultime Le Bain Shampoo 250ml Para Cabelos Opacos, Com Óleos De Marula E Camélia, Nutrição Profunda, Ação Antifrizz E Reparação Da Fibra Capilar",
+      "de": 209.9,
+      "por": 167.0,
+      "desconto": 20,
+      "imagem": "https://m.media-amazon.com/images/I/715ykEdSs1L._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B07H8N7ZCW?tag=promoninja0b2-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Saúde",
+      "data": "2026-11-04T21:20:27.782363-03:00",
+      "slug": "kerastase-elixir-ultime-le-bain-shampoo-250ml-para-cabelos-opacos-com-oleos-de-marula",
+      "page_url": "https://promoninjaofertas.github.io/produto/kerastase-elixir-ultime-le-bain-shampoo-250ml-para-cabelos-opacos-com-oleos-de-marula.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": null,
+      "nota_qualidade": 5,
+      "last_seen": "2026-11-05T00:20:27.782363+00:00",
+      "expires_at": "2026-11-05T21:20:27.782363-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Outros",
       "cupom_no_telegram": false,
       "cupom_telegram_url": null
     },
@@ -409,63 +487,11 @@
       "avaliacoes": 1,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-11-05T00:06:19.197714+00:00",
-      "expires_at": "2026-11-05T21:06:19.197714-03:00",
+      "last_seen": "2026-11-05T00:20:27.782363+00:00",
+      "expires_at": "2026-11-05T21:20:27.782363-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
-    },
-    {
-      "source_id": "pechinchou-157516",
-      "titulo": "Havit Mouse Pad Grande Gamer Mp860, 70 X 30 Cm, Tecido De Malha Fina, Base De Borracha Antiderrapante, Design Com Bordas Costuradas, Útil Para Cobrir Teclado, Mouse E Outros Objetos, Preto",
-      "de": 29.9,
-      "por": 24.71,
-      "desconto": 17,
-      "imagem": "https://m.media-amazon.com/images/I/718r+awekZL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B07BZCHM16?tag=promoninja0b2-20",
-      "cupom": null,
-      "loja": "amazon",
-      "categoria": "Hardware",
-      "data": "2026-11-04T20:42:08.088496-03:00",
-      "slug": "havit-mouse-pad-grande-gamer-mp860-70-x-30-cm-tecido-de-malha-fina",
-      "page_url": "https://promoninjaofertas.github.io/produto/havit-mouse-pad-grande-gamer-mp860-70-x-30-cm-tecido-de-malha-fina.html",
-      "avaliacao": null,
-      "avaliacoes": null,
-      "vendas": null,
-      "nota_qualidade": 5,
-      "last_seen": "2026-11-05T00:06:19.197714+00:00",
-      "expires_at": "2026-11-05T21:06:19.197714-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Gamer",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
-    },
-    {
-      "source_id": "pechinchou-53580",
-      "titulo": "Dacolônia Paçoca Rolha Com Açúcar Mascavo 56 Unidades",
-      "de": 34.9,
-      "por": 20.74,
-      "desconto": 41,
-      "imagem": "https://m.media-amazon.com/images/I/61LL4muQvlL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B07X29PL3K?tag=promoninja0b2-20",
-      "cupom": null,
-      "loja": "amazon",
-      "categoria": "Supermercado",
-      "data": "2026-10-31T11:47:05.025072-03:00",
-      "slug": "dacolonia-pacoca-rolha-com-acucar-mascavo-56-unidades",
-      "page_url": "https://promoninjaofertas.github.io/produto/dacolonia-pacoca-rolha-com-acucar-mascavo-56-unidades.html",
-      "avaliacao": null,
-      "avaliacoes": null,
-      "vendas": null,
-      "nota_qualidade": 6,
-      "last_seen": "2026-11-05T00:06:19.197714+00:00",
-      "expires_at": "2026-11-05T21:06:19.197714-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Outros",
       "cupom_no_telegram": false,
       "cupom_telegram_url": null
     },
@@ -487,8 +513,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-11-05T00:06:19.197714+00:00",
-      "expires_at": "2026-11-05T21:06:19.197714-03:00",
+      "last_seen": "2026-11-05T00:20:27.782363+00:00",
+      "expires_at": "2026-11-05T21:20:27.782363-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
@@ -513,11 +539,37 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-11-05T00:06:19.197714+00:00",
-      "expires_at": "2026-11-05T21:06:19.197714-03:00",
+      "last_seen": "2026-11-05T00:20:27.782363+00:00",
+      "expires_at": "2026-11-05T21:20:27.782363-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
+      "cupom_no_telegram": false,
+      "cupom_telegram_url": null
+    },
+    {
+      "source_id": "pechinchou-21768",
+      "titulo": "Headset Fortrek Gamer Pro H2",
+      "de": 89.9,
+      "por": 69.98,
+      "desconto": 22,
+      "imagem": "https://m.media-amazon.com/images/I/715099pgIPL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B07FJPLFKM?tag=promoninja0b2-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Audio",
+      "data": "2026-10-07T21:02:59.585568-03:00",
+      "slug": "headset-fortrek-gamer-pro-h2",
+      "page_url": "https://promoninjaofertas.github.io/produto/headset-fortrek-gamer-pro-h2.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": null,
+      "nota_qualidade": 6,
+      "last_seen": "2026-11-05T00:20:27.782363+00:00",
+      "expires_at": "2026-11-05T21:20:27.782363-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Gamer",
       "cupom_no_telegram": false,
       "cupom_telegram_url": null
     },
@@ -539,8 +591,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-11-05T00:06:19.197714+00:00",
-      "expires_at": "2026-11-05T21:06:19.197714-03:00",
+      "last_seen": "2026-11-05T00:20:27.782363+00:00",
+      "expires_at": "2026-11-05T21:20:27.782363-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Gamer",
@@ -565,11 +617,37 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-11-05T00:06:19.197714+00:00",
-      "expires_at": "2026-11-05T21:06:19.197714-03:00",
+      "last_seen": "2026-11-05T00:20:27.782363+00:00",
+      "expires_at": "2026-11-05T21:20:27.782363-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
+      "cupom_no_telegram": false,
+      "cupom_telegram_url": null
+    },
+    {
+      "source_id": "pechinchou-22391",
+      "titulo": "Amazon | Omo Sabão Líquido Lavagem Perfeita 5l - Tampa Pode Variar",
+      "de": 69.9,
+      "por": 52.98,
+      "desconto": 24,
+      "imagem": "https://m.media-amazon.com/images/I/71bXBFl912L._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B07DYHDXX8?tag=promoninja0b2-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Supermercado",
+      "data": "2026-09-01T09:17:53.078572-03:00",
+      "slug": "amazon-omo-sabao-liquido-lavagem-perfeita-5l-tampa-pode-variar",
+      "page_url": "https://promoninjaofertas.github.io/produto/amazon-omo-sabao-liquido-lavagem-perfeita-5l-tampa-pode-variar.html",
+      "avaliacao": null,
+      "avaliacoes": 2,
+      "vendas": null,
+      "nota_qualidade": 5,
+      "last_seen": "2026-11-05T00:20:27.782363+00:00",
+      "expires_at": "2026-11-05T21:20:27.782363-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Outros",
       "cupom_no_telegram": false,
       "cupom_telegram_url": null
     },
@@ -591,8 +669,8 @@
       "avaliacoes": 5,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-11-05T00:06:19.197714+00:00",
-      "expires_at": "2026-11-05T21:06:19.197714-03:00",
+      "last_seen": "2026-11-05T00:20:27.782363+00:00",
+      "expires_at": "2026-11-05T21:20:27.782363-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -1235,11 +1313,11 @@
       "avaliacoes": null,
       "vendas": 416,
       "nota_qualidade": 9,
-      "last_seen": "2026-11-04T23:30:05.102984+00:00",
-      "expires_at": "2026-11-05T20:30:05.102984-03:00",
+      "last_seen": "2026-11-05T00:20:27.782363+00:00",
+      "expires_at": "2026-11-05T21:20:27.782363-03:00",
       "marca": "Kingston",
       "price_evidence": {
-        "checked_at": "2026-11-04T23:31:28.200520+00:00",
+        "checked_at": "2026-11-05T00:22:00.992474+00:00",
         "identity": {
           "brand": "Kingston",
           "model": "hx432c16fb3/8",
@@ -3902,212 +3980,6 @@
       "cupom_telegram_url": null
     },
     {
-      "source_id": "55214478888",
-      "titulo": "Caixa de Som Portátil JBL GO 5 Preto Original Bluetooth À Prova D'água Iluminação e Auracast",
-      "de": null,
-      "por": 309.9,
-      "desconto": 23,
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l7-mps2n1sv12wy66",
-      "link": "https://s.shopee.com.br/906V2eByu0",
-      "cupom": null,
-      "loja": "shopee",
-      "categoria": "Audio",
-      "data": "2026-09-10T06:27:22.795034-03:00",
-      "slug": "caixa-de-som-portatil-jbl-go-5-preto-original-bluetooth-a-prova-d-agua",
-      "page_url": "https://promoninjaofertas.github.io/produto/caixa-de-som-portatil-jbl-go-5-preto-original-bluetooth-a-prova-d-agua.html",
-      "avaliacao": 5.0,
-      "avaliacoes": null,
-      "vendas": 231,
-      "nota_qualidade": 9,
-      "last_seen": "2026-11-04T23:54:08.923097+00:00",
-      "expires_at": "2026-11-05T20:54:08.923097-03:00",
-      "marca": "JBL",
-      "price_evidence": {
-        "checked_at": "2026-11-04T23:55:38.344154+00:00",
-        "identity": {
-          "brand": "JBL",
-          "model": null,
-          "family": "audio",
-          "kind": "produto",
-          "variant": "cor:preto|kit:1",
-          "ambiguous": false,
-          "comparison_key": null
-        },
-        "previous_min": 278.94,
-        "observed_min": 278.94,
-        "since": "2026-10-06T03:13:54.679936+00:00",
-        "observations": 82,
-        "days": 24,
-        "history": [
-          {
-            "at": "2026-10-25T19:49:30.140516+00:00",
-            "price": 309.9
-          },
-          {
-            "at": "2026-10-26T02:01:29.154480+00:00",
-            "price": 309.9
-          },
-          {
-            "at": "2026-10-26T08:12:57.022722+00:00",
-            "price": 309.9
-          },
-          {
-            "at": "2026-10-26T14:21:13.047897+00:00",
-            "price": 309.9
-          },
-          {
-            "at": "2026-10-26T20:22:00.397247+00:00",
-            "price": 309.9
-          },
-          {
-            "at": "2026-10-27T02:29:48.409919+00:00",
-            "price": 309.9
-          },
-          {
-            "at": "2026-10-27T08:36:40.954724+00:00",
-            "price": 309.9
-          },
-          {
-            "at": "2026-10-27T14:51:04.196595+00:00",
-            "price": 309.9
-          },
-          {
-            "at": "2026-10-27T21:22:22.956295+00:00",
-            "price": 309.9
-          },
-          {
-            "at": "2026-10-28T03:08:19.475819+00:00",
-            "price": 399.9
-          },
-          {
-            "at": "2026-10-28T09:12:43.581943+00:00",
-            "price": 399.9
-          },
-          {
-            "at": "2026-10-28T15:17:52.355507+00:00",
-            "price": 399.9
-          },
-          {
-            "at": "2026-10-28T21:31:06.796753+00:00",
-            "price": 399.9
-          },
-          {
-            "at": "2026-10-29T03:32:03.316604+00:00",
-            "price": 399.9
-          },
-          {
-            "at": "2026-10-29T09:38:29.101701+00:00",
-            "price": 399.9
-          },
-          {
-            "at": "2026-10-29T15:44:59.579818+00:00",
-            "price": 399.9
-          },
-          {
-            "at": "2026-10-29T21:57:25.990016+00:00",
-            "price": 399.9
-          },
-          {
-            "at": "2026-10-30T03:12:09.001598+00:00",
-            "price": 309.9
-          },
-          {
-            "at": "2026-10-30T09:17:58.891784+00:00",
-            "price": 309.9
-          },
-          {
-            "at": "2026-10-30T15:30:57.477063+00:00",
-            "price": 309.9
-          },
-          {
-            "at": "2026-10-30T21:44:52.685639+00:00",
-            "price": 309.9
-          },
-          {
-            "at": "2026-10-31T03:56:41.104218+00:00",
-            "price": 309.9
-          },
-          {
-            "at": "2026-10-31T10:03:27.175865+00:00",
-            "price": 309.9
-          },
-          {
-            "at": "2026-10-31T16:24:40.734903+00:00",
-            "price": 309.9
-          },
-          {
-            "at": "2026-10-31T22:29:13.874832+00:00",
-            "price": 309.9
-          },
-          {
-            "at": "2026-11-01T04:42:02.550756+00:00",
-            "price": 309.9
-          },
-          {
-            "at": "2026-11-01T10:56:12.714906+00:00",
-            "price": 309.9
-          },
-          {
-            "at": "2026-11-01T17:01:41.425790+00:00",
-            "price": 309.9
-          },
-          {
-            "at": "2026-11-01T23:16:28.932108+00:00",
-            "price": 309.9
-          },
-          {
-            "at": "2026-11-02T05:24:35.380270+00:00",
-            "price": 309.9
-          },
-          {
-            "at": "2026-11-02T11:33:21.728563+00:00",
-            "price": 309.9
-          },
-          {
-            "at": "2026-11-02T17:49:52.191766+00:00",
-            "price": 309.9
-          },
-          {
-            "at": "2026-11-03T00:05:33.500544+00:00",
-            "price": 309.9
-          },
-          {
-            "at": "2026-11-03T06:11:48.757417+00:00",
-            "price": 309.9
-          },
-          {
-            "at": "2026-11-03T12:15:51.288766+00:00",
-            "price": 309.9
-          },
-          {
-            "at": "2026-11-03T18:19:41.974189+00:00",
-            "price": 309.9
-          },
-          {
-            "at": "2026-11-04T00:31:09.559522+00:00",
-            "price": 309.9
-          },
-          {
-            "at": "2026-11-04T06:37:22.306571+00:00",
-            "price": 309.9
-          },
-          {
-            "at": "2026-11-04T12:37:33.256955+00:00",
-            "price": 309.9
-          },
-          {
-            "at": "2026-11-04T18:39:02.988174+00:00",
-            "price": 309.9
-          }
-        ],
-        "advantage": false,
-        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
-      },
-      "grupo": "Tech",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
-    },
-    {
       "source_id": "23293788558",
       "titulo": "Placa-Mãe AMD AM4 Asus TUF GAMING B550M-Plus - 90MB14A0-C1BAY0",
       "de": null,
@@ -4310,6 +4182,212 @@
         "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
       },
       "grupo": "Gamer",
+      "cupom_no_telegram": false,
+      "cupom_telegram_url": null
+    },
+    {
+      "source_id": "55214478888",
+      "titulo": "Caixa de Som Portátil JBL GO 5 Preto Original Bluetooth À Prova D'água Iluminação e Auracast",
+      "de": null,
+      "por": 309.9,
+      "desconto": 23,
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820l7-mps2n1sv12wy66",
+      "link": "https://s.shopee.com.br/906V2eByu0",
+      "cupom": null,
+      "loja": "shopee",
+      "categoria": "Audio",
+      "data": "2026-09-10T06:27:22.795034-03:00",
+      "slug": "caixa-de-som-portatil-jbl-go-5-preto-original-bluetooth-a-prova-d-agua",
+      "page_url": "https://promoninjaofertas.github.io/produto/caixa-de-som-portatil-jbl-go-5-preto-original-bluetooth-a-prova-d-agua.html",
+      "avaliacao": 5.0,
+      "avaliacoes": null,
+      "vendas": 231,
+      "nota_qualidade": 9,
+      "last_seen": "2026-11-04T23:54:08.923097+00:00",
+      "expires_at": "2026-11-05T20:54:08.923097-03:00",
+      "marca": "JBL",
+      "price_evidence": {
+        "checked_at": "2026-11-04T23:55:38.344154+00:00",
+        "identity": {
+          "brand": "JBL",
+          "model": null,
+          "family": "audio",
+          "kind": "produto",
+          "variant": "cor:preto|kit:1",
+          "ambiguous": false,
+          "comparison_key": null
+        },
+        "previous_min": 278.94,
+        "observed_min": 278.94,
+        "since": "2026-10-06T03:13:54.679936+00:00",
+        "observations": 82,
+        "days": 24,
+        "history": [
+          {
+            "at": "2026-10-25T19:49:30.140516+00:00",
+            "price": 309.9
+          },
+          {
+            "at": "2026-10-26T02:01:29.154480+00:00",
+            "price": 309.9
+          },
+          {
+            "at": "2026-10-26T08:12:57.022722+00:00",
+            "price": 309.9
+          },
+          {
+            "at": "2026-10-26T14:21:13.047897+00:00",
+            "price": 309.9
+          },
+          {
+            "at": "2026-10-26T20:22:00.397247+00:00",
+            "price": 309.9
+          },
+          {
+            "at": "2026-10-27T02:29:48.409919+00:00",
+            "price": 309.9
+          },
+          {
+            "at": "2026-10-27T08:36:40.954724+00:00",
+            "price": 309.9
+          },
+          {
+            "at": "2026-10-27T14:51:04.196595+00:00",
+            "price": 309.9
+          },
+          {
+            "at": "2026-10-27T21:22:22.956295+00:00",
+            "price": 309.9
+          },
+          {
+            "at": "2026-10-28T03:08:19.475819+00:00",
+            "price": 399.9
+          },
+          {
+            "at": "2026-10-28T09:12:43.581943+00:00",
+            "price": 399.9
+          },
+          {
+            "at": "2026-10-28T15:17:52.355507+00:00",
+            "price": 399.9
+          },
+          {
+            "at": "2026-10-28T21:31:06.796753+00:00",
+            "price": 399.9
+          },
+          {
+            "at": "2026-10-29T03:32:03.316604+00:00",
+            "price": 399.9
+          },
+          {
+            "at": "2026-10-29T09:38:29.101701+00:00",
+            "price": 399.9
+          },
+          {
+            "at": "2026-10-29T15:44:59.579818+00:00",
+            "price": 399.9
+          },
+          {
+            "at": "2026-10-29T21:57:25.990016+00:00",
+            "price": 399.9
+          },
+          {
+            "at": "2026-10-30T03:12:09.001598+00:00",
+            "price": 309.9
+          },
+          {
+            "at": "2026-10-30T09:17:58.891784+00:00",
+            "price": 309.9
+          },
+          {
+            "at": "2026-10-30T15:30:57.477063+00:00",
+            "price": 309.9
+          },
+          {
+            "at": "2026-10-30T21:44:52.685639+00:00",
+            "price": 309.9
+          },
+          {
+            "at": "2026-10-31T03:56:41.104218+00:00",
+            "price": 309.9
+          },
+          {
+            "at": "2026-10-31T10:03:27.175865+00:00",
+            "price": 309.9
+          },
+          {
+            "at": "2026-10-31T16:24:40.734903+00:00",
+            "price": 309.9
+          },
+          {
+            "at": "2026-10-31T22:29:13.874832+00:00",
+            "price": 309.9
+          },
+          {
+            "at": "2026-11-01T04:42:02.550756+00:00",
+            "price": 309.9
+          },
+          {
+            "at": "2026-11-01T10:56:12.714906+00:00",
+            "price": 309.9
+          },
+          {
+            "at": "2026-11-01T17:01:41.425790+00:00",
+            "price": 309.9
+          },
+          {
+            "at": "2026-11-01T23:16:28.932108+00:00",
+            "price": 309.9
+          },
+          {
+            "at": "2026-11-02T05:24:35.380270+00:00",
+            "price": 309.9
+          },
+          {
+            "at": "2026-11-02T11:33:21.728563+00:00",
+            "price": 309.9
+          },
+          {
+            "at": "2026-11-02T17:49:52.191766+00:00",
+            "price": 309.9
+          },
+          {
+            "at": "2026-11-03T00:05:33.500544+00:00",
+            "price": 309.9
+          },
+          {
+            "at": "2026-11-03T06:11:48.757417+00:00",
+            "price": 309.9
+          },
+          {
+            "at": "2026-11-03T12:15:51.288766+00:00",
+            "price": 309.9
+          },
+          {
+            "at": "2026-11-03T18:19:41.974189+00:00",
+            "price": 309.9
+          },
+          {
+            "at": "2026-11-04T00:31:09.559522+00:00",
+            "price": 309.9
+          },
+          {
+            "at": "2026-11-04T06:37:22.306571+00:00",
+            "price": 309.9
+          },
+          {
+            "at": "2026-11-04T12:37:33.256955+00:00",
+            "price": 309.9
+          },
+          {
+            "at": "2026-11-04T18:39:02.988174+00:00",
+            "price": 309.9
+          }
+        ],
+        "advantage": false,
+        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
+      },
+      "grupo": "Tech",
       "cupom_no_telegram": false,
       "cupom_telegram_url": null
     },
@@ -4537,11 +4615,11 @@
       "avaliacoes": null,
       "vendas": 551,
       "nota_qualidade": 9,
-      "last_seen": "2026-11-04T23:30:05.102984+00:00",
-      "expires_at": "2026-11-05T20:30:05.102984-03:00",
+      "last_seen": "2026-11-05T00:20:27.782363+00:00",
+      "expires_at": "2026-11-05T21:20:27.782363-03:00",
       "marca": "Kingston",
       "price_evidence": {
-        "checked_at": "2026-11-04T23:31:28.200520+00:00",
+        "checked_at": "2026-11-05T00:22:00.992474+00:00",
         "identity": {
           "brand": "Kingston",
           "model": "kvr16n11/8",
@@ -4554,13 +4632,9 @@
         "previous_min": 116.0,
         "observed_min": 116.0,
         "since": "2026-10-06T01:52:31.175862+00:00",
-        "observations": 106,
+        "observations": 107,
         "days": 28,
         "history": [
-          {
-            "at": "2026-10-24T18:27:11.772592+00:00",
-            "price": 118.0
-          },
           {
             "at": "2026-10-25T00:33:24.995486+00:00",
             "price": 118.0
@@ -4716,6 +4790,10 @@
           {
             "at": "2026-11-04T17:43:53.400439+00:00",
             "price": 126.0
+          },
+          {
+            "at": "2026-11-04T23:45:50.394202+00:00",
+            "price": 126.0
           }
         ],
         "advantage": false,
@@ -4806,32 +4884,6 @@
       "cupom_telegram_url": null
     },
     {
-      "source_id": "1005008850261694",
-      "titulo": "Relógio HAYLOU 4S GPS Smartwatch com Tela HD AMOLED de 1.43”, Posicionamento GPS por 5 Satélites, 120+ Modos de Treino, Relógio Inteligente para Fitness",
-      "de": 455.83,
-      "por": 240.06,
-      "desconto": 47,
-      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/A72a6074062ef4c448a487255a1246d81g.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4o2cPsrwDxkHvYl7WKnSMo3VNWhVY3wp4okj2FV17b6bUuL4dbaDclBq2wrEEN215ENrL52Fohnb7GhDCAVjBi9JtFs155sV2yqaABgNCmm4EEG3sT8Qz84ZwFX0S72c0sfGpCojnRJra5tI4uh8SICGPrFgqGM61zMC6SoPBU7pvKV6ahPbOUNMUL7C3kCyQ5D5b3vvZUAEqOm3B7gVgWdlDmuskNXWCWyPD3USmRJ7Djy9VIENWry38xBO9NaAWsWw7onBfOvk9H0i6gcMlzPEz1rQd62Iw8PHEOc2sxS7rqiYL8B7bFzgH7Z3CqZjP0QfXoh7Svymv3kIURTSpjPbNH2kiU1DIMKB3XuXeAe0r5ksiwii3ZTJjBL0qPYE7e4RUcWFygsPKOROnbPXqS6EtNhFd8hiR9MCCAmtwRuKcg8LXwl0IuyQ28H17qEdgiNXM1D1DoMWGWxqnPdJCf7U0sM4ZisPxpVL6efbGru6PMg79j5lRc2WlrlyBwB4lhk0O4FNPbMSZ4Bk2j3Mm16RrTVsXJmtQnMeDziwOC4P0T2IeS33laPW4E8VNnJtNxOLrfKXu5A7jldATBfj8XkSYQy2UnJ9TdjDDPSCOO5KsThzD6A0XrjxGW5VmLpvqqIlXzOVFOGQkwfFnT6DJj4uwFPynInno4T6na0uVCGbtnPOzsvdyhzsMR6uEfrMhEkDQovXVskoC6",
-      "cupom": null,
-      "loja": "aliexpress",
-      "categoria": "Eletrônicos",
-      "data": "2026-11-02T17:44:06.899915-03:00",
-      "slug": "relogio-haylou-4s-gps-smartwatch-com-tela-hd-amoled-de-1-43-posicionamento-gps",
-      "page_url": "https://promoninjaofertas.github.io/produto/relogio-haylou-4s-gps-smartwatch-com-tela-hd-amoled-de-1-43-posicionamento-gps.html",
-      "avaliacao": 4.805,
-      "avaliacoes": null,
-      "vendas": 3019,
-      "nota_qualidade": 8,
-      "last_seen": "2026-11-04T22:28:49.824159+00:00",
-      "expires_at": "2026-11-05T19:28:49.824159-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Tech",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
-    },
-    {
       "source_id": "1005008774483451",
       "titulo": "HAYLOU Solar Ultra GPS Smartwatch 1.6” AMOLED Display 5ATM à prova d'água GPS integrado Bluetooth Chamadas telefônicas Relógio i",
       "de": 893.37,
@@ -4858,25 +4910,25 @@
       "cupom_telegram_url": null
     },
     {
-      "source_id": "1005007470128567",
-      "titulo": "Bettdow Fone De Ouvido Sem Fio Bluetooth 5.3 De Terceira Geração Fone Sem Fio Bluetooth À Prova D'água HiFi",
-      "de": 98.0,
-      "por": 37.99,
-      "desconto": 61,
-      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S517b089cb47e4f8abe4846be66abf15b3.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mZRVH45SLk9t8oD8kBsIgdQi5dTi8u5anKGVyltSHUnCqYX8VSLxb11QNlJhWEtmlpIJJaJez28UEubCz28d8D8OLBf3vWPSYM30B0A3Hm5moCCMsI7rQnpa0r1pX9mrRvIeLYJC2jUUnKZvzHZtaOSr9XpcaRNi0fWiv7vkELFkQrIOGn8lwC68Bhiao1jz9AznvRWrk628O2xGoxls8OW58maF2cpSG3tfbUaehgimupYGtG0VwKiLRTOv47BPfHFZrl37et8uXKhPeY3QkSsW4bpY4VXgGAnoy9sUXpLzLfCKlyt9YfSpICdDijqQfXOrBfLzHBs9VZGO6Tturnl1br6gZNt6UnxIDUdKJ4pkVTvyU0XVYJ0UPHg6KQbcQpkyT0higRfdAO6pLI8RyuRLoD0SSCsRyu0uDLEkPkqrm49UZA80r9MRRpEra8Ij1812CqcXFugXhozkHzivlEVIfVHvjOq9XcsYazsGuHEmGii8EkP7j5e1oqVBqY6PtMtMVPUzt9RK1rpJ31yZjmObb569gdWRXj1N91voOUtHccBDdpz8kPOpw1YGxTBi1KC8PE8BNNcFX5o9BSltsOeb3s5PImwTfpt32Gp4DNMVYe4ULahiiprapIXLIPwIPFseIShZD3X9lz6qNxO1A16ta8vxQndtVBj3qq8bGzR5yTPoiKYYPI5bIaPN17RBQVb4y5O9UfT7E",
+      "source_id": "1005008850261694",
+      "titulo": "Relógio HAYLOU 4S GPS Smartwatch com Tela HD AMOLED de 1.43”, Posicionamento GPS por 5 Satélites, 120+ Modos de Treino, Relógio Inteligente para Fitness",
+      "de": 455.83,
+      "por": 240.06,
+      "desconto": 47,
+      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/A72a6074062ef4c448a487255a1246d81g.jpg",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4o2cPsrwDxkHvYl7WKnSMo3VNWhVY3wp4okj2FV17b6bUuL4dbaDclBq2wrEEN215ENrL52Fohnb7GhDCAVjBi9JtFs155sV2yqaABgNCmm4EEG3sT8Qz84ZwFX0S72c0sfGpCojnRJra5tI4uh8SICGPrFgqGM61zMC6SoPBU7pvKV6ahPbOUNMUL7C3kCyQ5D5b3vvZUAEqOm3B7gVgWdlDmuskNXWCWyPD3USmRJ7Djy9VIENWry38xBO9NaAWsWw7onBfOvk9H0i6gcMlzPEz1rQd62Iw8PHEOc2sxS7rqiYL8B7bFzgH7Z3CqZjP0QfXoh7Svymv3kIURTSpjPbNH2kiU1DIMKB3XuXeAe0r5ksiwii3ZTJjBL0qPYE7e4RUcWFygsPKOROnbPXqS6EtNhFd8hiR9MCCAmtwRuKcg8LXwl0IuyQ28H17qEdgiNXM1D1DoMWGWxqnPdJCf7U0sM4ZisPxpVL6efbGru6PMg79j5lRc2WlrlyBwB4lhk0O4FNPbMSZ4Bk2j3Mm16RrTVsXJmtQnMeDziwOC4P0T2IeS33laPW4E8VNnJtNxOLrfKXu5A7jldATBfj8XkSYQy2UnJ9TdjDDPSCOO5KsThzD6A0XrjxGW5VmLpvqqIlXzOVFOGQkwfFnT6DJj4uwFPynInno4T6na0uVCGbtnPOzsvdyhzsMR6uEfrMhEkDQovXVskoC6",
       "cupom": null,
       "loja": "aliexpress",
-      "categoria": "Audio",
-      "data": "2026-11-02T17:03:49.690938-03:00",
-      "slug": "bettdow-fone-de-ouvido-sem-fio-bluetooth-5-3-de-terceira-geracao-fone-sem",
-      "page_url": "https://promoninjaofertas.github.io/produto/bettdow-fone-de-ouvido-sem-fio-bluetooth-5-3-de-terceira-geracao-fone-sem.html",
-      "avaliacao": 4.845000000000001,
+      "categoria": "Eletrônicos",
+      "data": "2026-11-02T17:44:06.899915-03:00",
+      "slug": "relogio-haylou-4s-gps-smartwatch-com-tela-hd-amoled-de-1-43-posicionamento-gps",
+      "page_url": "https://promoninjaofertas.github.io/produto/relogio-haylou-4s-gps-smartwatch-com-tela-hd-amoled-de-1-43-posicionamento-gps.html",
+      "avaliacao": 4.805,
       "avaliacoes": null,
-      "vendas": 3743,
+      "vendas": 3019,
       "nota_qualidade": 8,
-      "last_seen": "2026-11-04T21:59:55.888809+00:00",
-      "expires_at": "2026-11-05T18:59:55.888809-03:00",
+      "last_seen": "2026-11-04T22:28:49.824159+00:00",
+      "expires_at": "2026-11-05T19:28:49.824159-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech",
@@ -4900,6 +4952,32 @@
       "avaliacao": 4.720000000000001,
       "avaliacoes": null,
       "vendas": 4640,
+      "nota_qualidade": 8,
+      "last_seen": "2026-11-04T21:59:55.888809+00:00",
+      "expires_at": "2026-11-05T18:59:55.888809-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Tech",
+      "cupom_no_telegram": false,
+      "cupom_telegram_url": null
+    },
+    {
+      "source_id": "1005007470128567",
+      "titulo": "Bettdow Fone De Ouvido Sem Fio Bluetooth 5.3 De Terceira Geração Fone Sem Fio Bluetooth À Prova D'água HiFi",
+      "de": 98.0,
+      "por": 37.99,
+      "desconto": 61,
+      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S517b089cb47e4f8abe4846be66abf15b3.jpg",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mZRVH45SLk9t8oD8kBsIgdQi5dTi8u5anKGVyltSHUnCqYX8VSLxb11QNlJhWEtmlpIJJaJez28UEubCz28d8D8OLBf3vWPSYM30B0A3Hm5moCCMsI7rQnpa0r1pX9mrRvIeLYJC2jUUnKZvzHZtaOSr9XpcaRNi0fWiv7vkELFkQrIOGn8lwC68Bhiao1jz9AznvRWrk628O2xGoxls8OW58maF2cpSG3tfbUaehgimupYGtG0VwKiLRTOv47BPfHFZrl37et8uXKhPeY3QkSsW4bpY4VXgGAnoy9sUXpLzLfCKlyt9YfSpICdDijqQfXOrBfLzHBs9VZGO6Tturnl1br6gZNt6UnxIDUdKJ4pkVTvyU0XVYJ0UPHg6KQbcQpkyT0higRfdAO6pLI8RyuRLoD0SSCsRyu0uDLEkPkqrm49UZA80r9MRRpEra8Ij1812CqcXFugXhozkHzivlEVIfVHvjOq9XcsYazsGuHEmGii8EkP7j5e1oqVBqY6PtMtMVPUzt9RK1rpJ31yZjmObb569gdWRXj1N91voOUtHccBDdpz8kPOpw1YGxTBi1KC8PE8BNNcFX5o9BSltsOeb3s5PImwTfpt32Gp4DNMVYe4ULahiiprapIXLIPwIPFseIShZD3X9lz6qNxO1A16ta8vxQndtVBj3qq8bGzR5yTPoiKYYPI5bIaPN17RBQVb4y5O9UfT7E",
+      "cupom": null,
+      "loja": "aliexpress",
+      "categoria": "Audio",
+      "data": "2026-11-02T17:03:49.690938-03:00",
+      "slug": "bettdow-fone-de-ouvido-sem-fio-bluetooth-5-3-de-terceira-geracao-fone-sem",
+      "page_url": "https://promoninjaofertas.github.io/produto/bettdow-fone-de-ouvido-sem-fio-bluetooth-5-3-de-terceira-geracao-fone-sem.html",
+      "avaliacao": 4.845000000000001,
+      "avaliacoes": null,
+      "vendas": 3743,
       "nota_qualidade": 8,
       "last_seen": "2026-11-04T21:59:55.888809+00:00",
       "expires_at": "2026-11-05T18:59:55.888809-03:00",
@@ -5254,7 +5332,7 @@
       "por": 41.12,
       "desconto": 54,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S66eee78ab4e14f59a07c86ed2c41501ei.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mZ1zB8G0wxHxRng6EgXB2slQNWNlaGIgcEoeBfS4V6tqEpoAvGMgxd947hanSqWxPaiJ7VUiwKb6OYpFWnFumvfkaYrwX5sV9puu5lpJKe4o5SZWiyr8oUVPW22rxMmXBBPfOBPGDfyTd0JRSIGKjDqfiPgYaPmo8DfQKHy0LUTf9f1F1rQwrUuNWyOmwcGiO5ENHymenPVrUod3fhk1JzzfKgn0DK4xrYa9pduXAns55fMBaIIey2nIm8SF47LI75Ss1uJzEeETM3LHxoiEIibftGfBR0LGwlttYIebn3Kgz6iVeYzVT8XU9qkRa89yUEh9arGeOCC7BSIp4vy0TUOj5rBQ82yFDQrEC88YeNfAg4rAkIzZRovmAE2lZI2y6smukmQ4DvXd1sruA3yImFuiTXZtHADQRjSQXUsxYd8mqvaTBbXjtt8M7Dq1o5JXwvrWQccYjF0Mz2Jvl9buodOA6KEW9qlcbRO5RQgq2U6I4mfR8T93M9DQxcdvxdoOAqvJU6wIeG1w8ZRWDwwIIzJn55Gs3C6lwcvvT6UBky0OvKwXxN1S3HpEvhxLJ7uC4O0PmYwU33bkXzFaYCTLrA4Vd4Gs0gs5ddcqjlBlPTSGyFEmSXDuHGoZGxSp2Nt9q5yGpFMeZYDcHmqVxvFatHCSp5Sa8VLOBJhsvvSkqRypxOAP8LyusAbHP1oeWeYgoluXtqZA3gUlG",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mZ1zB8G0wxHxRng6EgXB2slQNWNlaGIgcEoeBfS4V6tqEpoAvGMgxd947hanSqWxPaiJ7VUiwKb6OYpFWnFumvfkaYrwX5sV9puu5lpJKe4o5SZWiyr8oUVPW22rxMmXBBPfOBPGDfyTd0JRSIGKjDqfiPgYaPmo8DfQKHy0LUTf9f1F1rQwrUuNWyOmwcGiO5ENHymenPVrUod3fhk1JzzfKgn0DK4xrYa9pdfCbVraCROT1MSdsXoMt82OCN4PDhxwpmXKC9m9qZD1mv3Uf56XXva229DPKsZV3YsWQOPGstKklpcarSYBtZK9GYkp1YFC3LNUE13GHMxDV7c7EkM1cp8hPmPiJZ2fnzstgfBjhEJ36t2rZ8XJ3cPgCPgJNEwjb5hWkKz541GzLZIfZzGneXkbwM06NJEIfl1j17H7mdYWFIsK8bVrQR5uGTSO3t5iW0wQcOMQVERQ7E05XNc0JmM7q7egstq8UM6x29SQLrHWlUFmk1f1tkcoxi7f1iaVrP94pdv3eVl9btZP9b8MAo7PVdxRxfvvn4uhU9FBzhneKXVSaIqY80mpUCZjc1HFsS4rB8KhYGeOu8rETVSneztexLgXJ4gNTNnuilqT5nnOaAmYjQzQx9skb8MUdaJFtHbxgE7QDTkKeUGLE58jOlrgDD0IliWIQPJ8zjwmptsyFk5SUwEZyKm3g0AEwMmxXnUGwD9sQ",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Beleza",
@@ -5265,8 +5343,8 @@
       "avaliacoes": null,
       "vendas": 1883,
       "nota_qualidade": 7,
-      "last_seen": "2026-11-05T00:06:19.197714+00:00",
-      "expires_at": "2026-11-05T21:06:19.197714-03:00",
+      "last_seen": "2026-11-05T00:20:27.782363+00:00",
+      "expires_at": "2026-11-05T21:20:27.782363-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
