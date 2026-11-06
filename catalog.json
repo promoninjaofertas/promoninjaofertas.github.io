@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-11-06T21:54:24.179707+00:00",
+  "atualizado": "2026-11-06T22:07:25.090124+00:00",
   "ofertas": [
     {
       "source_id": "pechinchou-157696",
@@ -19,8 +19,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-11-06T21:54:24.179707+00:00",
-      "expires_at": "2026-11-07T18:54:24.179707-03:00",
+      "last_seen": "2026-11-06T22:07:25.090124+00:00",
+      "expires_at": "2026-11-07T19:07:25.090124-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -45,8 +45,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 7,
-      "last_seen": "2026-11-06T21:54:24.179707+00:00",
-      "expires_at": "2026-11-07T18:54:24.179707-03:00",
+      "last_seen": "2026-11-06T22:07:25.090124+00:00",
+      "expires_at": "2026-11-07T19:07:25.090124-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
@@ -71,8 +71,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-11-06T21:54:24.179707+00:00",
-      "expires_at": "2026-11-07T18:54:24.179707-03:00",
+      "last_seen": "2026-11-06T22:07:25.090124+00:00",
+      "expires_at": "2026-11-07T19:07:25.090124-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
@@ -97,8 +97,8 @@
       "avaliacoes": 10,
       "vendas": null,
       "nota_qualidade": 8,
-      "last_seen": "2026-11-06T21:54:24.179707+00:00",
-      "expires_at": "2026-11-07T18:54:24.179707-03:00",
+      "last_seen": "2026-11-06T22:07:25.090124+00:00",
+      "expires_at": "2026-11-07T19:07:25.090124-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
@@ -106,30 +106,56 @@
       "cupom_telegram_url": "https://t.me/promoninjaofertas"
     },
     {
+      "source_id": "pechinchou-157441",
+      "titulo": "Whey Protein +mu Chocowheyfer Em Barra De Cereais Sabor Mix X 300g 12 Un",
+      "de": 59.9,
+      "por": 44.0,
+      "desconto": 27,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/D_NQ_NP_728054-MLA118427560236_102026-F_7lhgWvA.jpg",
+      "link": "https://meli.la/2Gx8bbF",
+      "cupom": null,
+      "loja": "mercadolivre",
+      "categoria": "Esporte e Lazer",
+      "data": "2026-11-04T13:36:37.014994-03:00",
+      "slug": "whey-protein-mu-chocowheyfer-em-barra-de-cereais-sabor-mix-x-300g-12-un",
+      "page_url": "https://promoninjaofertas.github.io/produto/whey-protein-mu-chocowheyfer-em-barra-de-cereais-sabor-mix-x-300g-12-un.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": null,
+      "nota_qualidade": 5,
+      "last_seen": "2026-11-06T22:07:25.090124+00:00",
+      "expires_at": "2026-11-07T19:07:25.090124-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Outros",
+      "cupom_no_telegram": false,
+      "cupom_telegram_url": null
+    },
+    {
       "source_id": "pechinchou-127121",
       "titulo": "O Boticário Quasar Blue Desodorante Colônia 100ml",
       "de": 89.9,
-      "por": 68.0,
-      "desconto": 24,
+      "por": 57.8,
+      "desconto": 36,
       "imagem": "https://assets.pechinchou.com.br/media/img/products/D_NQ_NP_645686-MLA82876911341_032025-F_ItcZsoO_7DwnXXg.jpg",
       "link": "https://meli.la/1JB3zwh",
-      "cupom": null,
+      "cupom": "BOTICARIO15",
       "loja": "mercadolivre",
       "categoria": "Beleza",
       "data": "2026-11-03T18:49:55.829020-03:00",
       "slug": "o-boticario-quasar-blue-desodorante-colonia-100ml",
       "page_url": "https://promoninjaofertas.github.io/produto/o-boticario-quasar-blue-desodorante-colonia-100ml.html",
       "avaliacao": null,
-      "avaliacoes": 50,
-      "vendas": 3429,
+      "avaliacoes": null,
+      "vendas": null,
       "nota_qualidade": 9,
-      "last_seen": "2026-11-06T21:54:24.179707+00:00",
-      "expires_at": "2026-11-07T18:54:24.179707-03:00",
+      "last_seen": "2026-11-06T22:07:25.090124+00:00",
+      "expires_at": "2026-11-07T19:07:25.090124-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
+      "cupom_no_telegram": true,
+      "cupom_telegram_url": "https://t.me/promoninjaofertas"
     },
     {
       "source_id": "pechinchou-157249",
@@ -149,8 +175,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-11-06T21:54:24.179707+00:00",
-      "expires_at": "2026-11-07T18:54:24.179707-03:00",
+      "last_seen": "2026-11-06T22:07:25.090124+00:00",
+      "expires_at": "2026-11-07T19:07:25.090124-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -175,8 +201,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-11-06T21:54:24.179707+00:00",
-      "expires_at": "2026-11-07T18:54:24.179707-03:00",
+      "last_seen": "2026-11-06T22:07:25.090124+00:00",
+      "expires_at": "2026-11-07T19:07:25.090124-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech",
@@ -201,8 +227,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 8,
-      "last_seen": "2026-11-06T21:54:24.179707+00:00",
-      "expires_at": "2026-11-07T18:54:24.179707-03:00",
+      "last_seen": "2026-11-06T22:07:25.090124+00:00",
+      "expires_at": "2026-11-07T19:07:25.090124-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech",
@@ -227,39 +253,13 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 7,
-      "last_seen": "2026-11-06T21:54:24.179707+00:00",
-      "expires_at": "2026-11-07T18:54:24.179707-03:00",
+      "last_seen": "2026-11-06T22:07:25.090124+00:00",
+      "expires_at": "2026-11-07T19:07:25.090124-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
       "cupom_no_telegram": true,
       "cupom_telegram_url": "https://t.me/promoninjaofertas"
-    },
-    {
-      "source_id": "pechinchou-117738",
-      "titulo": "Kit 6 Cuecas Lupo Boxer Box Sem Costura Basic Microfibra",
-      "de": 109.9,
-      "por": 88.73,
-      "desconto": 19,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/D_NQ_NP_724774-MLB100762267821_122025-O-kit-6-cuecas-lupo-boxer-box-sem-costura-basic-microfibra_Ggm59wd.jpg",
-      "link": "https://meli.la/19BWXTK",
-      "cupom": null,
-      "loja": "mercadolivre",
-      "categoria": "Beleza",
-      "data": "2026-09-15T10:11:11.585432-03:00",
-      "slug": "kit-6-cuecas-lupo-boxer-box-sem-costura-basic-microfibra",
-      "page_url": "https://promoninjaofertas.github.io/produto/kit-6-cuecas-lupo-boxer-box-sem-costura-basic-microfibra.html",
-      "avaliacao": null,
-      "avaliacoes": null,
-      "vendas": null,
-      "nota_qualidade": 5,
-      "last_seen": "2026-11-06T21:54:24.179707+00:00",
-      "expires_at": "2026-11-07T18:54:24.179707-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Moda",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
     },
     {
       "source_id": "pechinchou-149183",
@@ -279,8 +279,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 7,
-      "last_seen": "2026-11-06T21:54:24.179707+00:00",
-      "expires_at": "2026-11-07T18:54:24.179707-03:00",
+      "last_seen": "2026-11-06T22:07:25.090124+00:00",
+      "expires_at": "2026-11-07T19:07:25.090124-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
@@ -303,10 +303,10 @@
       "page_url": "https://promoninjaofertas.github.io/produto/panela-de-pressao-brinox-4-2l-inducao-preta-4952-512.html",
       "avaliacao": null,
       "avaliacoes": 60,
-      "vendas": 3404,
+      "vendas": 3444,
       "nota_qualidade": 9,
-      "last_seen": "2026-11-06T21:54:24.179707+00:00",
-      "expires_at": "2026-11-07T18:54:24.179707-03:00",
+      "last_seen": "2026-11-06T22:07:25.090124+00:00",
+      "expires_at": "2026-11-07T19:07:25.090124-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
@@ -314,51 +314,25 @@
       "cupom_telegram_url": "https://t.me/promoninjaofertas"
     },
     {
-      "source_id": "pechinchou-144102",
-      "titulo": "Finish Powerball Quantum, Detergente para Lava Louças em Tabletes, 60 Tabletes",
-      "de": 149.9,
-      "por": 94.9,
-      "desconto": 37,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/external-image_lsTS9c6.jpg",
-      "link": "https://www.amazon.com.br/dp/B0FCPFZQRL?tag=promoninja0b2-20",
-      "cupom": null,
-      "loja": "amazon",
-      "categoria": "Supermercado",
-      "data": "2026-11-06T18:54:24.179707-03:00",
-      "slug": "finish-powerball-quantum-detergente-para-lava-loucas-em-tabletes-60-tabletes",
-      "page_url": "https://promoninjaofertas.github.io/produto/finish-powerball-quantum-detergente-para-lava-loucas-em-tabletes-60-tabletes.html",
+      "source_id": "pechinchou-148759",
+      "titulo": "Panela Pressão 4,2l Indução Cerâmica 4 Válvulas Segurança Cor Cinza Claro",
+      "de": 429.0,
+      "por": 134.91,
+      "desconto": 69,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/external-image_3rMvP0r_j8MI1Gb.jpg",
+      "link": "https://meli.la/23bFVMd",
+      "cupom": "OFFPRACASA",
+      "loja": "mercadolivre",
+      "categoria": "Casa",
+      "data": "2026-07-28T17:00:19.692010-03:00",
+      "slug": "panela-pressao-4-2l-inducao-ceramica-4-valvulas-seguranca-cor-cinza-claro",
+      "page_url": "https://promoninjaofertas.github.io/produto/panela-pressao-4-2l-inducao-ceramica-4-valvulas-seguranca-cor-cinza-claro.html",
       "avaliacao": null,
-      "avaliacoes": null,
+      "avaliacoes": 3,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-11-06T21:54:24.179707+00:00",
-      "expires_at": "2026-11-07T18:54:24.179707-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Outros",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
-    },
-    {
-      "source_id": "pechinchou-157697",
-      "titulo": "Freezer Horizontal 198L Inverter Bivolt Branco Midea",
-      "de": 2119.9,
-      "por": 1479.0,
-      "desconto": 30,
-      "imagem": "https://m.media-amazon.com/images/I/41Lgqz+DcqL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0GJG1WY2F?tag=promoninja0b2-20",
-      "cupom": "BLACKDOSONHO",
-      "loja": "amazon",
-      "categoria": "Eletrodomésticos",
-      "data": "2026-11-06T18:54:24.179707-03:00",
-      "slug": "freezer-horizontal-198l-inverter-bivolt-branco-midea",
-      "page_url": "https://promoninjaofertas.github.io/produto/freezer-horizontal-198l-inverter-bivolt-branco-midea.html",
-      "avaliacao": null,
-      "avaliacoes": null,
-      "vendas": null,
-      "nota_qualidade": 6,
-      "last_seen": "2026-11-06T21:54:24.179707+00:00",
-      "expires_at": "2026-11-07T18:54:24.179707-03:00",
+      "last_seen": "2026-11-06T22:07:25.090124+00:00",
+      "expires_at": "2026-11-07T19:07:25.090124-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
@@ -383,11 +357,89 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-11-06T21:54:24.179707+00:00",
-      "expires_at": "2026-11-07T18:54:24.179707-03:00",
+      "last_seen": "2026-11-06T22:07:25.090124+00:00",
+      "expires_at": "2026-11-07T19:07:25.090124-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
+      "cupom_no_telegram": false,
+      "cupom_telegram_url": null
+    },
+    {
+      "source_id": "pechinchou-157697",
+      "titulo": "Freezer Horizontal 198L Inverter Bivolt Branco Midea",
+      "de": 2119.9,
+      "por": 1479.0,
+      "desconto": 30,
+      "imagem": "https://m.media-amazon.com/images/I/41Lgqz+DcqL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0GJG1WY2F?tag=promoninja0b2-20",
+      "cupom": "BLACKDOSONHO",
+      "loja": "amazon",
+      "categoria": "Eletrodomésticos",
+      "data": "2026-11-06T18:54:24.179707-03:00",
+      "slug": "freezer-horizontal-198l-inverter-bivolt-branco-midea",
+      "page_url": "https://promoninjaofertas.github.io/produto/freezer-horizontal-198l-inverter-bivolt-branco-midea.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": null,
+      "nota_qualidade": 6,
+      "last_seen": "2026-11-06T22:07:25.090124+00:00",
+      "expires_at": "2026-11-07T19:07:25.090124-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Casa",
+      "cupom_no_telegram": true,
+      "cupom_telegram_url": "https://t.me/promoninjaofertas"
+    },
+    {
+      "source_id": "pechinchou-144102",
+      "titulo": "Finish Powerball Quantum, Detergente para Lava Louças em Tabletes, 60 Tabletes",
+      "de": 149.9,
+      "por": 94.9,
+      "desconto": 37,
+      "imagem": "https://m.media-amazon.com/images/I/71lP4uCQxVL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0FCPFZQRL?tag=promoninja0b2-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Supermercado",
+      "data": "2026-11-06T18:54:24.179707-03:00",
+      "slug": "finish-powerball-quantum-detergente-para-lava-loucas-em-tabletes-60-tabletes",
+      "page_url": "https://promoninjaofertas.github.io/produto/finish-powerball-quantum-detergente-para-lava-loucas-em-tabletes-60-tabletes.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": null,
+      "nota_qualidade": 6,
+      "last_seen": "2026-11-06T22:07:25.090124+00:00",
+      "expires_at": "2026-11-07T19:07:25.090124-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Outros",
+      "cupom_no_telegram": false,
+      "cupom_telegram_url": null
+    },
+    {
+      "source_id": "pechinchou-157635",
+      "titulo": "Casa Dona Manta Cobertor Casal Fleece Microfibra Toque de Seda Aveludada Antialérgica Felpuda Macia Quentinho Sofá Cama 1,80x2,20m (Marrom)",
+      "de": 48.41,
+      "por": 29.61,
+      "desconto": 39,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/external-image_wxOhJ8W.jpg",
+      "link": "https://www.amazon.com.br/dp/B0GZHFDGKT?tag=promoninja0b2-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Casa",
+      "data": "2026-11-06T18:41:37.993723-03:00",
+      "slug": "casa-dona-manta-cobertor-casal-fleece-microfibra-toque-de-seda-aveludada-antialergica",
+      "page_url": "https://promoninjaofertas.github.io/produto/casa-dona-manta-cobertor-casal-fleece-microfibra-toque-de-seda-aveludada-antialergica.html",
+      "avaliacao": null,
+      "avaliacoes": 20,
+      "vendas": 2141,
+      "nota_qualidade": 6,
+      "last_seen": "2026-11-06T22:07:25.090124+00:00",
+      "expires_at": "2026-11-07T19:07:25.090124-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Casa",
       "cupom_no_telegram": false,
       "cupom_telegram_url": null
     },
@@ -409,8 +461,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 7,
-      "last_seen": "2026-11-06T21:54:24.179707+00:00",
-      "expires_at": "2026-11-07T18:54:24.179707-03:00",
+      "last_seen": "2026-11-06T22:07:25.090124+00:00",
+      "expires_at": "2026-11-07T19:07:25.090124-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
@@ -418,80 +470,54 @@
       "cupom_telegram_url": "https://t.me/promoninjaofertas"
     },
     {
-      "source_id": "pechinchou-157635",
-      "titulo": "Casa Dona Manta Cobertor Casal Fleece Microfibra Toque de Seda Aveludada Antialérgica Felpuda Macia Quentinho Sofá Cama 1,80x2,20m (Marrom)",
-      "de": 48.41,
-      "por": 29.61,
-      "desconto": 39,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/external-image_wxOhJ8W.jpg",
-      "link": "https://www.amazon.com.br/dp/B0GZHFDGKT?tag=promoninja0b2-20",
-      "cupom": null,
+      "source_id": "pechinchou-154987",
+      "titulo": "Ar Condicionado Split Elgin Eco Inverter II WiFi 12000 BTUs Frio 220V HJFC12C2WECE",
+      "de": 2759.0,
+      "por": 1625.1,
+      "desconto": 41,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/51iStJnARGL_s3c7dko._AC_SX342_SY445_QL70_ML2_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0HKTSBGK4?tag=promoninja0b2-20",
+      "cupom": "BLACKDOSONHO",
       "loja": "amazon",
-      "categoria": "Casa",
-      "data": "2026-11-06T18:41:37.993723-03:00",
-      "slug": "casa-dona-manta-cobertor-casal-fleece-microfibra-toque-de-seda-aveludada-antialergica",
-      "page_url": "https://promoninjaofertas.github.io/produto/casa-dona-manta-cobertor-casal-fleece-microfibra-toque-de-seda-aveludada-antialergica.html",
+      "categoria": "Ar e Ventilação",
+      "data": "2026-10-15T21:34:41.325348-03:00",
+      "slug": "ar-condicionado-split-elgin-eco-inverter-ii-wifi-12000-btus-frio-220v-hjfc12c2wece",
+      "page_url": "https://promoninjaofertas.github.io/produto/ar-condicionado-split-elgin-eco-inverter-ii-wifi-12000-btus-frio-220v-hjfc12c2wece.html",
       "avaliacao": null,
-      "avaliacoes": 20,
-      "vendas": 2127,
-      "nota_qualidade": 6,
-      "last_seen": "2026-11-06T21:54:24.179707+00:00",
-      "expires_at": "2026-11-07T18:54:24.179707-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Casa",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
-    },
-    {
-      "source_id": "pechinchou-154724",
-      "titulo": "Mala De Bordo Dermond Pro | Super Resistente, Cadeado Embutido E Rodas Silenciosas Removíveis (preto)",
-      "de": 209.9,
-      "por": 157.78,
-      "desconto": 25,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/71xW19qI7SL._AC_SY300_SX300_QL70_ML2_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0GDVLSGNR?tag=promoninja0b2-20",
-      "cupom": null,
-      "loja": "amazon",
-      "categoria": "Beleza",
-      "data": "2026-10-13T17:27:50.626448-03:00",
-      "slug": "mala-de-bordo-dermond-pro-super-resistente-cadeado-embutido-e-rodas-silenciosas-removi",
-      "page_url": "https://promoninjaofertas.github.io/produto/mala-de-bordo-dermond-pro-super-resistente-cadeado-embutido-e-rodas-silenciosas-removi.html",
-      "avaliacao": null,
-      "avaliacoes": null,
+      "avaliacoes": 1,
       "vendas": null,
-      "nota_qualidade": 6,
-      "last_seen": "2026-11-06T21:54:24.179707+00:00",
-      "expires_at": "2026-11-07T18:54:24.179707-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Moda",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
-    },
-    {
-      "source_id": "pechinchou-136117",
-      "titulo": "Sabão Líquido Tixan Ypê Primavera, 5 Litros",
-      "de": 59.9,
-      "por": 43.46,
-      "desconto": 27,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/Diogo_-_2025-11-12T200233.980.jpg",
-      "link": "https://www.amazon.com.br/dp/B07HZMPB4L?tag=promoninja0b2-20",
-      "cupom": null,
-      "loja": "amazon",
-      "categoria": "Supermercado",
-      "data": "2026-10-11T15:45:59.085942-03:00",
-      "slug": "sabao-liquido-tixan-ype-primavera-5-litros",
-      "page_url": "https://promoninjaofertas.github.io/produto/sabao-liquido-tixan-ype-primavera-5-litros.html",
-      "avaliacao": null,
-      "avaliacoes": null,
-      "vendas": null,
-      "nota_qualidade": 6,
-      "last_seen": "2026-11-06T21:54:24.179707+00:00",
-      "expires_at": "2026-11-07T18:54:24.179707-03:00",
+      "nota_qualidade": 8,
+      "last_seen": "2026-11-06T22:07:25.090124+00:00",
+      "expires_at": "2026-11-07T19:07:25.090124-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
+      "cupom_no_telegram": true,
+      "cupom_telegram_url": "https://t.me/promoninjaofertas"
+    },
+    {
+      "source_id": "pechinchou-86505",
+      "titulo": "Nexgard Antipulgas E Carrapatos Para Cães De 4,1 A 10kg, 1 Tablete",
+      "de": 69.9,
+      "por": 52.9,
+      "desconto": 24,
+      "imagem": "https://m.media-amazon.com/images/I/71SCXcx21qL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B07XZDZWTG?tag=promoninja0b2-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Pet",
+      "data": "2026-10-10T19:30:51.012967-03:00",
+      "slug": "nexgard-antipulgas-e-carrapatos-para-caes-de-4-1-a-10kg-1-tablete",
+      "page_url": "https://promoninjaofertas.github.io/produto/nexgard-antipulgas-e-carrapatos-para-caes-de-4-1-a-10kg-1-tablete.html",
+      "avaliacao": null,
+      "avaliacoes": 3,
+      "vendas": null,
+      "nota_qualidade": 5,
+      "last_seen": "2026-11-06T22:07:25.090124+00:00",
+      "expires_at": "2026-11-07T19:07:25.090124-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Casa",
       "cupom_no_telegram": false,
       "cupom_telegram_url": null
     },
@@ -501,7 +527,7 @@
       "de": 39.9,
       "por": 26.9,
       "desconto": 33,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/61LTrmDdT8L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "imagem": "https://m.media-amazon.com/images/I/61LTrmDdT8L._SL1500_.jpg",
       "link": "https://www.amazon.com.br/dp/B0D49V33KL?tag=promoninja0b2-20",
       "cupom": null,
       "loja": "amazon",
@@ -513,8 +539,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-11-06T21:54:24.179707+00:00",
-      "expires_at": "2026-11-07T18:54:24.179707-03:00",
+      "last_seen": "2026-11-06T22:07:25.090124+00:00",
+      "expires_at": "2026-11-07T19:07:25.090124-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -522,56 +548,30 @@
       "cupom_telegram_url": null
     },
     {
-      "source_id": "pechinchou-117087",
-      "titulo": "Lyor - Frigideira De Indução Em Alumínio Com Revestimento Cerâmico Granilite Bege 20cm",
-      "de": 59.9,
-      "por": 41.92,
-      "desconto": 30,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/external-image_ENeC3cp_pKcrJyk.jpg",
-      "link": "https://www.amazon.com.br/dp/B0C7DNNYVL?tag=promoninja0b2-20",
-      "cupom": null,
+      "source_id": "pechinchou-152300",
+      "titulo": "[Regional] Freezer Horizontal Electrolux Hb250 245 Litros Inverter 1 Porta Branco Bivolt",
+      "de": 1929.9,
+      "por": 1483.98,
+      "desconto": 23,
+      "imagem": "https://m.media-amazon.com/images/I/31NLWn-Cp8L._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0H2NF3JXT?tag=promoninja0b2-20",
+      "cupom": "BLACKDOSONHO",
       "loja": "amazon",
-      "categoria": "Casa",
-      "data": "2026-09-21T18:02:42.601547-03:00",
-      "slug": "lyor-frigideira-de-inducao-em-aluminio-com-revestimento-ceramico-granilite-bege-20cm",
-      "page_url": "https://promoninjaofertas.github.io/produto/lyor-frigideira-de-inducao-em-aluminio-com-revestimento-ceramico-granilite-bege-20cm.html",
+      "categoria": "Eletrodomésticos",
+      "data": "2026-09-17T19:39:51.283853-03:00",
+      "slug": "regional-freezer-horizontal-electrolux-hb250-245-litros-inverter-1-porta-branco-bivolt",
+      "page_url": "https://promoninjaofertas.github.io/produto/regional-freezer-horizontal-electrolux-hb250-245-litros-inverter-1-porta-branco-bivolt.html",
       "avaliacao": null,
       "avaliacoes": null,
       "vendas": null,
-      "nota_qualidade": 6,
-      "last_seen": "2026-11-06T21:54:24.179707+00:00",
-      "expires_at": "2026-11-07T18:54:24.179707-03:00",
+      "nota_qualidade": 7,
+      "last_seen": "2026-11-06T22:07:25.090124+00:00",
+      "expires_at": "2026-11-07T19:07:25.090124-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
-    },
-    {
-      "source_id": "pechinchou-86761",
-      "titulo": "Gel de Limpeza Facial Garnier Uniform & Matte Vitamina C Matte 150g",
-      "de": 50.19,
-      "por": 30.79,
-      "desconto": 39,
-      "imagem": "https://m.media-amazon.com/images/I/71JM27i8OKL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0C6L8F6N8?tag=promoninja0b2-20",
-      "cupom": null,
-      "loja": "amazon",
-      "categoria": "Saúde",
-      "data": "2026-09-18T21:39:10.992648-03:00",
-      "slug": "gel-de-limpeza-facial-garnier-uniform-matte-vitamina-c-matte-150g",
-      "page_url": "https://promoninjaofertas.github.io/produto/gel-de-limpeza-facial-garnier-uniform-matte-vitamina-c-matte-150g.html",
-      "avaliacao": null,
-      "avaliacoes": 1,
-      "vendas": null,
-      "nota_qualidade": 7,
-      "last_seen": "2026-11-06T21:54:24.179707+00:00",
-      "expires_at": "2026-11-07T18:54:24.179707-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Outros",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
+      "cupom_no_telegram": true,
+      "cupom_telegram_url": "https://t.me/promoninjaofertas"
     },
     {
       "source_id": "pechinchou-134027",
@@ -579,7 +579,7 @@
       "de": 69.9,
       "por": 50.98,
       "desconto": 27,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/external-image_vXVQDHP.jpg",
+      "imagem": "https://m.media-amazon.com/images/I/71xWKCzfEuL._SL1500_.jpg",
       "link": "https://www.amazon.com.br/dp/B0DXR1M87B?tag=promoninja0b2-20",
       "cupom": null,
       "loja": "amazon",
@@ -591,8 +591,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-11-06T21:54:24.179707+00:00",
-      "expires_at": "2026-11-07T18:54:24.179707-03:00",
+      "last_seen": "2026-11-06T22:07:25.090124+00:00",
+      "expires_at": "2026-11-07T19:07:25.090124-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Gamer",
@@ -617,39 +617,13 @@
       "avaliacoes": 1,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-11-06T21:54:24.179707+00:00",
-      "expires_at": "2026-11-07T18:54:24.179707-03:00",
+      "last_seen": "2026-11-06T22:07:25.090124+00:00",
+      "expires_at": "2026-11-07T19:07:25.090124-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
       "cupom_no_telegram": false,
       "cupom_telegram_url": null
-    },
-    {
-      "source_id": "pechinchou-148055",
-      "titulo": "Ar Condicionado Split Elgin Eco Inverter Ii Wifi 12000 Btus Frio 220v Hjfc12c2wece",
-      "de": 2489.9,
-      "por": 1625.1,
-      "desconto": 35,
-      "imagem": "https://m.media-amazon.com/images/I/51iStJnARGL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0HKTSBGK4?tag=promoninja0b2-20",
-      "cupom": "BLACKDOSONHO",
-      "loja": "amazon",
-      "categoria": "Ar e Ventilação",
-      "data": "2026-07-04T14:17:24.371455-03:00",
-      "slug": "ar-condicionado-split-elgin-eco-inverter-ii-wifi-12000-btus-frio-220v-hjfc12c2wece",
-      "page_url": "https://promoninjaofertas.github.io/produto/ar-condicionado-split-elgin-eco-inverter-ii-wifi-12000-btus-frio-220v-hjfc12c2wece.html",
-      "avaliacao": null,
-      "avaliacoes": null,
-      "vendas": null,
-      "nota_qualidade": 8,
-      "last_seen": "2026-11-06T21:54:24.179707+00:00",
-      "expires_at": "2026-11-07T18:54:24.179707-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Outros",
-      "cupom_no_telegram": true,
-      "cupom_telegram_url": "https://t.me/promoninjaofertas"
     },
     {
       "source_id": "58252147272",
@@ -875,11 +849,11 @@
       "avaliacoes": null,
       "vendas": 177,
       "nota_qualidade": 10,
-      "last_seen": "2026-11-06T19:56:37.987632+00:00",
-      "expires_at": "2026-11-07T16:56:37.987632-03:00",
+      "last_seen": "2026-11-06T22:07:25.090124+00:00",
+      "expires_at": "2026-11-07T19:07:25.090124-03:00",
       "marca": "Philips",
       "price_evidence": {
-        "checked_at": "2026-11-06T20:00:02.485811+00:00",
+        "checked_at": "2026-11-06T22:13:26.170327+00:00",
         "identity": {
           "brand": "Philips",
           "model": "ri7630",
@@ -892,13 +866,9 @@
         "previous_min": 46.7,
         "observed_min": 46.7,
         "since": "2026-10-07T23:53:32.585197+00:00",
-        "observations": 52,
+        "observations": 53,
         "days": 16,
         "history": [
-          {
-            "at": "2026-10-24T20:22:52.632263+00:00",
-            "price": 47.39
-          },
           {
             "at": "2026-10-25T02:29:52.105702+00:00",
             "price": 47.39
@@ -1053,6 +1023,10 @@
           },
           {
             "at": "2026-11-06T15:28:14.139605+00:00",
+            "price": 47.39
+          },
+          {
+            "at": "2026-11-06T21:38:18.384866+00:00",
             "price": 47.39
           }
         ],
@@ -1287,11 +1261,11 @@
       "avaliacoes": null,
       "vendas": 116,
       "nota_qualidade": 10,
-      "last_seen": "2026-11-06T20:39:47.006260+00:00",
-      "expires_at": "2026-11-07T17:39:47.006260-03:00",
+      "last_seen": "2026-11-06T22:07:25.090124+00:00",
+      "expires_at": "2026-11-07T19:07:25.090124-03:00",
       "marca": "AMD",
       "price_evidence": {
-        "checked_at": "2026-11-06T20:42:26.922332+00:00",
+        "checked_at": "2026-11-06T22:13:26.170327+00:00",
         "identity": {
           "brand": "AMD",
           "model": "hqw24ip200",
@@ -1493,11 +1467,11 @@
       "avaliacoes": null,
       "vendas": 141,
       "nota_qualidade": 9,
-      "last_seen": "2026-11-06T21:54:24.179707+00:00",
-      "expires_at": "2026-11-07T18:54:24.179707-03:00",
+      "last_seen": "2026-11-06T22:07:25.090124+00:00",
+      "expires_at": "2026-11-07T19:07:25.090124-03:00",
       "marca": "Epson",
       "price_evidence": {
-        "checked_at": "2026-11-06T21:56:47.765553+00:00",
+        "checked_at": "2026-11-06T22:13:26.170327+00:00",
         "identity": {
           "brand": "Epson",
           "model": "l3250",
@@ -1908,11 +1882,11 @@
       "avaliacoes": null,
       "vendas": 660,
       "nota_qualidade": 9,
-      "last_seen": "2026-11-06T19:56:37.987632+00:00",
-      "expires_at": "2026-11-07T16:56:37.987632-03:00",
+      "last_seen": "2026-11-06T22:07:25.090124+00:00",
+      "expires_at": "2026-11-07T19:07:25.090124-03:00",
       "marca": "Mondial",
       "price_evidence": {
-        "checked_at": "2026-11-06T20:00:02.485811+00:00",
+        "checked_at": "2026-11-06T22:13:26.170327+00:00",
         "identity": {
           "brand": "Mondial",
           "model": "af36bi",
@@ -2114,11 +2088,11 @@
       "avaliacoes": null,
       "vendas": 259,
       "nota_qualidade": 9,
-      "last_seen": "2026-11-06T21:54:24.179707+00:00",
-      "expires_at": "2026-11-07T18:54:24.179707-03:00",
+      "last_seen": "2026-11-06T22:07:25.090124+00:00",
+      "expires_at": "2026-11-07T19:07:25.090124-03:00",
       "marca": "Tramontina",
       "price_evidence": {
-        "checked_at": "2026-11-06T21:56:47.765553+00:00",
+        "checked_at": "2026-11-06T22:13:26.170327+00:00",
         "identity": {
           "brand": "Tramontina",
           "model": null,
@@ -2320,11 +2294,11 @@
       "avaliacoes": null,
       "vendas": 194,
       "nota_qualidade": 9,
-      "last_seen": "2026-11-06T21:54:24.179707+00:00",
-      "expires_at": "2026-11-07T18:54:24.179707-03:00",
+      "last_seen": "2026-11-06T22:07:25.090124+00:00",
+      "expires_at": "2026-11-07T19:07:25.090124-03:00",
       "marca": "Tramontina",
       "price_evidence": {
-        "checked_at": "2026-11-06T21:56:47.765553+00:00",
+        "checked_at": "2026-11-06T22:13:26.170327+00:00",
         "identity": {
           "brand": "Tramontina",
           "model": null,
@@ -2336,14 +2310,10 @@
         },
         "previous_min": 99.0,
         "observed_min": 99.0,
-        "since": "2026-10-07T22:01:50.180166+00:00",
+        "since": "2026-10-08T04:12:18.667285+00:00",
         "observations": 120,
-        "days": 31,
+        "days": 30,
         "history": [
-          {
-            "at": "2026-10-27T16:07:33.792975+00:00",
-            "price": 109.0
-          },
           {
             "at": "2026-10-27T22:08:43.100049+00:00",
             "price": 109.0
@@ -2499,6 +2469,10 @@
           {
             "at": "2026-11-06T16:04:01.793085+00:00",
             "price": 103.55
+          },
+          {
+            "at": "2026-11-06T22:13:26.170327+00:00",
+            "price": 103.55
           }
         ],
         "advantage": false,
@@ -2526,11 +2500,11 @@
       "avaliacoes": null,
       "vendas": 292,
       "nota_qualidade": 9,
-      "last_seen": "2026-11-06T21:54:24.179707+00:00",
-      "expires_at": "2026-11-07T18:54:24.179707-03:00",
+      "last_seen": "2026-11-06T22:07:25.090124+00:00",
+      "expires_at": "2026-11-07T19:07:25.090124-03:00",
       "marca": "Tramontina",
       "price_evidence": {
-        "checked_at": "2026-11-06T21:56:47.765553+00:00",
+        "checked_at": "2026-11-06T22:13:26.170327+00:00",
         "identity": {
           "brand": "Tramontina",
           "model": null,
@@ -3353,11 +3327,11 @@
       "avaliacoes": null,
       "vendas": 202,
       "nota_qualidade": 9,
-      "last_seen": "2026-11-06T21:54:24.179707+00:00",
-      "expires_at": "2026-11-07T18:54:24.179707-03:00",
+      "last_seen": "2026-11-06T22:07:25.090124+00:00",
+      "expires_at": "2026-11-07T19:07:25.090124-03:00",
       "marca": "Tramontina",
       "price_evidence": {
-        "checked_at": "2026-11-06T21:56:47.765553+00:00",
+        "checked_at": "2026-11-06T22:13:26.170327+00:00",
         "identity": {
           "brand": "Tramontina",
           "model": null,
@@ -3369,14 +3343,10 @@
         },
         "previous_min": 110.0,
         "observed_min": 110.0,
-        "since": "2026-10-07T22:01:50.180166+00:00",
+        "since": "2026-10-08T04:12:18.667285+00:00",
         "observations": 121,
-        "days": 31,
+        "days": 30,
         "history": [
-          {
-            "at": "2026-10-27T18:29:49.980086+00:00",
-            "price": 129.6
-          },
           {
             "at": "2026-10-28T00:46:24.907025+00:00",
             "price": 129.6
@@ -3532,6 +3502,10 @@
           {
             "at": "2026-11-06T16:04:01.793085+00:00",
             "price": 123.12
+          },
+          {
+            "at": "2026-11-06T22:13:26.170327+00:00",
+            "price": 123.12
           }
         ],
         "advantage": false,
@@ -3559,11 +3533,11 @@
       "avaliacoes": null,
       "vendas": 587,
       "nota_qualidade": 9,
-      "last_seen": "2026-11-06T21:54:24.179707+00:00",
-      "expires_at": "2026-11-07T18:54:24.179707-03:00",
+      "last_seen": "2026-11-06T22:07:25.090124+00:00",
+      "expires_at": "2026-11-07T19:07:25.090124-03:00",
       "marca": "Mondial",
       "price_evidence": {
-        "checked_at": "2026-11-06T21:56:47.765553+00:00",
+        "checked_at": "2026-11-06T22:13:26.170327+00:00",
         "identity": {
           "brand": "Mondial",
           "model": "afn-50",
@@ -3971,11 +3945,11 @@
       "avaliacoes": null,
       "vendas": 923,
       "nota_qualidade": 9,
-      "last_seen": "2026-11-06T21:54:24.179707+00:00",
-      "expires_at": "2026-11-07T18:54:24.179707-03:00",
+      "last_seen": "2026-11-06T22:07:25.090124+00:00",
+      "expires_at": "2026-11-07T19:07:25.090124-03:00",
       "marca": "Tramontina",
       "price_evidence": {
-        "checked_at": "2026-11-06T21:56:47.765553+00:00",
+        "checked_at": "2026-11-06T22:13:26.170327+00:00",
         "identity": {
           "brand": "Tramontina",
           "model": null,
@@ -4366,212 +4340,6 @@
       "cupom_telegram_url": null
     },
     {
-      "source_id": "23293788558",
-      "titulo": "Placa-Mãe AMD AM4 Asus TUF GAMING B550M-Plus - 90MB14A0-C1BAY0",
-      "de": null,
-      "por": 809.0,
-      "desconto": 38,
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m71303iaqpuv88",
-      "link": "https://s.shopee.com.br/5fq4f6juoi",
-      "cupom": null,
-      "loja": "shopee",
-      "categoria": "Hardware",
-      "data": "2026-09-10T06:27:22.795034-03:00",
-      "slug": "shopee-asus-am4-codigo-90mb14a0-c1bay0-codigo-b550m-plus-kit-1",
-      "page_url": "https://promoninjaofertas.github.io/produto/shopee-asus-am4-codigo-90mb14a0-c1bay0-codigo-b550m-plus-kit-1.html",
-      "avaliacao": 4.9,
-      "avaliacoes": null,
-      "vendas": 1252,
-      "nota_qualidade": 10,
-      "last_seen": "2026-11-06T03:01:43.273998+00:00",
-      "expires_at": "2026-11-07T00:01:43.273998-03:00",
-      "marca": "Asus",
-      "price_evidence": {
-        "checked_at": "2026-11-06T03:08:28.805937+00:00",
-        "identity": {
-          "brand": "Asus",
-          "model": "am4",
-          "family": "outros",
-          "kind": "produto",
-          "variant": "codigo:90mb14a0-c1bay0|codigo:b550m-plus|kit:1",
-          "ambiguous": false,
-          "comparison_key": "asus|am4|codigo:90mb14a0-c1bay0|codigo:b550m-plus|kit:1"
-        },
-        "previous_min": 770.0,
-        "observed_min": 770.0,
-        "since": "2026-10-07T05:19:18.149872+00:00",
-        "observations": 93,
-        "days": 25,
-        "history": [
-          {
-            "at": "2026-10-27T08:05:13.894812+00:00",
-            "price": 809.0
-          },
-          {
-            "at": "2026-10-27T14:05:41.375362+00:00",
-            "price": 809.0
-          },
-          {
-            "at": "2026-10-27T20:08:29.491993+00:00",
-            "price": 809.0
-          },
-          {
-            "at": "2026-10-28T02:22:25.393621+00:00",
-            "price": 809.0
-          },
-          {
-            "at": "2026-10-28T08:32:25.465698+00:00",
-            "price": 809.0
-          },
-          {
-            "at": "2026-10-28T14:47:38.283470+00:00",
-            "price": 809.0
-          },
-          {
-            "at": "2026-10-28T20:55:08.738149+00:00",
-            "price": 809.0
-          },
-          {
-            "at": "2026-10-29T03:04:40.796361+00:00",
-            "price": 809.0
-          },
-          {
-            "at": "2026-10-29T04:34:54.618140+00:00",
-            "price": 770.0
-          },
-          {
-            "at": "2026-10-29T10:39:09.665881+00:00",
-            "price": 770.0
-          },
-          {
-            "at": "2026-10-29T16:45:44.616874+00:00",
-            "price": 770.0
-          },
-          {
-            "at": "2026-10-29T22:47:04.384698+00:00",
-            "price": 770.0
-          },
-          {
-            "at": "2026-10-30T04:53:38.329190+00:00",
-            "price": 770.0
-          },
-          {
-            "at": "2026-10-30T10:59:16.232120+00:00",
-            "price": 770.0
-          },
-          {
-            "at": "2026-10-30T15:13:39.913178+00:00",
-            "price": 809.0
-          },
-          {
-            "at": "2026-10-30T21:14:23.913935+00:00",
-            "price": 809.0
-          },
-          {
-            "at": "2026-10-31T03:24:54.615502+00:00",
-            "price": 809.0
-          },
-          {
-            "at": "2026-10-31T09:32:40.215913+00:00",
-            "price": 809.0
-          },
-          {
-            "at": "2026-10-31T15:43:54.452045+00:00",
-            "price": 809.0
-          },
-          {
-            "at": "2026-10-31T21:57:16.722385+00:00",
-            "price": 809.0
-          },
-          {
-            "at": "2026-11-01T03:59:38.795352+00:00",
-            "price": 809.0
-          },
-          {
-            "at": "2026-11-01T10:01:25.630739+00:00",
-            "price": 809.0
-          },
-          {
-            "at": "2026-11-01T16:02:36.184209+00:00",
-            "price": 809.0
-          },
-          {
-            "at": "2026-11-01T22:06:15.482345+00:00",
-            "price": 809.0
-          },
-          {
-            "at": "2026-11-02T04:12:17.922091+00:00",
-            "price": 809.0
-          },
-          {
-            "at": "2026-11-02T10:25:48.403351+00:00",
-            "price": 809.0
-          },
-          {
-            "at": "2026-11-02T16:28:41.907970+00:00",
-            "price": 809.0
-          },
-          {
-            "at": "2026-11-02T22:28:46.443404+00:00",
-            "price": 809.0
-          },
-          {
-            "at": "2026-11-03T04:40:02.486583+00:00",
-            "price": 809.0
-          },
-          {
-            "at": "2026-11-03T10:50:46.336327+00:00",
-            "price": 809.0
-          },
-          {
-            "at": "2026-11-03T16:58:16.040983+00:00",
-            "price": 809.0
-          },
-          {
-            "at": "2026-11-03T22:59:18.801716+00:00",
-            "price": 809.0
-          },
-          {
-            "at": "2026-11-04T05:08:49.606093+00:00",
-            "price": 809.0
-          },
-          {
-            "at": "2026-11-04T11:16:25.884914+00:00",
-            "price": 809.0
-          },
-          {
-            "at": "2026-11-04T17:18:34.697895+00:00",
-            "price": 809.0
-          },
-          {
-            "at": "2026-11-04T23:25:34.787859+00:00",
-            "price": 809.0
-          },
-          {
-            "at": "2026-11-05T05:26:43.197583+00:00",
-            "price": 809.0
-          },
-          {
-            "at": "2026-11-05T11:45:19.910910+00:00",
-            "price": 809.0
-          },
-          {
-            "at": "2026-11-05T20:24:13.510055+00:00",
-            "price": 809.0
-          },
-          {
-            "at": "2026-11-06T03:08:28.805937+00:00",
-            "price": 809.0
-          }
-        ],
-        "advantage": false,
-        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
-      },
-      "grupo": "Gamer",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
-    },
-    {
       "source_id": "55214478888",
       "titulo": "Caixa de Som Portátil JBL GO 5 Preto Original Bluetooth À Prova D'água Iluminação e Auracast",
       "de": null,
@@ -4774,6 +4542,212 @@
         "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
       },
       "grupo": "Tech",
+      "cupom_no_telegram": false,
+      "cupom_telegram_url": null
+    },
+    {
+      "source_id": "23293788558",
+      "titulo": "Placa-Mãe AMD AM4 Asus TUF GAMING B550M-Plus - 90MB14A0-C1BAY0",
+      "de": null,
+      "por": 809.0,
+      "desconto": 38,
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m71303iaqpuv88",
+      "link": "https://s.shopee.com.br/5fq4f6juoi",
+      "cupom": null,
+      "loja": "shopee",
+      "categoria": "Hardware",
+      "data": "2026-09-10T06:27:22.795034-03:00",
+      "slug": "shopee-asus-am4-codigo-90mb14a0-c1bay0-codigo-b550m-plus-kit-1",
+      "page_url": "https://promoninjaofertas.github.io/produto/shopee-asus-am4-codigo-90mb14a0-c1bay0-codigo-b550m-plus-kit-1.html",
+      "avaliacao": 4.9,
+      "avaliacoes": null,
+      "vendas": 1252,
+      "nota_qualidade": 10,
+      "last_seen": "2026-11-06T03:01:43.273998+00:00",
+      "expires_at": "2026-11-07T00:01:43.273998-03:00",
+      "marca": "Asus",
+      "price_evidence": {
+        "checked_at": "2026-11-06T03:08:28.805937+00:00",
+        "identity": {
+          "brand": "Asus",
+          "model": "am4",
+          "family": "outros",
+          "kind": "produto",
+          "variant": "codigo:90mb14a0-c1bay0|codigo:b550m-plus|kit:1",
+          "ambiguous": false,
+          "comparison_key": "asus|am4|codigo:90mb14a0-c1bay0|codigo:b550m-plus|kit:1"
+        },
+        "previous_min": 770.0,
+        "observed_min": 770.0,
+        "since": "2026-10-07T05:19:18.149872+00:00",
+        "observations": 93,
+        "days": 25,
+        "history": [
+          {
+            "at": "2026-10-27T08:05:13.894812+00:00",
+            "price": 809.0
+          },
+          {
+            "at": "2026-10-27T14:05:41.375362+00:00",
+            "price": 809.0
+          },
+          {
+            "at": "2026-10-27T20:08:29.491993+00:00",
+            "price": 809.0
+          },
+          {
+            "at": "2026-10-28T02:22:25.393621+00:00",
+            "price": 809.0
+          },
+          {
+            "at": "2026-10-28T08:32:25.465698+00:00",
+            "price": 809.0
+          },
+          {
+            "at": "2026-10-28T14:47:38.283470+00:00",
+            "price": 809.0
+          },
+          {
+            "at": "2026-10-28T20:55:08.738149+00:00",
+            "price": 809.0
+          },
+          {
+            "at": "2026-10-29T03:04:40.796361+00:00",
+            "price": 809.0
+          },
+          {
+            "at": "2026-10-29T04:34:54.618140+00:00",
+            "price": 770.0
+          },
+          {
+            "at": "2026-10-29T10:39:09.665881+00:00",
+            "price": 770.0
+          },
+          {
+            "at": "2026-10-29T16:45:44.616874+00:00",
+            "price": 770.0
+          },
+          {
+            "at": "2026-10-29T22:47:04.384698+00:00",
+            "price": 770.0
+          },
+          {
+            "at": "2026-10-30T04:53:38.329190+00:00",
+            "price": 770.0
+          },
+          {
+            "at": "2026-10-30T10:59:16.232120+00:00",
+            "price": 770.0
+          },
+          {
+            "at": "2026-10-30T15:13:39.913178+00:00",
+            "price": 809.0
+          },
+          {
+            "at": "2026-10-30T21:14:23.913935+00:00",
+            "price": 809.0
+          },
+          {
+            "at": "2026-10-31T03:24:54.615502+00:00",
+            "price": 809.0
+          },
+          {
+            "at": "2026-10-31T09:32:40.215913+00:00",
+            "price": 809.0
+          },
+          {
+            "at": "2026-10-31T15:43:54.452045+00:00",
+            "price": 809.0
+          },
+          {
+            "at": "2026-10-31T21:57:16.722385+00:00",
+            "price": 809.0
+          },
+          {
+            "at": "2026-11-01T03:59:38.795352+00:00",
+            "price": 809.0
+          },
+          {
+            "at": "2026-11-01T10:01:25.630739+00:00",
+            "price": 809.0
+          },
+          {
+            "at": "2026-11-01T16:02:36.184209+00:00",
+            "price": 809.0
+          },
+          {
+            "at": "2026-11-01T22:06:15.482345+00:00",
+            "price": 809.0
+          },
+          {
+            "at": "2026-11-02T04:12:17.922091+00:00",
+            "price": 809.0
+          },
+          {
+            "at": "2026-11-02T10:25:48.403351+00:00",
+            "price": 809.0
+          },
+          {
+            "at": "2026-11-02T16:28:41.907970+00:00",
+            "price": 809.0
+          },
+          {
+            "at": "2026-11-02T22:28:46.443404+00:00",
+            "price": 809.0
+          },
+          {
+            "at": "2026-11-03T04:40:02.486583+00:00",
+            "price": 809.0
+          },
+          {
+            "at": "2026-11-03T10:50:46.336327+00:00",
+            "price": 809.0
+          },
+          {
+            "at": "2026-11-03T16:58:16.040983+00:00",
+            "price": 809.0
+          },
+          {
+            "at": "2026-11-03T22:59:18.801716+00:00",
+            "price": 809.0
+          },
+          {
+            "at": "2026-11-04T05:08:49.606093+00:00",
+            "price": 809.0
+          },
+          {
+            "at": "2026-11-04T11:16:25.884914+00:00",
+            "price": 809.0
+          },
+          {
+            "at": "2026-11-04T17:18:34.697895+00:00",
+            "price": 809.0
+          },
+          {
+            "at": "2026-11-04T23:25:34.787859+00:00",
+            "price": 809.0
+          },
+          {
+            "at": "2026-11-05T05:26:43.197583+00:00",
+            "price": 809.0
+          },
+          {
+            "at": "2026-11-05T11:45:19.910910+00:00",
+            "price": 809.0
+          },
+          {
+            "at": "2026-11-05T20:24:13.510055+00:00",
+            "price": 809.0
+          },
+          {
+            "at": "2026-11-06T03:08:28.805937+00:00",
+            "price": 809.0
+          }
+        ],
+        "advantage": false,
+        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
+      },
+      "grupo": "Gamer",
       "cupom_no_telegram": false,
       "cupom_telegram_url": null
     },
@@ -5296,32 +5270,6 @@
       "cupom_telegram_url": null
     },
     {
-      "source_id": "1005011755232439",
-      "titulo": "Fones de Ouvido Sem Fio HAYLOU Flowbuds N55 com ANC Adaptativo de 54dB, Bluetooth 6.0, Áudio Hi-Res LDAC, Chamadas HD com 6 Microfones, 40 Horas de Reprodução, IPX5",
-      "de": 306.64,
-      "por": 142.54,
-      "desconto": 53,
-      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Aa6398bb2072e498882bb7ce74a9db186o.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4k8NtTg5ZtgV4CqMBydRmsEfXSI8bKt3MGX1GA6wTR4ZtcAK4OmIeI9hbUMhTvFxmnfn6Aff3Y8W00TcIv7ePDWf5bPnHQlNR98ZrXULjkHiNgfNVdxqM3tgImTfPTw6IBZdq4x5BqzozAEQf1xPZVwJhflcMUm2o8cZEwDt6encV1roTZajCR7gAdnDvBcLr2msjU58Ys2eMMDQTKJ8IklXk05wena81K92nZEqRfeBoeUOV1M7tn5XEE80RY6BaSUtRFCllutun1djUbXy8QqILQYJxdxU9ItEK1VGACI2kFwUVm5HGJUHjotJQmrSzCJtD4LWImOoIXoJ3988IKjEEzchb7AleAIOwmly5g3Bv7ZoXAcOQhEDC1lRyDWhEP7FoekzXaXWpZR3qZaMcj3Uk0GXgKZNwnKeTmFTBwa8l0SMvJk4oOJJJlfusrCddA87aLDbZCtWKt3kr1CA1Q7zHTsgp7mILpQbA8gxzBzsvX453RDJSVL4HMqGQWtGZ5z1OXUDCbp4ovMfZisSJ4fdYlkMg0A3eShVtBF2fwxa0Vxfz1ubQcwRVzWGYDfLNkUxJhnAVhPTIJjlKrQTEcFUNrSdBCNHQNhCAGZuwxSAjd4fhfUYqcBx5hA1J5b6MGFpKgr7peB0StWuZWs5DRrdoxAqsPruthNFZnuhFHnha5gywhwexbyZFhRiy2U16VteOaZoBv3iUa",
-      "cupom": null,
-      "loja": "aliexpress",
-      "categoria": "Audio",
-      "data": "2026-11-02T17:03:49.690938-03:00",
-      "slug": "fones-de-ouvido-sem-fio-haylou-flowbuds-n55-com-anc-adaptativo-de-54db-bluetooth",
-      "page_url": "https://promoninjaofertas.github.io/produto/fones-de-ouvido-sem-fio-haylou-flowbuds-n55-com-anc-adaptativo-de-54db-bluetooth.html",
-      "avaliacao": 4.720000000000001,
-      "avaliacoes": null,
-      "vendas": 4665,
-      "nota_qualidade": 8,
-      "last_seen": "2026-11-06T18:25:08.598690+00:00",
-      "expires_at": "2026-11-07T15:25:08.598690-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Tech",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
-    },
-    {
       "source_id": "1005007739555426",
       "titulo": "Bettdow Fones De Ouvido Sem Fio Bluetooth 5.3 Esportes À prova d'água e redução de ruído",
       "de": 99.0,
@@ -5364,6 +5312,32 @@
       "avaliacao": 4.85,
       "avaliacoes": null,
       "vendas": 3781,
+      "nota_qualidade": 8,
+      "last_seen": "2026-11-06T18:25:08.598690+00:00",
+      "expires_at": "2026-11-07T15:25:08.598690-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Tech",
+      "cupom_no_telegram": false,
+      "cupom_telegram_url": null
+    },
+    {
+      "source_id": "1005011755232439",
+      "titulo": "Fones de Ouvido Sem Fio HAYLOU Flowbuds N55 com ANC Adaptativo de 54dB, Bluetooth 6.0, Áudio Hi-Res LDAC, Chamadas HD com 6 Microfones, 40 Horas de Reprodução, IPX5",
+      "de": 306.64,
+      "por": 142.54,
+      "desconto": 53,
+      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Aa6398bb2072e498882bb7ce74a9db186o.jpg",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4k8NtTg5ZtgV4CqMBydRmsEfXSI8bKt3MGX1GA6wTR4ZtcAK4OmIeI9hbUMhTvFxmnfn6Aff3Y8W00TcIv7ePDWf5bPnHQlNR98ZrXULjkHiNgfNVdxqM3tgImTfPTw6IBZdq4x5BqzozAEQf1xPZVwJhflcMUm2o8cZEwDt6encV1roTZajCR7gAdnDvBcLr2msjU58Ys2eMMDQTKJ8IklXk05wena81K92nZEqRfeBoeUOV1M7tn5XEE80RY6BaSUtRFCllutun1djUbXy8QqILQYJxdxU9ItEK1VGACI2kFwUVm5HGJUHjotJQmrSzCJtD4LWImOoIXoJ3988IKjEEzchb7AleAIOwmly5g3Bv7ZoXAcOQhEDC1lRyDWhEP7FoekzXaXWpZR3qZaMcj3Uk0GXgKZNwnKeTmFTBwa8l0SMvJk4oOJJJlfusrCddA87aLDbZCtWKt3kr1CA1Q7zHTsgp7mILpQbA8gxzBzsvX453RDJSVL4HMqGQWtGZ5z1OXUDCbp4ovMfZisSJ4fdYlkMg0A3eShVtBF2fwxa0Vxfz1ubQcwRVzWGYDfLNkUxJhnAVhPTIJjlKrQTEcFUNrSdBCNHQNhCAGZuwxSAjd4fhfUYqcBx5hA1J5b6MGFpKgr7peB0StWuZWs5DRrdoxAqsPruthNFZnuhFHnha5gywhwexbyZFhRiy2U16VteOaZoBv3iUa",
+      "cupom": null,
+      "loja": "aliexpress",
+      "categoria": "Audio",
+      "data": "2026-11-02T17:03:49.690938-03:00",
+      "slug": "fones-de-ouvido-sem-fio-haylou-flowbuds-n55-com-anc-adaptativo-de-54db-bluetooth",
+      "page_url": "https://promoninjaofertas.github.io/produto/fones-de-ouvido-sem-fio-haylou-flowbuds-n55-com-anc-adaptativo-de-54db-bluetooth.html",
+      "avaliacao": 4.720000000000001,
+      "avaliacoes": null,
+      "vendas": 4665,
       "nota_qualidade": 8,
       "last_seen": "2026-11-06T18:25:08.598690+00:00",
       "expires_at": "2026-11-07T15:25:08.598690-03:00",
@@ -5428,11 +5402,11 @@
     {
       "source_id": "1005012332251767",
       "titulo": "NOVA MEMÓRIA RAM DDR4 16GB 32GB 4GB 8GB 3200MHz 2133 2400 2666MHz SODIMM PC4-25600 21300 19200 17000 Para Intel&AMD",
-      "de": 329.18,
-      "por": 164.59,
+      "de": 331.18,
+      "por": 165.59,
       "desconto": 50,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S18f5dff44c37440591f45070f14f6549y.png",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4k7YWZuymJKv5fUo6NWenYQdoHUqFVOE1SFLNwre1ON4nRmAaLJeDTLNPn9NSSBCi5SCxdLgtqTjRdKNakx2wN1P5LaVBo59hT3xMLm3Ch6ISLS7Xo8Gi4Reo2kV611oUOQysCispIYS0q7De4JlPjA8mzCMnybiTZkmBD8WsLCYglAZ1cv6Jz84JlLZISbKuPSMFchAqB2j9sCGdmmMpz3UN9yVpx6xEHBScC8wKmVwog1QDdHLy50IBS8jB5tqVxGJuhWlirjaFIkeY6QMEbJGpaI6EsIZ3HCZFHyvh65WO0FaQwznPIb6F8DN2LtEuSxrYNVUxbWHpzLN56jO5nPThblB3ARXeTHnaZTTy35h756Y176TGNklM0p0SOJFsaeLQV3wc3oCAt7lzFAOsrpfnzo1IREl5Uqgi8eWIspcc9QQKHhSdiccdDwQvrwzpWBc01VAae7sP1sIpqMMSGYeZzybWQ5QWa7THBJ3nnIgLmtPJGaQO2hMMUQFE4H9B5AMC9wBgAjoYYZ9ala8MQXGy430eozjtEF901tmcEGm9Zena8UbChPPOM6cJW5BHdqzJZYLwsTL6a8uRqdL6fgD3oO2RIQM0BOHgHho8rIALtXdEh7zaaBcYA7hHAXHcDs8Bpxj7p1ibTPSRxTwqqU9hBJSDMHpHC53zBnoWMareJegMdtbuPanYWGgpiQGNNuqQfkWzdkudX",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4k7YWZuymJKv5fUo6NWenYQdoHUqFVOE1SFLNwre1ON4nRmAaLJeDTLNPn9NSSBCi5SCxdLgtqTjRdKNakx2wN1P5LaVBo59hT3xMLm3Ch6ISLS7Xo8Gi4Reo2kV611oUOQysCispIYS0q7De4JlPjA8mzCMnybiTZkmBD8WsLCYglAZ1cv6Jz84JlLZISbKuPSMFchAqB2j9sCGdmmMpz3UN9yVpx6xEHBScC9IqDjE3g5ieefA81HkKpabE4JWELoJfbjFCSZipPMpNZ4ABOyUfvelADwu0WJnbDIfgSex7E5yrHaDHB9V7PxcOrpQAdM3iXXhsJMv3G9BlKTlheQPpZrkbK4SSbDSu9N6WNH6cxz3dAFdY8VvKUKx7LZs6xRKykH2V8RwclVeihYFaTf3oeKVUT6sw9lDfFVwZMOYjq4E2aBBGAe413w7rZnXXz3tQ8vi2iO0Pyfr3ioWGeYA0k2tLN3CuryZq4DIXSSvoWSwaTWf2banelDABP3GAa9yssv1MquAY11dkH9JTZUYuKwLS1Eju1vyCfnEy5Y9v8rqs6OI1eqnsSJed8aNrsPazhWX7e2GjrhCOZifkKodO5aGEbk0d5LeZ80FB0RT2JL1o8EQfGvT39zjWOWNi4V8Tr8BfC9c8gPbFRDLcaVQsCShwYYcSDXv2IrAnRuaehsPF2CRMDGiNrOY7tAuIGvkdCLWNRci1r",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Hardware",
@@ -5441,10 +5415,10 @@
       "page_url": "https://promoninjaofertas.github.io/produto/nova-memoria-ram-ddr4-16gb-32gb-4gb-8gb-3200mhz-2133-2400-2666mhz-sodimm-pc4.html",
       "avaliacao": 4.695,
       "avaliacoes": null,
-      "vendas": 292,
+      "vendas": 294,
       "nota_qualidade": 9,
-      "last_seen": "2026-11-06T13:00:54.119693+00:00",
-      "expires_at": "2026-11-07T10:00:54.119693-03:00",
+      "last_seen": "2026-11-06T22:07:25.090124+00:00",
+      "expires_at": "2026-11-07T19:07:25.090124-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech",
@@ -5792,11 +5766,11 @@
     {
       "source_id": "1005009639277716",
       "titulo": "Kingston memória ram ddr3 8gb 16gb (2x8gb) kit 1600mhz 1333mhz 1866mhz 2133mhz 2400mhz desktop ram 1.5v dimm PC3-12800 14900",
-      "de": 498.79,
-      "por": 244.43,
-      "desconto": 51,
+      "de": 502.02,
+      "por": 245.99,
+      "desconto": 50,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S76c6a0c979a94773b70c86d697daca4cV.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4FlyPwdszh87fWD4NDIrXo79ErjG3JkI4h3U04iuPdGvYFe5nCXp70CwaAJxms6c873FQtoYXSNXz6UfsjCwyH8FcRol7wOH3gNTuLw1LxPW5v3pZTuapfzjeq9Jd46as4dW6cdFBE5J20GLFQ3Di57eUFeNRzaZswt4VLYTzqoL5ZqouG9hxi0mY72pObPb2Ukf9PR65My21knC0RTQ4i9NjdJ5HHsGTh0X7vtSUnFC24v8SWIbpk69IBG9vJU7MOOStRlYT1yYxtO4dtTG012REmPiC70stxksfoo0V4DeiPSLoIKc2wgStkfYZiEARQOedQJQYZO4EtbHEPUcRzNSv9lTQ3k4K7VNcOuqXETvyj7HO1ryNqYtT8KRh0AxYNsktaIMB4Y1432PerpsqDknVo6B5u5XcrQngLSZdHGJxTZAH8jgkBuAIwb9dNaMcigolttcEY2ybwSoqMzlBoRKnKWYQaTnxDXGvgKanNbzea90ZaM5Mg4nPFjvCLUHgyJ9kSQ9aGDE24J49lYObZ5PYXzjzDxCQIeq0VgMatZH5pOCCGIwFjnH5QbYMt6aixnEBLR9XkBqnwh81dK9oPYY9BaamYvBQyZoH2xWYXJlvX5ANGyLwSZehI5ez855LFNoCwisqcMuaM9FfhucOJ45Ht5IV0qCmqSmo6tvesdUZv5iP7777ehbpScQCAU4stMMxrrRzKOJ3x",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4FlyPwdszh87fWD4NDIrXo79ErjG3JkI4h3U04iuPdGvYFe5nCXp70CwaAJxms6c873FQtoYXSNXz6UfsjCwyH8FcRol7wOH3gNTuLw1LxPW5v3pZTuapfzjeq9Jd46as4dW6cdFBE5J20GLFQ3Di57eUFeNRzaZswt4VLYTzqoL5ZqouG9hxi0mY72pObPb2Ukf9PR65My21knC0RTQ4i9NjdJ5HHsGTh0X7vKO0Esq5490PXg5RsRcEGDxyJcwQxuPxmS4x7ggy81Iay4EppE8k5Sy8dCWeLvVOqPCLMUGuQR04zRGlU1vyJp56R9O791Lvn8rG8dMTDr9VqyhduxzaiHxbVqQHFvkR0I8RRG3zCD3xdaiuMqdEDqxDRSbJGCTAaGi1wluUq9Jy560ZtnmOZL5feRnMs68oCEfokdr5Gaqj6BANVAJZ2EKnzVLClDlmQCRJVQ48df8QaO1mbNs9AtaeSEGV9cDiTJ6rkRH3dVxQQ49pBXmknXbiZ5tb6Ry57FUwwuNFE2biV90h0r7EGcpfjb7S8zz7rjUqbCynn44QCejV5y5A2wsNG8sg4nPSpTVoFD6VAxT2rlfxrJbtKJL76LCjszOpVi3GzZ1leYq5l4IevndK92W17inEAj068kIHDNaAEs9CdDMlLrJaGK6OXusQDB8rOHlf9jfCQEJC7ah7sa50WPASE5hIXEVJGz48JkH5B",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Hardware",
@@ -5805,10 +5779,10 @@
       "page_url": "https://promoninjaofertas.github.io/produto/kingston-memoria-ram-ddr3-8gb-16gb-2x8gb-kit-1600mhz-1333mhz-1866mhz-2133mhz-2400mhz-d.html",
       "avaliacao": 4.8549999999999995,
       "avaliacoes": null,
-      "vendas": 102,
+      "vendas": 100,
       "nota_qualidade": 9,
-      "last_seen": "2026-11-06T13:00:54.119693+00:00",
-      "expires_at": "2026-11-07T10:00:54.119693-03:00",
+      "last_seen": "2026-11-06T22:07:25.090124+00:00",
+      "expires_at": "2026-11-07T19:07:25.090124-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech",
