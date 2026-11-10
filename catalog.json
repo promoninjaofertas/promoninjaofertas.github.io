@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-11-10T10:35:25.675595+00:00",
+  "atualizado": "2026-11-10T10:47:31.986025+00:00",
   "ofertas": [
     {
       "source_id": "pechinchou-158055",
@@ -19,8 +19,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-11-10T10:35:25.675595+00:00",
-      "expires_at": "2026-11-11T07:35:25.675595-03:00",
+      "last_seen": "2026-11-10T10:47:31.986025+00:00",
+      "expires_at": "2026-11-11T07:47:31.986025-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
@@ -45,39 +45,13 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-11-10T10:35:25.675595+00:00",
-      "expires_at": "2026-11-11T07:35:25.675595-03:00",
+      "last_seen": "2026-11-10T10:47:31.986025+00:00",
+      "expires_at": "2026-11-11T07:47:31.986025-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
       "cupom_no_telegram": true,
       "cupom_telegram_url": "https://t.me/promoninjaofertas"
-    },
-    {
-      "source_id": "pechinchou-158046",
-      "titulo": "Creatina Monohidratada Ronnie Coleman Neutra 1,050kg Pó",
-      "de": 89.9,
-      "por": 71.78,
-      "desconto": 20,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/D_NQ_NP_812094-MLA99459850586_112025-F.jpg",
-      "link": "https://meli.la/24hSivU",
-      "cupom": null,
-      "loja": "mercadolivre",
-      "categoria": "Esporte e Lazer",
-      "data": "2026-11-10T00:00:52.290545-03:00",
-      "slug": "creatina-monohidratada-ronnie-coleman-neutra-1-050kg-po",
-      "page_url": "https://promoninjaofertas.github.io/produto/creatina-monohidratada-ronnie-coleman-neutra-1-050kg-po.html",
-      "avaliacao": null,
-      "avaliacoes": null,
-      "vendas": null,
-      "nota_qualidade": 5,
-      "last_seen": "2026-11-10T10:35:25.675595+00:00",
-      "expires_at": "2026-11-11T07:35:25.675595-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Outros",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
     },
     {
       "source_id": "pechinchou-158048",
@@ -97,11 +71,63 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-11-10T10:35:25.675595+00:00",
-      "expires_at": "2026-11-11T07:35:25.675595-03:00",
+      "last_seen": "2026-11-10T10:47:31.986025+00:00",
+      "expires_at": "2026-11-11T07:47:31.986025-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech",
+      "cupom_no_telegram": false,
+      "cupom_telegram_url": null
+    },
+    {
+      "source_id": "pechinchou-128096",
+      "titulo": "Cafeína Dux Nutrition Em Cápsula Sem Sabor X 100g De 90 Un",
+      "de": 39.9,
+      "por": 31.0,
+      "desconto": 22,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/D_NQ_NP_753834-MLA84549768652_052025-O.jpg",
+      "link": "https://meli.la/2CJYXDA",
+      "cupom": null,
+      "loja": "mercadolivre",
+      "categoria": "Esporte e Lazer",
+      "data": "2026-10-16T11:23:08.238672-03:00",
+      "slug": "cafeina-dux-nutrition-em-capsula-sem-sabor-x-100g-de-90-un",
+      "page_url": "https://promoninjaofertas.github.io/produto/cafeina-dux-nutrition-em-capsula-sem-sabor-x-100g-de-90-un.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": null,
+      "nota_qualidade": 5,
+      "last_seen": "2026-11-10T10:47:31.986025+00:00",
+      "expires_at": "2026-11-11T07:47:31.986025-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Outros",
+      "cupom_no_telegram": false,
+      "cupom_telegram_url": null
+    },
+    {
+      "source_id": "pechinchou-128004",
+      "titulo": "Splash Aura Beauty Afrodite Garden",
+      "de": 79.9,
+      "por": 59.85,
+      "desconto": 25,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/D_NQ_NP_931496-MLA113908561825_062026-O.jpg",
+      "link": "https://meli.la/1xNAzhd",
+      "cupom": null,
+      "loja": "mercadolivre",
+      "categoria": "Beleza",
+      "data": "2026-10-15T20:31:07.294906-03:00",
+      "slug": "splash-aura-beauty-afrodite-garden",
+      "page_url": "https://promoninjaofertas.github.io/produto/splash-aura-beauty-afrodite-garden.html",
+      "avaliacao": null,
+      "avaliacoes": 1,
+      "vendas": null,
+      "nota_qualidade": 5,
+      "last_seen": "2026-11-10T10:47:31.986025+00:00",
+      "expires_at": "2026-11-11T07:47:31.986025-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Moda",
       "cupom_no_telegram": false,
       "cupom_telegram_url": null
     },
@@ -123,8 +149,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-11-10T10:35:25.675595+00:00",
-      "expires_at": "2026-11-11T07:35:25.675595-03:00",
+      "last_seen": "2026-11-10T10:47:31.986025+00:00",
+      "expires_at": "2026-11-11T07:47:31.986025-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech",
@@ -149,8 +175,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-11-10T10:35:25.675595+00:00",
-      "expires_at": "2026-11-11T07:35:25.675595-03:00",
+      "last_seen": "2026-11-10T10:47:31.986025+00:00",
+      "expires_at": "2026-11-11T07:47:31.986025-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -175,60 +201,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-11-10T10:35:25.675595+00:00",
-      "expires_at": "2026-11-11T07:35:25.675595-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Moda",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
-    },
-    {
-      "source_id": "pechinchou-153232",
-      "titulo": "Kit Braé Essential Shampoo + Condicionador + Máscara + Fluido",
-      "de": 179.9,
-      "por": 142.0,
-      "desconto": 21,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/D_NQ_NP_616977-MLA107260316050_032026-F_seR5kmH.jpg",
-      "link": "https://meli.la/1ThVTk9",
-      "cupom": null,
-      "loja": "mercadolivre",
-      "categoria": "Saúde",
-      "data": "2026-09-25T09:46:01.216754-03:00",
-      "slug": "kit-brae-essential-shampoo-condicionador-mascara-fluido",
-      "page_url": "https://promoninjaofertas.github.io/produto/kit-brae-essential-shampoo-condicionador-mascara-fluido.html",
-      "avaliacao": null,
-      "avaliacoes": null,
-      "vendas": null,
-      "nota_qualidade": 5,
-      "last_seen": "2026-11-10T10:35:25.675595+00:00",
-      "expires_at": "2026-11-11T07:35:25.675595-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Outros",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
-    },
-    {
-      "source_id": "pechinchou-152629",
-      "titulo": "Relógio Masculino Preto Saint Germain Houston Full Black 40mm Fundo Preto",
-      "de": 149.9,
-      "por": 124.0,
-      "desconto": 17,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/D_NQ_NP_956846-MLA99963696157_112025-F.jpg",
-      "link": "https://meli.la/1BJHfbY",
-      "cupom": null,
-      "loja": "mercadolivre",
-      "categoria": "Beleza",
-      "data": "2026-09-20T10:24:59.934419-03:00",
-      "slug": "relogio-masculino-preto-saint-germain-houston-full-black-40mm-fundo-preto",
-      "page_url": "https://promoninjaofertas.github.io/produto/relogio-masculino-preto-saint-germain-houston-full-black-40mm-fundo-preto.html",
-      "avaliacao": null,
-      "avaliacoes": null,
-      "vendas": null,
-      "nota_qualidade": 5,
-      "last_seen": "2026-11-10T10:35:25.675595+00:00",
-      "expires_at": "2026-11-11T07:35:25.675595-03:00",
+      "last_seen": "2026-11-10T10:47:31.986025+00:00",
+      "expires_at": "2026-11-11T07:47:31.986025-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
@@ -253,11 +227,37 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-11-10T10:35:25.675595+00:00",
-      "expires_at": "2026-11-11T07:35:25.675595-03:00",
+      "last_seen": "2026-11-10T10:47:31.986025+00:00",
+      "expires_at": "2026-11-11T07:47:31.986025-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech",
+      "cupom_no_telegram": false,
+      "cupom_telegram_url": null
+    },
+    {
+      "source_id": "pechinchou-152629",
+      "titulo": "Relógio Masculino Preto Saint Germain Houston Full Black 40mm Fundo Preto",
+      "de": 149.9,
+      "por": 124.0,
+      "desconto": 17,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/D_NQ_NP_956846-MLA99963696157_112025-F.jpg",
+      "link": "https://meli.la/1BJHfbY",
+      "cupom": null,
+      "loja": "mercadolivre",
+      "categoria": "Beleza",
+      "data": "2026-09-20T10:24:59.934419-03:00",
+      "slug": "relogio-masculino-preto-saint-germain-houston-full-black-40mm-fundo-preto",
+      "page_url": "https://promoninjaofertas.github.io/produto/relogio-masculino-preto-saint-germain-houston-full-black-40mm-fundo-preto.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": null,
+      "nota_qualidade": 5,
+      "last_seen": "2026-11-10T10:47:31.986025+00:00",
+      "expires_at": "2026-11-11T07:47:31.986025-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Moda",
       "cupom_no_telegram": false,
       "cupom_telegram_url": null
     },
@@ -279,8 +279,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-11-10T10:35:25.675595+00:00",
-      "expires_at": "2026-11-11T07:35:25.675595-03:00",
+      "last_seen": "2026-11-10T10:47:31.986025+00:00",
+      "expires_at": "2026-11-11T07:47:31.986025-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -305,8 +305,34 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-11-10T10:35:25.675595+00:00",
-      "expires_at": "2026-11-11T07:35:25.675595-03:00",
+      "last_seen": "2026-11-10T10:47:31.986025+00:00",
+      "expires_at": "2026-11-11T07:47:31.986025-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Outros",
+      "cupom_no_telegram": false,
+      "cupom_telegram_url": null
+    },
+    {
+      "source_id": "pechinchou-105655",
+      "titulo": "Protetor Solar Em Gel Skin Aqua Uv Super Moisture",
+      "de": 99.9,
+      "por": 77.52,
+      "desconto": 22,
+      "imagem": "https://m.media-amazon.com/images/I/611d+ihNx0L._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0BVRQCZQC?tag=promoninja0b2-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Beleza",
+      "data": "2026-11-10T07:47:31.986025-03:00",
+      "slug": "protetor-solar-em-gel-skin-aqua-uv-super-moisture",
+      "page_url": "https://promoninjaofertas.github.io/produto/protetor-solar-em-gel-skin-aqua-uv-super-moisture.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": null,
+      "nota_qualidade": 5,
+      "last_seen": "2026-11-10T10:47:31.986025+00:00",
+      "expires_at": "2026-11-11T07:47:31.986025-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -331,8 +357,8 @@
       "avaliacoes": 4,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-11-10T10:35:25.675595+00:00",
-      "expires_at": "2026-11-11T07:35:25.675595-03:00",
+      "last_seen": "2026-11-10T10:47:31.986025+00:00",
+      "expires_at": "2026-11-11T07:47:31.986025-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech",
@@ -345,7 +371,7 @@
       "de": 37.9,
       "por": 34.05,
       "desconto": 10,
-      "imagem": "https://m.media-amazon.com/images/I/61l4aWM61rL._SL1500_.jpg",
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/external-image_GVg9A8J.jpg",
       "link": "https://www.amazon.com.br/dp/B07NFPNPWM?tag=promoninja0b2-20",
       "cupom": null,
       "loja": "amazon",
@@ -357,34 +383,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-11-10T10:35:25.675595+00:00",
-      "expires_at": "2026-11-11T07:35:25.675595-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Outros",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
-    },
-    {
-      "source_id": "pechinchou-20902",
-      "titulo": "Britânia Pipoqueira, Pop Time, Branco, 127v, 62551001 Plástico E Metal",
-      "de": 149.9,
-      "por": 118.0,
-      "desconto": 21,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/61lJjtLR5uL_WqnIZi6._AC_SL1000_.jpg",
-      "link": "https://www.amazon.com.br/dp/B076BB2NCN?tag=promoninja0b2-20",
-      "cupom": null,
-      "loja": "amazon",
-      "categoria": "Eletroportáteis",
-      "data": "2026-11-05T15:48:50.611876-03:00",
-      "slug": "britania-pipoqueira-pop-time-branco-127v-62551001-plastico-e-metal",
-      "page_url": "https://promoninjaofertas.github.io/produto/britania-pipoqueira-pop-time-branco-127v-62551001-plastico-e-metal.html",
-      "avaliacao": null,
-      "avaliacoes": 5,
-      "vendas": null,
-      "nota_qualidade": 5,
-      "last_seen": "2026-11-10T10:35:25.675595+00:00",
-      "expires_at": "2026-11-11T07:35:25.675595-03:00",
+      "last_seen": "2026-11-10T10:47:31.986025+00:00",
+      "expires_at": "2026-11-11T07:47:31.986025-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -409,8 +409,8 @@
       "avaliacoes": 10,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-11-10T10:35:25.675595+00:00",
-      "expires_at": "2026-11-11T07:35:25.675595-03:00",
+      "last_seen": "2026-11-10T10:47:31.986025+00:00",
+      "expires_at": "2026-11-11T07:47:31.986025-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
@@ -435,8 +435,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 7,
-      "last_seen": "2026-11-10T10:35:25.675595+00:00",
-      "expires_at": "2026-11-11T07:35:25.675595-03:00",
+      "last_seen": "2026-11-10T10:47:31.986025+00:00",
+      "expires_at": "2026-11-11T07:47:31.986025-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -461,8 +461,8 @@
       "avaliacoes": 2,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-11-10T10:35:25.675595+00:00",
-      "expires_at": "2026-11-11T07:35:25.675595-03:00",
+      "last_seen": "2026-11-10T10:47:31.986025+00:00",
+      "expires_at": "2026-11-11T07:47:31.986025-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -475,7 +475,7 @@
       "de": 2279.9,
       "por": 1425.98,
       "desconto": 37,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/51mAw8s7w0L.__AC_SY300_SX300_QL70_ML2_.jpg",
+      "imagem": "https://m.media-amazon.com/images/I/71yA4BgUiQL._SL1500_.jpg",
       "link": "https://www.amazon.com.br/dp/B0C8RLB8LC?tag=promoninja0b2-20",
       "cupom": null,
       "loja": "amazon",
@@ -487,8 +487,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-11-10T10:35:25.675595+00:00",
-      "expires_at": "2026-11-11T07:35:25.675595-03:00",
+      "last_seen": "2026-11-10T10:47:31.986025+00:00",
+      "expires_at": "2026-11-11T07:47:31.986025-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -513,8 +513,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-11-10T10:35:25.675595+00:00",
-      "expires_at": "2026-11-11T07:35:25.675595-03:00",
+      "last_seen": "2026-11-10T10:47:31.986025+00:00",
+      "expires_at": "2026-11-11T07:47:31.986025-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -3200,6 +3200,212 @@
       "cupom_telegram_url": null
     },
     {
+      "source_id": "22897147575",
+      "titulo": "Leiteira Canecão Fervedor Indução Tramontina Allegra 2l Cor Inox 14 Cm Cabo de Baquelite",
+      "de": null,
+      "por": 123.12,
+      "desconto": 23,
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m94xb51l2z3t40",
+      "link": "https://s.shopee.com.br/AUvPCtvyJz",
+      "cupom": null,
+      "loja": "shopee",
+      "categoria": "Smartphones",
+      "data": "2026-09-12T07:30:38.079626-03:00",
+      "slug": "leiteira-canecao-fervedor-inducao-tramontina-allegra-2l-cor-inox-14-cm-cabo-de-baqueli",
+      "page_url": "https://promoninjaofertas.github.io/produto/leiteira-canecao-fervedor-inducao-tramontina-allegra-2l-cor-inox-14-cm-cabo-de-baqueli.html",
+      "avaliacao": 4.9,
+      "avaliacoes": null,
+      "vendas": 187,
+      "nota_qualidade": 9,
+      "last_seen": "2026-11-10T04:10:08.496704+00:00",
+      "expires_at": "2026-11-11T01:10:08.496704-03:00",
+      "marca": "Tramontina",
+      "price_evidence": {
+        "checked_at": "2026-11-10T04:12:49.101658+00:00",
+        "identity": {
+          "brand": "Tramontina",
+          "model": null,
+          "family": "acessorios",
+          "kind": "produto",
+          "variant": "14cm|2l|kit:1",
+          "ambiguous": false,
+          "comparison_key": null
+        },
+        "previous_min": 121.59,
+        "observed_min": 121.59,
+        "since": "2026-10-11T09:10:28.123158+00:00",
+        "observations": 119,
+        "days": 31,
+        "history": [
+          {
+            "at": "2026-10-31T04:27:09.209842+00:00",
+            "price": 129.6
+          },
+          {
+            "at": "2026-10-31T10:33:32.259720+00:00",
+            "price": 129.6
+          },
+          {
+            "at": "2026-10-31T16:34:59.456222+00:00",
+            "price": 129.6
+          },
+          {
+            "at": "2026-10-31T22:39:29.203189+00:00",
+            "price": 129.6
+          },
+          {
+            "at": "2026-11-01T04:40:10.184204+00:00",
+            "price": 129.6
+          },
+          {
+            "at": "2026-11-01T10:51:10.454117+00:00",
+            "price": 129.6
+          },
+          {
+            "at": "2026-11-01T16:56:30.807011+00:00",
+            "price": 129.6
+          },
+          {
+            "at": "2026-11-01T23:13:22.983696+00:00",
+            "price": 129.6
+          },
+          {
+            "at": "2026-11-02T05:19:34.616046+00:00",
+            "price": 129.6
+          },
+          {
+            "at": "2026-11-02T11:31:08.420241+00:00",
+            "price": 129.6
+          },
+          {
+            "at": "2026-11-02T17:44:54.089852+00:00",
+            "price": 129.6
+          },
+          {
+            "at": "2026-11-02T23:44:56.458042+00:00",
+            "price": 129.6
+          },
+          {
+            "at": "2026-11-03T05:51:31.930009+00:00",
+            "price": 129.6
+          },
+          {
+            "at": "2026-11-03T12:10:55.875176+00:00",
+            "price": 129.6
+          },
+          {
+            "at": "2026-11-03T18:19:06.522362+00:00",
+            "price": 129.6
+          },
+          {
+            "at": "2026-11-04T00:25:57.056201+00:00",
+            "price": 129.6
+          },
+          {
+            "at": "2026-11-04T06:34:26.844571+00:00",
+            "price": 129.6
+          },
+          {
+            "at": "2026-11-04T12:52:47.438180+00:00",
+            "price": 129.6
+          },
+          {
+            "at": "2026-11-04T19:05:00.370617+00:00",
+            "price": 129.6
+          },
+          {
+            "at": "2026-11-05T03:08:45.802005+00:00",
+            "price": 123.12
+          },
+          {
+            "at": "2026-11-05T09:20:01.611108+00:00",
+            "price": 123.12
+          },
+          {
+            "at": "2026-11-05T15:40:01.728394+00:00",
+            "price": 123.12
+          },
+          {
+            "at": "2026-11-05T21:49:37.773351+00:00",
+            "price": 123.12
+          },
+          {
+            "at": "2026-11-06T03:51:19.187257+00:00",
+            "price": 123.12
+          },
+          {
+            "at": "2026-11-06T09:57:50.521762+00:00",
+            "price": 123.12
+          },
+          {
+            "at": "2026-11-06T16:04:01.793085+00:00",
+            "price": 123.12
+          },
+          {
+            "at": "2026-11-06T22:13:26.170327+00:00",
+            "price": 123.12
+          },
+          {
+            "at": "2026-11-07T04:19:11.800968+00:00",
+            "price": 123.12
+          },
+          {
+            "at": "2026-11-07T10:23:26.927663+00:00",
+            "price": 123.12
+          },
+          {
+            "at": "2026-11-07T16:27:15.043610+00:00",
+            "price": 123.12
+          },
+          {
+            "at": "2026-11-07T22:30:02.978199+00:00",
+            "price": 123.12
+          },
+          {
+            "at": "2026-11-08T04:39:21.082683+00:00",
+            "price": 123.12
+          },
+          {
+            "at": "2026-11-08T10:50:39.800734+00:00",
+            "price": 123.12
+          },
+          {
+            "at": "2026-11-08T17:05:06.204619+00:00",
+            "price": 123.12
+          },
+          {
+            "at": "2026-11-08T23:09:49.117927+00:00",
+            "price": 123.12
+          },
+          {
+            "at": "2026-11-09T03:13:56.610126+00:00",
+            "price": 129.6
+          },
+          {
+            "at": "2026-11-09T09:20:02.083876+00:00",
+            "price": 129.6
+          },
+          {
+            "at": "2026-11-09T15:41:57.626701+00:00",
+            "price": 129.6
+          },
+          {
+            "at": "2026-11-10T01:51:06.579115+00:00",
+            "price": 129.6
+          },
+          {
+            "at": "2026-11-10T03:21:52.806498+00:00",
+            "price": 123.12
+          }
+        ],
+        "advantage": false,
+        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
+      },
+      "grupo": "Tech",
+      "cupom_no_telegram": false,
+      "cupom_telegram_url": null
+    },
+    {
       "source_id": "22198437019",
       "titulo": "IMPRESSORA MULTIFUNCIONAL JATO DE TINTA  ECOTANK  EPSON L3250  Bivolt + KIT DE TINTA",
       "de": null,
@@ -3402,212 +3608,6 @@
         "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada.",
         "compared_sellers": 2,
         "other_seller_min": 1118.0
-      },
-      "grupo": "Tech",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
-    },
-    {
-      "source_id": "22897147575",
-      "titulo": "Leiteira Canecão Fervedor Indução Tramontina Allegra 2l Cor Inox 14 Cm Cabo de Baquelite",
-      "de": null,
-      "por": 123.12,
-      "desconto": 23,
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-7r98o-m94xb51l2z3t40",
-      "link": "https://s.shopee.com.br/AUvPCtvyJz",
-      "cupom": null,
-      "loja": "shopee",
-      "categoria": "Smartphones",
-      "data": "2026-09-12T07:30:38.079626-03:00",
-      "slug": "leiteira-canecao-fervedor-inducao-tramontina-allegra-2l-cor-inox-14-cm-cabo-de-baqueli",
-      "page_url": "https://promoninjaofertas.github.io/produto/leiteira-canecao-fervedor-inducao-tramontina-allegra-2l-cor-inox-14-cm-cabo-de-baqueli.html",
-      "avaliacao": 4.9,
-      "avaliacoes": null,
-      "vendas": 187,
-      "nota_qualidade": 9,
-      "last_seen": "2026-11-10T04:10:08.496704+00:00",
-      "expires_at": "2026-11-11T01:10:08.496704-03:00",
-      "marca": "Tramontina",
-      "price_evidence": {
-        "checked_at": "2026-11-10T04:12:49.101658+00:00",
-        "identity": {
-          "brand": "Tramontina",
-          "model": null,
-          "family": "acessorios",
-          "kind": "produto",
-          "variant": "14cm|2l|kit:1",
-          "ambiguous": false,
-          "comparison_key": null
-        },
-        "previous_min": 121.59,
-        "observed_min": 121.59,
-        "since": "2026-10-11T09:10:28.123158+00:00",
-        "observations": 119,
-        "days": 31,
-        "history": [
-          {
-            "at": "2026-10-31T04:27:09.209842+00:00",
-            "price": 129.6
-          },
-          {
-            "at": "2026-10-31T10:33:32.259720+00:00",
-            "price": 129.6
-          },
-          {
-            "at": "2026-10-31T16:34:59.456222+00:00",
-            "price": 129.6
-          },
-          {
-            "at": "2026-10-31T22:39:29.203189+00:00",
-            "price": 129.6
-          },
-          {
-            "at": "2026-11-01T04:40:10.184204+00:00",
-            "price": 129.6
-          },
-          {
-            "at": "2026-11-01T10:51:10.454117+00:00",
-            "price": 129.6
-          },
-          {
-            "at": "2026-11-01T16:56:30.807011+00:00",
-            "price": 129.6
-          },
-          {
-            "at": "2026-11-01T23:13:22.983696+00:00",
-            "price": 129.6
-          },
-          {
-            "at": "2026-11-02T05:19:34.616046+00:00",
-            "price": 129.6
-          },
-          {
-            "at": "2026-11-02T11:31:08.420241+00:00",
-            "price": 129.6
-          },
-          {
-            "at": "2026-11-02T17:44:54.089852+00:00",
-            "price": 129.6
-          },
-          {
-            "at": "2026-11-02T23:44:56.458042+00:00",
-            "price": 129.6
-          },
-          {
-            "at": "2026-11-03T05:51:31.930009+00:00",
-            "price": 129.6
-          },
-          {
-            "at": "2026-11-03T12:10:55.875176+00:00",
-            "price": 129.6
-          },
-          {
-            "at": "2026-11-03T18:19:06.522362+00:00",
-            "price": 129.6
-          },
-          {
-            "at": "2026-11-04T00:25:57.056201+00:00",
-            "price": 129.6
-          },
-          {
-            "at": "2026-11-04T06:34:26.844571+00:00",
-            "price": 129.6
-          },
-          {
-            "at": "2026-11-04T12:52:47.438180+00:00",
-            "price": 129.6
-          },
-          {
-            "at": "2026-11-04T19:05:00.370617+00:00",
-            "price": 129.6
-          },
-          {
-            "at": "2026-11-05T03:08:45.802005+00:00",
-            "price": 123.12
-          },
-          {
-            "at": "2026-11-05T09:20:01.611108+00:00",
-            "price": 123.12
-          },
-          {
-            "at": "2026-11-05T15:40:01.728394+00:00",
-            "price": 123.12
-          },
-          {
-            "at": "2026-11-05T21:49:37.773351+00:00",
-            "price": 123.12
-          },
-          {
-            "at": "2026-11-06T03:51:19.187257+00:00",
-            "price": 123.12
-          },
-          {
-            "at": "2026-11-06T09:57:50.521762+00:00",
-            "price": 123.12
-          },
-          {
-            "at": "2026-11-06T16:04:01.793085+00:00",
-            "price": 123.12
-          },
-          {
-            "at": "2026-11-06T22:13:26.170327+00:00",
-            "price": 123.12
-          },
-          {
-            "at": "2026-11-07T04:19:11.800968+00:00",
-            "price": 123.12
-          },
-          {
-            "at": "2026-11-07T10:23:26.927663+00:00",
-            "price": 123.12
-          },
-          {
-            "at": "2026-11-07T16:27:15.043610+00:00",
-            "price": 123.12
-          },
-          {
-            "at": "2026-11-07T22:30:02.978199+00:00",
-            "price": 123.12
-          },
-          {
-            "at": "2026-11-08T04:39:21.082683+00:00",
-            "price": 123.12
-          },
-          {
-            "at": "2026-11-08T10:50:39.800734+00:00",
-            "price": 123.12
-          },
-          {
-            "at": "2026-11-08T17:05:06.204619+00:00",
-            "price": 123.12
-          },
-          {
-            "at": "2026-11-08T23:09:49.117927+00:00",
-            "price": 123.12
-          },
-          {
-            "at": "2026-11-09T03:13:56.610126+00:00",
-            "price": 129.6
-          },
-          {
-            "at": "2026-11-09T09:20:02.083876+00:00",
-            "price": 129.6
-          },
-          {
-            "at": "2026-11-09T15:41:57.626701+00:00",
-            "price": 129.6
-          },
-          {
-            "at": "2026-11-10T01:51:06.579115+00:00",
-            "price": 129.6
-          },
-          {
-            "at": "2026-11-10T03:21:52.806498+00:00",
-            "price": 123.12
-          }
-        ],
-        "advantage": false,
-        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
       },
       "grupo": "Tech",
       "cupom_no_telegram": false,
@@ -4698,32 +4698,6 @@
       "cupom_telegram_url": null
     },
     {
-      "source_id": "1005008774483451",
-      "titulo": "HAYLOU Solar Ultra GPS Smartwatch 1.6” AMOLED Display 5ATM à prova d'água GPS integrado Bluetooth Chamadas telefônicas Relógio i",
-      "de": 899.17,
-      "por": 367.82,
-      "desconto": 59,
-      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/A090a7bbd969d4157b7bd7cf3abe83ccci.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4kIFhsS99ghALkZBpv4QbJdwLUROsFnb6OHZoTTUbMrTaduUjOpFhdRKekDPcYIVUQ2y2UzzkWtRO0ibfKEXm2lJNcllQIdc7GRNCQDBvhz6dEMsfavdZG5wB4RaKASvXIrHhPSacGb42h34c7HIKJ2cvPjn3phUx5Pwz8yREXdBrsiQrQTS8SAZV1TaKBmzPtPdoCuExBKioqpMvuoh0p8PBDCcHMvoOYdJvLXL7yXshbrZAkdF28EFfCnReLXupOlsk8sJ67y7i8gYXpxY6njRbZLVxu8FVXukmp5MBUy2gNXxy25I9eKB5R2JrdeQoLTjfhakp2doUEdZEkVW1Ca0gOW99cfP03MhnyGlxmup2W9IepHdzpQ9Tn1s6wUfswpfGl4ZWQW0XqcLkMUTPc6nFWAsw5WlcBVH2pv09iPiX2raVDWq3t4e3dPebi1b9y8yeh7SuYfikhLezx6NcuNMx5JNyDMGueYW2yJ2s0KQsDSFoOcYzVL8u2tv1QX9hbyylP71hlRz08T1zuGYQHd98CKvZxCWkyf48AgcCDIYLXH1hUuaLCvfR2Vi1vurTScon6XbB2iXA3UrXQP5m9RmmVIy3gQfHglcGrMG2GI84oG5ay1xdzfLmP0AMVHnkdnCEeZnNHLHTgWEzK9ua2aksV2mOotbi9KkHI4BbdtdU3Khy9GfNiGrbJfZp2CT04N7Oj8Zk0L3uz",
-      "cupom": null,
-      "loja": "aliexpress",
-      "categoria": "Audio",
-      "data": "2026-11-02T17:44:06.899915-03:00",
-      "slug": "haylou-solar-ultra-gps-smartwatch-1-6-amoled-display-5atm-a-prova-d-agua",
-      "page_url": "https://promoninjaofertas.github.io/produto/haylou-solar-ultra-gps-smartwatch-1-6-amoled-display-5atm-a-prova-d-agua.html",
-      "avaliacao": 4.775,
-      "avaliacoes": null,
-      "vendas": 2025,
-      "nota_qualidade": 8,
-      "last_seen": "2026-11-10T09:20:54.098037+00:00",
-      "expires_at": "2026-11-11T06:20:54.098037-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Tech",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
-    },
-    {
       "source_id": "1005008850261694",
       "titulo": "Relógio HAYLOU 4S GPS Smartwatch com Tela HD AMOLED de 1.43”, Posicionamento GPS por 5 Satélites, 120+ Modos de Treino, Relógio Inteligente para Fitness",
       "de": 458.33,
@@ -4740,6 +4714,32 @@
       "avaliacao": 4.805,
       "avaliacoes": null,
       "vendas": 3030,
+      "nota_qualidade": 8,
+      "last_seen": "2026-11-10T09:20:54.098037+00:00",
+      "expires_at": "2026-11-11T06:20:54.098037-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Tech",
+      "cupom_no_telegram": false,
+      "cupom_telegram_url": null
+    },
+    {
+      "source_id": "1005008774483451",
+      "titulo": "HAYLOU Solar Ultra GPS Smartwatch 1.6” AMOLED Display 5ATM à prova d'água GPS integrado Bluetooth Chamadas telefônicas Relógio i",
+      "de": 899.17,
+      "por": 367.82,
+      "desconto": 59,
+      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/A090a7bbd969d4157b7bd7cf3abe83ccci.jpg",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4kIFhsS99ghALkZBpv4QbJdwLUROsFnb6OHZoTTUbMrTaduUjOpFhdRKekDPcYIVUQ2y2UzzkWtRO0ibfKEXm2lJNcllQIdc7GRNCQDBvhz6dEMsfavdZG5wB4RaKASvXIrHhPSacGb42h34c7HIKJ2cvPjn3phUx5Pwz8yREXdBrsiQrQTS8SAZV1TaKBmzPtPdoCuExBKioqpMvuoh0p8PBDCcHMvoOYdJvLXL7yXshbrZAkdF28EFfCnReLXupOlsk8sJ67y7i8gYXpxY6njRbZLVxu8FVXukmp5MBUy2gNXxy25I9eKB5R2JrdeQoLTjfhakp2doUEdZEkVW1Ca0gOW99cfP03MhnyGlxmup2W9IepHdzpQ9Tn1s6wUfswpfGl4ZWQW0XqcLkMUTPc6nFWAsw5WlcBVH2pv09iPiX2raVDWq3t4e3dPebi1b9y8yeh7SuYfikhLezx6NcuNMx5JNyDMGueYW2yJ2s0KQsDSFoOcYzVL8u2tv1QX9hbyylP71hlRz08T1zuGYQHd98CKvZxCWkyf48AgcCDIYLXH1hUuaLCvfR2Vi1vurTScon6XbB2iXA3UrXQP5m9RmmVIy3gQfHglcGrMG2GI84oG5ay1xdzfLmP0AMVHnkdnCEeZnNHLHTgWEzK9ua2aksV2mOotbi9KkHI4BbdtdU3Khy9GfNiGrbJfZp2CT04N7Oj8Zk0L3uz",
+      "cupom": null,
+      "loja": "aliexpress",
+      "categoria": "Audio",
+      "data": "2026-11-02T17:44:06.899915-03:00",
+      "slug": "haylou-solar-ultra-gps-smartwatch-1-6-amoled-display-5atm-a-prova-d-agua",
+      "page_url": "https://promoninjaofertas.github.io/produto/haylou-solar-ultra-gps-smartwatch-1-6-amoled-display-5atm-a-prova-d-agua.html",
+      "avaliacao": 4.775,
+      "avaliacoes": null,
+      "vendas": 2025,
       "nota_qualidade": 8,
       "last_seen": "2026-11-10T09:20:54.098037+00:00",
       "expires_at": "2026-11-11T06:20:54.098037-03:00",
