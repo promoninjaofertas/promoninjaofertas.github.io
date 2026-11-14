@@ -1,32 +1,6 @@
 {
-  "atualizado": "2026-11-14T04:38:27.747122+00:00",
+  "atualizado": "2026-11-14T04:52:49.876773+00:00",
   "ofertas": [
-    {
-      "source_id": "pechinchou-158690",
-      "titulo": "Espelheira Para Banheiro 1 Porta Astra Wt",
-      "de": 89.9,
-      "por": 71.0,
-      "desconto": 21,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/D_NQ_NP_975901-MLB51200633471_082022-O-espelheira-para-banheiro-1-porta-astra-wt.jpg",
-      "link": "https://meli.la/31cRhaU",
-      "cupom": null,
-      "loja": "mercadolivre",
-      "categoria": "Móveis e Decoração",
-      "data": "2026-11-13T23:56:09.473865-03:00",
-      "slug": "espelheira-para-banheiro-1-porta-astra-wt",
-      "page_url": "https://promoninjaofertas.github.io/produto/espelheira-para-banheiro-1-porta-astra-wt.html",
-      "avaliacao": null,
-      "avaliacoes": null,
-      "vendas": null,
-      "nota_qualidade": 5,
-      "last_seen": "2026-11-14T04:38:27.747122+00:00",
-      "expires_at": "2026-11-15T01:38:27.747122-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Outros",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
-    },
     {
       "source_id": "pechinchou-157091",
       "titulo": "Tramontina Veronese Jogo De Panelas 5 Peças Em Alumínio Reciclado Com Revestimento Interno Cerâmico",
@@ -45,37 +19,11 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 8,
-      "last_seen": "2026-11-14T04:38:27.747122+00:00",
-      "expires_at": "2026-11-15T01:38:27.747122-03:00",
+      "last_seen": "2026-11-14T04:52:49.876773+00:00",
+      "expires_at": "2026-11-15T01:52:49.876773-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
-      "cupom_no_telegram": true,
-      "cupom_telegram_url": "https://t.me/promoninjaofertas"
-    },
-    {
-      "source_id": "pechinchou-158691",
-      "titulo": "Balcão 1 Porta Rainha 20cm 100% Mdf",
-      "de": 329.9,
-      "por": 268.0,
-      "desconto": 19,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/1001198663730-251059.jpg",
-      "link": "https://meli.la/18x8yJJ",
-      "cupom": "VEMHOJE",
-      "loja": "mercadolivre",
-      "categoria": "Móveis e Decoração",
-      "data": "2026-11-13T23:56:09.473865-03:00",
-      "slug": "balcao-1-porta-rainha-20cm-100-mdf",
-      "page_url": "https://promoninjaofertas.github.io/produto/balcao-1-porta-rainha-20cm-100-mdf.html",
-      "avaliacao": null,
-      "avaliacoes": null,
-      "vendas": null,
-      "nota_qualidade": 6,
-      "last_seen": "2026-11-14T04:38:27.747122+00:00",
-      "expires_at": "2026-11-15T01:38:27.747122-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Outros",
       "cupom_no_telegram": true,
       "cupom_telegram_url": "https://t.me/promoninjaofertas"
     },
@@ -97,8 +45,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-11-14T04:38:27.747122+00:00",
-      "expires_at": "2026-11-15T01:38:27.747122-03:00",
+      "last_seen": "2026-11-14T04:52:49.876773+00:00",
+      "expires_at": "2026-11-15T01:52:49.876773-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
@@ -106,12 +54,64 @@
       "cupom_telegram_url": "https://t.me/promoninjaofertas"
     },
     {
+      "source_id": "pechinchou-158691",
+      "titulo": "Balcão 1 Porta Rainha 20cm 100% Mdf",
+      "de": 329.9,
+      "por": 268.0,
+      "desconto": 19,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/teste_tSjGd8h.jpg",
+      "link": "https://meli.la/18x8yJJ",
+      "cupom": "VEMHOJE",
+      "loja": "mercadolivre",
+      "categoria": "Móveis e Decoração",
+      "data": "2026-11-13T23:56:09.473865-03:00",
+      "slug": "balcao-1-porta-rainha-20cm-100-mdf",
+      "page_url": "https://promoninjaofertas.github.io/produto/balcao-1-porta-rainha-20cm-100-mdf.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": null,
+      "nota_qualidade": 6,
+      "last_seen": "2026-11-14T04:52:49.876773+00:00",
+      "expires_at": "2026-11-15T01:52:49.876773-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Outros",
+      "cupom_no_telegram": true,
+      "cupom_telegram_url": "https://t.me/promoninjaofertas"
+    },
+    {
+      "source_id": "pechinchou-158690",
+      "titulo": "Espelheira Para Banheiro 1 Porta Astra Wt",
+      "de": 89.9,
+      "por": 71.0,
+      "desconto": 21,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/D_NQ_NP_975901-MLB51200633471_082022-O-espelheira-para-banheiro-1-porta-astra-wt.jpg",
+      "link": "https://meli.la/31cRhaU",
+      "cupom": null,
+      "loja": "mercadolivre",
+      "categoria": "Móveis e Decoração",
+      "data": "2026-11-13T23:56:09.473865-03:00",
+      "slug": "espelheira-para-banheiro-1-porta-astra-wt",
+      "page_url": "https://promoninjaofertas.github.io/produto/espelheira-para-banheiro-1-porta-astra-wt.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": null,
+      "nota_qualidade": 5,
+      "last_seen": "2026-11-14T04:52:49.876773+00:00",
+      "expires_at": "2026-11-15T01:52:49.876773-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Outros",
+      "cupom_no_telegram": false,
+      "cupom_telegram_url": null
+    },
+    {
       "source_id": "pechinchou-158689",
       "titulo": "Kit 4 Top Com Bojo Fitness Academia Sem Costura Poliamida",
       "de": 69.9,
       "por": 56.8,
       "desconto": 19,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/D_NQ_NP_753979-MLB118024141683_092026-O-kit-4-top-com-bojo-fitness-academia-sem-costura-poliamida.jpg",
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/external-image_99yo3o8.jpg",
       "link": "https://meli.la/1RyHXEA",
       "cupom": null,
       "loja": "mercadolivre",
@@ -123,8 +123,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-11-14T04:38:27.747122+00:00",
-      "expires_at": "2026-11-15T01:38:27.747122-03:00",
+      "last_seen": "2026-11-14T04:52:49.876773+00:00",
+      "expires_at": "2026-11-15T01:52:49.876773-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -149,8 +149,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-11-14T04:38:27.747122+00:00",
-      "expires_at": "2026-11-15T01:38:27.747122-03:00",
+      "last_seen": "2026-11-14T04:52:49.876773+00:00",
+      "expires_at": "2026-11-15T01:52:49.876773-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -175,8 +175,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-11-14T04:38:27.747122+00:00",
-      "expires_at": "2026-11-15T01:38:27.747122-03:00",
+      "last_seen": "2026-11-14T04:52:49.876773+00:00",
+      "expires_at": "2026-11-15T01:52:49.876773-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -201,8 +201,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-11-14T04:38:27.747122+00:00",
-      "expires_at": "2026-11-15T01:38:27.747122-03:00",
+      "last_seen": "2026-11-14T04:52:49.876773+00:00",
+      "expires_at": "2026-11-15T01:52:49.876773-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
@@ -227,8 +227,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-11-14T04:38:27.747122+00:00",
-      "expires_at": "2026-11-15T01:38:27.747122-03:00",
+      "last_seen": "2026-11-14T04:52:49.876773+00:00",
+      "expires_at": "2026-11-15T01:52:49.876773-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -253,8 +253,8 @@
       "avaliacoes": 13,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-11-14T04:38:27.747122+00:00",
-      "expires_at": "2026-11-15T01:38:27.747122-03:00",
+      "last_seen": "2026-11-14T04:52:49.876773+00:00",
+      "expires_at": "2026-11-15T01:52:49.876773-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
@@ -279,8 +279,8 @@
       "avaliacoes": 4,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-11-14T04:38:27.747122+00:00",
-      "expires_at": "2026-11-15T01:38:27.747122-03:00",
+      "last_seen": "2026-11-14T04:52:49.876773+00:00",
+      "expires_at": "2026-11-15T01:52:49.876773-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -293,7 +293,7 @@
       "de": 59.9,
       "por": 43.9,
       "desconto": 27,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/41v6yBr42nL.__AC_SX300_SY300_QL70_ML2_.jpg",
+      "imagem": "https://m.media-amazon.com/images/I/41v6yBr42nL._SL1500_.jpg",
       "link": "https://www.amazon.com.br/dp/B07BZ69GD5?tag=promoninja0b2-20",
       "cupom": null,
       "loja": "amazon",
@@ -305,8 +305,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-11-14T04:38:27.747122+00:00",
-      "expires_at": "2026-11-15T01:38:27.747122-03:00",
+      "last_seen": "2026-11-14T04:52:49.876773+00:00",
+      "expires_at": "2026-11-15T01:52:49.876773-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -319,7 +319,7 @@
       "de": 89.91,
       "por": 70.25,
       "desconto": 22,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/718WAFajoDL._AC_SL1500_.jpg",
+      "imagem": "https://m.media-amazon.com/images/I/718WAFajoDL._SL1500_.jpg",
       "link": "https://www.amazon.com.br/dp/B081BG7CCP?tag=promoninja0b2-20",
       "cupom": null,
       "loja": "amazon",
@@ -331,8 +331,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-11-14T04:38:27.747122+00:00",
-      "expires_at": "2026-11-15T01:38:27.747122-03:00",
+      "last_seen": "2026-11-14T04:52:49.876773+00:00",
+      "expires_at": "2026-11-15T01:52:49.876773-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech",
@@ -357,8 +357,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 9,
-      "last_seen": "2026-11-14T04:38:27.747122+00:00",
-      "expires_at": "2026-11-15T01:38:27.747122-03:00",
+      "last_seen": "2026-11-14T04:52:49.876773+00:00",
+      "expires_at": "2026-11-15T01:52:49.876773-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech",
@@ -383,8 +383,8 @@
       "avaliacoes": 1,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-11-14T04:38:27.747122+00:00",
-      "expires_at": "2026-11-15T01:38:27.747122-03:00",
+      "last_seen": "2026-11-14T04:52:49.876773+00:00",
+      "expires_at": "2026-11-15T01:52:49.876773-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
@@ -409,8 +409,8 @@
       "avaliacoes": 2,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-11-14T04:38:27.747122+00:00",
-      "expires_at": "2026-11-15T01:38:27.747122-03:00",
+      "last_seen": "2026-11-14T04:52:49.876773+00:00",
+      "expires_at": "2026-11-15T01:52:49.876773-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
@@ -435,8 +435,8 @@
       "avaliacoes": 4,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-11-14T04:38:27.747122+00:00",
-      "expires_at": "2026-11-15T01:38:27.747122-03:00",
+      "last_seen": "2026-11-14T04:52:49.876773+00:00",
+      "expires_at": "2026-11-15T01:52:49.876773-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
@@ -461,8 +461,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 7,
-      "last_seen": "2026-11-14T04:38:27.747122+00:00",
-      "expires_at": "2026-11-15T01:38:27.747122-03:00",
+      "last_seen": "2026-11-14T04:52:49.876773+00:00",
+      "expires_at": "2026-11-15T01:52:49.876773-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -487,8 +487,8 @@
       "avaliacoes": 10,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-11-14T04:38:27.747122+00:00",
-      "expires_at": "2026-11-15T01:38:27.747122-03:00",
+      "last_seen": "2026-11-14T04:52:49.876773+00:00",
+      "expires_at": "2026-11-15T01:52:49.876773-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech",
@@ -501,7 +501,7 @@
       "de": 139.9,
       "por": 76.03,
       "desconto": 46,
-      "imagem": "https://m.media-amazon.com/images/I/71gZmHbV4FL._SL1500_.jpg",
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/external-image_8nwoudo.jpg",
       "link": "https://www.amazon.com.br/dp/B0GV1J8W9Y?tag=promoninja0b2-20",
       "cupom": null,
       "loja": "amazon",
@@ -513,8 +513,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-11-14T04:38:27.747122+00:00",
-      "expires_at": "2026-11-15T01:38:27.747122-03:00",
+      "last_seen": "2026-11-14T04:52:49.876773+00:00",
+      "expires_at": "2026-11-15T01:52:49.876773-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
@@ -527,7 +527,7 @@
       "de": 69.9,
       "por": 52.67,
       "desconto": 25,
-      "imagem": "https://m.media-amazon.com/images/I/71z-3rqPaUL._SL1500_.jpg",
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/6162CgGP0L_w7N1P43_lHu9dHj._AC_SY300_SX300_.jpg",
       "link": "https://www.amazon.com.br/dp/B07NQ9PFKN?tag=promoninja0b2-20",
       "cupom": null,
       "loja": "amazon",
@@ -539,8 +539,8 @@
       "avaliacoes": 6,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-11-14T04:38:27.747122+00:00",
-      "expires_at": "2026-11-15T01:38:27.747122-03:00",
+      "last_seen": "2026-11-14T04:52:49.876773+00:00",
+      "expires_at": "2026-11-15T01:52:49.876773-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -553,7 +553,7 @@
       "de": 141.15,
       "por": 103.55,
       "desconto": 27,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/external-image_230o59Y.jpg",
+      "imagem": "https://m.media-amazon.com/images/I/51LKYvf3RlL._SL1500_.jpg",
       "link": "https://www.amazon.com.br/dp/B0DF3D9V9Y?tag=promoninja0b2-20",
       "cupom": null,
       "loja": "amazon",
@@ -565,8 +565,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 8,
-      "last_seen": "2026-11-14T04:38:27.747122+00:00",
-      "expires_at": "2026-11-15T01:38:27.747122-03:00",
+      "last_seen": "2026-11-14T04:52:49.876773+00:00",
+      "expires_at": "2026-11-15T01:52:49.876773-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
@@ -591,8 +591,8 @@
       "avaliacoes": 2,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-11-14T04:38:27.747122+00:00",
-      "expires_at": "2026-11-15T01:38:27.747122-03:00",
+      "last_seen": "2026-11-14T04:52:49.876773+00:00",
+      "expires_at": "2026-11-15T01:52:49.876773-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
@@ -605,7 +605,7 @@
       "de": 119.9,
       "por": 95.83,
       "desconto": 20,
-      "imagem": "https://m.media-amazon.com/images/I/51pdYg3ULPL._SL1500_.jpg",
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/D_NQ_NP_779404-MLA79512660255_092024-O_jOSihnc_4a6jAwf.jpg",
       "link": "https://www.amazon.com.br/dp/B0DCKBMVH9?tag=promoninja0b2-20",
       "cupom": null,
       "loja": "amazon",
@@ -617,8 +617,8 @@
       "avaliacoes": 1,
       "vendas": null,
       "nota_qualidade": 7,
-      "last_seen": "2026-11-14T04:38:27.747122+00:00",
-      "expires_at": "2026-11-15T01:38:27.747122-03:00",
+      "last_seen": "2026-11-14T04:52:49.876773+00:00",
+      "expires_at": "2026-11-15T01:52:49.876773-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -2413,11 +2413,11 @@
       "avaliacoes": null,
       "vendas": 818,
       "nota_qualidade": 9,
-      "last_seen": "2026-11-14T02:41:35.300193+00:00",
-      "expires_at": "2026-11-14T23:41:35.300193-03:00",
+      "last_seen": "2026-11-14T04:52:49.876773+00:00",
+      "expires_at": "2026-11-15T01:52:49.876773-03:00",
       "marca": "WAP",
       "price_evidence": {
-        "checked_at": "2026-11-14T02:45:23.751668+00:00",
+        "checked_at": "2026-11-14T04:56:38.935321+00:00",
         "identity": {
           "brand": "WAP",
           "model": "fw005705",
@@ -2592,212 +2592,6 @@
           {
             "at": "2026-11-14T01:43:51.021969+00:00",
             "price": 262.0
-          }
-        ],
-        "advantage": false,
-        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
-      },
-      "grupo": "Casa",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
-    },
-    {
-      "source_id": "23594959395",
-      "titulo": "Furadeira Parafusadeira de Impacto Bosch 48V – 2 Baterias Inclusas | Ferramenta Elétrica",
-      "de": null,
-      "por": 399.28,
-      "desconto": 55,
-      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lk-mo9dpk20zg1w51",
-      "link": "https://s.shopee.com.br/BVJHOGL8u",
-      "cupom": null,
-      "loja": "shopee",
-      "categoria": "Smartphones",
-      "data": "2026-09-12T19:16:34.813595-03:00",
-      "slug": "furadeira-parafusadeira-de-impacto-bosch-48v-2-baterias-inclusas-ferramenta-eletrica",
-      "page_url": "https://promoninjaofertas.github.io/produto/furadeira-parafusadeira-de-impacto-bosch-48v-2-baterias-inclusas-ferramenta-eletrica.html",
-      "avaliacao": 4.8,
-      "avaliacoes": null,
-      "vendas": 124,
-      "nota_qualidade": 10,
-      "last_seen": "2026-11-14T04:38:27.747122+00:00",
-      "expires_at": "2026-11-15T01:38:27.747122-03:00",
-      "marca": "Bosch",
-      "price_evidence": {
-        "checked_at": "2026-11-14T04:42:10.025947+00:00",
-        "identity": {
-          "brand": "Bosch",
-          "model": null,
-          "family": "ferramentas",
-          "kind": "produto",
-          "variant": "48v|kit:1",
-          "ambiguous": false,
-          "comparison_key": null
-        },
-        "previous_min": 399.28,
-        "observed_min": 399.28,
-        "since": "2026-10-15T05:47:38.067982+00:00",
-        "observations": 83,
-        "days": 22,
-        "history": [
-          {
-            "at": "2026-11-05T09:40:13.959664+00:00",
-            "price": 399.28
-          },
-          {
-            "at": "2026-11-05T15:40:41.391657+00:00",
-            "price": 399.28
-          },
-          {
-            "at": "2026-11-05T21:49:37.773351+00:00",
-            "price": 399.28
-          },
-          {
-            "at": "2026-11-06T01:51:33.702284+00:00",
-            "price": 399.29
-          },
-          {
-            "at": "2026-11-06T03:06:02.494636+00:00",
-            "price": 399.28
-          },
-          {
-            "at": "2026-11-06T09:22:29.535310+00:00",
-            "price": 399.28
-          },
-          {
-            "at": "2026-11-06T15:28:14.139605+00:00",
-            "price": 399.28
-          },
-          {
-            "at": "2026-11-06T22:15:16.577743+00:00",
-            "price": 399.28
-          },
-          {
-            "at": "2026-11-07T00:52:03.615224+00:00",
-            "price": 399.29
-          },
-          {
-            "at": "2026-11-07T03:14:01.990567+00:00",
-            "price": 399.28
-          },
-          {
-            "at": "2026-11-07T09:19:01.671179+00:00",
-            "price": 399.28
-          },
-          {
-            "at": "2026-11-07T15:22:49.049486+00:00",
-            "price": 399.28
-          },
-          {
-            "at": "2026-11-07T21:24:14.770558+00:00",
-            "price": 399.28
-          },
-          {
-            "at": "2026-11-08T03:28:15.070954+00:00",
-            "price": 399.28
-          },
-          {
-            "at": "2026-11-08T09:45:55.515964+00:00",
-            "price": 399.28
-          },
-          {
-            "at": "2026-11-08T15:54:14.326648+00:00",
-            "price": 399.28
-          },
-          {
-            "at": "2026-11-08T21:56:36.232963+00:00",
-            "price": 399.28
-          },
-          {
-            "at": "2026-11-08T23:35:26.373661+00:00",
-            "price": 399.29
-          },
-          {
-            "at": "2026-11-09T03:13:56.610126+00:00",
-            "price": 399.28
-          },
-          {
-            "at": "2026-11-09T09:20:02.083876+00:00",
-            "price": 399.28
-          },
-          {
-            "at": "2026-11-09T15:27:08.383346+00:00",
-            "price": 399.28
-          },
-          {
-            "at": "2026-11-09T22:27:45.257718+00:00",
-            "price": 399.28
-          },
-          {
-            "at": "2026-11-10T04:28:54.569796+00:00",
-            "price": 399.28
-          },
-          {
-            "at": "2026-11-10T10:30:13.140242+00:00",
-            "price": 399.28
-          },
-          {
-            "at": "2026-11-10T17:35:20.985870+00:00",
-            "price": 399.28
-          },
-          {
-            "at": "2026-11-11T00:35:03.093933+00:00",
-            "price": 399.29
-          },
-          {
-            "at": "2026-11-11T03:33:43.430219+00:00",
-            "price": 399.28
-          },
-          {
-            "at": "2026-11-11T09:40:01.410006+00:00",
-            "price": 399.28
-          },
-          {
-            "at": "2026-11-11T16:26:15.525328+00:00",
-            "price": 399.28
-          },
-          {
-            "at": "2026-11-11T16:41:18.126491+00:00",
-            "price": 399.29
-          },
-          {
-            "at": "2026-11-11T22:53:26.484041+00:00",
-            "price": 399.29
-          },
-          {
-            "at": "2026-11-12T03:12:08.790852+00:00",
-            "price": 399.28
-          },
-          {
-            "at": "2026-11-12T09:17:36.716459+00:00",
-            "price": 399.28
-          },
-          {
-            "at": "2026-11-12T15:54:15.519651+00:00",
-            "price": 399.29
-          },
-          {
-            "at": "2026-11-12T22:14:48.196379+00:00",
-            "price": 399.29
-          },
-          {
-            "at": "2026-11-13T03:14:48.973995+00:00",
-            "price": 399.28
-          },
-          {
-            "at": "2026-11-13T10:25:20.241455+00:00",
-            "price": 399.28
-          },
-          {
-            "at": "2026-11-13T17:06:00.119493+00:00",
-            "price": 399.28
-          },
-          {
-            "at": "2026-11-13T21:56:07.845170+00:00",
-            "price": 399.29
-          },
-          {
-            "at": "2026-11-14T03:25:03.319475+00:00",
-            "price": 399.28
           }
         ],
         "advantage": false,
@@ -3004,6 +2798,212 @@
           {
             "at": "2026-11-14T03:40:26.371524+00:00",
             "price": 404.9
+          }
+        ],
+        "advantage": false,
+        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
+      },
+      "grupo": "Casa",
+      "cupom_no_telegram": false,
+      "cupom_telegram_url": null
+    },
+    {
+      "source_id": "23594959395",
+      "titulo": "Furadeira Parafusadeira de Impacto Bosch 48V – 2 Baterias Inclusas | Ferramenta Elétrica",
+      "de": null,
+      "por": 399.28,
+      "desconto": 55,
+      "imagem": "https://cf.shopee.com.br/file/br-11134207-820lk-mo9dpk20zg1w51",
+      "link": "https://s.shopee.com.br/BVJHOGL8u",
+      "cupom": null,
+      "loja": "shopee",
+      "categoria": "Smartphones",
+      "data": "2026-09-12T19:16:34.813595-03:00",
+      "slug": "furadeira-parafusadeira-de-impacto-bosch-48v-2-baterias-inclusas-ferramenta-eletrica",
+      "page_url": "https://promoninjaofertas.github.io/produto/furadeira-parafusadeira-de-impacto-bosch-48v-2-baterias-inclusas-ferramenta-eletrica.html",
+      "avaliacao": 4.8,
+      "avaliacoes": null,
+      "vendas": 124,
+      "nota_qualidade": 10,
+      "last_seen": "2026-11-14T04:38:27.747122+00:00",
+      "expires_at": "2026-11-15T01:38:27.747122-03:00",
+      "marca": "Bosch",
+      "price_evidence": {
+        "checked_at": "2026-11-14T04:42:10.025947+00:00",
+        "identity": {
+          "brand": "Bosch",
+          "model": null,
+          "family": "ferramentas",
+          "kind": "produto",
+          "variant": "48v|kit:1",
+          "ambiguous": false,
+          "comparison_key": null
+        },
+        "previous_min": 399.28,
+        "observed_min": 399.28,
+        "since": "2026-10-15T05:47:38.067982+00:00",
+        "observations": 83,
+        "days": 22,
+        "history": [
+          {
+            "at": "2026-11-05T09:40:13.959664+00:00",
+            "price": 399.28
+          },
+          {
+            "at": "2026-11-05T15:40:41.391657+00:00",
+            "price": 399.28
+          },
+          {
+            "at": "2026-11-05T21:49:37.773351+00:00",
+            "price": 399.28
+          },
+          {
+            "at": "2026-11-06T01:51:33.702284+00:00",
+            "price": 399.29
+          },
+          {
+            "at": "2026-11-06T03:06:02.494636+00:00",
+            "price": 399.28
+          },
+          {
+            "at": "2026-11-06T09:22:29.535310+00:00",
+            "price": 399.28
+          },
+          {
+            "at": "2026-11-06T15:28:14.139605+00:00",
+            "price": 399.28
+          },
+          {
+            "at": "2026-11-06T22:15:16.577743+00:00",
+            "price": 399.28
+          },
+          {
+            "at": "2026-11-07T00:52:03.615224+00:00",
+            "price": 399.29
+          },
+          {
+            "at": "2026-11-07T03:14:01.990567+00:00",
+            "price": 399.28
+          },
+          {
+            "at": "2026-11-07T09:19:01.671179+00:00",
+            "price": 399.28
+          },
+          {
+            "at": "2026-11-07T15:22:49.049486+00:00",
+            "price": 399.28
+          },
+          {
+            "at": "2026-11-07T21:24:14.770558+00:00",
+            "price": 399.28
+          },
+          {
+            "at": "2026-11-08T03:28:15.070954+00:00",
+            "price": 399.28
+          },
+          {
+            "at": "2026-11-08T09:45:55.515964+00:00",
+            "price": 399.28
+          },
+          {
+            "at": "2026-11-08T15:54:14.326648+00:00",
+            "price": 399.28
+          },
+          {
+            "at": "2026-11-08T21:56:36.232963+00:00",
+            "price": 399.28
+          },
+          {
+            "at": "2026-11-08T23:35:26.373661+00:00",
+            "price": 399.29
+          },
+          {
+            "at": "2026-11-09T03:13:56.610126+00:00",
+            "price": 399.28
+          },
+          {
+            "at": "2026-11-09T09:20:02.083876+00:00",
+            "price": 399.28
+          },
+          {
+            "at": "2026-11-09T15:27:08.383346+00:00",
+            "price": 399.28
+          },
+          {
+            "at": "2026-11-09T22:27:45.257718+00:00",
+            "price": 399.28
+          },
+          {
+            "at": "2026-11-10T04:28:54.569796+00:00",
+            "price": 399.28
+          },
+          {
+            "at": "2026-11-10T10:30:13.140242+00:00",
+            "price": 399.28
+          },
+          {
+            "at": "2026-11-10T17:35:20.985870+00:00",
+            "price": 399.28
+          },
+          {
+            "at": "2026-11-11T00:35:03.093933+00:00",
+            "price": 399.29
+          },
+          {
+            "at": "2026-11-11T03:33:43.430219+00:00",
+            "price": 399.28
+          },
+          {
+            "at": "2026-11-11T09:40:01.410006+00:00",
+            "price": 399.28
+          },
+          {
+            "at": "2026-11-11T16:26:15.525328+00:00",
+            "price": 399.28
+          },
+          {
+            "at": "2026-11-11T16:41:18.126491+00:00",
+            "price": 399.29
+          },
+          {
+            "at": "2026-11-11T22:53:26.484041+00:00",
+            "price": 399.29
+          },
+          {
+            "at": "2026-11-12T03:12:08.790852+00:00",
+            "price": 399.28
+          },
+          {
+            "at": "2026-11-12T09:17:36.716459+00:00",
+            "price": 399.28
+          },
+          {
+            "at": "2026-11-12T15:54:15.519651+00:00",
+            "price": 399.29
+          },
+          {
+            "at": "2026-11-12T22:14:48.196379+00:00",
+            "price": 399.29
+          },
+          {
+            "at": "2026-11-13T03:14:48.973995+00:00",
+            "price": 399.28
+          },
+          {
+            "at": "2026-11-13T10:25:20.241455+00:00",
+            "price": 399.28
+          },
+          {
+            "at": "2026-11-13T17:06:00.119493+00:00",
+            "price": 399.28
+          },
+          {
+            "at": "2026-11-13T21:56:07.845170+00:00",
+            "price": 399.29
+          },
+          {
+            "at": "2026-11-14T03:25:03.319475+00:00",
+            "price": 399.28
           }
         ],
         "advantage": false,
