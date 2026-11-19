@@ -1,6 +1,32 @@
 {
-  "atualizado": "2026-11-19T19:39:06.998237+00:00",
+  "atualizado": "2026-11-19T19:52:48.289056+00:00",
   "ofertas": [
+    {
+      "source_id": "pechinchou-159502",
+      "titulo": "Gabinete Banheiro 60cm Suspenso Com Cuba E Espelho Itália",
+      "de": 169.9,
+      "por": 141.5,
+      "desconto": 17,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/image-removebg-preview_-_2026-11-19T162706.192.jpg",
+      "link": "https://meli.la/2vY75ed",
+      "cupom": null,
+      "loja": "mercadolivre",
+      "categoria": "Hardware",
+      "data": "2026-11-19T16:39:06.998237-03:00",
+      "slug": "gabinete-banheiro-60cm-suspenso-com-cuba-e-espelho-italia",
+      "page_url": "https://promoninjaofertas.github.io/produto/gabinete-banheiro-60cm-suspenso-com-cuba-e-espelho-italia.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": null,
+      "nota_qualidade": 5,
+      "last_seen": "2026-11-19T19:39:06.998237+00:00",
+      "expires_at": "2026-11-20T16:39:06.998237-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Outros",
+      "cupom_no_telegram": false,
+      "cupom_telegram_url": null
+    },
     {
       "source_id": "pechinchou-149742",
       "titulo": "Torneira Para Cozinha Gourmet Misturador Monocomando Munim Pingoo.casa Prata",
@@ -50,32 +76,6 @@
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
-    },
-    {
-      "source_id": "pechinchou-159502",
-      "titulo": "Gabinete Banheiro 60cm Suspenso Com Cuba E Espelho Itália",
-      "de": 169.9,
-      "por": 141.5,
-      "desconto": 17,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/image-removebg-preview_-_2026-11-19T162706.192.jpg",
-      "link": "https://meli.la/2vY75ed",
-      "cupom": null,
-      "loja": "mercadolivre",
-      "categoria": "Hardware",
-      "data": "2026-11-19T16:39:06.998237-03:00",
-      "slug": "gabinete-banheiro-60cm-suspenso-com-cuba-e-espelho-italia",
-      "page_url": "https://promoninjaofertas.github.io/produto/gabinete-banheiro-60cm-suspenso-com-cuba-e-espelho-italia.html",
-      "avaliacao": null,
-      "avaliacoes": null,
-      "vendas": null,
-      "nota_qualidade": 5,
-      "last_seen": "2026-11-19T19:39:06.998237+00:00",
-      "expires_at": "2026-11-20T16:39:06.998237-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Outros",
       "cupom_no_telegram": false,
       "cupom_telegram_url": null
     },
@@ -1031,13 +1031,13 @@
       "page_url": "https://promoninjaofertas.github.io/produto/air-fryer-oven-philco-11l-8-funcoes-visor-1800w-paf11b.html",
       "avaliacao": 5.0,
       "avaliacoes": null,
-      "vendas": 3713,
+      "vendas": 4448,
       "nota_qualidade": 9,
-      "last_seen": "2026-11-19T16:57:48.306168+00:00",
-      "expires_at": "2026-11-20T13:57:48.306168-03:00",
+      "last_seen": "2026-11-19T19:52:48.289056+00:00",
+      "expires_at": "2026-11-20T16:52:48.289056-03:00",
       "marca": "Philco",
       "price_evidence": {
-        "checked_at": "2026-11-19T17:00:06.267168+00:00",
+        "checked_at": "2026-11-19T19:54:06.249629+00:00",
         "identity": {
           "brand": "Philco",
           "model": "11l",
@@ -1050,7 +1050,7 @@
         "previous_min": 309.0,
         "observed_min": 309.0,
         "since": "2026-10-22T16:12:12.675618+00:00",
-        "observations": 38,
+        "observations": 39,
         "days": 13,
         "history": [
           {
@@ -1204,6 +1204,10 @@
           {
             "at": "2026-11-19T11:36:02.997808+00:00",
             "price": 349.9
+          },
+          {
+            "at": "2026-11-19T17:50:23.672865+00:00",
+            "price": 349.9
           }
         ],
         "advantage": false,
@@ -1229,13 +1233,13 @@
       "page_url": "https://promoninjaofertas.github.io/produto/shopee-jbl-05h-kit-1.html",
       "avaliacao": 4.9,
       "avaliacoes": null,
-      "vendas": 106,
+      "vendas": 112,
       "nota_qualidade": 10,
-      "last_seen": "2026-11-19T17:26:16.179967+00:00",
-      "expires_at": "2026-11-20T14:26:16.179967-03:00",
+      "last_seen": "2026-11-19T19:52:48.289056+00:00",
+      "expires_at": "2026-11-20T16:52:48.289056-03:00",
       "marca": "JBL",
       "price_evidence": {
-        "checked_at": "2026-11-19T17:29:04.887089+00:00",
+        "checked_at": "2026-11-19T19:54:06.249629+00:00",
         "identity": {
           "brand": "JBL",
           "model": "05h",
@@ -1247,14 +1251,10 @@
         },
         "previous_min": 306.15,
         "observed_min": 306.15,
-        "since": "2026-10-20T17:31:03.280028+00:00",
+        "since": "2026-10-20T23:40:23.468957+00:00",
         "observations": 120,
         "days": 31,
         "history": [
-          {
-            "at": "2026-11-09T05:10:24.204554+00:00",
-            "price": 320.95
-          },
           {
             "at": "2026-11-09T11:32:45.686970+00:00",
             "price": 320.95
@@ -1410,6 +1410,10 @@
           {
             "at": "2026-11-19T13:37:44.502019+00:00",
             "price": 320.95
+          },
+          {
+            "at": "2026-11-19T19:54:06.249629+00:00",
+            "price": 320.95
           }
         ],
         "advantage": false,
@@ -1435,13 +1439,13 @@
       "page_url": "https://promoninjaofertas.github.io/produto/caixa-de-som-jbl-partybox-encore-2-bluetooth-100w-rms-preto.html",
       "avaliacao": 4.9,
       "avaliacoes": null,
-      "vendas": 148,
+      "vendas": 149,
       "nota_qualidade": 9,
-      "last_seen": "2026-11-19T17:26:16.179967+00:00",
-      "expires_at": "2026-11-20T14:26:16.179967-03:00",
+      "last_seen": "2026-11-19T19:52:48.289056+00:00",
+      "expires_at": "2026-11-20T16:52:48.289056-03:00",
       "marca": "JBL",
       "price_evidence": {
-        "checked_at": "2026-11-19T17:29:04.887089+00:00",
+        "checked_at": "2026-11-19T19:54:06.249629+00:00",
         "identity": {
           "brand": "JBL",
           "model": null,
@@ -2671,13 +2675,13 @@
       "page_url": "https://promoninjaofertas.github.io/produto/shopee-wap-fw005705-10l-127v-1400w-cor-preto-kit-1.html",
       "avaliacao": 4.9,
       "avaliacoes": null,
-      "vendas": 947,
+      "vendas": 970,
       "nota_qualidade": 9,
-      "last_seen": "2026-11-19T19:23:29.216259+00:00",
-      "expires_at": "2026-11-20T16:23:29.216259-03:00",
+      "last_seen": "2026-11-19T19:52:48.289056+00:00",
+      "expires_at": "2026-11-20T16:52:48.289056-03:00",
       "marca": "WAP",
       "price_evidence": {
-        "checked_at": "2026-11-19T19:27:15.313602+00:00",
+        "checked_at": "2026-11-19T19:54:06.249629+00:00",
         "identity": {
           "brand": "WAP",
           "model": "fw005705",
@@ -3363,7 +3367,7 @@
       "source_id": "58204551307",
       "titulo": "Aspirador Portátil Wap Car Potente 180W Com Reservatório 420ml Bicos Extras Cabo 3,7metros 12v - WAP",
       "de": null,
-      "por": 96.7,
+      "por": 97.0,
       "desconto": 49,
       "imagem": "https://cf.shopee.com.br/file/sg-11134201-8261q-mk9lfrj7jnd1bb",
       "link": "https://s.shopee.com.br/gRlgkDCVL",
@@ -3375,13 +3379,13 @@
       "page_url": "https://promoninjaofertas.github.io/produto/aspirador-portatil-wap-car-potente-180w-com-reservatorio-420ml-bicos-extras-cabo-3-7me.html",
       "avaliacao": 4.9,
       "avaliacoes": null,
-      "vendas": 223,
+      "vendas": 232,
       "nota_qualidade": 10,
-      "last_seen": "2026-11-19T17:26:16.179967+00:00",
-      "expires_at": "2026-11-20T14:26:16.179967-03:00",
+      "last_seen": "2026-11-19T19:52:48.289056+00:00",
+      "expires_at": "2026-11-20T16:52:48.289056-03:00",
       "marca": "WAP",
       "price_evidence": {
-        "checked_at": "2026-11-19T17:29:04.887089+00:00",
+        "checked_at": "2026-11-19T19:54:06.249629+00:00",
         "identity": {
           "brand": "WAP",
           "model": "7metros",
@@ -3393,14 +3397,10 @@
         },
         "previous_min": 82.31,
         "observed_min": 82.31,
-        "since": "2026-10-20T17:31:03.280028+00:00",
+        "since": "2026-10-20T23:40:23.468957+00:00",
         "observations": 117,
         "days": 31,
         "history": [
-          {
-            "at": "2026-11-08T23:35:26.373661+00:00",
-            "price": 97.0
-          },
           {
             "at": "2026-11-09T05:43:09.331269+00:00",
             "price": 97.0
@@ -3556,6 +3556,10 @@
           {
             "at": "2026-11-19T17:29:04.887089+00:00",
             "price": 96.7
+          },
+          {
+            "at": "2026-11-19T19:36:29.293608+00:00",
+            "price": 97.0
           }
         ],
         "advantage": false,
@@ -3787,13 +3791,13 @@
       "page_url": "https://promoninjaofertas.github.io/produto/extratora-e-higienizadora-portatil-wap-spotcleaner-w3-1450w.html",
       "avaliacao": 5.0,
       "avaliacoes": null,
-      "vendas": 1401,
+      "vendas": 1386,
       "nota_qualidade": 9,
-      "last_seen": "2026-11-19T17:26:16.179967+00:00",
-      "expires_at": "2026-11-20T14:26:16.179967-03:00",
+      "last_seen": "2026-11-19T19:52:48.289056+00:00",
+      "expires_at": "2026-11-20T16:52:48.289056-03:00",
       "marca": "WAP",
       "price_evidence": {
-        "checked_at": "2026-11-19T17:29:04.887089+00:00",
+        "checked_at": "2026-11-19T19:54:06.249629+00:00",
         "identity": {
           "brand": "WAP",
           "model": null,
@@ -4134,32 +4138,6 @@
       "cupom_telegram_url": null
     },
     {
-      "source_id": "1005011755232439",
-      "titulo": "Fones de Ouvido Sem Fio HAYLOU Flowbuds N55 com ANC Adaptativo de 54dB, Bluetooth 6.0, Áudio Hi-Res LDAC, Chamadas HD com 6 Microfones, 40 Horas de Reprodução, IPX5",
-      "de": 327.69,
-      "por": 152.33,
-      "desconto": 53,
-      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/A6f2a84632e67414c9f8a199f3813634cI.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4k8NtTg5ZtgV4CqMBydRmsEfXSI8bKt3MGX1GA6wTR4ZtcAK4OmIeI9hbUMhTvFxmnfn6Aff3Y8W00TcIv7ePDWf5bPnHQlNR98ZrXULjkHiNgfNVdxqM3tgImTfPTw6IBZdq4x5BqzozAEQf1xPZVwJhflcMUm2o8cZEwDt6encV1roTZajCR7gAdnDvBcLr2msjU58Ys2eMMDQTKJ8IklXk05wena81K92nZEp1Vl6D7ttPlPc4ZjAjBvKjIFoa6WYoGcQHHlSBSi3ngIOcscQRZtL3lbebPWiaafdxrp93NC5YlU6xyqNssHTi6MicxddlkTAnvlmPbQSsEQU0RwnDuDkwPfFSyhSYk7hIHlTlVdDbR3VgWWtlSHrbb1NYXAsDhdBVw7otOke5Fuc2UseLhn70JSOItHLz7EGVcIdOPXQX7KgnXk9zL5AQWKQAOAKGP7mJsiy1wknZV4OY1YdMjArlfaepr91FgxkIIhgPclZaI3olmTo2YLyayMNgT7kQ2EXya3a4gk2mWh2DseAn7w8NgRtw2vgIJDbYedAJwXKphQZuR7SJz9P7rmrUyUnbATBcFHUu2EpXOUAGwdWaC0PZ21gLJKM6a1mOGgmSkNoxWhIzYR4xOdvL4mIe8bXDsDP3mCEuHzYU6OICI0mBV69Jdtsysl6D0rls7RvkBfftAOl9urd5XUeBISMMkWfelVelWAFum",
-      "cupom": null,
-      "loja": "aliexpress",
-      "categoria": "Audio",
-      "data": "2026-11-02T17:03:49.690938-03:00",
-      "slug": "fones-de-ouvido-sem-fio-haylou-flowbuds-n55-com-anc-adaptativo-de-54db-bluetooth",
-      "page_url": "https://promoninjaofertas.github.io/produto/fones-de-ouvido-sem-fio-haylou-flowbuds-n55-com-anc-adaptativo-de-54db-bluetooth.html",
-      "avaliacao": 4.720000000000001,
-      "avaliacoes": null,
-      "vendas": 4875,
-      "nota_qualidade": 8,
-      "last_seen": "2026-11-19T13:49:03.879926+00:00",
-      "expires_at": "2026-11-20T10:49:03.879926-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Tech",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
-    },
-    {
       "source_id": "1005007470128567",
       "titulo": "Bettdow Fone De Ouvido Sem Fio Bluetooth 5.3 De Terceira Geração Fone Sem Fio Bluetooth À Prova D'água HiFi",
       "de": 98.0,
@@ -4176,6 +4154,32 @@
       "avaliacao": 4.85,
       "avaliacoes": null,
       "vendas": 4038,
+      "nota_qualidade": 8,
+      "last_seen": "2026-11-19T13:49:03.879926+00:00",
+      "expires_at": "2026-11-20T10:49:03.879926-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Tech",
+      "cupom_no_telegram": false,
+      "cupom_telegram_url": null
+    },
+    {
+      "source_id": "1005011755232439",
+      "titulo": "Fones de Ouvido Sem Fio HAYLOU Flowbuds N55 com ANC Adaptativo de 54dB, Bluetooth 6.0, Áudio Hi-Res LDAC, Chamadas HD com 6 Microfones, 40 Horas de Reprodução, IPX5",
+      "de": 327.69,
+      "por": 152.33,
+      "desconto": 53,
+      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/A6f2a84632e67414c9f8a199f3813634cI.jpg",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4k8NtTg5ZtgV4CqMBydRmsEfXSI8bKt3MGX1GA6wTR4ZtcAK4OmIeI9hbUMhTvFxmnfn6Aff3Y8W00TcIv7ePDWf5bPnHQlNR98ZrXULjkHiNgfNVdxqM3tgImTfPTw6IBZdq4x5BqzozAEQf1xPZVwJhflcMUm2o8cZEwDt6encV1roTZajCR7gAdnDvBcLr2msjU58Ys2eMMDQTKJ8IklXk05wena81K92nZEp1Vl6D7ttPlPc4ZjAjBvKjIFoa6WYoGcQHHlSBSi3ngIOcscQRZtL3lbebPWiaafdxrp93NC5YlU6xyqNssHTi6MicxddlkTAnvlmPbQSsEQU0RwnDuDkwPfFSyhSYk7hIHlTlVdDbR3VgWWtlSHrbb1NYXAsDhdBVw7otOke5Fuc2UseLhn70JSOItHLz7EGVcIdOPXQX7KgnXk9zL5AQWKQAOAKGP7mJsiy1wknZV4OY1YdMjArlfaepr91FgxkIIhgPclZaI3olmTo2YLyayMNgT7kQ2EXya3a4gk2mWh2DseAn7w8NgRtw2vgIJDbYedAJwXKphQZuR7SJz9P7rmrUyUnbATBcFHUu2EpXOUAGwdWaC0PZ21gLJKM6a1mOGgmSkNoxWhIzYR4xOdvL4mIe8bXDsDP3mCEuHzYU6OICI0mBV69Jdtsysl6D0rls7RvkBfftAOl9urd5XUeBISMMkWfelVelWAFum",
+      "cupom": null,
+      "loja": "aliexpress",
+      "categoria": "Audio",
+      "data": "2026-11-02T17:03:49.690938-03:00",
+      "slug": "fones-de-ouvido-sem-fio-haylou-flowbuds-n55-com-anc-adaptativo-de-54db-bluetooth",
+      "page_url": "https://promoninjaofertas.github.io/produto/fones-de-ouvido-sem-fio-haylou-flowbuds-n55-com-anc-adaptativo-de-54db-bluetooth.html",
+      "avaliacao": 4.720000000000001,
+      "avaliacoes": null,
+      "vendas": 4875,
       "nota_qualidade": 8,
       "last_seen": "2026-11-19T13:49:03.879926+00:00",
       "expires_at": "2026-11-20T10:49:03.879926-03:00",
@@ -4348,7 +4352,7 @@
       "por": 170.59,
       "desconto": 58,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sf379ba197820456e9fba958ae173e989l.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mKqvqIZBGrglfV1irtOA3Fj7ruAtipWlmszcqPyUpdXSWstwcfiTu0GBNTPJB99bReNJbxtI6nv1n5dsS54mMRCGptPkkdjlmZIiHDiwQGKC0llMSPTqscyHb8XSdZI4lXUp2qUeuU7nvY2n903qDehV3n0CL2dPQwayr5jiTnPCb02gl9ADtlixqT5ThZzgpYvVQpqehlM5fkDO7tN0a93bLXX1oHDnDWBX9YeWrbbSwlD63NfQdb9JYbxOOWuyFZ5KjslsUmmhP6I4StjYsJf7iVLot41HUp6s7Kni91r5lqStdUgro2XxjHpKR9r8qZc6l3ita5AKhoocoOuQxCxQa718o5SEsujshUJt1ry7hPtUmVdpd98mruohsqUg3EaoKN4xwqLiW7JltogKu0qCaGkMTdSRHyVVywXtBqj5iF6RwO6BGSxJYolccor9F2CG8QRoi3uN9AJnFjiWN0XwDu9OcXQBlhp0N9kCNfCfsqWcA2CCP8kPo7YKdiuDe86stEOkGpPtvcNbBzcQQlKlBWL3yS1jJMtmGyUuLWTssSKMXMDAj5Y8w0qPZenvT7FvhYyP5rPkUMnDMxCpJ6QM7ECpukeOokhWFKDjyjy0HXTMORxmrs1xf9ZeHj3wyLfDOK9oVIUWqNhN3VOTjiNFOyjIh64nRs6xKvMXLCu88uoQtqZ7v6NwpGNvxZ33Jb6eYJid9iQXo",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mKqvqIZBGrglfV1irtOA3Fj7ruAtipWlmszcqPyUpdXSWstwcfiTu0GBNTPJB99bReNJbxtI6nv1n5dsS54mMRCGptPkkdjlmZIiHDiwQGKC0llMSPTqscyHb8XSdZI4lXUp2qUeuU7nvY2n903qDehV3n0CL2dPQwayr5jiTnPCb02gl9ADtlixqT5ThZzgpYvVQpqehlM5fkDO7tN0a93bLXX1oHDnDWBX9YeGDlkVZB62mv3YmBj8N3urMs4A8IAzrqUMds21V6thHo7viONzdkwHFr3YxCt1CGKrUGO9Jb2VseQ4PWu0mLBoOyw4lbk7YeMAlqNuOj8pZCf0EqvOsxlv9q3Vh6M7dN8bOsIHF5GzRU03iFYoQpwfjv6wRdj8nZ3Y9WKZehQ5ggfccpcDNSESPVJCAIwswP4ozVOSB3DpM2qWjGrJJoPWBI2pq0JsPL3fkA5rpUU3gqTh0X4d2ynUczXLgPe7CGxvi1OyEgUKFxaLXhisxHDI2cn9XWYV6MkFYtjNUagWUdiaRKbgm70cc6ENdxUeh5bkeK8BPapmY1Sd1S9LU4TlfvalF4p59TOXbljsFQrThibHEhfAxvpOWOxODVEKC3QE80XEsA0tLMXX9NvCFdyhVYqufGVQdgOROh6ozW42uLnzB7oyIRrPia27ty5c07or63FHuPk7U4nvueZyBYpUbYk43K87jygSuaKJg",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Hardware",
@@ -4359,8 +4363,8 @@
       "avaliacoes": null,
       "vendas": 120,
       "nota_qualidade": 9,
-      "last_seen": "2026-11-19T19:39:06.998237+00:00",
-      "expires_at": "2026-11-20T16:39:06.998237-03:00",
+      "last_seen": "2026-11-19T19:52:48.289056+00:00",
+      "expires_at": "2026-11-20T16:52:48.289056-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech",
