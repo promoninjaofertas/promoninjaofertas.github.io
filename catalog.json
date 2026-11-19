@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-11-19T13:49:03.879926+00:00",
+  "atualizado": "2026-11-19T14:01:45.087042+00:00",
   "ofertas": [
     {
       "source_id": "pechinchou-159461",
@@ -1575,190 +1575,10 @@
       "avaliacoes": null,
       "vendas": 232,
       "nota_qualidade": 10,
-      "last_seen": "2026-11-19T12:33:57.680919+00:00",
-      "expires_at": "2026-11-20T09:33:57.680919-03:00",
+      "last_seen": "2026-11-19T14:01:45.087042+00:00",
+      "expires_at": "2026-11-20T11:01:45.087042-03:00",
       "marca": "AMD",
-      "price_evidence": {
-        "checked_at": "2026-11-19T12:37:25.332145+00:00",
-        "identity": {
-          "brand": "AMD",
-          "model": "hqw24ip200",
-          "family": "monitores",
-          "kind": "produto",
-          "variant": "cor:branco|kit:1",
-          "ambiguous": false,
-          "comparison_key": "amd|hqw24ip200|cor:branco|kit:1"
-        },
-        "previous_min": 599.0,
-        "observed_min": 599.0,
-        "since": "2026-10-20T13:26:29.963643+00:00",
-        "observations": 111,
-        "days": 31,
-        "history": [
-          {
-            "at": "2026-11-08T09:22:57.502631+00:00",
-            "price": 599.0
-          },
-          {
-            "at": "2026-11-08T15:28:47.784977+00:00",
-            "price": 599.0
-          },
-          {
-            "at": "2026-11-08T21:39:03.301263+00:00",
-            "price": 599.0
-          },
-          {
-            "at": "2026-11-09T03:48:27.943464+00:00",
-            "price": 599.0
-          },
-          {
-            "at": "2026-11-09T10:06:14.392021+00:00",
-            "price": 599.0
-          },
-          {
-            "at": "2026-11-09T17:22:52.818987+00:00",
-            "price": 738.04
-          },
-          {
-            "at": "2026-11-10T04:44:28.031309+00:00",
-            "price": 738.04
-          },
-          {
-            "at": "2026-11-10T12:39:28.040073+00:00",
-            "price": 738.04
-          },
-          {
-            "at": "2026-11-10T19:47:17.110768+00:00",
-            "price": 738.04
-          },
-          {
-            "at": "2026-11-11T01:47:40.490817+00:00",
-            "price": 738.04
-          },
-          {
-            "at": "2026-11-11T07:48:21.965487+00:00",
-            "price": 738.04
-          },
-          {
-            "at": "2026-11-11T17:26:30.638851+00:00",
-            "price": 738.04
-          },
-          {
-            "at": "2026-11-12T00:15:04.399465+00:00",
-            "price": 738.04
-          },
-          {
-            "at": "2026-11-12T06:28:00.213807+00:00",
-            "price": 738.04
-          },
-          {
-            "at": "2026-11-12T12:40:28.445990+00:00",
-            "price": 738.04
-          },
-          {
-            "at": "2026-11-12T19:31:31.113277+00:00",
-            "price": 738.04
-          },
-          {
-            "at": "2026-11-13T02:03:18.774481+00:00",
-            "price": 738.04
-          },
-          {
-            "at": "2026-11-13T08:04:11.493793+00:00",
-            "price": 738.04
-          },
-          {
-            "at": "2026-11-13T15:09:43.018842+00:00",
-            "price": 738.04
-          },
-          {
-            "at": "2026-11-13T22:38:37.595258+00:00",
-            "price": 738.04
-          },
-          {
-            "at": "2026-11-14T04:56:34.880738+00:00",
-            "price": 738.04
-          },
-          {
-            "at": "2026-11-14T11:26:56.006873+00:00",
-            "price": 738.04
-          },
-          {
-            "at": "2026-11-14T18:23:49.605632+00:00",
-            "price": 738.04
-          },
-          {
-            "at": "2026-11-15T01:43:10.594104+00:00",
-            "price": 738.04
-          },
-          {
-            "at": "2026-11-15T07:50:38.487492+00:00",
-            "price": 738.04
-          },
-          {
-            "at": "2026-11-15T14:00:15.492207+00:00",
-            "price": 738.04
-          },
-          {
-            "at": "2026-11-15T22:16:46.596998+00:00",
-            "price": 738.04
-          },
-          {
-            "at": "2026-11-16T04:47:37.621238+00:00",
-            "price": 738.04
-          },
-          {
-            "at": "2026-11-16T13:34:25.649973+00:00",
-            "price": 738.04
-          },
-          {
-            "at": "2026-11-16T21:56:39.966121+00:00",
-            "price": 738.04
-          },
-          {
-            "at": "2026-11-17T03:15:57.411809+00:00",
-            "price": 737.94
-          },
-          {
-            "at": "2026-11-17T09:21:28.806156+00:00",
-            "price": 737.94
-          },
-          {
-            "at": "2026-11-17T15:28:56.330844+00:00",
-            "price": 737.94
-          },
-          {
-            "at": "2026-11-17T21:43:21.869059+00:00",
-            "price": 737.94
-          },
-          {
-            "at": "2026-11-18T03:09:18.094865+00:00",
-            "price": 738.04
-          },
-          {
-            "at": "2026-11-18T09:13:23.704782+00:00",
-            "price": 738.04
-          },
-          {
-            "at": "2026-11-18T15:14:02.772475+00:00",
-            "price": 738.04
-          },
-          {
-            "at": "2026-11-18T21:23:08.694646+00:00",
-            "price": 738.04
-          },
-          {
-            "at": "2026-11-19T03:25:24.799271+00:00",
-            "price": 738.04
-          },
-          {
-            "at": "2026-11-19T09:33:49.469946+00:00",
-            "price": 738.04
-          }
-        ],
-        "advantage": false,
-        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
-      },
+      "price_evidence": {},
       "grupo": "Gamer",
       "cupom_no_telegram": false,
       "cupom_telegram_url": null
@@ -1987,190 +1807,10 @@
       "avaliacoes": null,
       "vendas": 913,
       "nota_qualidade": 9,
-      "last_seen": "2026-11-19T10:52:26.369230+00:00",
-      "expires_at": "2026-11-20T07:52:26.369230-03:00",
+      "last_seen": "2026-11-19T14:01:45.087042+00:00",
+      "expires_at": "2026-11-20T11:01:45.087042-03:00",
       "marca": "Kingston",
-      "price_evidence": {
-        "checked_at": "2026-11-19T10:55:01.893384+00:00",
-        "identity": {
-          "brand": "Kingston",
-          "model": "hx432c16fb3/8",
-          "family": "memoria",
-          "kind": "produto",
-          "variant": "8gb|kit:1",
-          "ambiguous": false,
-          "comparison_key": "kingston|hx432c16fb3 8|8gb|kit:1"
-        },
-        "previous_min": 399.0,
-        "observed_min": 399.0,
-        "since": "2026-10-25T10:58:34.786119+00:00",
-        "observations": 70,
-        "days": 20,
-        "history": [
-          {
-            "at": "2026-11-08T14:58:18.912095+00:00",
-            "price": 399.0
-          },
-          {
-            "at": "2026-11-08T21:23:44.587678+00:00",
-            "price": 399.0
-          },
-          {
-            "at": "2026-11-09T03:29:05.112921+00:00",
-            "price": 399.0
-          },
-          {
-            "at": "2026-11-09T09:32:37.486161+00:00",
-            "price": 399.0
-          },
-          {
-            "at": "2026-11-09T15:37:09.084094+00:00",
-            "price": 399.0
-          },
-          {
-            "at": "2026-11-09T22:38:08.785699+00:00",
-            "price": 399.0
-          },
-          {
-            "at": "2026-11-10T04:44:28.031309+00:00",
-            "price": 399.0
-          },
-          {
-            "at": "2026-11-10T13:52:15.233925+00:00",
-            "price": 399.0
-          },
-          {
-            "at": "2026-11-10T20:07:35.881254+00:00",
-            "price": 399.0
-          },
-          {
-            "at": "2026-11-11T02:38:13.421519+00:00",
-            "price": 399.0
-          },
-          {
-            "at": "2026-11-11T08:54:12.937133+00:00",
-            "price": 399.0
-          },
-          {
-            "at": "2026-11-11T20:30:58.959709+00:00",
-            "price": 399.0
-          },
-          {
-            "at": "2026-11-12T02:52:43.123268+00:00",
-            "price": 399.0
-          },
-          {
-            "at": "2026-11-12T08:57:07.282256+00:00",
-            "price": 399.0
-          },
-          {
-            "at": "2026-11-12T15:37:20.417892+00:00",
-            "price": 399.0
-          },
-          {
-            "at": "2026-11-12T22:25:10.872192+00:00",
-            "price": 399.0
-          },
-          {
-            "at": "2026-11-13T06:02:31.382593+00:00",
-            "price": 399.0
-          },
-          {
-            "at": "2026-11-13T12:40:23.471263+00:00",
-            "price": 399.0
-          },
-          {
-            "at": "2026-11-13T18:49:35.982320+00:00",
-            "price": 399.0
-          },
-          {
-            "at": "2026-11-14T02:29:40.975215+00:00",
-            "price": 399.0
-          },
-          {
-            "at": "2026-11-14T08:50:15.827649+00:00",
-            "price": 399.0
-          },
-          {
-            "at": "2026-11-14T15:08:26.208939+00:00",
-            "price": 399.0
-          },
-          {
-            "at": "2026-11-14T22:06:17.270058+00:00",
-            "price": 399.0
-          },
-          {
-            "at": "2026-11-15T04:36:18.074884+00:00",
-            "price": 399.0
-          },
-          {
-            "at": "2026-11-15T10:42:30.074642+00:00",
-            "price": 399.0
-          },
-          {
-            "at": "2026-11-15T20:50:42.445714+00:00",
-            "price": 499.0
-          },
-          {
-            "at": "2026-11-16T03:30:11.636493+00:00",
-            "price": 499.0
-          },
-          {
-            "at": "2026-11-16T09:30:51.374776+00:00",
-            "price": 499.0
-          },
-          {
-            "at": "2026-11-16T15:56:47.751007+00:00",
-            "price": 499.0
-          },
-          {
-            "at": "2026-11-16T18:28:30.867273+00:00",
-            "price": 399.0
-          },
-          {
-            "at": "2026-11-17T02:10:02.617185+00:00",
-            "price": 399.0
-          },
-          {
-            "at": "2026-11-17T08:13:11.392528+00:00",
-            "price": 399.0
-          },
-          {
-            "at": "2026-11-17T14:16:06.996190+00:00",
-            "price": 399.0
-          },
-          {
-            "at": "2026-11-17T20:29:47.824682+00:00",
-            "price": 399.0
-          },
-          {
-            "at": "2026-11-18T02:32:45.100927+00:00",
-            "price": 399.0
-          },
-          {
-            "at": "2026-11-18T08:39:10.441558+00:00",
-            "price": 399.0
-          },
-          {
-            "at": "2026-11-18T14:43:43.524775+00:00",
-            "price": 399.0
-          },
-          {
-            "at": "2026-11-18T21:23:08.694646+00:00",
-            "price": 399.0
-          },
-          {
-            "at": "2026-11-19T03:23:15.284982+00:00",
-            "price": 399.0
-          },
-          {
-            "at": "2026-11-19T09:48:05.992392+00:00",
-            "price": 399.0
-          }
-        ],
-        "advantage": false,
-        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
-      },
+      "price_evidence": {},
       "grupo": "Tech",
       "cupom_no_telegram": false,
       "cupom_telegram_url": null
@@ -2193,190 +1833,10 @@
       "avaliacoes": null,
       "vendas": 921,
       "nota_qualidade": 9,
-      "last_seen": "2026-11-19T13:36:06.503666+00:00",
-      "expires_at": "2026-11-20T10:36:06.503666-03:00",
+      "last_seen": "2026-11-19T14:01:45.087042+00:00",
+      "expires_at": "2026-11-20T11:01:45.087042-03:00",
       "marca": "Mondial",
-      "price_evidence": {
-        "checked_at": "2026-11-19T13:38:36.503350+00:00",
-        "identity": {
-          "brand": "Mondial",
-          "model": "af36bi",
-          "family": "eletrodomesticos",
-          "kind": "produto",
-          "variant": "127v|3.6l|cor:preto|kit:1",
-          "ambiguous": false,
-          "comparison_key": "mondial|af36bi|127v|3.6l|cor:preto|kit:1"
-        },
-        "previous_min": 191.31,
-        "observed_min": 191.31,
-        "since": "2026-10-20T16:56:17.166837+00:00",
-        "observations": 87,
-        "days": 24,
-        "history": [
-          {
-            "at": "2026-11-09T17:38:29.930401+00:00",
-            "price": 219.9
-          },
-          {
-            "at": "2026-11-09T23:59:10.351458+00:00",
-            "price": 219.9
-          },
-          {
-            "at": "2026-11-10T06:10:46.005720+00:00",
-            "price": 219.9
-          },
-          {
-            "at": "2026-11-10T13:11:35.123808+00:00",
-            "price": 219.9
-          },
-          {
-            "at": "2026-11-10T19:47:17.110768+00:00",
-            "price": 219.9
-          },
-          {
-            "at": "2026-11-11T02:08:13.804021+00:00",
-            "price": 219.9
-          },
-          {
-            "at": "2026-11-11T08:36:20.006014+00:00",
-            "price": 219.9
-          },
-          {
-            "at": "2026-11-11T15:35:03.044670+00:00",
-            "price": 219.9
-          },
-          {
-            "at": "2026-11-11T22:18:14.131455+00:00",
-            "price": 191.31
-          },
-          {
-            "at": "2026-11-12T01:25:47.521759+00:00",
-            "price": 219.9
-          },
-          {
-            "at": "2026-11-12T08:26:20.087588+00:00",
-            "price": 219.9
-          },
-          {
-            "at": "2026-11-12T15:37:20.417892+00:00",
-            "price": 219.9
-          },
-          {
-            "at": "2026-11-12T16:46:13.679436+00:00",
-            "price": 193.51
-          },
-          {
-            "at": "2026-11-13T01:32:19.147823+00:00",
-            "price": 193.51
-          },
-          {
-            "at": "2026-11-13T03:14:48.973995+00:00",
-            "price": 219.9
-          },
-          {
-            "at": "2026-11-13T09:23:09.999337+00:00",
-            "price": 219.9
-          },
-          {
-            "at": "2026-11-13T16:20:12.295359+00:00",
-            "price": 219.9
-          },
-          {
-            "at": "2026-11-13T22:56:40.926908+00:00",
-            "price": 219.9
-          },
-          {
-            "at": "2026-11-14T05:17:18.101420+00:00",
-            "price": 219.9
-          },
-          {
-            "at": "2026-11-14T12:17:35.601944+00:00",
-            "price": 219.9
-          },
-          {
-            "at": "2026-11-14T18:27:56.582616+00:00",
-            "price": 219.9
-          },
-          {
-            "at": "2026-11-15T00:54:12.842345+00:00",
-            "price": 219.9
-          },
-          {
-            "at": "2026-11-15T07:25:24.392072+00:00",
-            "price": 219.9
-          },
-          {
-            "at": "2026-11-15T13:30:00.003868+00:00",
-            "price": 219.9
-          },
-          {
-            "at": "2026-11-15T19:49:29.121739+00:00",
-            "price": 219.9
-          },
-          {
-            "at": "2026-11-16T01:58:10.881122+00:00",
-            "price": 219.9
-          },
-          {
-            "at": "2026-11-16T07:58:29.038979+00:00",
-            "price": 219.9
-          },
-          {
-            "at": "2026-11-16T14:10:14.586608+00:00",
-            "price": 219.9
-          },
-          {
-            "at": "2026-11-16T20:14:46.304945+00:00",
-            "price": 219.9
-          },
-          {
-            "at": "2026-11-17T02:37:05.606885+00:00",
-            "price": 219.9
-          },
-          {
-            "at": "2026-11-17T03:25:56.396723+00:00",
-            "price": 216.6
-          },
-          {
-            "at": "2026-11-17T09:26:14.732685+00:00",
-            "price": 216.6
-          },
-          {
-            "at": "2026-11-17T15:28:01.184597+00:00",
-            "price": 216.6
-          },
-          {
-            "at": "2026-11-17T21:29:22.774531+00:00",
-            "price": 216.6
-          },
-          {
-            "at": "2026-11-18T03:40:04.923729+00:00",
-            "price": 216.6
-          },
-          {
-            "at": "2026-11-18T09:46:34.221199+00:00",
-            "price": 216.6
-          },
-          {
-            "at": "2026-11-18T15:53:49.408437+00:00",
-            "price": 216.6
-          },
-          {
-            "at": "2026-11-18T22:39:18.345065+00:00",
-            "price": 216.6
-          },
-          {
-            "at": "2026-11-19T03:09:33.775346+00:00",
-            "price": 219.9
-          },
-          {
-            "at": "2026-11-19T09:18:50.769228+00:00",
-            "price": 219.9
-          }
-        ],
-        "advantage": false,
-        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
-      },
+      "price_evidence": {},
       "grupo": "Casa",
       "cupom_no_telegram": false,
       "cupom_telegram_url": null
@@ -2605,190 +2065,10 @@
       "avaliacoes": null,
       "vendas": 947,
       "nota_qualidade": 9,
-      "last_seen": "2026-11-19T13:36:06.503666+00:00",
-      "expires_at": "2026-11-20T10:36:06.503666-03:00",
+      "last_seen": "2026-11-19T14:01:45.087042+00:00",
+      "expires_at": "2026-11-20T11:01:45.087042-03:00",
       "marca": "WAP",
-      "price_evidence": {
-        "checked_at": "2026-11-19T13:38:36.503350+00:00",
-        "identity": {
-          "brand": "WAP",
-          "model": "fw005705",
-          "family": "eletrodomesticos",
-          "kind": "produto",
-          "variant": "10l|127v|1400w|cor:preto|kit:1",
-          "ambiguous": false,
-          "comparison_key": "wap|fw005705|10l|127v|1400w|cor:preto|kit:1"
-        },
-        "previous_min": 236.0,
-        "observed_min": 236.0,
-        "since": "2026-10-20T18:18:53.311996+00:00",
-        "observations": 126,
-        "days": 31,
-        "history": [
-          {
-            "at": "2026-11-09T17:22:20.297140+00:00",
-            "price": 262.0
-          },
-          {
-            "at": "2026-11-09T23:38:37.531170+00:00",
-            "price": 262.0
-          },
-          {
-            "at": "2026-11-10T05:40:03.269768+00:00",
-            "price": 262.0
-          },
-          {
-            "at": "2026-11-10T11:55:25.309853+00:00",
-            "price": 262.0
-          },
-          {
-            "at": "2026-11-10T18:41:06.680998+00:00",
-            "price": 262.0
-          },
-          {
-            "at": "2026-11-11T00:47:05.446359+00:00",
-            "price": 262.0
-          },
-          {
-            "at": "2026-11-11T03:13:31.084200+00:00",
-            "price": 236.0
-          },
-          {
-            "at": "2026-11-11T09:24:45.520794+00:00",
-            "price": 236.0
-          },
-          {
-            "at": "2026-11-11T11:16:21.591893+00:00",
-            "price": 237.0
-          },
-          {
-            "at": "2026-11-11T17:26:30.638851+00:00",
-            "price": 237.0
-          },
-          {
-            "at": "2026-11-11T22:01:38.559722+00:00",
-            "price": 262.0
-          },
-          {
-            "at": "2026-11-12T03:07:26.110219+00:00",
-            "price": 236.0
-          },
-          {
-            "at": "2026-11-12T09:20:05.304170+00:00",
-            "price": 236.0
-          },
-          {
-            "at": "2026-11-12T12:30:12.457919+00:00",
-            "price": 262.0
-          },
-          {
-            "at": "2026-11-12T18:40:29.339650+00:00",
-            "price": 262.0
-          },
-          {
-            "at": "2026-11-13T00:52:14.683227+00:00",
-            "price": 262.0
-          },
-          {
-            "at": "2026-11-13T06:58:10.003389+00:00",
-            "price": 262.0
-          },
-          {
-            "at": "2026-11-13T13:36:16.692150+00:00",
-            "price": 262.0
-          },
-          {
-            "at": "2026-11-13T19:43:29.071215+00:00",
-            "price": 262.0
-          },
-          {
-            "at": "2026-11-14T01:43:51.021969+00:00",
-            "price": 262.0
-          },
-          {
-            "at": "2026-11-14T07:53:23.941051+00:00",
-            "price": 262.0
-          },
-          {
-            "at": "2026-11-14T14:53:37.520062+00:00",
-            "price": 262.0
-          },
-          {
-            "at": "2026-11-14T22:06:17.270058+00:00",
-            "price": 262.0
-          },
-          {
-            "at": "2026-11-15T04:07:26.420149+00:00",
-            "price": 262.0
-          },
-          {
-            "at": "2026-11-15T10:10:48.713507+00:00",
-            "price": 262.0
-          },
-          {
-            "at": "2026-11-15T16:37:00.701840+00:00",
-            "price": 262.0
-          },
-          {
-            "at": "2026-11-15T22:39:47.344223+00:00",
-            "price": 262.0
-          },
-          {
-            "at": "2026-11-16T05:03:08.276746+00:00",
-            "price": 262.0
-          },
-          {
-            "at": "2026-11-16T11:13:00.692577+00:00",
-            "price": 262.0
-          },
-          {
-            "at": "2026-11-16T17:22:46.992796+00:00",
-            "price": 262.0
-          },
-          {
-            "at": "2026-11-17T02:20:29.183847+00:00",
-            "price": 262.0
-          },
-          {
-            "at": "2026-11-17T08:28:46.032187+00:00",
-            "price": 262.0
-          },
-          {
-            "at": "2026-11-17T14:32:20.428196+00:00",
-            "price": 262.0
-          },
-          {
-            "at": "2026-11-17T20:48:46.182161+00:00",
-            "price": 262.0
-          },
-          {
-            "at": "2026-11-18T02:49:15.293603+00:00",
-            "price": 262.0
-          },
-          {
-            "at": "2026-11-18T08:53:01.139383+00:00",
-            "price": 262.0
-          },
-          {
-            "at": "2026-11-18T14:58:54.469540+00:00",
-            "price": 262.0
-          },
-          {
-            "at": "2026-11-18T21:13:09.174572+00:00",
-            "price": 262.0
-          },
-          {
-            "at": "2026-11-19T03:23:15.284982+00:00",
-            "price": 262.0
-          },
-          {
-            "at": "2026-11-19T09:23:44.187028+00:00",
-            "price": 262.0
-          }
-        ],
-        "advantage": false,
-        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
-      },
+      "price_evidence": {},
       "grupo": "Casa",
       "cupom_no_telegram": false,
       "cupom_telegram_url": null
@@ -3938,11 +3218,11 @@
     {
       "source_id": "1005012150344482",
       "titulo": "Smartwatch HAYLOU Solar Neo 2 com Chamadas de Voz, Tela AMOLED HD de 1.43'', Monitoramento de Saúde 24h, 150+ Modos Esportivos, Smartwatch 1ATM",
-      "de": 428.05,
-      "por": 191.26,
+      "de": 432.49,
+      "por": 193.24,
       "desconto": 55,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/A4a556ad33300499cb808b282ee0eb1cbY.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mSII936BvEDr6uqRPwyg49AJn9EQJI2mjFjfprrtOhdve7n9lRXxWEL0U6lquDkRn0HPMabKIlIrasyVw5b0YIFCyXg07sOcjKnOOjG6ViySDbvWSKfl82xybphs11KnBLXXqnaj7rCUkaH61IqRrGM6PjFXiLZTIfs02Rnf2pdaIbztEmdZmBlpQFBmx0FiLnaPGtth9DyXjK9oEq01hsWds3MJSXogHikLVLPo3dsTFMpaVTWTuNIRPgMcdI7KCgGN86dSUubnAGQfCkqV7mWIXAOHWyvYzh77YHFyhNaMGc6nlZmjo3U8AZWvm6XVdjA8lMGM7Q1jQJkM5vQ41VyiVU4Cw0ov0dwfooGNZL5dVG5zy9c5vR3JymSTtxWhAj6zYTuISZpI83lSMAeEJhSCQSCzUhx2FCHFiHW8OGly2kWpI1yVRMx9eFxPKuKHuSKF4Ca7n79zYHZB2LFW34h5iGg4GnUWgJxsj6FlOogQmHrQeQqTTdbIEJgLR0lRLaopEKrBBWUyDOofZSuRfpm9CtnwgcAmt3ESPbUN5fdamSzNuep7c8F0RicQ3lXEwEUBQIeYjaf8HlykigIt1SO5xLUmuVuH0ZRVvDNKgZPNuVhtyHqTh5qXZxHIOLi16ZLoPH1BKbx3gR5SfYIJkzzZUagizGADY1YieQFKtcCeZRMZLYY3E75xn8sRUjREyNUMq0RE5ib3G",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4mSII936BvEDr6uqRPwyg49AJn9EQJI2mjFjfprrtOhdve7n9lRXxWEL0U6lquDkRn0HPMabKIlIrasyVw5b0YIFCyXg07sOcjKnOOjG6ViySDbvWSKfl82xybphs11KnBLXXqnaj7rCUkaH61IqRrGM6PjFXiLZTIfs02Rnf2pdaIbztEmdZmBlpQFBmx0FiLnaPGtth9DyXjK9oEq01hsWds3MJSXogHikLVKicJAJpBrkEPotyaumqKCbyKYN7JXB6D0YaPzPP1x7uRMK9hFFuHhuVsKhNnKj2SZ9rINxYU6NoHeRhxOSJa2Y6p3xTCghvhVA903GZK4DpZ1sCFEq7tRU4q1vlzvqXJ23KPkXZcyw1AdUoAQUwbbY17P85iZX0MelmQJD4nGt7gufIQuXzwm8mYC2jd8f68IPDNzNntMF5adh7fJqjhvEXT94J8M9UfYRs8FQG3vuv5RoHPL9iudZHIgqmvqxhFR2juoB61BTiAW0FWjv7lq5mlxQFtOXXzw2Hn36iYHbgCkwQFEyeTChLPICTyN3xVwNfArm7vLCrj1ZrpgrMPaw13H6F7ocs2Blxt2zwpiuCqtMMLmMopC5YAC08LRqNl1UPUz8JIEtmisxEWRoiCBFkDXzqeW5hhCxZFmj0WvtyTejm78kFWe4jOooMmIZLEYY0PxtxctcxrUbUHOFFm2GhPkuyFUWCkb7I2Zs6I",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Hardware",
@@ -3953,8 +3233,8 @@
       "avaliacoes": null,
       "vendas": 1005,
       "nota_qualidade": 8,
-      "last_seen": "2026-11-19T05:33:29.550669+00:00",
-      "expires_at": "2026-11-20T02:33:29.550669-03:00",
+      "last_seen": "2026-11-19T14:01:45.087042+00:00",
+      "expires_at": "2026-11-20T11:01:45.087042-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech",
@@ -4016,11 +3296,11 @@
     {
       "source_id": "1005008554745431",
       "titulo": "Fones de Ouvido Originais Lenovo Lp3 Pro TWS Sem Fio Bluetooth 5.3 com Som HIFI, Redução de Ruído, Chamadas HD e Baixa Latência",
-      "de": 58.2,
+      "de": 58.79,
       "por": 44.59,
-      "desconto": 23,
+      "desconto": 24,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S353393572c3d4af8a224eb3d23f11d41n.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4oLYhJFYjKK9WWeNl8GS4dZ6IL0PFdPyXZVbH0kI9s7hesQZEp7lOEOKhUhfMbscYKnoLlhEcnsHvWhbudVBtRI2RyUmYni36m4Yk0M1eP7q37BlJVtJOt9S59xrm4uUlFaCkc2WRF18xX0oKVAS7gdKFFTi49djldOlL4OcR3urjJvp33xT5BCQ1cElCNdaluJr2PbPQnRrQ6j06XAQVbfM02FFAJH5MNj46BSW7eHn9q1a2fjG1KAAyNDZqVS6zxEE7enN1fcbdvvWOh2m9ofVE7Mvx1MacBqLIdRDR49d8Ok9UDWj2JhrDbHTY1LaFqu1SQ5e9qkLXgQGduwfgTXmTupRel5rLSKgJ86iedWFs6ZzCCAunPC1YPtMv23897AeyXE3BML1wA9XF6LaZTby1IA4HNxwXSxbJN3wnFeKbSXrfvHL1VrJFGSPlsVCRpyUDUMKXtmLptbvH4IYkKc7VZLoUVa1uU3NEGE8BxSKV5iCSUiGG9Imv5VsHyoYtDwWlXAhzcM1mtZyQtPsRDTuyq3Cuc1OB7zi0uZCyn9DqSHjJ3NYuUNTFatX9ZFHIYcUN2GTnEGo1vXtiVd4X2WDxpBzemT8xGIY3jwmkf0u2fHCjdpub1H064OI3MjefrgFQjiNQnZ3oJL3ghp2LbE5wfwGhAqlJw5hPQCs5aIubMga6ZOts8twCuOpzorYBNmcuH4G3aLDot",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4oLYhJFYjKK9WWeNl8GS4dZ6IL0PFdPyXZVbH0kI9s7hesQZEp7lOEOKhUhfMbscYKnoLlhEcnsHvWhbudVBtRI2RyUmYni36m4Yk0M1eP7q37BlJVtJOt9S59xrm4uUlFaCkc2WRF18xX0oKVAS7gdKFFTi49djldOlL4OcR3urjJvp33xT5BCQ1cElCNdaluJr2PbPQnRrQ6j06XAQVbfM02FFAJH5MNj46B1QjpLbrupBxjj82c0jDubEVEYVNSlZCvP1FFLXLsdiVE2xewXoZpcbPILLjxWBjXYSWgnGslziXzaTLX9H4IG5rMytXmM2YeiJ76Wxz3GdA4zczohHpZaQ6DWIu9SSyyvfw6ejJdamFG5G69vlIPADvCx3xde7C2apWP3az1zw6yzKENW2sY2FjS2mObr5Pro7jGVEwqUF6vDGI28wS7dBwsXcwZFZomi7ws2mS7ECOirVH8l8ejsxSV0Yuyzparwsa279Q3qFyPFbvJCaxlUhfs5dDryKp4t5G4GObHzq5DL9rEpGybHjRJCTngO7D3BKxvpnS2a8uBn5gUautM7UuVjqXWpFdnwjihGNUh5o0mYnQYTqjGwuj7QeuPqYaU4CQut6fGrkNYRYb2ArBeOTG1AGmHqd6ADGVw3S1ZJNOeDdVlWBvqDG1JbcGJ1OkhCvo9Ri4rB96wai8Jqx02hNWvjeQC1qQPw3Igqrlj",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Audio",
@@ -4031,8 +3311,34 @@
       "avaliacoes": null,
       "vendas": 396,
       "nota_qualidade": 9,
-      "last_seen": "2026-11-19T05:18:34.596872+00:00",
-      "expires_at": "2026-11-20T02:18:34.596872-03:00",
+      "last_seen": "2026-11-19T14:01:45.087042+00:00",
+      "expires_at": "2026-11-20T11:01:45.087042-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Tech",
+      "cupom_no_telegram": false,
+      "cupom_telegram_url": null
+    },
+    {
+      "source_id": "1005008774483451",
+      "titulo": "HAYLOU Solar Ultra GPS Smartwatch 1.6” AMOLED Display 5ATM à prova d'água GPS integrado Bluetooth Chamadas telefônicas Relógio i",
+      "de": 960.24,
+      "por": 392.79,
+      "desconto": 59,
+      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Ac19249cd5b2c41e5b11d2e0fde8f21dcg.jpg",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4kIFhsS99ghALkZBpv4QbJdwLUROsFnb6OHZoTTUbMrTaduUjOpFhdRKekDPcYIVUQ2y2UzzkWtRO0ibfKEXm2lJNcllQIdc7GRNCQDBvhz6dEMsfavdZG5wB4RaKASvXIrHhPSacGb42h34c7HIKJ2cvPjn3phUx5Pwz8yREXdBrsiQrQTS8SAZV1TaKBmzPtPdoCuExBKioqpMvuoh0p8PBDCcHMvoOYdJvLXqqcVpKpiGzKUEsqhBXKokaSIkBMA1zt0Ic4zDpE2KvMrmZHXkgMXNLuneDne0lguBN0OAFcdLcZ3Y6DyJgdfLQIhs1nBdGTIKB6TEuF7uNUzFHJDe9RIO25ndac06pODcd7JbPQWi78JqJmg8mEqILXgA1hjQXpiXbKPpWhxqlxRSHsvs7abulWPKBzFadnqSj3Mr6tYdVqONzYgHftR9YQyjinmvI9R9CLj3cf2t1prj2KWhLBogF0U4mZG7Mwnjl1GqjaqJQ2vWk6YFBXfNZdVOUon1oZobWvPNatAmP14a2ZU1LGOjT1DcXL6e6l9cEmZ9aAlBsXo1tlt1IFlY6BNK65StS9tfdvD0YQzKKlupC6qyzaImIfvph4j0DdwFX91knLwt05Syj1WaCNLjhDToKxEuJfcYycbwsCimG7xSjJ6Wb6XVMp6rodD1wrMRMXNDgWeRDdLEWlqUaUgyk22q9IGmSkGROhqABJ",
+      "cupom": null,
+      "loja": "aliexpress",
+      "categoria": "Audio",
+      "data": "2026-11-02T17:44:06.899915-03:00",
+      "slug": "haylou-solar-ultra-gps-smartwatch-1-6-amoled-display-5atm-a-prova-d-agua",
+      "page_url": "https://promoninjaofertas.github.io/produto/haylou-solar-ultra-gps-smartwatch-1-6-amoled-display-5atm-a-prova-d-agua.html",
+      "avaliacao": 4.775,
+      "avaliacoes": null,
+      "vendas": 2025,
+      "nota_qualidade": 8,
+      "last_seen": "2026-11-19T14:01:45.087042+00:00",
+      "expires_at": "2026-11-20T11:01:45.087042-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech",
@@ -4042,11 +3348,11 @@
     {
       "source_id": "1005008850261694",
       "titulo": "Relógio HAYLOU 4S GPS Smartwatch com Tela HD AMOLED de 1.43”, Posicionamento GPS por 5 Satélites, 120+ Modos de Treino, Relógio Inteligente para Fitness",
-      "de": 484.92,
-      "por": 257.34,
+      "de": 489.95,
+      "por": 260.02,
       "desconto": 46,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/A920a153ccefb4dc387c2e2910c28c1472.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4o2cPsrwDxkHvYl7WKnSMo3VNWhVY3wp4okj2FV17b6bUuL4dbaDclBq2wrEEN215ENrL52Fohnb7GhDCAVjBi9JtFs155sV2yqaABgNCmm4EEG3sT8Qz84ZwFX0S72c0sfGpCojnRJra5tI4uh8SICGPrFgqGM61zMC6SoPBU7pvKV6ahPbOUNMUL7C3kCyQ5D5b3vvZUAEqOm3B7gVgWdlDmuskNXWCWyPD3Ug0h4sa9PJDVcxJjeq9kM9WmAPrPLuTdlbDXrUr7q21ibIvE53qgCVlvX4faGbS1OMfqphu5tRdPXAPhb2ks8Dx7eusFTaWRmqXcZDoTeltV7yXgbsHpgdndPlayBGsxfxzV4x3059nLtWrfx0ucySWAM30cSylvHAhJe0nvC9aYlXCtPBPljhxOyxaONNew1KZVxO3C1NNQwoVFNKYmyZXnGhxopU4v228BuAnWunbjFVXLMrfvWkpIX2LWD4vFUnI13JGXDZcQWfOckBAYB9TKDo99NbZAbcAe5Q61p3EfTTlVYqweoIvTyarN3TikcdX8Xszc8SZf7vsHzCtImp4a4qAfJk4EBvfMjHgXGxq7s1H8vGlvyqBlGoCqRVEr6wmynCrQkifIWU8eHo7YHKmCDjHpnznuj597kmDtgXvI4qQo9UyhfcFM0CH5utEXNzhmz1utXK3Rvw5v8FTXeJOax97EgbegOh7m2zvY",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4o2cPsrwDxkHvYl7WKnSMo3VNWhVY3wp4okj2FV17b6bUuL4dbaDclBq2wrEEN215ENrL52Fohnb7GhDCAVjBi9JtFs155sV2yqaABgNCmm4EEG3sT8Qz84ZwFX0S72c0sfGpCojnRJra5tI4uh8SICGPrFgqGM61zMC6SoPBU7pvKV6ahPbOUNMUL7C3kCyQ5D5b3vvZUAEqOm3B7gVgWdlDmuskNXWCWyPD3Ud5rzIAZKipOffpx08cei50T0pZo2Bht2MsYxjlBDskLnQlVEGcZGihb52UhDCJcvzoyhg3y0Cu0KW4ixeRnsDDnnL141iTEAvJ4lBYB0RM9UsgpD5kLR7LZ6pkQLYGZppFIKJzrPfiBLy0gHMrnmN2r1MrcMtxahUcHuYzKEUeZmeXO1EhCOc43LJWEhM2UMCbZlp2DN3uOcqNj13dfuNZh9eIBfGI27rTfRZPPMeQzY66alhyD9J3ggAyEaMLP8unkCkgHDXzH4xvgjDoDBljun3AJQouib1cZWlcrNxEvjnXOc0ryN58saGjT7gzf5J22KebN2bkHsU1gzkYVr6rJw9IzL3FEkoGvNB1aHxepcHmBmXRQEpnVFIfFqAKyvPMnsCSDQVXpoEsgdvMJbpUYQN6MKN2998WVun7On59g68v2RU5ypHxFEUhGluPDwocZPsMd3Cuhg57gNkawwqfza6vsbcRllDwnL5po",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Eletrônicos",
@@ -4057,34 +3363,8 @@
       "avaliacoes": null,
       "vendas": 3073,
       "nota_qualidade": 8,
-      "last_seen": "2026-11-19T05:33:29.550669+00:00",
-      "expires_at": "2026-11-20T02:33:29.550669-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Tech",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
-    },
-    {
-      "source_id": "1005008774483451",
-      "titulo": "HAYLOU Solar Ultra GPS Smartwatch 1.6” AMOLED Display 5ATM à prova d'água GPS integrado Bluetooth Chamadas telefônicas Relógio i",
-      "de": 950.39,
-      "por": 388.76,
-      "desconto": 59,
-      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Ac19249cd5b2c41e5b11d2e0fde8f21dcg.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4kIFhsS99ghALkZBpv4QbJdwLUROsFnb6OHZoTTUbMrTaduUjOpFhdRKekDPcYIVUQ2y2UzzkWtRO0ibfKEXm2lJNcllQIdc7GRNCQDBvhz6dEMsfavdZG5wB4RaKASvXIrHhPSacGb42h34c7HIKJ2cvPjn3phUx5Pwz8yREXdBrsiQrQTS8SAZV1TaKBmzPtPdoCuExBKioqpMvuoh0p8PBDCcHMvoOYdJvLYb1Nvg85JvH0JqQmqg2PuUCmetj7usflugNBsNT1oFLOoVEOnAi4Iw9ZykcJftfQxzHUlng24v7m2L8KGxpcXyeDgT59gKDjy2yjegfjYco0h7H7b88S4QkCxe9AfdySdmU8oXu7s54bEejzhzqN62QODsAafSDQV2fXlVH3CUVXWCVCrdM27UJdiqvr4rdWiI5z0wfJ7C3syq4wyA72y7tOuLttb7xShxMQxMBpqIwrBLCLfOkfSxoBmzh16Dd1Y0WZArDUN3DrQ3rv8u6tvfUcM5YdccrBjrVMIN27cd1PipRFF8jDVvzWpRUVWPwIpnRvIsbYvWEkekK0kgnWkvmSkbv82ZLmvltBDfQ5tULAB4PJigQgjU1kaBqjrMxpRvQ6dFCWsE8NH7jNlRpmd16QT869tYkYhzZFDbJwWsIZibpFSt4zwXVJkOeRYCn79psuhNgUP3w5OwaTBPjGYiG9sZGCxWpi7Ss6zi2V",
-      "cupom": null,
-      "loja": "aliexpress",
-      "categoria": "Audio",
-      "data": "2026-11-02T17:44:06.899915-03:00",
-      "slug": "haylou-solar-ultra-gps-smartwatch-1-6-amoled-display-5atm-a-prova-d-agua",
-      "page_url": "https://promoninjaofertas.github.io/produto/haylou-solar-ultra-gps-smartwatch-1-6-amoled-display-5atm-a-prova-d-agua.html",
-      "avaliacao": 4.785,
-      "avaliacoes": null,
-      "vendas": 2025,
-      "nota_qualidade": 8,
-      "last_seen": "2026-11-19T05:33:29.550669+00:00",
-      "expires_at": "2026-11-20T02:33:29.550669-03:00",
+      "last_seen": "2026-11-19T14:01:45.087042+00:00",
+      "expires_at": "2026-11-20T11:01:45.087042-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech",
@@ -4328,23 +3608,23 @@
     {
       "source_id": "1005006967413964",
       "titulo": "Zeblaze-Btalk 3 Plus Smartwatch para Homens e Senhoras, Chamada De Voz, 1.39 \"Grande Display Colorido HD, Rastreamento De Fitness, Novo",
-      "de": 194.54,
-      "por": 87.79,
+      "de": 196.55,
+      "por": 88.7,
       "desconto": 54,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S15c2d01242b84313a612744d1251f53aS.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4EHgM1WQTLyNb6JGpbPqfJ2eiLrTCAFG6rH3J4Zkt5nba7fDD1NmSY9z4xOcFgzIDUe6yeur8iGIEVuLjihfbixZnTmeqwl0wrlPnuG4pOT3y3zsf43cwL3ccy0DkUAetc2VjrPHbIFjrv4sANQjXER3BmIEn9QGzmY9sEcWIrgnitASSOBoVluqhzfTC4FOUzaO0Ewxr61yOb0Y4eAXukGyV5szfLXdVee5MjoYSD1XUMi3zKum5d7V3XD3T79WnjX6kNTFwz2gSfFBo2LX655FAYODQKgrpfuqOTpk8o0BCI5iBDHESN7DlghWPeFb7fzeJDvjzSepJk8CVT04vTn4X6Ywm8Cp8QO4a7DtqESLAQEvBM7sKwdfbOznNGracELMFXijYbaL0vDwoUVpZGr9dmRw3uGGKmfEOICXtbJbdore6STWavwSiI0TgB8Ft2apfvJjxjAd6I0bZ7eaNZXV6QcuqgprwVFf8fJaaplIbZEJdPkwxqIj3dsRYOXVCPFmYLjp64ZOjpA580nhzxzl7Hvz6uF6Leev5Bd63JlqU7Nh4nKVLT9PsnmCTGWESoVX8E25H53UZ5adOsv83L0XF1qm64jdEQEg2lNNfw1wtOUsk74xoBHrRa3WKNc2P2SnYgDGGQ4AOYjmx1IcXBqdE0DspVDlXFEZdbm8W1mRdZSZwPxoCDTs1fRvxGK04iVaihTXiY8R9W",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4EHgM1WQTLyNb6JGpbPqfJ2eiLrTCAFG6rH3J4Zkt5nba7fDD1NmSY9z4xOcFgzIDUe6yeur8iGIEVuLjihfbixZnTmeqwl0wrlPnuG4pOT3y3zsf43cwL3ccy0DkUAetc2VjrPHbIFjrv4sANQjXER3BmIEn9QGzmY9sEcWIrgnitASSOBoVluqhzfTC4FOUzaO0Ewxr61yOb0Y4eAXukGyV5szfLXdVee5MjnxqAlC2s9nB4UR9mBwY1OvOaPs1UNJSG3rR7rZncGwuJglbuAdlcC9khSCKVnrEaD9Zq6lCNF9fPO8TDg13MyTYTQHR7o5OzHzvlibYEx5NgqUcmRntN39TtRAd0UKGq6op0CsG3v6swiiiB2I9qXvYHRkfLjcvkqyVcw9aN1A3J4vUOPedhyQqf56IsLvQrBIdjZo647L1iEuJYNq0kglJZB5V6yaq04kwGBAmRIrMzjsBeEqMExl2qa2VCd68K57a1I6YCe2G2ZSccZTqYzppSTd8X91vUWNroQYaa00bVe9rD9opW76sd5x6p3rqvpmPGjgNybZq6aXyILbWt45yPWYKfn7HzNT3fuEfBH3vMsGvxurY2WXbwN0gKFGWsgDnbR9jli4GvMyWVGaWVKSsK58nt07mL25UyXpYivwMOBN4suSYdlKOOIRtYmTJ0gIF8konSEgUUNZDu8PAPdiOOTZLMKYsVllJTEifQ",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Eletrônicos",
       "data": "2026-08-31T19:03:54.087698-03:00",
       "slug": "zeblaze-btalk-3-plus-smartwatch-para-homens-e-senhoras-chamada-de-voz-1-39",
       "page_url": "https://promoninjaofertas.github.io/produto/zeblaze-btalk-3-plus-smartwatch-para-homens-e-senhoras-chamada-de-voz-1-39.html",
-      "avaliacao": 4.89,
+      "avaliacao": 4.885,
       "avaliacoes": null,
       "vendas": 2474,
       "nota_qualidade": 8,
-      "last_seen": "2026-11-19T05:33:29.550669+00:00",
-      "expires_at": "2026-11-20T02:33:29.550669-03:00",
+      "last_seen": "2026-11-19T14:01:45.087042+00:00",
+      "expires_at": "2026-11-20T11:01:45.087042-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech",
@@ -4410,7 +3690,7 @@
       "por": 46.19,
       "desconto": 20,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S7a1bd2dfd64f470396e3aa33150aba706.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4nzMUBPFScnpm1tGILXXdUsjO3kcTdiJPPnmd7pYbqzFerTuFgj7PaAStKnvzbJAe3lawCPcL62Czmh6eNuRShiVUgBoWuVmAypG93t1C7jsdVAweuC4LHuu4cVu8iLroZPQOXO6CFobuj7nA6dtt8ZGzPt9cYna8TFies410qF4RKS70Q5rLbyp3iHStz3F1f2BMLStM8pXPN9zEE5UNZHLDrlZXV0LNtSDksF93jm8tNID40Ip0dnb9gmI6Vc3blH8FFrubaMp472WZ7EwUObFGs3w9CjDeq1JCowS8qwsdwRTFbfPEbz1Qh50TkHkprUpdAh2uRGSJ8iuqtd1rLrC5i2xKquZAaZzCHmJ7dx7uVxrbntkgvvgyFm5gYAyMnJnrePcuiqV6wI1vgftLCATVVRNAui34XKqL3M4X7ZncKdyTMSSa9LdVW2S36up8JltxDtFCPlv2IwXae5w2g3Yz7QvuWcEhKiIaTOg18blnJaQkvs0BsVxbJA0aqX2y0Evyfz4w5pHJGAqKH6U6CGTV9wKiBenp8d5ZneugtnqlyxBWJrFtqhe7vSRGNPJQdV3pxW8HUCztVrbfoqELRHKkl611ROHZbbAOlX3N5fUjeaHLNGsrZjdm2pYXjKC63yFXmZ2FAUnpwBdJoUjxEiwxKQgbrtXTyusDMhg9INja6ptx00VJNvwbIVbsR8P8QQV8o02dhaWJx",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4nzMUBPFScnpm1tGILXXdUsjO3kcTdiJPPnmd7pYbqzFerTuFgj7PaAStKnvzbJAe3lawCPcL62Czmh6eNuRShiVUgBoWuVmAypG93t1C7jsdVAweuC4LHuu4cVu8iLroZPQOXO6CFobuj7nA6dtt8ZGzPt9cYna8TFies410qF4RKS70Q5rLbyp3iHStz3F1f2BMLStM8pXPN9zEE5UNZHLDrlZXV0LNtSDksEJlvDDaFSsFzyuV7QpMP8FWUpPI33bgWIF9OnlPcQka8XnblZHJNUBFlvzv8ybThEwL39oAnJG6ytbkGQBkBdnskvOQi1zdwVaQqZpeY7kN9raogx9WLbet9HhOGAwQTfMnc3JUzkPQaoj872eihgu2Hd5lgwkcW6orBdfDGcv6aiHp3gy43mEOL7rO0YlZuGhZOHuhDfM9B53dUl1XpyUlwuGmdmHvkeOSW9kaEEafRxJ5SThfIhOgER5mY3LhCdtJkUWN8HyjDlW3nAEULHoV2SljPTIySj70qoXuuMN0xWLZKGHvjySi6M8nqXF67tD1oUhi2gMNnBNjkx5WvXIE37JYKO81NGJzbaCwn9qxu4KcQgZDfzZVUSEQsyCKWuhXlV7Z4DRFmvsPGx7PqKlrmk1WTbmfjXyC2dGrDhWI3E5bKx8jgTYxQq0gsxxewNQR9CsXFZzxNoHwrSI8do1zg9yh4iAhB5JZ33WBb",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Audio",
@@ -4421,8 +3701,8 @@
       "avaliacoes": null,
       "vendas": 624,
       "nota_qualidade": 9,
-      "last_seen": "2026-11-19T13:49:03.879926+00:00",
-      "expires_at": "2026-11-20T10:49:03.879926-03:00",
+      "last_seen": "2026-11-19T14:01:45.087042+00:00",
+      "expires_at": "2026-11-20T11:01:45.087042-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech",
