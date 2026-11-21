@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-11-21T10:25:51.101811+00:00",
+  "atualizado": "2026-11-21T10:38:39.283531+00:00",
   "ofertas": [
     {
       "source_id": "pechinchou-159722",
@@ -19,8 +19,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-11-21T10:25:51.101811+00:00",
-      "expires_at": "2026-11-22T07:25:51.101811-03:00",
+      "last_seen": "2026-11-21T10:38:39.283531+00:00",
+      "expires_at": "2026-11-22T07:38:39.283531-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
@@ -45,8 +45,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-11-21T10:25:51.101811+00:00",
-      "expires_at": "2026-11-22T07:25:51.101811-03:00",
+      "last_seen": "2026-11-21T10:38:39.283531+00:00",
+      "expires_at": "2026-11-22T07:38:39.283531-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -71,8 +71,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-11-21T10:25:51.101811+00:00",
-      "expires_at": "2026-11-22T07:25:51.101811-03:00",
+      "last_seen": "2026-11-21T10:38:39.283531+00:00",
+      "expires_at": "2026-11-22T07:38:39.283531-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -97,8 +97,8 @@
       "avaliacoes": 20,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-11-21T10:25:51.101811+00:00",
-      "expires_at": "2026-11-22T07:25:51.101811-03:00",
+      "last_seen": "2026-11-21T10:38:39.283531+00:00",
+      "expires_at": "2026-11-22T07:38:39.283531-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -123,8 +123,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-11-21T10:25:51.101811+00:00",
-      "expires_at": "2026-11-22T07:25:51.101811-03:00",
+      "last_seen": "2026-11-21T10:38:39.283531+00:00",
+      "expires_at": "2026-11-22T07:38:39.283531-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
@@ -149,37 +149,11 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-11-21T10:25:51.101811+00:00",
-      "expires_at": "2026-11-22T07:25:51.101811-03:00",
+      "last_seen": "2026-11-21T10:38:39.283531+00:00",
+      "expires_at": "2026-11-22T07:38:39.283531-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
-    },
-    {
-      "source_id": "pechinchou-159711",
-      "titulo": "Varal De Chão Epsilon 3 Andares Dobrável Com Rodas",
-      "de": 79.9,
-      "por": 62.0,
-      "desconto": 22,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/D_NQ_NP_665628-MLA106033883866_022026-F.jpg",
-      "link": "https://meli.la/2MjpBek",
-      "cupom": null,
-      "loja": "mercadolivre",
-      "categoria": "Utilidades Domésticas",
-      "data": "2026-11-20T22:22:45.884033-03:00",
-      "slug": "varal-de-chao-epsilon-3-andares-dobravel-com-rodas",
-      "page_url": "https://promoninjaofertas.github.io/produto/varal-de-chao-epsilon-3-andares-dobravel-com-rodas.html",
-      "avaliacao": null,
-      "avaliacoes": null,
-      "vendas": null,
-      "nota_qualidade": 5,
-      "last_seen": "2026-11-21T10:25:51.101811+00:00",
-      "expires_at": "2026-11-22T07:25:51.101811-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Casa",
       "cupom_no_telegram": false,
       "cupom_telegram_url": null
     },
@@ -201,13 +175,39 @@
       "avaliacoes": 2,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-11-21T10:25:51.101811+00:00",
-      "expires_at": "2026-11-22T07:25:51.101811-03:00",
+      "last_seen": "2026-11-21T10:38:39.283531+00:00",
+      "expires_at": "2026-11-22T07:38:39.283531-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
       "cupom_no_telegram": true,
       "cupom_telegram_url": "https://t.me/promoninjaofertas"
+    },
+    {
+      "source_id": "pechinchou-159711",
+      "titulo": "Varal De Chão Epsilon 3 Andares Dobrável Com Rodas",
+      "de": 79.9,
+      "por": 62.0,
+      "desconto": 22,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/D_NQ_NP_665628-MLA106033883866_022026-F.jpg",
+      "link": "https://meli.la/2MjpBek",
+      "cupom": null,
+      "loja": "mercadolivre",
+      "categoria": "Utilidades Domésticas",
+      "data": "2026-11-20T22:22:45.884033-03:00",
+      "slug": "varal-de-chao-epsilon-3-andares-dobravel-com-rodas",
+      "page_url": "https://promoninjaofertas.github.io/produto/varal-de-chao-epsilon-3-andares-dobravel-com-rodas.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": null,
+      "nota_qualidade": 5,
+      "last_seen": "2026-11-21T10:38:39.283531+00:00",
+      "expires_at": "2026-11-22T07:38:39.283531-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Casa",
+      "cupom_no_telegram": false,
+      "cupom_telegram_url": null
     },
     {
       "source_id": "pechinchou-159710",
@@ -227,8 +227,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-11-21T10:25:51.101811+00:00",
-      "expires_at": "2026-11-22T07:25:51.101811-03:00",
+      "last_seen": "2026-11-21T10:38:39.283531+00:00",
+      "expires_at": "2026-11-22T07:38:39.283531-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
@@ -253,8 +253,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-11-21T10:25:51.101811+00:00",
-      "expires_at": "2026-11-22T07:25:51.101811-03:00",
+      "last_seen": "2026-11-21T10:38:39.283531+00:00",
+      "expires_at": "2026-11-22T07:38:39.283531-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -279,8 +279,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 7,
-      "last_seen": "2026-11-21T10:25:51.101811+00:00",
-      "expires_at": "2026-11-22T07:25:51.101811-03:00",
+      "last_seen": "2026-11-21T10:38:39.283531+00:00",
+      "expires_at": "2026-11-22T07:38:39.283531-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
@@ -305,8 +305,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-11-21T10:25:51.101811+00:00",
-      "expires_at": "2026-11-22T07:25:51.101811-03:00",
+      "last_seen": "2026-11-21T10:38:39.283531+00:00",
+      "expires_at": "2026-11-22T07:38:39.283531-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -331,8 +331,8 @@
       "avaliacoes": 20,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-11-21T10:25:51.101811+00:00",
-      "expires_at": "2026-11-22T07:25:51.101811-03:00",
+      "last_seen": "2026-11-21T10:38:39.283531+00:00",
+      "expires_at": "2026-11-22T07:38:39.283531-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
@@ -357,8 +357,8 @@
       "avaliacoes": 20,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-11-21T10:25:51.101811+00:00",
-      "expires_at": "2026-11-22T07:25:51.101811-03:00",
+      "last_seen": "2026-11-21T10:38:39.283531+00:00",
+      "expires_at": "2026-11-22T07:38:39.283531-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
@@ -380,11 +380,11 @@
       "slug": "air-fryer-britania-8l-redstone-visor-glass-baf80a",
       "page_url": "https://promoninjaofertas.github.io/produto/air-fryer-britania-8l-redstone-visor-glass-baf80a.html",
       "avaliacao": null,
-      "avaliacoes": 30,
-      "vendas": 548,
+      "avaliacoes": 40,
+      "vendas": 554,
       "nota_qualidade": 5,
-      "last_seen": "2026-11-21T10:25:51.101811+00:00",
-      "expires_at": "2026-11-22T07:25:51.101811-03:00",
+      "last_seen": "2026-11-21T10:38:39.283531+00:00",
+      "expires_at": "2026-11-22T07:38:39.283531-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
@@ -409,8 +409,8 @@
       "avaliacoes": 4,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-11-21T10:25:51.101811+00:00",
-      "expires_at": "2026-11-22T07:25:51.101811-03:00",
+      "last_seen": "2026-11-21T10:38:39.283531+00:00",
+      "expires_at": "2026-11-22T07:38:39.283531-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
@@ -435,11 +435,37 @@
       "avaliacoes": 2,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-11-21T10:25:51.101811+00:00",
-      "expires_at": "2026-11-22T07:25:51.101811-03:00",
+      "last_seen": "2026-11-21T10:38:39.283531+00:00",
+      "expires_at": "2026-11-22T07:38:39.283531-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
+      "cupom_no_telegram": false,
+      "cupom_telegram_url": null
+    },
+    {
+      "source_id": "pechinchou-159723",
+      "titulo": "Deo Colônia Ciclo Hello Hello Nah Cardoso, Feminino, 50ml",
+      "de": 59.9,
+      "por": 49.99,
+      "desconto": 17,
+      "imagem": "https://m.media-amazon.com/images/I/5135Itdvn1L._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0DT1DFXRS?tag=promoninja0b2-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Beleza",
+      "data": "2026-11-21T07:38:39.283531-03:00",
+      "slug": "deo-colonia-ciclo-hello-hello-nah-cardoso-feminino-50ml",
+      "page_url": "https://promoninjaofertas.github.io/produto/deo-colonia-ciclo-hello-hello-nah-cardoso-feminino-50ml.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": null,
+      "nota_qualidade": 5,
+      "last_seen": "2026-11-21T10:38:39.283531+00:00",
+      "expires_at": "2026-11-22T07:38:39.283531-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Moda",
       "cupom_no_telegram": false,
       "cupom_telegram_url": null
     },
@@ -461,8 +487,8 @@
       "avaliacoes": 16,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-11-21T10:25:51.101811+00:00",
-      "expires_at": "2026-11-22T07:25:51.101811-03:00",
+      "last_seen": "2026-11-21T10:38:39.283531+00:00",
+      "expires_at": "2026-11-22T07:38:39.283531-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech",
@@ -487,8 +513,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-11-21T10:25:51.101811+00:00",
-      "expires_at": "2026-11-22T07:25:51.101811-03:00",
+      "last_seen": "2026-11-21T10:38:39.283531+00:00",
+      "expires_at": "2026-11-22T07:38:39.283531-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
@@ -496,25 +522,25 @@
       "cupom_telegram_url": null
     },
     {
-      "source_id": "pechinchou-150341",
-      "titulo": "Boni Natural - Enxaguante Bucal Vegano, Menta E Melaleuca, Hálito Fresco E Proteção Bucal, Sem Flúor, Zero Álcool, 500 Ml",
-      "de": 39.9,
-      "por": 24.36,
-      "desconto": 39,
-      "imagem": "https://m.media-amazon.com/images/I/51MkjsXO-9L._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B07DPFZ37J?tag=promoninja0b2-20",
+      "source_id": "pechinchou-151822",
+      "titulo": "Bebida Láctea Nescau Protein, 250ml, Pack Com 24 Unidades",
+      "de": 189.9,
+      "por": 154.0,
+      "desconto": 19,
+      "imagem": "https://m.media-amazon.com/images/I/612Bke3o8iL._SL1500_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0GFB7ZFQV?tag=promoninja0b2-20",
       "cupom": null,
       "loja": "amazon",
-      "categoria": "Supermercado",
-      "data": "2026-11-10T21:45:29.681807-03:00",
-      "slug": "boni-natural-enxaguante-bucal-vegano-menta-e-melaleuca-halito-fresco-e-protecao-bucal",
-      "page_url": "https://promoninjaofertas.github.io/produto/boni-natural-enxaguante-bucal-vegano-menta-e-melaleuca-halito-fresco-e-protecao-bucal.html",
+      "categoria": "Esporte e Lazer",
+      "data": "2026-11-04T11:35:08.109295-03:00",
+      "slug": "bebida-lactea-nescau-protein-250ml-pack-com-24-unidades",
+      "page_url": "https://promoninjaofertas.github.io/produto/bebida-lactea-nescau-protein-250ml-pack-com-24-unidades.html",
       "avaliacao": null,
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-11-21T10:25:51.101811+00:00",
-      "expires_at": "2026-11-22T07:25:51.101811-03:00",
+      "last_seen": "2026-11-21T10:38:39.283531+00:00",
+      "expires_at": "2026-11-22T07:38:39.283531-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -539,8 +565,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-11-21T10:25:51.101811+00:00",
-      "expires_at": "2026-11-22T07:25:51.101811-03:00",
+      "last_seen": "2026-11-21T10:38:39.283531+00:00",
+      "expires_at": "2026-11-22T07:38:39.283531-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
@@ -553,7 +579,7 @@
       "de": 39.9,
       "por": 23.8,
       "desconto": 40,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/external-image_pRzGH3j.jpg",
+      "imagem": "https://m.media-amazon.com/images/I/6180p4CqYiL._SL1500_.jpg",
       "link": "https://www.amazon.com.br/dp/B0HD2DR2YP?tag=promoninja0b2-20",
       "cupom": null,
       "loja": "amazon",
@@ -565,8 +591,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-11-21T10:25:51.101811+00:00",
-      "expires_at": "2026-11-22T07:25:51.101811-03:00",
+      "last_seen": "2026-11-21T10:38:39.283531+00:00",
+      "expires_at": "2026-11-22T07:38:39.283531-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -591,8 +617,8 @@
       "avaliacoes": 2,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-11-21T10:25:51.101811+00:00",
-      "expires_at": "2026-11-22T07:25:51.101811-03:00",
+      "last_seen": "2026-11-21T10:38:39.283531+00:00",
+      "expires_at": "2026-11-22T07:38:39.283531-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech",
@@ -617,8 +643,8 @@
       "avaliacoes": 7,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-11-21T10:25:51.101811+00:00",
-      "expires_at": "2026-11-22T07:25:51.101811-03:00",
+      "last_seen": "2026-11-21T10:38:39.283531+00:00",
+      "expires_at": "2026-11-22T07:38:39.283531-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Gamer",
@@ -631,7 +657,7 @@
       "de": 69.9,
       "por": 53.08,
       "desconto": 24,
-      "imagem": "https://m.media-amazon.com/images/I/61rfcw8pGiL._SL1500_.jpg",
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/61rfcw8pGiL_h35dPEH._AC_SY300_SX300_QL70_ML2_.jpg",
       "link": "https://www.amazon.com.br/dp/B0CWB2H5JX?tag=promoninja0b2-20",
       "cupom": null,
       "loja": "amazon",
@@ -643,8 +669,8 @@
       "avaliacoes": 4,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-11-21T10:25:51.101811+00:00",
-      "expires_at": "2026-11-22T07:25:51.101811-03:00",
+      "last_seen": "2026-11-21T10:38:39.283531+00:00",
+      "expires_at": "2026-11-22T07:38:39.283531-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -1227,11 +1253,11 @@
       "avaliacoes": null,
       "vendas": 227,
       "nota_qualidade": 10,
-      "last_seen": "2026-11-21T09:57:38.904358+00:00",
-      "expires_at": "2026-11-22T06:57:38.904358-03:00",
+      "last_seen": "2026-11-21T10:38:39.283531+00:00",
+      "expires_at": "2026-11-22T07:38:39.283531-03:00",
       "marca": "AMD",
       "price_evidence": {
-        "checked_at": "2026-11-21T09:59:14.082918+00:00",
+        "checked_at": "2026-11-21T10:40:32.899773+00:00",
         "identity": {
           "brand": "AMD",
           "model": "hqw24ip200",
@@ -2446,6 +2472,212 @@
       "cupom_telegram_url": null
     },
     {
+      "source_id": "22894954205",
+      "titulo": "Monitor LG Gamer 24\" 100Hz 5ms Full HD - 24MS500-B",
+      "de": null,
+      "por": 569.9,
+      "desconto": 20,
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-820nh-mnqcqif5vthhab",
+      "link": "https://s.shopee.com.br/2VtPDeU8NX",
+      "cupom": null,
+      "loja": "shopee",
+      "categoria": "Hardware",
+      "data": "2026-09-14T00:08:21.377756-03:00",
+      "slug": "shopee-lg-24ms500-b-kit-1",
+      "page_url": "https://promoninjaofertas.github.io/produto/shopee-lg-24ms500-b-kit-1.html",
+      "avaliacao": 5.0,
+      "avaliacoes": null,
+      "vendas": 239,
+      "nota_qualidade": 9,
+      "last_seen": "2026-11-21T10:38:39.283531+00:00",
+      "expires_at": "2026-11-22T07:38:39.283531-03:00",
+      "marca": "LG",
+      "price_evidence": {
+        "checked_at": "2026-11-21T10:40:32.899773+00:00",
+        "identity": {
+          "brand": "LG",
+          "model": "24ms500-b",
+          "family": "monitores",
+          "kind": "produto",
+          "variant": "kit:1",
+          "ambiguous": false,
+          "comparison_key": "lg|24ms500 b|kit:1"
+        },
+        "previous_min": 529.2,
+        "observed_min": 529.2,
+        "since": "2026-10-22T16:34:57.198211+00:00",
+        "observations": 99,
+        "days": 27,
+        "history": [
+          {
+            "at": "2026-11-11T16:46:04.205394+00:00",
+            "price": 569.9
+          },
+          {
+            "at": "2026-11-11T22:51:53.567200+00:00",
+            "price": 569.9
+          },
+          {
+            "at": "2026-11-12T04:53:21.044884+00:00",
+            "price": 569.9
+          },
+          {
+            "at": "2026-11-12T11:19:14.207707+00:00",
+            "price": 569.9
+          },
+          {
+            "at": "2026-11-12T17:34:16.888757+00:00",
+            "price": 569.9
+          },
+          {
+            "at": "2026-11-12T23:48:39.036391+00:00",
+            "price": 569.9
+          },
+          {
+            "at": "2026-11-13T05:52:33.009480+00:00",
+            "price": 569.9
+          },
+          {
+            "at": "2026-11-13T12:12:04.082918+00:00",
+            "price": 569.9
+          },
+          {
+            "at": "2026-11-13T18:36:52.147112+00:00",
+            "price": 569.9
+          },
+          {
+            "at": "2026-11-14T01:18:46.298788+00:00",
+            "price": 569.9
+          },
+          {
+            "at": "2026-11-14T07:19:03.576070+00:00",
+            "price": 569.9
+          },
+          {
+            "at": "2026-11-14T13:54:26.681887+00:00",
+            "price": 569.9
+          },
+          {
+            "at": "2026-11-14T19:54:46.058452+00:00",
+            "price": 569.9
+          },
+          {
+            "at": "2026-11-15T02:30:16.335734+00:00",
+            "price": 569.9
+          },
+          {
+            "at": "2026-11-15T08:30:31.294753+00:00",
+            "price": 569.9
+          },
+          {
+            "at": "2026-11-15T14:30:31.830550+00:00",
+            "price": 569.9
+          },
+          {
+            "at": "2026-11-15T21:04:15.103709+00:00",
+            "price": 569.9
+          },
+          {
+            "at": "2026-11-16T03:17:37.418135+00:00",
+            "price": 569.9
+          },
+          {
+            "at": "2026-11-16T09:18:21.494701+00:00",
+            "price": 569.9
+          },
+          {
+            "at": "2026-11-16T16:31:41.838419+00:00",
+            "price": 529.2
+          },
+          {
+            "at": "2026-11-16T22:32:06.881969+00:00",
+            "price": 529.2
+          },
+          {
+            "at": "2026-11-17T04:33:44.197370+00:00",
+            "price": 529.2
+          },
+          {
+            "at": "2026-11-17T10:42:55.286350+00:00",
+            "price": 529.2
+          },
+          {
+            "at": "2026-11-17T16:45:07.427332+00:00",
+            "price": 529.2
+          },
+          {
+            "at": "2026-11-17T22:49:54.055604+00:00",
+            "price": 529.2
+          },
+          {
+            "at": "2026-11-18T03:09:18.094865+00:00",
+            "price": 569.9
+          },
+          {
+            "at": "2026-11-18T09:13:23.704782+00:00",
+            "price": 569.9
+          },
+          {
+            "at": "2026-11-18T15:14:02.772475+00:00",
+            "price": 569.9
+          },
+          {
+            "at": "2026-11-18T21:23:08.694646+00:00",
+            "price": 569.9
+          },
+          {
+            "at": "2026-11-19T03:25:24.799271+00:00",
+            "price": 569.9
+          },
+          {
+            "at": "2026-11-19T09:33:49.469946+00:00",
+            "price": 569.9
+          },
+          {
+            "at": "2026-11-19T16:00:10.398899+00:00",
+            "price": 569.9
+          },
+          {
+            "at": "2026-11-19T19:06:15.914414+00:00",
+            "price": 538.99
+          },
+          {
+            "at": "2026-11-19T21:28:47.401184+00:00",
+            "price": 569.9
+          },
+          {
+            "at": "2026-11-20T03:36:10.784273+00:00",
+            "price": 569.9
+          },
+          {
+            "at": "2026-11-20T09:44:46.052472+00:00",
+            "price": 569.9
+          },
+          {
+            "at": "2026-11-20T15:54:20.303974+00:00",
+            "price": 569.9
+          },
+          {
+            "at": "2026-11-20T22:03:21.275667+00:00",
+            "price": 569.9
+          },
+          {
+            "at": "2026-11-21T04:05:02.505479+00:00",
+            "price": 569.9
+          },
+          {
+            "at": "2026-11-21T10:07:11.587224+00:00",
+            "price": 569.9
+          }
+        ],
+        "advantage": false,
+        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
+      },
+      "grupo": "Gamer",
+      "cupom_no_telegram": false,
+      "cupom_telegram_url": null
+    },
+    {
       "source_id": "18597753531",
       "titulo": "Aspirador de Pó e Água Wap GTW 10 1400W 10 Litros Amarelo/Preto 127V FW005705",
       "de": null,
@@ -2648,212 +2880,6 @@
         "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
       },
       "grupo": "Casa",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
-    },
-    {
-      "source_id": "22894954205",
-      "titulo": "Monitor LG Gamer 24\" 100Hz 5ms Full HD - 24MS500-B",
-      "de": null,
-      "por": 569.9,
-      "desconto": 20,
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-820nh-mnqcqif5vthhab",
-      "link": "https://s.shopee.com.br/2VtPDeU8NX",
-      "cupom": null,
-      "loja": "shopee",
-      "categoria": "Hardware",
-      "data": "2026-09-14T00:08:21.377756-03:00",
-      "slug": "shopee-lg-24ms500-b-kit-1",
-      "page_url": "https://promoninjaofertas.github.io/produto/shopee-lg-24ms500-b-kit-1.html",
-      "avaliacao": 5.0,
-      "avaliacoes": null,
-      "vendas": 239,
-      "nota_qualidade": 9,
-      "last_seen": "2026-11-21T10:25:51.101811+00:00",
-      "expires_at": "2026-11-22T07:25:51.101811-03:00",
-      "marca": "LG",
-      "price_evidence": {
-        "checked_at": "2026-11-21T10:28:04.312089+00:00",
-        "identity": {
-          "brand": "LG",
-          "model": "24ms500-b",
-          "family": "monitores",
-          "kind": "produto",
-          "variant": "kit:1",
-          "ambiguous": false,
-          "comparison_key": "lg|24ms500 b|kit:1"
-        },
-        "previous_min": 529.2,
-        "observed_min": 529.2,
-        "since": "2026-10-22T10:33:44.530361+00:00",
-        "observations": 100,
-        "days": 27,
-        "history": [
-          {
-            "at": "2026-11-11T16:46:04.205394+00:00",
-            "price": 569.9
-          },
-          {
-            "at": "2026-11-11T22:51:53.567200+00:00",
-            "price": 569.9
-          },
-          {
-            "at": "2026-11-12T04:53:21.044884+00:00",
-            "price": 569.9
-          },
-          {
-            "at": "2026-11-12T11:19:14.207707+00:00",
-            "price": 569.9
-          },
-          {
-            "at": "2026-11-12T17:34:16.888757+00:00",
-            "price": 569.9
-          },
-          {
-            "at": "2026-11-12T23:48:39.036391+00:00",
-            "price": 569.9
-          },
-          {
-            "at": "2026-11-13T05:52:33.009480+00:00",
-            "price": 569.9
-          },
-          {
-            "at": "2026-11-13T12:12:04.082918+00:00",
-            "price": 569.9
-          },
-          {
-            "at": "2026-11-13T18:36:52.147112+00:00",
-            "price": 569.9
-          },
-          {
-            "at": "2026-11-14T01:18:46.298788+00:00",
-            "price": 569.9
-          },
-          {
-            "at": "2026-11-14T07:19:03.576070+00:00",
-            "price": 569.9
-          },
-          {
-            "at": "2026-11-14T13:54:26.681887+00:00",
-            "price": 569.9
-          },
-          {
-            "at": "2026-11-14T19:54:46.058452+00:00",
-            "price": 569.9
-          },
-          {
-            "at": "2026-11-15T02:30:16.335734+00:00",
-            "price": 569.9
-          },
-          {
-            "at": "2026-11-15T08:30:31.294753+00:00",
-            "price": 569.9
-          },
-          {
-            "at": "2026-11-15T14:30:31.830550+00:00",
-            "price": 569.9
-          },
-          {
-            "at": "2026-11-15T21:04:15.103709+00:00",
-            "price": 569.9
-          },
-          {
-            "at": "2026-11-16T03:17:37.418135+00:00",
-            "price": 569.9
-          },
-          {
-            "at": "2026-11-16T09:18:21.494701+00:00",
-            "price": 569.9
-          },
-          {
-            "at": "2026-11-16T16:31:41.838419+00:00",
-            "price": 529.2
-          },
-          {
-            "at": "2026-11-16T22:32:06.881969+00:00",
-            "price": 529.2
-          },
-          {
-            "at": "2026-11-17T04:33:44.197370+00:00",
-            "price": 529.2
-          },
-          {
-            "at": "2026-11-17T10:42:55.286350+00:00",
-            "price": 529.2
-          },
-          {
-            "at": "2026-11-17T16:45:07.427332+00:00",
-            "price": 529.2
-          },
-          {
-            "at": "2026-11-17T22:49:54.055604+00:00",
-            "price": 529.2
-          },
-          {
-            "at": "2026-11-18T03:09:18.094865+00:00",
-            "price": 569.9
-          },
-          {
-            "at": "2026-11-18T09:13:23.704782+00:00",
-            "price": 569.9
-          },
-          {
-            "at": "2026-11-18T15:14:02.772475+00:00",
-            "price": 569.9
-          },
-          {
-            "at": "2026-11-18T21:23:08.694646+00:00",
-            "price": 569.9
-          },
-          {
-            "at": "2026-11-19T03:25:24.799271+00:00",
-            "price": 569.9
-          },
-          {
-            "at": "2026-11-19T09:33:49.469946+00:00",
-            "price": 569.9
-          },
-          {
-            "at": "2026-11-19T16:00:10.398899+00:00",
-            "price": 569.9
-          },
-          {
-            "at": "2026-11-19T19:06:15.914414+00:00",
-            "price": 538.99
-          },
-          {
-            "at": "2026-11-19T21:28:47.401184+00:00",
-            "price": 569.9
-          },
-          {
-            "at": "2026-11-20T03:36:10.784273+00:00",
-            "price": 569.9
-          },
-          {
-            "at": "2026-11-20T09:44:46.052472+00:00",
-            "price": 569.9
-          },
-          {
-            "at": "2026-11-20T15:54:20.303974+00:00",
-            "price": 569.9
-          },
-          {
-            "at": "2026-11-20T22:03:21.275667+00:00",
-            "price": 569.9
-          },
-          {
-            "at": "2026-11-21T04:05:02.505479+00:00",
-            "price": 569.9
-          },
-          {
-            "at": "2026-11-21T10:07:11.587224+00:00",
-            "price": 569.9
-          }
-        ],
-        "advantage": false,
-        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
-      },
-      "grupo": "Gamer",
       "cupom_no_telegram": false,
       "cupom_telegram_url": null
     },
