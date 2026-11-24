@@ -415,7 +415,7 @@
     }
 
     const buy = target.closest('.buy-button,.product-cta,.mobile-cta');
-    if (buy) {
+    if (buy && !window.PromoNinjaAnalytics?.tracksOutboundClicks) {
       const placement = buy.classList.contains('mobile-cta')
         ? 'product_mobile'
         : buy.classList.contains('product-cta')
@@ -439,17 +439,19 @@
 
     const social = target.closest(
       '.footer-social a,.header-telegram,.floating-telegram,.share-row a,.channel-cta,' +
-        '.hero-actions a[href*="t.me"],.mobile-menu-foot a,a[href="https://t.me/promoninjaofertas"]'
+      '.hero-actions a[href*="t.me"],.mobile-menu-foot a,a[href="https://t.me/promoninjaofertas"],[data-acquisition-origin]'
     );
     if (social) {
-      if ((social.href || '').replace(/\/$/, '') === TELEGRAM_URL) {
+      if ((social.href || '').replace(/\/$/, '') === TELEGRAM_URL || social.dataset.acquisitionOrigin) {
         unlockAllCoupons();
         applyCouponUnlocks();
       }
-      track('click_social', {
-        link_text: (social.textContent || social.getAttribute('aria-label') || '').trim(),
-        link_url: social.href || ''
-      });
+      if (!window.PromoNinjaAnalytics?.tracksOutboundClicks) {
+        track('click_social', {
+          link_text: (social.textContent || social.getAttribute('aria-label') || '').trim(),
+          link_url: social.href || ''
+        });
+      }
     }
 
     const couponLink = target.closest('.coupon-card');

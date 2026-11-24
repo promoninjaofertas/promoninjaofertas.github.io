@@ -4,12 +4,34 @@
   const safe = value => String(value || '').replace(/[^a-zA-Z0-9_.-]/g, '').slice(0, 80);
   const params = new URLSearchParams(location.search);
   const qa = params.get('pn_qa') === '1';
+  const socialHosts = {
+    instagram: ['instagram.com'],
+    facebook: ['facebook.com', 'fb.com', 'fb.me'],
+    telegram: ['t.me', 'telegram.me'],
+    whatsapp: ['wa.me', 'whatsapp.com'],
+    x: ['x.com', 'twitter.com', 't.co']
+  };
+  const storeHosts = {
+    Amazon: ['amazon.com.br', 'amzn.to'],
+    'Mercado Livre': ['mercadolivre.com.br', 'meli.la'],
+    Shopee: ['shopee.com.br', 'shope.ee'],
+    AliExpress: ['aliexpress.com']
+  };
+  const hostnameMatches = (hostname, domain) => hostname === domain || hostname.endsWith('.' + domain);
+  const hostLabel = (hostname, labels) => Object.keys(labels).find(
+    label => labels[label].some(domain => hostnameMatches(hostname, domain))
+  );
   let referrer = '';
   try { referrer = new URL(document.referrer).hostname.toLowerCase(); } catch (_) {}
   const ownHost = location.hostname.toLowerCase();
   const utmSource = safe(params.get('utm_source')).toLowerCase();
-  let source = utmSource || (/^(?:www\.)?google\./.test(referrer) ? 'google' : /^(?:www\.)?(x\.com|twitter\.com|t\.co)$/.test(referrer) ? 'x' : referrer && referrer !== ownHost ? 'referral' : 'direct');
-  let medium = safe(params.get('utm_medium')) || (source === 'google' ? 'organic' : source === 'x' ? 'social' : source === 'referral' ? 'referral' : 'none');
+  const sourceAliases = {twitter: 'x', ig: 'instagram', fb: 'facebook'};
+  let source = (Object.hasOwn(sourceAliases, utmSource) ? sourceAliases[utmSource] : hostLabel(utmSource, socialHosts)) || utmSource
+    || hostLabel(referrer, socialHosts)
+    || (/^(?:www\.)?google\.(?:com(?:\.[a-z]{2})?|[a-z]{2})$/.test(referrer) ? 'google' : '')
+    || (referrer && referrer !== ownHost ? 'referral' : 'direct');
+  let medium = safe(params.get('utm_medium')).toLowerCase()
+    || (source === 'google' ? 'organic' : Object.hasOwn(socialHosts, source) ? 'social' : source === 'referral' ? 'referral' : 'none');
   let campaign = safe(params.get('utm_campaign'));
   try {
     const previous = JSON.parse(sessionStorage.getItem('promo-acquisition') || 'null');
@@ -19,6 +41,7 @@
   const path = location.pathname;
   const pageType = path.startsWith('/produto/') ? 'product'
     : path.startsWith('/guias/') ? 'guide'
+    : path.startsWith('/instagram/') ? 'instagram_offers'
     : path.startsWith('/quem-somos') ? 'about'
     : path.endsWith('/404.html') ? 'not_found'
     : 'catalog';
@@ -31,9 +54,20 @@
         const target = new URL(data.link_url, location.href);
         data.destination = target.hostname;
         if (name === 'click_offer' && target.hostname === location.hostname) name = 'view_current_offers';
-        if (name === 'click_social' && target.hostname === 't.me') data.social_action = target.pathname.startsWith('/share/') ? 'share_offer' : 'open_channel';
+        if (name === 'click_offer' || name === 'click_storefront') {
+          data.store = hostLabel(target.hostname, storeHosts) || data.store || '';
+        }
+        if (name === 'click_social') {
+          const channel = hostLabel(target.hostname, socialHosts);
+          if (channel) data.social_channel = channel;
+          if (channel === 'telegram') {
+            data.social_action = target.pathname.startsWith('/share/') ? 'share_offer' : 'open_channel';
+          }
+        }
         // Store destination path only; query strings can contain account-specific data.
-        data.link_url = target.origin + target.pathname;
+        const privateInvite = data.social_channel === 'telegram'
+          && /^\/(?:\+|joinchat\/)/i.test(target.pathname);
+        data.link_url = target.origin + (privateInvite ? '/' : target.pathname);
       } catch (_) { delete data.link_url; }
     }
     if (qa) {
@@ -50,7 +84,7 @@
     }
     if (typeof window.gtag === 'function') window.gtag('event', name, data);
   }
-  window.PromoNinjaAnalytics = {track};
+  window.PromoNinjaAnalytics = {track, tracksOutboundClicks: true};
 
   // view_product: disparado uma vez por página de produto, a partir do que já
   // está no JSON-LD renderizado — sem dado novo e sem informação pessoal.
@@ -74,25 +108,45 @@
     else fire();
   }
   let inviteLinks = {};
-  const origin = source === 'google' ? 'google' : ['x','twitter','t.co'].includes(source) ? 'x' : 'site';
+  const origin = source === 'direct' || source === 'referral' ? 'site' : source;
+  const telegramChannel = 'https://t.me/promoninjaofertas';
   function updateInvite(anchor) {
-    if (!anchor) return;
-    const link = inviteLinks[origin];
+    const link = inviteLinks[origin] || inviteLinks.site;
     if (link && /^https:\/\/t\.me\/\+[A-Za-z0-9_-]+$/.test(link)) anchor.href = link;
     anchor.dataset.acquisitionOrigin = origin;
   }
   fetch('/telegram-invites.json').then(response => response.ok ? response.json() : {}).then(links => {
-    inviteLinks = links;
-    document.querySelectorAll('a[href="https://t.me/promoninjaofertas"]').forEach(updateInvite);
+    inviteLinks = links || {};
+    document.querySelectorAll('a[href="' + telegramChannel + '"],a[href="' + telegramChannel + '/"]').forEach(updateInvite);
   }).catch(() => {});
   document.addEventListener('click', event => {
-    const link = event.target.closest('a');
+    const link = event.target.closest?.('a[href]');
     if (!link) return;
-    if (link.href === 'https://t.me/promoninjaofertas' || link.dataset.acquisitionOrigin) {
-      updateInvite(link);
-      // Guide pages have no legacy click listener; other templates keep their event names.
-      if (pageType === 'guide') track('click_social', {link_url:link.href,link_text:'Telegram',placement:'guide'});
+    if (link.href.replace(/\/$/, '') === telegramChannel || link.dataset.acquisitionOrigin) updateInvite(link);
+    let target;
+    try { target = new URL(link.href, location.href); } catch (_) { return; }
+    if (!['http:', 'https:'].includes(target.protocol)) return;
+    const store = hostLabel(target.hostname, storeHosts);
+    const channel = hostLabel(target.hostname, socialHosts);
+    const data = link.dataset;
+    const offer = link.matches('.buy-button,.product-cta,.mobile-cta');
+    const storefront = (store === 'Amazon' && target.pathname.startsWith('/shop/'))
+      || (store === 'Mercado Livre' && target.pathname.startsWith('/social/'));
+    if (offer) {
+      const placement = link.matches('.mobile-cta') ? 'product_mobile'
+        : link.matches('.product-cta') ? 'product_main' : 'catalog_card';
+      track('click_offer', {
+        store: data.store || '', item_name: data.title || '', item_id: data.itemId || '',
+        placement, link_url: link.href
+      });
+    } else if (storefront) {
+      track('click_storefront', {store, placement: 'storefront', link_url: link.href});
+    } else if (channel) {
+      const placement = data.placement || (data.couponUnlock ? 'coupon' : pageType);
+      track('click_social', {link_url: link.href, placement, store: data.store || ''});
+    } else {
+      return;
     }
-    if (qa && (link.matches('.buy-button,.cta,.mobile-cta') || link.dataset.acquisitionOrigin)) event.preventDefault();
+    if (qa) event.preventDefault();
   }, true);
 })();
