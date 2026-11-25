@@ -238,6 +238,32 @@
     else if (typeof window.gtag === 'function') window.gtag('event', name, params);
   }
 
+  async function writeClipboard(text) {
+    try {
+      if (navigator.clipboard?.writeText) {
+        await navigator.clipboard.writeText(text);
+        return;
+      }
+    } catch (_) {
+      // Some in-app browsers expose the API but reject the write.
+    }
+
+    const focused = document.activeElement;
+    const field = document.createElement('textarea');
+    field.value = text;
+    field.readOnly = true;
+    field.tabIndex = -1;
+    field.style.cssText = 'position:fixed;top:0;left:0;opacity:0';
+    document.body.appendChild(field);
+    try {
+      field.select();
+      if (!document.execCommand?.('copy')) throw new Error('Clipboard unavailable');
+    } finally {
+      field.remove();
+      focused?.focus({ preventScroll: true });
+    }
+  }
+
   function debounce(fn, wait) {
     let timer;
     return (...args) => {
@@ -373,11 +399,10 @@
     if (copy) {
       event.preventDefault();
       const code = copy.dataset.coupon;
-      track('copy_coupon', { coupon_code: code });
       const label = $('span', copy);
-      navigator.clipboard
-        ?.writeText(code)
+      writeClipboard(code)
         .then(() => {
+          track('copy_coupon', { coupon_code: code });
           copy.classList.add('is-copied');
           if (label) label.textContent = 'Copiado';
           toast(`Cupom ${code} copiado.`);
@@ -406,10 +431,11 @@
     if (copyLink) {
       event.preventDefault();
       const url = copyLink.dataset.copy;
-      track('copy_product_link', { link_url: url });
-      navigator.clipboard
-        ?.writeText(url)
-        .then(() => toast('Link copiado.'))
+      writeClipboard(url)
+        .then(() => {
+          track('copy_product_link', { link_url: url });
+          toast('Link copiado.');
+        })
         .catch(() => toast('Não foi possível copiar o link.', 'error'));
       return;
     }
