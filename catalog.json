@@ -1,29 +1,55 @@
 {
-  "atualizado": "2026-11-25T13:50:46.376254+00:00",
+  "atualizado": "2026-11-25T14:04:21.900024+00:00",
   "ofertas": [
     {
-      "source_id": "pechinchou-160204",
-      "titulo": "Cozinha Modulada Compacta Suspensa 220cm Milano Multimóveis Mp2411",
-      "de": 729.9,
-      "por": 605.0,
+      "source_id": "pechinchou-160209",
+      "titulo": "Perfume Sospiro Vibrato Tradicional Eau De Parfum Spray",
+      "de": 1669.9,
+      "por": 1389.0,
       "desconto": 17,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/D_NQ_NP_979959-MLA112387521931_052026-F_O5Nq5Xa.jpg",
-      "link": "https://meli.la/3389Dmv",
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/D_NQ_NP_922609-MLA116910791838_092026-F_hz0dVhW.jpg",
+      "link": "https://meli.la/1VC7LSv",
       "cupom": "MELIAGORA",
       "loja": "mercadolivre",
-      "categoria": "Casa",
-      "data": "2026-11-25T10:50:46.376254-03:00",
-      "slug": "cozinha-modulada-compacta-suspensa-220cm-milano-multimoveis-mp2411",
-      "page_url": "https://promoninjaofertas.github.io/produto/cozinha-modulada-compacta-suspensa-220cm-milano-multimoveis-mp2411.html",
+      "categoria": "Beleza",
+      "data": "2026-11-25T11:04:21.900024-03:00",
+      "slug": "perfume-sospiro-vibrato-tradicional-eau-de-parfum-spray",
+      "page_url": "https://promoninjaofertas.github.io/produto/perfume-sospiro-vibrato-tradicional-eau-de-parfum-spray.html",
       "avaliacao": null,
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-11-25T13:50:46.376254+00:00",
-      "expires_at": "2026-11-26T10:50:46.376254-03:00",
+      "last_seen": "2026-11-25T14:04:21.900024+00:00",
+      "expires_at": "2026-11-26T11:04:21.900024-03:00",
       "marca": null,
       "price_evidence": {},
-      "grupo": "Casa",
+      "grupo": "Moda",
+      "cupom_no_telegram": true,
+      "cupom_telegram_url": "https://t.me/promoninjaofertas"
+    },
+    {
+      "source_id": "pechinchou-160208",
+      "titulo": "Perfume Dolce & Gabbana The One Masculino 100ml Edp",
+      "de": 879.9,
+      "por": 473.71,
+      "desconto": 46,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/external-image_582opGo.jpg",
+      "link": "https://meli.la/2yXwEXZ",
+      "cupom": "75MAIS1125MELI",
+      "loja": "mercadolivre",
+      "categoria": "Beleza",
+      "data": "2026-11-25T11:04:21.900024-03:00",
+      "slug": "perfume-dolce-gabbana-the-one-masculino-100ml-edp",
+      "page_url": "https://promoninjaofertas.github.io/produto/perfume-dolce-gabbana-the-one-masculino-100ml-edp.html",
+      "avaliacao": null,
+      "avaliacoes": 10,
+      "vendas": null,
+      "nota_qualidade": 6,
+      "last_seen": "2026-11-25T14:04:21.900024+00:00",
+      "expires_at": "2026-11-26T11:04:21.900024-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Moda",
       "cupom_no_telegram": true,
       "cupom_telegram_url": "https://t.me/promoninjaofertas"
     },
@@ -45,13 +71,39 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-11-25T13:50:46.376254+00:00",
-      "expires_at": "2026-11-26T10:50:46.376254-03:00",
+      "last_seen": "2026-11-25T14:04:21.900024+00:00",
+      "expires_at": "2026-11-26T11:04:21.900024-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
       "cupom_no_telegram": false,
       "cupom_telegram_url": null
+    },
+    {
+      "source_id": "pechinchou-160204",
+      "titulo": "Cozinha Modulada Compacta Suspensa 220cm Milano Multimóveis Mp2411",
+      "de": 729.9,
+      "por": 605.0,
+      "desconto": 17,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/D_NQ_NP_979959-MLA112387521931_052026-F_O5Nq5Xa.jpg",
+      "link": "https://meli.la/3389Dmv",
+      "cupom": "MELIAGORA",
+      "loja": "mercadolivre",
+      "categoria": "Casa",
+      "data": "2026-11-25T10:50:46.376254-03:00",
+      "slug": "cozinha-modulada-compacta-suspensa-220cm-milano-multimoveis-mp2411",
+      "page_url": "https://promoninjaofertas.github.io/produto/cozinha-modulada-compacta-suspensa-220cm-milano-multimoveis-mp2411.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": null,
+      "nota_qualidade": 6,
+      "last_seen": "2026-11-25T14:04:21.900024+00:00",
+      "expires_at": "2026-11-26T11:04:21.900024-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Casa",
+      "cupom_no_telegram": true,
+      "cupom_telegram_url": "https://t.me/promoninjaofertas"
     },
     {
       "source_id": "pechinchou-160202",
@@ -71,8 +123,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-11-25T13:50:46.376254+00:00",
-      "expires_at": "2026-11-26T10:50:46.376254-03:00",
+      "last_seen": "2026-11-25T14:04:21.900024+00:00",
+      "expires_at": "2026-11-26T11:04:21.900024-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech",
@@ -97,13 +149,39 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 7,
-      "last_seen": "2026-11-25T13:50:46.376254+00:00",
-      "expires_at": "2026-11-26T10:50:46.376254-03:00",
+      "last_seen": "2026-11-25T14:04:21.900024+00:00",
+      "expires_at": "2026-11-26T11:04:21.900024-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
       "cupom_no_telegram": true,
       "cupom_telegram_url": "https://t.me/promoninjaofertas"
+    },
+    {
+      "source_id": "pechinchou-159219",
+      "titulo": "Tabua De Carne Personalizada",
+      "de": 109.9,
+      "por": 86.0,
+      "desconto": 22,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/1001466208621-147340.jpg",
+      "link": "https://meli.la/18izrBk",
+      "cupom": "CUPOMNOML25",
+      "loja": "mercadolivre",
+      "categoria": "Outros",
+      "data": "2026-11-17T20:29:49.176384-03:00",
+      "slug": "tabua-de-carne-personalizada",
+      "page_url": "https://promoninjaofertas.github.io/produto/tabua-de-carne-personalizada.html",
+      "avaliacao": null,
+      "avaliacoes": null,
+      "vendas": null,
+      "nota_qualidade": 5,
+      "last_seen": "2026-11-25T14:04:21.900024+00:00",
+      "expires_at": "2026-11-26T11:04:21.900024-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Outros",
+      "cupom_no_telegram": false,
+      "cupom_telegram_url": null
     },
     {
       "source_id": "pechinchou-158470",
@@ -123,8 +201,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 7,
-      "last_seen": "2026-11-25T13:50:46.376254+00:00",
-      "expires_at": "2026-11-26T10:50:46.376254-03:00",
+      "last_seen": "2026-11-25T14:04:21.900024+00:00",
+      "expires_at": "2026-11-26T11:04:21.900024-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
@@ -132,30 +210,30 @@
       "cupom_telegram_url": "https://t.me/promoninjaofertas"
     },
     {
-      "source_id": "pechinchou-157080",
-      "titulo": "Secador Modelador Cadence Poderosa, Sec1000, Escova E Cachos, 220 V",
-      "de": 309.9,
-      "por": 255.07,
-      "desconto": 18,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/D_NQ_NP_619738-MLA120310262299_102026-F_dDeb5gK.jpg",
-      "link": "https://meli.la/21e5ti2",
-      "cupom": "MELIAGORA",
+      "source_id": "pechinchou-155880",
+      "titulo": "Óleo Mobil Super Moto 10w30 1l",
+      "de": 59.9,
+      "por": 44.99,
+      "desconto": 25,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/D_NQ_NP_858677-MLA108514351519_032026-F_LS4Snb9.jpg",
+      "link": "https://meli.la/12G8NZz",
+      "cupom": null,
       "loja": "mercadolivre",
-      "categoria": "Beleza",
-      "data": "2026-11-01T11:40:25.095454-03:00",
-      "slug": "secador-modelador-cadence-poderosa-sec1000-escova-e-cachos-220-v",
-      "page_url": "https://promoninjaofertas.github.io/produto/secador-modelador-cadence-poderosa-sec1000-escova-e-cachos-220-v.html",
+      "categoria": "Automotivo",
+      "data": "2026-10-23T09:26:08.118785-03:00",
+      "slug": "oleo-mobil-super-moto-10w30-1l",
+      "page_url": "https://promoninjaofertas.github.io/produto/oleo-mobil-super-moto-10w30-1l.html",
       "avaliacao": null,
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-11-25T13:50:46.376254+00:00",
-      "expires_at": "2026-11-26T10:50:46.376254-03:00",
+      "last_seen": "2026-11-25T14:04:21.900024+00:00",
+      "expires_at": "2026-11-26T11:04:21.900024-03:00",
       "marca": null,
       "price_evidence": {},
-      "grupo": "Moda",
-      "cupom_no_telegram": true,
-      "cupom_telegram_url": "https://t.me/promoninjaofertas"
+      "grupo": "Outros",
+      "cupom_no_telegram": false,
+      "cupom_telegram_url": null
     },
     {
       "source_id": "pechinchou-146261",
@@ -175,37 +253,11 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 7,
-      "last_seen": "2026-11-25T13:50:46.376254+00:00",
-      "expires_at": "2026-11-26T10:50:46.376254-03:00",
+      "last_seen": "2026-11-25T14:04:21.900024+00:00",
+      "expires_at": "2026-11-26T11:04:21.900024-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech",
-      "cupom_no_telegram": true,
-      "cupom_telegram_url": "https://t.me/promoninjaofertas"
-    },
-    {
-      "source_id": "pechinchou-146402",
-      "titulo": "Testo Essencial - Fórmula Exclusiva Com Feno Grego + Boro + Arginina + Zma + Vitamina B6 - 60 Cápsulas",
-      "de": 49.9,
-      "por": 34.14,
-      "desconto": 32,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/external-image_t5Jndip_ljANPCT.jpg",
-      "link": "https://meli.la/251SEbq",
-      "cupom": "CORREQUETEM",
-      "loja": "mercadolivre",
-      "categoria": "Esporte e Lazer",
-      "data": "2026-10-03T13:07:42.538268-03:00",
-      "slug": "testo-essencial-formula-exclusiva-com-feno-grego-boro-arginina-zma-vitamina-b6-60-caps",
-      "page_url": "https://promoninjaofertas.github.io/produto/testo-essencial-formula-exclusiva-com-feno-grego-boro-arginina-zma-vitamina-b6-60-caps.html",
-      "avaliacao": null,
-      "avaliacoes": 3,
-      "vendas": null,
-      "nota_qualidade": 6,
-      "last_seen": "2026-11-25T13:50:46.376254+00:00",
-      "expires_at": "2026-11-26T10:50:46.376254-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Outros",
       "cupom_no_telegram": true,
       "cupom_telegram_url": "https://t.me/promoninjaofertas"
     },
@@ -227,8 +279,8 @@
       "avaliacoes": 3,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-11-25T13:50:46.376254+00:00",
-      "expires_at": "2026-11-26T10:50:46.376254-03:00",
+      "last_seen": "2026-11-25T14:04:21.900024+00:00",
+      "expires_at": "2026-11-26T11:04:21.900024-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -236,25 +288,25 @@
       "cupom_telegram_url": null
     },
     {
-      "source_id": "pechinchou-93497",
-      "titulo": "Perfume Hugo Boss Bottled Night Masculino Eau De Toilette 100ml",
-      "de": 329.9,
-      "por": 271.8,
-      "desconto": 18,
-      "imagem": "https://assets.pechinchou.com.br/media/img/products/D_NQ_NP_836103-MLA84833570173_052025-F.jpg",
-      "link": "https://meli.la/2QtYQiF",
+      "source_id": "pechinchou-149645",
+      "titulo": "Tênis Aramis Deep Ii Branco",
+      "de": 219.0,
+      "por": 197.91,
+      "desconto": 10,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/image-removebg-preview_62_QZ1cF1f.jpg",
+      "link": "https://meli.la/2ZF7XZ9",
       "cupom": "MELIAGORA",
       "loja": "mercadolivre",
       "categoria": "Beleza",
-      "data": "2026-09-15T12:02:40.684327-03:00",
-      "slug": "perfume-hugo-boss-bottled-night-masculino-eau-de-toilette-100ml",
-      "page_url": "https://promoninjaofertas.github.io/produto/perfume-hugo-boss-bottled-night-masculino-eau-de-toilette-100ml.html",
+      "data": "2026-08-13T11:01:22.799369-03:00",
+      "slug": "tenis-aramis-deep-ii-branco",
+      "page_url": "https://promoninjaofertas.github.io/produto/tenis-aramis-deep-ii-branco.html",
       "avaliacao": null,
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-11-25T13:50:46.376254+00:00",
-      "expires_at": "2026-11-26T10:50:46.376254-03:00",
+      "last_seen": "2026-11-25T14:04:21.900024+00:00",
+      "expires_at": "2026-11-26T11:04:21.900024-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
@@ -279,8 +331,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-11-25T13:50:46.376254+00:00",
-      "expires_at": "2026-11-26T10:50:46.376254-03:00",
+      "last_seen": "2026-11-25T14:04:21.900024+00:00",
+      "expires_at": "2026-11-26T11:04:21.900024-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
@@ -293,7 +345,7 @@
       "de": 99.9,
       "por": 78.0,
       "desconto": 22,
-      "imagem": "https://m.media-amazon.com/images/I/51nsmo7pFtL._SL1500_.jpg",
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/51nsmo7pFtL_2LyQjQl._AC_SL1080__1.jpg",
       "link": "https://www.amazon.com.br/dp/B0DC82WBFD?tag=promoninja0b2-20",
       "cupom": null,
       "loja": "amazon",
@@ -305,37 +357,11 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-11-25T13:50:46.376254+00:00",
-      "expires_at": "2026-11-26T10:50:46.376254-03:00",
+      "last_seen": "2026-11-25T14:04:21.900024+00:00",
+      "expires_at": "2026-11-26T11:04:21.900024-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
-    },
-    {
-      "source_id": "pechinchou-148424",
-      "titulo": "Potes Tampa Hermético Porta Alimentos Mantimentos Armário Cozinha (kit 24)",
-      "de": 179.9,
-      "por": 142.49,
-      "desconto": 21,
-      "imagem": "https://m.media-amazon.com/images/I/81Thu-al8UL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0G5YRSFP1?tag=promoninja0b2-20",
-      "cupom": null,
-      "loja": "amazon",
-      "categoria": "Casa",
-      "data": "2026-11-25T10:21:03.204873-03:00",
-      "slug": "potes-tampa-hermetico-porta-alimentos-mantimentos-armario-cozinha-kit-24",
-      "page_url": "https://promoninjaofertas.github.io/produto/potes-tampa-hermetico-porta-alimentos-mantimentos-armario-cozinha-kit-24.html",
-      "avaliacao": null,
-      "avaliacoes": 10,
-      "vendas": null,
-      "nota_qualidade": 5,
-      "last_seen": "2026-11-25T13:50:46.376254+00:00",
-      "expires_at": "2026-11-26T10:50:46.376254-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Casa",
       "cupom_no_telegram": false,
       "cupom_telegram_url": null
     },
@@ -345,7 +371,7 @@
       "de": 359.9,
       "por": 294.5,
       "desconto": 18,
-      "imagem": "https://m.media-amazon.com/images/I/51lEScBIRDL._SL1500_.jpg",
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/external-image_6swqcgc.jpg",
       "link": "https://www.amazon.com.br/dp/B0DLY6SLL2?tag=promoninja0b2-20",
       "cupom": null,
       "loja": "amazon",
@@ -357,8 +383,8 @@
       "avaliacoes": 10,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-11-25T13:50:46.376254+00:00",
-      "expires_at": "2026-11-26T10:50:46.376254-03:00",
+      "last_seen": "2026-11-25T14:04:21.900024+00:00",
+      "expires_at": "2026-11-26T11:04:21.900024-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
@@ -366,28 +392,54 @@
       "cupom_telegram_url": null
     },
     {
-      "source_id": "pechinchou-148912",
-      "titulo": "Tênis New Balance 480 Low Unissex",
-      "de": 309.9,
-      "por": 199.99,
-      "desconto": 35,
-      "imagem": "https://m.media-amazon.com/images/I/613FLM0uBNL._SL1500_.jpg",
-      "link": "https://www.amazon.com.br/dp/B0G731G5GK?tag=promoninja0b2-20",
+      "source_id": "pechinchou-148424",
+      "titulo": "Potes Tampa Hermético Porta Alimentos Mantimentos Armário Cozinha (kit 24)",
+      "de": 179.9,
+      "por": 142.49,
+      "desconto": 21,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/81Thu-al8UL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0G5YRSFP1?tag=promoninja0b2-20",
       "cupom": null,
       "loja": "amazon",
-      "categoria": "Beleza",
-      "data": "2026-11-06T21:23:38.304981-03:00",
-      "slug": "tenis-new-balance-480-low-unissex",
-      "page_url": "https://promoninjaofertas.github.io/produto/tenis-new-balance-480-low-unissex.html",
+      "categoria": "Casa",
+      "data": "2026-11-25T10:21:03.204873-03:00",
+      "slug": "potes-tampa-hermetico-porta-alimentos-mantimentos-armario-cozinha-kit-24",
+      "page_url": "https://promoninjaofertas.github.io/produto/potes-tampa-hermetico-porta-alimentos-mantimentos-armario-cozinha-kit-24.html",
+      "avaliacao": null,
+      "avaliacoes": 10,
+      "vendas": null,
+      "nota_qualidade": 5,
+      "last_seen": "2026-11-25T14:04:21.900024+00:00",
+      "expires_at": "2026-11-26T11:04:21.900024-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Casa",
+      "cupom_no_telegram": false,
+      "cupom_telegram_url": null
+    },
+    {
+      "source_id": "pechinchou-155614",
+      "titulo": "PHILIPS, Caixa de Som Bluetooth Party Speaker, TAX3000M, 450 W de potência máxima, 2 microfones inclusos, 10h de bateria e Luzes LED",
+      "de": 1549.9,
+      "por": 1029.9,
+      "desconto": 34,
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/81BHwbRWuFL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "link": "https://www.amazon.com.br/dp/B0HGZF4XBT?tag=promoninja0b2-20",
+      "cupom": null,
+      "loja": "amazon",
+      "categoria": "Audio",
+      "data": "2026-11-06T20:37:54.997428-03:00",
+      "slug": "philips-caixa-de-som-bluetooth-party-speaker-tax3000m-450-w-de-potencia-maxima-2",
+      "page_url": "https://promoninjaofertas.github.io/produto/philips-caixa-de-som-bluetooth-party-speaker-tax3000m-450-w-de-potencia-maxima-2.html",
       "avaliacao": null,
       "avaliacoes": null,
       "vendas": null,
-      "nota_qualidade": 6,
-      "last_seen": "2026-11-25T13:50:46.376254+00:00",
-      "expires_at": "2026-11-26T10:50:46.376254-03:00",
+      "nota_qualidade": 8,
+      "last_seen": "2026-11-25T14:04:21.900024+00:00",
+      "expires_at": "2026-11-26T11:04:21.900024-03:00",
       "marca": null,
       "price_evidence": {},
-      "grupo": "Moda",
+      "grupo": "Tech",
       "cupom_no_telegram": false,
       "cupom_telegram_url": null
     },
@@ -409,8 +461,8 @@
       "avaliacoes": 2,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-11-25T13:50:46.376254+00:00",
-      "expires_at": "2026-11-26T10:50:46.376254-03:00",
+      "last_seen": "2026-11-25T14:04:21.900024+00:00",
+      "expires_at": "2026-11-26T11:04:21.900024-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -423,7 +475,7 @@
       "de": 269.9,
       "por": 224.0,
       "desconto": 17,
-      "imagem": "https://m.media-amazon.com/images/I/71+KfvG4NtL._SL1500_.jpg",
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/1001712667311-16957_Hu8nCst.jpg",
       "link": "https://www.amazon.com.br/dp/B0G1TS4K54?tag=promoninja0b2-20",
       "cupom": null,
       "loja": "amazon",
@@ -435,8 +487,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-11-25T13:50:46.376254+00:00",
-      "expires_at": "2026-11-26T10:50:46.376254-03:00",
+      "last_seen": "2026-11-25T14:04:21.900024+00:00",
+      "expires_at": "2026-11-26T11:04:21.900024-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Gamer",
@@ -449,7 +501,7 @@
       "de": 209.9,
       "por": 170.94,
       "desconto": 19,
-      "imagem": "https://m.media-amazon.com/images/I/61EW-1ytQ+L._SL1500_.jpg",
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/513o6E8c7xL._AC_SX569_.jpg",
       "link": "https://www.amazon.com.br/dp/B07VL6FQCV?tag=promoninja0b2-20",
       "cupom": null,
       "loja": "amazon",
@@ -461,8 +513,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 5,
-      "last_seen": "2026-11-25T13:50:46.376254+00:00",
-      "expires_at": "2026-11-26T10:50:46.376254-03:00",
+      "last_seen": "2026-11-25T14:04:21.900024+00:00",
+      "expires_at": "2026-11-26T11:04:21.900024-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Moda",
@@ -475,7 +527,7 @@
       "de": 69.9,
       "por": 53.48,
       "desconto": 23,
-      "imagem": "https://m.media-amazon.com/images/I/61VnOacVPpL._SL1500_.jpg",
+      "imagem": "https://assets.pechinchou.com.br/media/img/products/61VnOacVPpL_VYtUOjp._AC_SY300_SX300_QL70_ML2_.jpg",
       "link": "https://www.amazon.com.br/dp/B0DCKCN6L6?tag=promoninja0b2-20",
       "cupom": null,
       "loja": "amazon",
@@ -487,8 +539,8 @@
       "avaliacoes": 4,
       "vendas": null,
       "nota_qualidade": 7,
-      "last_seen": "2026-11-25T13:50:46.376254+00:00",
-      "expires_at": "2026-11-26T10:50:46.376254-03:00",
+      "last_seen": "2026-11-25T14:04:21.900024+00:00",
+      "expires_at": "2026-11-26T11:04:21.900024-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Outros",
@@ -513,8 +565,8 @@
       "avaliacoes": null,
       "vendas": null,
       "nota_qualidade": 6,
-      "last_seen": "2026-11-25T13:50:46.376254+00:00",
-      "expires_at": "2026-11-26T10:50:46.376254-03:00",
+      "last_seen": "2026-11-25T14:04:21.900024+00:00",
+      "expires_at": "2026-11-26T11:04:21.900024-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Casa",
@@ -2244,212 +2296,6 @@
       "cupom_telegram_url": null
     },
     {
-      "source_id": "18597753531",
-      "titulo": "Aspirador de Pó e Água Wap GTW 10 1400W 10 Litros Amarelo/Preto 127V FW005705",
-      "de": null,
-      "por": 262.0,
-      "desconto": 35,
-      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdwc-m0z2bbz1q0sn91",
-      "link": "https://s.shopee.com.br/5VXAOtip2C",
-      "cupom": null,
-      "loja": "shopee",
-      "categoria": "Eletrodomesticos",
-      "data": "2026-09-14T00:08:21.377756-03:00",
-      "slug": "shopee-wap-fw005705-10l-127v-1400w-cor-preto-kit-1",
-      "page_url": "https://promoninjaofertas.github.io/produto/shopee-wap-fw005705-10l-127v-1400w-cor-preto-kit-1.html",
-      "avaliacao": 4.9,
-      "avaliacoes": null,
-      "vendas": 1099,
-      "nota_qualidade": 9,
-      "last_seen": "2026-11-25T10:51:44.007228+00:00",
-      "expires_at": "2026-11-26T07:51:44.007228-03:00",
-      "marca": "WAP",
-      "price_evidence": {
-        "checked_at": "2026-11-25T10:53:58.981599+00:00",
-        "identity": {
-          "brand": "WAP",
-          "model": "fw005705",
-          "family": "eletrodomesticos",
-          "kind": "produto",
-          "variant": "10l|127v|1400w|cor:preto|kit:1",
-          "ambiguous": false,
-          "comparison_key": "wap|fw005705|10l|127v|1400w|cor:preto|kit:1"
-        },
-        "previous_min": 236.0,
-        "observed_min": 236.0,
-        "since": "2026-10-26T11:44:26.514713+00:00",
-        "observations": 125,
-        "days": 31,
-        "history": [
-          {
-            "at": "2026-11-15T04:07:26.420149+00:00",
-            "price": 262.0
-          },
-          {
-            "at": "2026-11-15T10:10:48.713507+00:00",
-            "price": 262.0
-          },
-          {
-            "at": "2026-11-15T16:37:00.701840+00:00",
-            "price": 262.0
-          },
-          {
-            "at": "2026-11-15T22:39:47.344223+00:00",
-            "price": 262.0
-          },
-          {
-            "at": "2026-11-16T05:03:08.276746+00:00",
-            "price": 262.0
-          },
-          {
-            "at": "2026-11-16T11:13:00.692577+00:00",
-            "price": 262.0
-          },
-          {
-            "at": "2026-11-16T17:22:46.992796+00:00",
-            "price": 262.0
-          },
-          {
-            "at": "2026-11-17T02:20:29.183847+00:00",
-            "price": 262.0
-          },
-          {
-            "at": "2026-11-17T08:28:46.032187+00:00",
-            "price": 262.0
-          },
-          {
-            "at": "2026-11-17T14:32:20.428196+00:00",
-            "price": 262.0
-          },
-          {
-            "at": "2026-11-17T20:48:46.182161+00:00",
-            "price": 262.0
-          },
-          {
-            "at": "2026-11-18T02:49:15.293603+00:00",
-            "price": 262.0
-          },
-          {
-            "at": "2026-11-18T08:53:01.139383+00:00",
-            "price": 262.0
-          },
-          {
-            "at": "2026-11-18T14:58:54.469540+00:00",
-            "price": 262.0
-          },
-          {
-            "at": "2026-11-18T21:13:09.174572+00:00",
-            "price": 262.0
-          },
-          {
-            "at": "2026-11-19T03:23:15.284982+00:00",
-            "price": 262.0
-          },
-          {
-            "at": "2026-11-19T09:23:44.187028+00:00",
-            "price": 262.0
-          },
-          {
-            "at": "2026-11-19T15:38:11.328374+00:00",
-            "price": 262.0
-          },
-          {
-            "at": "2026-11-19T21:39:09.285815+00:00",
-            "price": 262.0
-          },
-          {
-            "at": "2026-11-20T03:44:19.093106+00:00",
-            "price": 262.0
-          },
-          {
-            "at": "2026-11-20T09:44:46.052472+00:00",
-            "price": 262.0
-          },
-          {
-            "at": "2026-11-20T15:54:20.303974+00:00",
-            "price": 262.0
-          },
-          {
-            "at": "2026-11-20T21:58:08.830293+00:00",
-            "price": 262.0
-          },
-          {
-            "at": "2026-11-21T03:59:44.090470+00:00",
-            "price": 262.0
-          },
-          {
-            "at": "2026-11-21T10:07:11.587224+00:00",
-            "price": 262.0
-          },
-          {
-            "at": "2026-11-21T16:14:52.698143+00:00",
-            "price": 262.0
-          },
-          {
-            "at": "2026-11-21T22:44:00.740626+00:00",
-            "price": 262.0
-          },
-          {
-            "at": "2026-11-22T04:49:26.163894+00:00",
-            "price": 262.0
-          },
-          {
-            "at": "2026-11-22T10:57:49.806263+00:00",
-            "price": 262.0
-          },
-          {
-            "at": "2026-11-22T17:07:08.190396+00:00",
-            "price": 262.0
-          },
-          {
-            "at": "2026-11-22T23:24:14.678199+00:00",
-            "price": 262.0
-          },
-          {
-            "at": "2026-11-23T05:34:08.182252+00:00",
-            "price": 262.0
-          },
-          {
-            "at": "2026-11-23T11:46:35.323253+00:00",
-            "price": 262.0
-          },
-          {
-            "at": "2026-11-23T17:52:35.105168+00:00",
-            "price": 262.0
-          },
-          {
-            "at": "2026-11-23T23:55:06.751397+00:00",
-            "price": 262.0
-          },
-          {
-            "at": "2026-11-24T05:56:43.336538+00:00",
-            "price": 262.0
-          },
-          {
-            "at": "2026-11-24T12:05:47.121199+00:00",
-            "price": 262.0
-          },
-          {
-            "at": "2026-11-24T18:18:04.873506+00:00",
-            "price": 262.0
-          },
-          {
-            "at": "2026-11-25T00:20:10.016316+00:00",
-            "price": 262.0
-          },
-          {
-            "at": "2026-11-25T06:21:03.109720+00:00",
-            "price": 262.0
-          }
-        ],
-        "advantage": false,
-        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
-      },
-      "grupo": "Casa",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
-    },
-    {
       "source_id": "22894954205",
       "titulo": "Monitor LG Gamer 24\" 100Hz 5ms Full HD - 24MS500-B",
       "de": null,
@@ -2652,6 +2498,212 @@
         "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
       },
       "grupo": "Gamer",
+      "cupom_no_telegram": false,
+      "cupom_telegram_url": null
+    },
+    {
+      "source_id": "18597753531",
+      "titulo": "Aspirador de Pó e Água Wap GTW 10 1400W 10 Litros Amarelo/Preto 127V FW005705",
+      "de": null,
+      "por": 262.0,
+      "desconto": 35,
+      "imagem": "https://cf.shopee.com.br/file/sg-11134201-7rdwc-m0z2bbz1q0sn91",
+      "link": "https://s.shopee.com.br/5VXAOtip2C",
+      "cupom": null,
+      "loja": "shopee",
+      "categoria": "Eletrodomesticos",
+      "data": "2026-09-14T00:08:21.377756-03:00",
+      "slug": "shopee-wap-fw005705-10l-127v-1400w-cor-preto-kit-1",
+      "page_url": "https://promoninjaofertas.github.io/produto/shopee-wap-fw005705-10l-127v-1400w-cor-preto-kit-1.html",
+      "avaliacao": 4.9,
+      "avaliacoes": null,
+      "vendas": 1099,
+      "nota_qualidade": 9,
+      "last_seen": "2026-11-25T10:51:44.007228+00:00",
+      "expires_at": "2026-11-26T07:51:44.007228-03:00",
+      "marca": "WAP",
+      "price_evidence": {
+        "checked_at": "2026-11-25T10:53:58.981599+00:00",
+        "identity": {
+          "brand": "WAP",
+          "model": "fw005705",
+          "family": "eletrodomesticos",
+          "kind": "produto",
+          "variant": "10l|127v|1400w|cor:preto|kit:1",
+          "ambiguous": false,
+          "comparison_key": "wap|fw005705|10l|127v|1400w|cor:preto|kit:1"
+        },
+        "previous_min": 236.0,
+        "observed_min": 236.0,
+        "since": "2026-10-26T11:44:26.514713+00:00",
+        "observations": 125,
+        "days": 31,
+        "history": [
+          {
+            "at": "2026-11-15T04:07:26.420149+00:00",
+            "price": 262.0
+          },
+          {
+            "at": "2026-11-15T10:10:48.713507+00:00",
+            "price": 262.0
+          },
+          {
+            "at": "2026-11-15T16:37:00.701840+00:00",
+            "price": 262.0
+          },
+          {
+            "at": "2026-11-15T22:39:47.344223+00:00",
+            "price": 262.0
+          },
+          {
+            "at": "2026-11-16T05:03:08.276746+00:00",
+            "price": 262.0
+          },
+          {
+            "at": "2026-11-16T11:13:00.692577+00:00",
+            "price": 262.0
+          },
+          {
+            "at": "2026-11-16T17:22:46.992796+00:00",
+            "price": 262.0
+          },
+          {
+            "at": "2026-11-17T02:20:29.183847+00:00",
+            "price": 262.0
+          },
+          {
+            "at": "2026-11-17T08:28:46.032187+00:00",
+            "price": 262.0
+          },
+          {
+            "at": "2026-11-17T14:32:20.428196+00:00",
+            "price": 262.0
+          },
+          {
+            "at": "2026-11-17T20:48:46.182161+00:00",
+            "price": 262.0
+          },
+          {
+            "at": "2026-11-18T02:49:15.293603+00:00",
+            "price": 262.0
+          },
+          {
+            "at": "2026-11-18T08:53:01.139383+00:00",
+            "price": 262.0
+          },
+          {
+            "at": "2026-11-18T14:58:54.469540+00:00",
+            "price": 262.0
+          },
+          {
+            "at": "2026-11-18T21:13:09.174572+00:00",
+            "price": 262.0
+          },
+          {
+            "at": "2026-11-19T03:23:15.284982+00:00",
+            "price": 262.0
+          },
+          {
+            "at": "2026-11-19T09:23:44.187028+00:00",
+            "price": 262.0
+          },
+          {
+            "at": "2026-11-19T15:38:11.328374+00:00",
+            "price": 262.0
+          },
+          {
+            "at": "2026-11-19T21:39:09.285815+00:00",
+            "price": 262.0
+          },
+          {
+            "at": "2026-11-20T03:44:19.093106+00:00",
+            "price": 262.0
+          },
+          {
+            "at": "2026-11-20T09:44:46.052472+00:00",
+            "price": 262.0
+          },
+          {
+            "at": "2026-11-20T15:54:20.303974+00:00",
+            "price": 262.0
+          },
+          {
+            "at": "2026-11-20T21:58:08.830293+00:00",
+            "price": 262.0
+          },
+          {
+            "at": "2026-11-21T03:59:44.090470+00:00",
+            "price": 262.0
+          },
+          {
+            "at": "2026-11-21T10:07:11.587224+00:00",
+            "price": 262.0
+          },
+          {
+            "at": "2026-11-21T16:14:52.698143+00:00",
+            "price": 262.0
+          },
+          {
+            "at": "2026-11-21T22:44:00.740626+00:00",
+            "price": 262.0
+          },
+          {
+            "at": "2026-11-22T04:49:26.163894+00:00",
+            "price": 262.0
+          },
+          {
+            "at": "2026-11-22T10:57:49.806263+00:00",
+            "price": 262.0
+          },
+          {
+            "at": "2026-11-22T17:07:08.190396+00:00",
+            "price": 262.0
+          },
+          {
+            "at": "2026-11-22T23:24:14.678199+00:00",
+            "price": 262.0
+          },
+          {
+            "at": "2026-11-23T05:34:08.182252+00:00",
+            "price": 262.0
+          },
+          {
+            "at": "2026-11-23T11:46:35.323253+00:00",
+            "price": 262.0
+          },
+          {
+            "at": "2026-11-23T17:52:35.105168+00:00",
+            "price": 262.0
+          },
+          {
+            "at": "2026-11-23T23:55:06.751397+00:00",
+            "price": 262.0
+          },
+          {
+            "at": "2026-11-24T05:56:43.336538+00:00",
+            "price": 262.0
+          },
+          {
+            "at": "2026-11-24T12:05:47.121199+00:00",
+            "price": 262.0
+          },
+          {
+            "at": "2026-11-24T18:18:04.873506+00:00",
+            "price": 262.0
+          },
+          {
+            "at": "2026-11-25T00:20:10.016316+00:00",
+            "price": 262.0
+          },
+          {
+            "at": "2026-11-25T06:21:03.109720+00:00",
+            "price": 262.0
+          }
+        ],
+        "advantage": false,
+        "reason": "Preço em acompanhamento; ainda sem vantagem histórica confirmada."
+      },
+      "grupo": "Casa",
       "cupom_no_telegram": false,
       "cupom_telegram_url": null
     },
@@ -3766,11 +3818,11 @@
     {
       "source_id": "1005004090232313",
       "titulo": "ACASIS – Caixa externa para SSD USB C 3.2, compatível com SSD M.2 NVMe, com 12+16 pinos, para Apple Mac/iMac/MacBook, modelos de 2013 a 2017. Caixa de armazenamento portátil.",
-      "de": 295.12,
-      "por": 205.5,
+      "de": 296.5,
+      "por": 206.46,
       "desconto": 30,
       "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sd4e76c13f50840a0b5fbdccfbe9e3ac13.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4kWnecflw6jctc2i4kIYZQjGlDJIXTkvYfL1uUfnHAG0awkpRI9rH1r3q1yknrDDjXekgAOKAwkSxmhLavWd8i0J2s7PLSjrC6uqoUIqixG3DWR1OWAmVvUdBjefXhaQ9PdAwmFK40yESM428FJUCkgc2kv0iJqPQgbkMAKqPyWNgcCIgEiop42la0zPEkJON9TF1Zhq25ntUnZpR4URB4R7ZKLBS39ORSbiSDwmHFE5Lu11p5BheLMQYgmWCf0rsIuoVXNfzJGlnUlTC3XGb1eU8oFgUerPcbrwO4uU5EMjffDH5LEmI6pJ7eXx2Rn7wDHS0UTwe7EbS09An7bF2zhcbvD0llq45CQ3aKJXTNw0RvzlQDrFTqIWlb9tCQmBWa1E8XFeUpRH7rCchbP0GZiESkBa719hxkHCZkUvPd17VtRImHpVsNQhbM9EyPIr7MV7Pw9qaR9n4V01imd7FLX1RKeuiePJ7prCMkJjg5ePINy69WpyS6Cn0aFke6lMBj7dkgyBAN29kdqJ8yHkGdZARmp0cGrBikg5rnK1QiACErPLxAoSM1gpVWJixzdnPWoyjBhWgR5zeV6flpfEAawZkjAreIT7eA8zMIdrJ4DGZ0sSWPTPTs8CwBvKMEkGN8cZRA5RcuKZWMx8YJqxmM1NWhF8M6D25OroYW0ftJ6EhSz5Bcu3GaCAS6O0HlTr2lewC16c1Sc0Ua",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4kWnecflw6jctc2i4kIYZQjGlDJIXTkvYfL1uUfnHAG0awkpRI9rH1r3q1yknrDDjXekgAOKAwkSxmhLavWd8i0J2s7PLSjrC6uqoUIqixG3DWR1OWAmVvUdBjefXhaQ9PdAwmFK40yESM428FJUCkgc2kv0iJqPQgbkMAKqPyWNgcCIgEiop42la0zPEkJON9TF1Zhq25ntUnZpR4URB4R7ZKLBS39ORSbiSDw7YoroRdkaOCRBZOxVkZo1yB1WetwmGkFYYZdbr3nlGNe8Uavj6j4q4eixBHh68SVzltS3YKr4CRyWaczt1CNW2gKv5IDWMqbHrw1EC1gKaaJPXZ6P1yk7SzcJBkhC3uqvTT3AsDkOAhyBzgaEODBILVXF7yAl4OGXNMT9q4WfotJAiEQz7R3NztqXcmDmzC5yD3WurUjU4dslgF9Y33I8M66PzY3yLRrLE8X2FB3Hf27qR2CMRB0BA3lPNTjoQWjWHdGd3EYDEQbL9OErmm7WzRfHhrGgp3Y7wB6u4SpUaN0dVZFdmOZsuEz4zPl73U97ynv5ePfNvyFlO2cvzrFijYwdxu80Qc0um6ELdSBIwDzsnhP7WBzv17P7RgbMvaExTttcpep3j30xFAhfC58ZuAXA32TnwZUIXnZDqYMbDwQljaAInsLdkPpAbjzipYqqWwDS4y5B4AqGcJ3OsT16JqkuS11vWN4NGX3efC",
       "cupom": null,
       "loja": "aliexpress",
       "categoria": "Hardware",
@@ -3781,34 +3833,8 @@
       "avaliacoes": null,
       "vendas": 101,
       "nota_qualidade": 9,
-      "last_seen": "2026-11-25T05:29:02.004242+00:00",
-      "expires_at": "2026-11-26T02:29:02.004242-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Tech",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
-    },
-    {
-      "source_id": "1005011945779550",
-      "titulo": "Tapete de Mouse ASUS Xxl ROG Republic of Gamers Grande para Jogos, Tapete de Borracha Antiderrapante para Mesa de Computador, Tapete para Teclado",
-      "de": 43.82,
-      "por": 33.79,
-      "desconto": 22,
-      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/Sa2825acc549d485abaaa9fd690db1c28p.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4ms8dwj2SL5AB4wuHDGEcfDDvJNTs56JMAHUguEZEDzlazJdvUXMC3IvlEDAgHMGSjjMKaKr9XN01wJQUrst5ZxjvHuslOFeBXuTdL3shXIT1I0fMgGjGYy4TLCb5x27B68zcSUtppejkb1e6E75MGviXhgIp3TJESwChQyMJElWe69UCeD6ckQUMVE9RdfGle9W6GgMvMe7gTiOoXx3YPkqqpxNSrP1kbHDnEB0hHJAb7xa3Jq9UKJM5N4fhOCLiFuNf1afE1f2sNVhW5WPBTjN0Bqd6WWmGQxJICBlFM4VFgS7OzdZGlT6bOEENeK5GRfvpTbxDcoPV1aIOOIbO7hwVPPSDVwnzZ6W6gYb46Tqnech6oQtyZOCW2qnkIfDIQnGpnupxoaIZrRKpVO2EsrwtoMrakwFogIFAIwDF2FvMRGT39QbiIEAET9q2foc6izl5hk7QDuyoi4GciIULnZVeEI8V8zH6vO7T33Z4sI3dlX3CIGZAcmqTkolUnKGlTSK46cGCduiCy0V9s3Zun5upXe7Z7VUiKVwyDBva4eK5KQ6epruzxR7scqzPWtJh4n7resJbJc4JwT4Vr69mfDoCpr6YxLKqawlEdB0klYEgLrvD4Kg8F9NS9eqRnEGdZDkyZWjTDz5HGc5pIWYphcYP1Shpf8Lw3EhBOnGC3qaCsbmKtdTZAgWbym2ceGlHtU8tzk0jQhLgU",
-      "cupom": null,
-      "loja": "aliexpress",
-      "categoria": "Hardware",
-      "data": "2026-11-19T18:25:57.799982-03:00",
-      "slug": "tapete-de-mouse-asus-xxl-rog-republic-of-gamers-grande-para-jogos-tapete-de",
-      "page_url": "https://promoninjaofertas.github.io/produto/tapete-de-mouse-asus-xxl-rog-republic-of-gamers-grande-para-jogos-tapete-de.html",
-      "avaliacao": 4.64,
-      "avaliacoes": null,
-      "vendas": 332,
-      "nota_qualidade": 8,
-      "last_seen": "2026-11-24T14:02:56.295064+00:00",
-      "expires_at": "2026-11-25T11:02:56.295064-03:00",
+      "last_seen": "2026-11-25T14:04:21.900024+00:00",
+      "expires_at": "2026-11-26T11:04:21.900024-03:00",
       "marca": null,
       "price_evidence": {},
       "grupo": "Tech",
@@ -3868,32 +3894,6 @@
       "cupom_telegram_url": null
     },
     {
-      "source_id": "1005008850261694",
-      "titulo": "Relógio HAYLOU 4S GPS Smartwatch com Tela HD AMOLED de 1.43”, Posicionamento GPS por 5 Satélites, 120+ Modos de Treino, Relógio Inteligente para Fitness",
-      "de": 489.54,
-      "por": 259.81,
-      "desconto": 46,
-      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/A920a153ccefb4dc387c2e2910c28c1472.jpg",
-      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4o2cPsrwDxkHvYl7WKnSMo3VNWhVY3wp4okj2FV17b6bUuL4dbaDclBq2wrEEN215ENrL52Fohnb7GhDCAVjBi9JtFs155sV2yqaABgNCmm4EEG3sT8Qz84ZwFX0S72c0sfGpCojnRJra5tI4uh8SICGPrFgqGM61zMC6SoPBU7pvKV6ahPbOUNMUL7C3kCyQ5D5b3vvZUAEqOm3B7gVgWdlDmuskNXWCWyPD3UnCpuCzopUQXcxIddzHJxCg3KPRWvLBQ7g1BrJV3RtJgwk9WOPr8qxuBWqC6jjyC9bklTJcNoEErMHhUpu5iz5V2WtaZ3eg3NYBFSMAeMvRl0yRzn6gY3ZWXX4cqACrOMjm98eS4DkqbM19cPt2eNDgz2XNoqp5xvnRhicSCOO4Z81nA91UUeSMQYjPhCjpKYLfS8V2obmnXbVdSZ0yNixvv9tCssMpvyzBwAZgJkgsTKhgpsYSNSdg58JkZz9RUEgHWvPr9vgfP71OgvyjAG67RD7lpzswZUKIzx29Z6ux0dv3wSnLYgmuXQYbjsgCttRCOZxMqAc8urdfGS4SPY9awEOFAx8rQj4s0lVFfLnWAJyY0dkMkKJ83MwdQpSjcVTrGKcNJhLGzveJWWY7Fn4VLe5Wk7w6u4paz6hiDIsq8UyZIcDzeY5HqdAYz3wcRBVWSdX1xrqf9BJ4Hm5V7T06uqrFXMK169l3vNOeW",
-      "cupom": null,
-      "loja": "aliexpress",
-      "categoria": "Eletrônicos",
-      "data": "2026-11-02T17:44:06.899915-03:00",
-      "slug": "relogio-haylou-4s-gps-smartwatch-com-tela-hd-amoled-de-1-43-posicionamento-gps",
-      "page_url": "https://promoninjaofertas.github.io/produto/relogio-haylou-4s-gps-smartwatch-com-tela-hd-amoled-de-1-43-posicionamento-gps.html",
-      "avaliacao": 4.795,
-      "avaliacoes": null,
-      "vendas": 2603,
-      "nota_qualidade": 8,
-      "last_seen": "2026-11-25T11:23:10.282857+00:00",
-      "expires_at": "2026-11-26T08:23:10.282857-03:00",
-      "marca": null,
-      "price_evidence": {},
-      "grupo": "Tech",
-      "cupom_no_telegram": false,
-      "cupom_telegram_url": null
-    },
-    {
       "source_id": "1005008774483451",
       "titulo": "HAYLOU Solar Ultra GPS Smartwatch 1.6” AMOLED Display 5ATM à prova d'água GPS integrado Bluetooth Chamadas telefônicas Relógio i",
       "de": 987.21,
@@ -3910,6 +3910,32 @@
       "avaliacao": 4.779999999999999,
       "avaliacoes": null,
       "vendas": 1888,
+      "nota_qualidade": 8,
+      "last_seen": "2026-11-25T11:23:10.282857+00:00",
+      "expires_at": "2026-11-26T08:23:10.282857-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Tech",
+      "cupom_no_telegram": false,
+      "cupom_telegram_url": null
+    },
+    {
+      "source_id": "1005008850261694",
+      "titulo": "Relógio HAYLOU 4S GPS Smartwatch com Tela HD AMOLED de 1.43”, Posicionamento GPS por 5 Satélites, 120+ Modos de Treino, Relógio Inteligente para Fitness",
+      "de": 489.54,
+      "por": 259.81,
+      "desconto": 46,
+      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/A920a153ccefb4dc387c2e2910c28c1472.jpg",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4o2cPsrwDxkHvYl7WKnSMo3VNWhVY3wp4okj2FV17b6bUuL4dbaDclBq2wrEEN215ENrL52Fohnb7GhDCAVjBi9JtFs155sV2yqaABgNCmm4EEG3sT8Qz84ZwFX0S72c0sfGpCojnRJra5tI4uh8SICGPrFgqGM61zMC6SoPBU7pvKV6ahPbOUNMUL7C3kCyQ5D5b3vvZUAEqOm3B7gVgWdlDmuskNXWCWyPD3UnCpuCzopUQXcxIddzHJxCg3KPRWvLBQ7g1BrJV3RtJgwk9WOPr8qxuBWqC6jjyC9bklTJcNoEErMHhUpu5iz5V2WtaZ3eg3NYBFSMAeMvRl0yRzn6gY3ZWXX4cqACrOMjm98eS4DkqbM19cPt2eNDgz2XNoqp5xvnRhicSCOO4Z81nA91UUeSMQYjPhCjpKYLfS8V2obmnXbVdSZ0yNixvv9tCssMpvyzBwAZgJkgsTKhgpsYSNSdg58JkZz9RUEgHWvPr9vgfP71OgvyjAG67RD7lpzswZUKIzx29Z6ux0dv3wSnLYgmuXQYbjsgCttRCOZxMqAc8urdfGS4SPY9awEOFAx8rQj4s0lVFfLnWAJyY0dkMkKJ83MwdQpSjcVTrGKcNJhLGzveJWWY7Fn4VLe5Wk7w6u4paz6hiDIsq8UyZIcDzeY5HqdAYz3wcRBVWSdX1xrqf9BJ4Hm5V7T06uqrFXMK169l3vNOeW",
+      "cupom": null,
+      "loja": "aliexpress",
+      "categoria": "Eletrônicos",
+      "data": "2026-11-02T17:44:06.899915-03:00",
+      "slug": "relogio-haylou-4s-gps-smartwatch-com-tela-hd-amoled-de-1-43-posicionamento-gps",
+      "page_url": "https://promoninjaofertas.github.io/produto/relogio-haylou-4s-gps-smartwatch-com-tela-hd-amoled-de-1-43-posicionamento-gps.html",
+      "avaliacao": 4.795,
+      "avaliacoes": null,
+      "vendas": 2603,
       "nota_qualidade": 8,
       "last_seen": "2026-11-25T11:23:10.282857+00:00",
       "expires_at": "2026-11-26T08:23:10.282857-03:00",
@@ -4228,6 +4254,32 @@
       "marca": null,
       "price_evidence": {},
       "grupo": "Gamer",
+      "cupom_no_telegram": false,
+      "cupom_telegram_url": null
+    },
+    {
+      "source_id": "1005006522396736",
+      "titulo": "Hagibis Caixa Magnética para SSD M.2 2230 NVMe, Case USB C 3.2 Gen2 para NVMe PCI-E para iPhone 16 Pro, 17 Pro, Res Magsafe, MacBook",
+      "de": 329.98,
+      "por": 164.99,
+      "desconto": 50,
+      "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S9e1668da2b92468984d5417da0d7ba98f.jpg",
+      "link": "https://s.click.aliexpress.com/s/pyFri10M6ltAv61YZY9TfrxiDaaFXRreuZWJMeLtD8jig1wPxn51K2eq59ds8iT5Wl5L3w5KJyrl7SjOO3B0oJ0Xjwnc7n8AQA7gf5qnT4sCyU05LNms9JvyWQNFHNKtzBcoBpSguMg3UBR1FOODkmGTloXosMhqhnKgzzuJPYPxewVvzupiAiKSJA5SK0iQRxmaQ7UPG0AP2HC7uLitVpvXIfjMl7RnsnN7B8FrGfP9TWP7emQeaXV90Bp9fLEiLeKHsRf9R2jgKD32Axm5na4bRJdkhGVyv3GcDgMjmYrrZWinWctR9gnPwA4EhBqxyR0ZSXnvw1oekcRcvfdpi9HgWgBHbBQSsUXeMcn10B8clNycAoTRYtVjbSMI4wiKwdSBWZlpJNQWP53PS2hTSHxOTSwRRyWHaAsTQVCTiT2d5NXfjcRtdS3gtaKyQndP8k939pLHC1DRX7bCQwc3W19E1OJEu95k0rGMCdWWZMhjUEAYKN4lNxaQkop8D4yr6oJzTm9oHZk5sd0ZX5zmVfA5j2afSHeZWeT9GFGPCUpnDcMd7CJ8koVH8aOc0s1mnfuPuj8QNVeTYK2njUFm3GMbT9BaE27Wmi1k1hDKx6WHA5ZKN5XTOQk7el0SvFoWKSRijX8UtAg6qEqTSUn8f0KNX2MSzXv4pvUiNszEDCbBrLZPjquXpg4YNUG2KclWWLLwe8NXPEQtrS3VIoI0fNdDCavTjUok9HM9mA0rEfFhlapMvyQxCQ0K1uxUOq29MKQsnQ1auMcSCzzIfOT9NiI6dXGaksJ4qj4JAqBXG0KxtSWxILBJNWW4h8iF5Q9T6FHXWUNitvj7iapY1qXz0JMucRaHlNQhH3d3sGCysnvQ5M6T8lH2Dq0w2U5LIkkF99O7WyWab2xLgDfMTjZXoN64p7ZBVMM72TbzxgQR6VvDArVFJ2mteWlOfzV9GeSsjgGI5UWNuQz9WH3ecfN3vbeazidjSxkVFDGgDpl3wIEvoHp3RCbji0YiXfHoaMg0uj2pwIqA",
+      "cupom": null,
+      "loja": "aliexpress",
+      "categoria": "Hardware",
+      "data": "2026-08-03T07:28:23.502430-03:00",
+      "slug": "hagibis-caixa-magnetica-para-ssd-m-2-2230-nvme-case-usb-c-3-2",
+      "page_url": "https://promoninjaofertas.github.io/produto/hagibis-caixa-magnetica-para-ssd-m-2-2230-nvme-case-usb-c-3-2.html",
+      "avaliacao": 4.91,
+      "avaliacoes": null,
+      "vendas": 331,
+      "nota_qualidade": 7,
+      "last_seen": "2026-11-25T14:04:21.900024+00:00",
+      "expires_at": "2026-11-26T11:04:21.900024-03:00",
+      "marca": null,
+      "price_evidence": {},
+      "grupo": "Tech",
       "cupom_no_telegram": false,
       "cupom_telegram_url": null
     },
